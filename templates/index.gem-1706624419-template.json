@@ -1,0 +1,615 @@
+{
+  "sections": {
+    "12775511-6083-46d4-aa47-8b03d4454228": {
+      "type": "section-liquid",
+      "custom_css": [
+        "h1 {text-align: center; margin-top: 10px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h1>WARM BODY COLD MIND<\/h1>"
+      }
+    },
+    "section-slideshow": {
+      "type": "section-slideshow",
+      "blocks": {
+        "9bf15e77-545b-4d61-8855-5dfad503a3f3": {
+          "type": "video",
+          "settings": {
+            "video_link": "",
+            "yt_link": "https:\/\/youtu.be\/eequK5kl4XY",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "<p>Weight lifting gear and clothing<\/p>",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "",
+            "link": "",
+            "link_style_2": "c-btn c-btn--hollow",
+            "link_title_2": "Shop now",
+            "link_2": "shopify:\/\/collections\/accessories"
+          }
+        },
+        "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/new-arrivals-banner1920_1080-2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/new-arrivals-banner900_1465.jpg",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "",
+            "link": "",
+            "link_style_2": "c-btn c-btn--hollow",
+            "link_title_2": "Shop Now",
+            "link_2": "shopify:\/\/collections\/new-arrivals"
+          }
+        },
+        "section-slideshow-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner-2.png",
+            "image_mobile": "shopify:\/\/shop_images\/banner900x1465-2_7994c736-676b-4da5-87ee-938576d6d25f.png",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "",
+            "link": "",
+            "link_style_2": "c-btn c-btn--hollow",
+            "link_title_2": "Shop now",
+            "link_2": "https:\/\/warmbody-coldmind.com\/#shopify-section-template--20972191187254__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f"
+          }
+        },
+        "dfb679ab-d00c-4fbc-af39-386f412074d1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Best_Sellers_Banner_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Best_Sellers_Banner_Mob.jpg",
+            "alignment": "bottom-center",
+            "title": "BEST SELLERS",
+            "text": "<p><strong>GET BEFORE THEY'RE GONE<\/strong><\/p>",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "Shop Now",
+            "link": "shopify:\/\/collections\/accessories",
+            "link_style_2": "c-btn c-btn--hollow",
+            "link_title_2": "",
+            "link_2": "shopify:\/\/collections\/sale"
+          }
+        },
+        "section-slideshow-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d.png",
+            "image_mobile": "shopify:\/\/shop_images\/dd.png",
+            "alignment": "bottom-center",
+            "title": "HELP UKRAINE 🇺🇦",
+            "text": "",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "Shop now",
+            "link": "https:\/\/eu.warmbody-coldmind.com\/blogs\/news\/help-ukraine",
+            "link_style_2": "c-btn c-btn--primary",
+            "link_title_2": "",
+            "link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "9bf15e77-545b-4d61-8855-5dfad503a3f3",
+        "e5c5a46b-3efb-442f-9539-5ea086b271d7",
+        "section-slideshow-0",
+        "dfb679ab-d00c-4fbc-af39-386f412074d1",
+        "section-slideshow-1"
+      ],
+      "custom_css": [
+        "a.c-btn--hollow {background-color: #fff; color: #000; box-shadow: none;}",
+        "a.c-btn--primary,a.c-btn--hollow {padding-right: 70px !important; padding-left: 70px !important; transition: background-color 0.5s ease; transition: color 0.5s ease;}",
+        "a.c-btn--hollow:hover,a.c-btn--hollow:focus {background-color: #000; color: #fff;}",
+        "a.c-btn--hollow:hover,a.c-btn--hollow:focus,a.c-btn--primary:hover,a.c-btn--primary:focus {transition: background-color 0.5s ease; transition: color 0.5s ease;}",
+        "ul {position: static;}"
+      ],
+      "settings": {
+        "title_size": 3,
+        "autoplay": true,
+        "autoplay_speed": 10,
+        "nav_style": "bars",
+        "slideshow_height": "full-screen",
+        "slideshow_width": "full",
+        "text_color": "#ffffff",
+        "text_heading_color": false,
+        "overlay_color": "#000000",
+        "overlay_strength": 10,
+        "section-bottom-margin": false
+      }
+    },
+    "section-collection": {
+      "type": "section-collection",
+      "settings": {
+        "title": "MOST POPULAR",
+        "collection": "most-popular",
+        "section_width": "large",
+        "mobile_layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "1",
+        "rows": 2,
+        "link_title": "View all",
+        "link": ""
+      }
+    },
+    "1ad5b4fe-ad71-4a5b-817c-7f8fb161026f": {
+      "type": "section-collection-list",
+      "blocks": {
+        "template--16580692541694__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f-16667837373c67e55f-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mens",
+            "image": "shopify:\/\/shop_images\/a_2.png"
+          }
+        },
+        "template--16580692541694__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f-16667837373c67e55f-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "womens",
+            "image": "shopify:\/\/shop_images\/e2.png"
+          }
+        },
+        "template--16580692541694__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f-16667837373c67e55f-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accessories",
+            "image": "shopify:\/\/shop_images\/f4a604bf49797acaa330610a1bf8be56.png"
+          }
+        },
+        "ed4df611-2c2f-47e6-b74e-15a092e5fe91": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sale",
+            "image": "shopify:\/\/shop_images\/c_2.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16580692541694__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f-16667837373c67e55f-0",
+        "template--16580692541694__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f-16667837373c67e55f-1",
+        "template--16580692541694__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f-16667837373c67e55f-2",
+        "ed4df611-2c2f-47e6-b74e-15a092e5fe91"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 2,
+        "mobile_layout": "carousel",
+        "link_title": "",
+        "link": "",
+        "overlay_strength": 30,
+        "section-bottom-margin": false
+      }
+    },
+    "071958b5-a1b2-468a-a744-91e32bb955c9": {
+      "type": "section-image-grid",
+      "blocks": {
+        "template--17346847080712__071958b5-a1b2-468a-a744-91e32bb955c9-167482940378e12f26-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo_2020-09-28_14-24-38.jpg",
+            "text_alignment": "bottom",
+            "title": "",
+            "text": "",
+            "link": ""
+          }
+        },
+        "658c133d-9629-4bca-8808-8c55e811d134": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_2021-05-15_13-28-59.png",
+            "text_alignment": "bottom",
+            "title": "Image block",
+            "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery.",
+            "link": ""
+          }
+        },
+        "template--17346847080712__071958b5-a1b2-468a-a744-91e32bb955c9-167482940378e12f26-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/324234234232.jpg",
+            "text_alignment": "bottom",
+            "title": "Image block",
+            "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery.",
+            "link": ""
+          }
+        },
+        "13ad1f02-6ee0-4ef1-b512-c78a5de908a2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-2a.jpg",
+            "text_alignment": "bottom",
+            "title": "Image block",
+            "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery.",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847080712__071958b5-a1b2-468a-a744-91e32bb955c9-167482940378e12f26-0",
+        "658c133d-9629-4bca-8808-8c55e811d134",
+        "template--17346847080712__071958b5-a1b2-468a-a744-91e32bb955c9-167482940378e12f26-3",
+        "13ad1f02-6ee0-4ef1-b512-c78a5de908a2"
+      ],
+      "disabled": true,
+      "settings": {
+        "featured": true,
+        "height": "medium",
+        "width": "full",
+        "button_style": "hollow",
+        "overlay_strength": 10,
+        "section-bottom-margin": false
+      }
+    },
+    "350c3c1a-d687-4b1a-8d36-061be084021e": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Men's collection",
+        "collection": "mens-t-shirts",
+        "section_width": "large",
+        "mobile_layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "1",
+        "rows": 2,
+        "link_title": "View all",
+        "link": "shopify:\/\/collections\/mens"
+      }
+    },
+    "db450091-482b-412b-a586-8158ab433ab8": {
+      "type": "section-image-grid",
+      "blocks": {
+        "template--17346847080712__db450091-482b-412b-a586-8158ab433ab8-167482940378e12f26-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo_2020-09-28_14-26-38.jpg",
+            "text_alignment": "bottom",
+            "title": "",
+            "text": "",
+            "link": ""
+          }
+        },
+        "template--17346847080712__db450091-482b-412b-a586-8158ab433ab8-167482940378e12f26-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/26757_2.jpg",
+            "text_alignment": "bottom",
+            "title": "Image block",
+            "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery.",
+            "link": ""
+          }
+        },
+        "0f1d7b2d-6b67-4191-8fa0-35a5b0bb3259": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_2021-05-15_13-29-03.png",
+            "text_alignment": "bottom",
+            "title": "Image block",
+            "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery.",
+            "link": ""
+          }
+        },
+        "d5cb4eb1-b9f6-4eb1-876b-c639f7fe3b55": {
+          "type": "image",
+          "settings": {
+            "text_alignment": "bottom",
+            "title": "Image block",
+            "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery.",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847080712__db450091-482b-412b-a586-8158ab433ab8-167482940378e12f26-0",
+        "template--17346847080712__db450091-482b-412b-a586-8158ab433ab8-167482940378e12f26-3",
+        "0f1d7b2d-6b67-4191-8fa0-35a5b0bb3259",
+        "d5cb4eb1-b9f6-4eb1-876b-c639f7fe3b55"
+      ],
+      "disabled": true,
+      "settings": {
+        "featured": true,
+        "height": "medium",
+        "width": "full",
+        "button_style": "hollow",
+        "overlay_strength": 10,
+        "section-bottom-margin": false
+      }
+    },
+    "803888ed-0431-49b7-b3c1-1974ba91ab93": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Women's collection",
+        "collection": "womens-t-shirts",
+        "section_width": "large",
+        "mobile_layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "rows": 2,
+        "link_title": "View all",
+        "link": "shopify:\/\/collections\/womens"
+      }
+    },
+    "7fde9218-347e-4759-8414-d9816462cbc3": {
+      "type": "section-image-text-banner",
+      "blocks": {
+        "template--16580692541694__7fde9218-347e-4759-8414-d9816462cbc3-1666783737286ed4d1-0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Philosophy of \"WARM BODY COLD MIND\" is the balance between body and mind. It's not only for the gym... it’s a Lifestyle ... it’s a Movement.<\/p>",
+            "text_size": 6,
+            "text_width": 65,
+            "text_size_mobile": 3,
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16580692541694__7fde9218-347e-4759-8414-d9816462cbc3-1666783737286ed4d1-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "medium",
+        "section_height_mobile": "medium",
+        "section_width": "full",
+        "content_alignment": "center",
+        "content_color": "#ffffff",
+        "content_heading_color": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "overlay_color": "#000000",
+        "overlay_strength": 60,
+        "section-bottom-margin": false
+      }
+    },
+    "1676568335448dc1c1": {
+      "type": "apps",
+      "blocks": {
+        "a1e174a7-cc5e-4314-bd38-7063883f8446": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "a1e174a7-cc5e-4314-bd38-7063883f8446"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "c2ff1ced-4b07-4faf-ab82-d23e74e14894": {
+      "type": "section-rich-text",
+      "custom_css": [
+        ".section__title {margin-bottom: 0 !important;}",
+        "section {margin-bottom: 30px !important;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_title": "OUR CUSTOMERS",
+        "text": "",
+        "section-bottom-margin": false
+      }
+    },
+    "05f18e83-37d6-41e0-acf5-1f71d7afffff": {
+      "type": "section-liquid",
+      "custom_css": [
+        ".slick-inst-slider {max-width: 1600px !important; display: flex; align-items: center; justify-content: center; padding: 0 30px; margin: 0 auto 40px;}",
+        ".slick-inst-slider img {width: auto; height: 400px;}",
+        ".slick-slide {display: flex; flex-direction: column; justify-content: center; align-items: center;}",
+        ".slick-inst-slider .slick-arrow {position: relative;}",
+        ".slick-next:before,.slick-prev:before {color: #747474;}",
+        ".slick-inst-slider .slick-prev {left: -10px;}",
+        ".slick-inst-slider .slick-next {right: -10px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"slick-inst-slider\">\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/yusuf.fehmi.genc_instagram.jpg?v=1702390047\">\n    <a href=\"https:\/\/www.instagram.com\/yusuf.fehmi.genc\/\" target=\"_blank\">@yusuf.fehmi.genc<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/akbar_djuraev_instagram.jpg?v=1702390046\">\n    <a href=\"https:\/\/www.instagram.com\/akbar__djuraev\/\" target=\"_blank\">@akbar__djuraev<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/tenishia.thornton_instagram.jpg?v=1700327314\">\n    <a href=\"https:\/\/www.instagram.com\/tenishia.thornton\/\" target=\"_blank\">@tenishia.thornton<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/akbar__djuraev_instagram.jpg?v=1700327313\">\n    <a href=\"https:\/\/www.instagram.com\/akbar__djuraev\/\" target=\"_blank\">@akbar__djuraev<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/atenery53_instagram-2.jpg?v=1700327313\">\n    <a href=\"https:\/\/www.instagram.com\/atenery53\/\" target=\"_blank\">@atenery53<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/athlefiit_instagram.jpg?v=1700234513\">\n    <a href=\"https:\/\/www.instagram.com\/athlefiit\/\" target=\"_blank\">@athlefiit<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/tenishia.thornton_instagram-2.jpg?v=1700327313\">\n    <a href=\"https:\/\/www.instagram.com\/tenishia.thornton\/\" target=\"_blank\">@tenishia.thornton<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/atenery53_instagram.jpg?v=1700327313\">\n    <a href=\"https:\/\/www.instagram.com\/atenery53\/\" target=\"_blank\">@atenery53<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/hannah_crymble_instagram.jpg?v=1700327313\">\n    <a href=\"https:\/\/www.instagram.com\/hannah_crymble\/\" target=\"_blank\">@hannah_crymble<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/baarrryyyy__instagram.jpg?v=1700327313\">\n    <a href=\"https:\/\/www.instagram.com\/baarrryyyy_\/\" target=\"_blank\">@baarrryyyy_<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/garotamonstro_cf__instagram.jpg?v=1700327313\">\n    <a href=\"https:\/\/www.instagram.com\/garotamonstro_cf_\/\" target=\"_blank\">@garotamonstro_cf_<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/stanislav.zdrobylko_instagram.jpg?v=1700327314\">\n    <a href=\"https:\/\/www.instagram.com\/stanislav.zdrobylko\/\" target=\"_blank\">@stanislav.zdrobylko<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/sergio_massidda_instagram.jpg?v=1700327313\">\n    <a href=\"https:\/\/www.instagram.com\/sergio_massidda\/\" target=\"_blank\">@sergio_massidda<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/martinezoscarreyes_instagram.jpg?v=1700234514\">\n    <a href=\"https:\/\/www.instagram.com\/martinezoscarreyes\/\" target=\"_blank\">@martinezoscarreyes<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/Garik_Karapetyan_instagram.jpg?v=1700234513\">\n    <a href=\"https:\/\/www.instagram.com\/garikkarapetyan666\/\" target=\"_blank\">@garikkarapetyan666<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/rebecca_rouse_instagram.jpg?v=1700234513\">\n    <a href=\"https:\/\/www.instagram.com\/rebecca.rouse\/\" target=\"_blank\">@rebecca.rouse<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/janakesvatera_instagram.jpg?v=1700234513\">\n    <a href=\"https:\/\/www.instagram.com\/janakesvatera\/\" target=\"_blank\">@janakesvatera<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/woman_on_a_mish_instagram.jpg?v=1700234513\">\n    <a href=\"https:\/\/www.instagram.com\/woman_on_a_mish\/\" target=\"_blank\">@woman_on_a_mish<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/rfdphysics_instagram.jpg?v=1700234513\">\n   <a href=\"https:\/\/www.instagram.com\/rfdphysics\/\" target=\"_blank\">@rfdphysics<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/bart.uls_instagram.jpg?v=1700234513\">\n   <a href=\"https:\/\/www.instagram.com\/bart.uls\/\" target=\"_blank\">@bart.uls<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/rfdphysics_instagram_1.jpg?v=1702390047\">\n    <a href=\"https:\/\/www.instagram.com\/rfdphysics\/\" target=\"_blank\">@rfdphysics<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/titouan_verloes_instagram.jpg?v=1702390047\">\n    <a href=\"https:\/\/www.instagram.com\/titouan_verloes\/\" target=\"_blank\">@titouan_verloes<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/ivanmyskovets_instagram.jpg?v=1702390048\">\n    <a href=\"https:\/\/www.instagram.com\/ivanmyskovets\/\" target=\"_blank\">@ivanmyskovets<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/issiagrait_instagram.jpg?v=1702390047\">\n    <a href=\"https:\/\/www.instagram.com\/issiagrait\/\" target=\"_blank\">@issiagrait<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/ale.elestagionipassano_instagram.jpg?v=1702390046\">\n    <a href=\"https:\/\/www.instagram.com\/ale.elestagionipassano\/\" target=\"_blank\">@ale.elestagionipassano<\/a>\n    <\/div>\n    <div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0061\/2142\/2937\/files\/ah.alnahdi__instagram.jpg?v=1702390047\">\n    <a href=\"https:\/\/www.instagram.com\/ah.alnahdi_\/\" target=\"_blank\">@ah.alnahdi_<\/a>\n    <\/div>\n<\/div>\n    \n    <script>\n    $('.slick-inst-slider').slick({\n      dots: true,\n      arrows: true,\n      infinite: false,\n      speed: 300,\n      slidesToShow: 5,\n      slidesToScroll: 5,\n      responsive: [\n        {\n          breakpoint: 1024,\n          settings: {\n            slidesToShow: 3,\n            slidesToScroll: 3,\n            dots: true\n          }\n        },\n        {\n          breakpoint: 600,\n          settings: {\n            dots: false,\n            slidesToShow: 2,\n            slidesToScroll: 2\n          }\n        },\n        {\n          breakpoint: 480,\n          settings: {\n            dots: false,\n            slidesToShow: 1,\n            slidesToScroll: 1\n          }\n        }\n      ]\n    });\n    <\/script>"
+      }
+    },
+    "17b85188-234e-4bc1-ab6c-0a2df65a983a": {
+      "type": "section-rich-text",
+      "custom_css": [
+        "ol {text-align: start;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_title": "",
+        "text": "<p>📸 <strong>Share & Save<\/strong>: Get a <strong>20% discount code<\/strong> by posting a photo with our product and tagging our <a href=\"https:\/\/www.instagram.com\/warmbody_coldmind\/?utm_source=site&utm_medium=20%25&utm_id=insttag\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/warmbody_coldmind\/?utm_source=site&utm_medium=20%25&utm_id=insttag\"><span style=\"text-decoration:underline\">account on Instagram<\/span><\/a><strong>!<\/strong> Here’s how:<br\/><\/p><ol><li>Share a post or story featuring our product.<\/li><li>Tag our account on Instagram: <a href=\"https:\/\/www.instagram.com\/warmbody_coldmind\/?utm_source=site&utm_medium=20%25&utm_id=insttag\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/warmbody_coldmind\/?utm_source=site&utm_medium=20%25&utm_id=insttag\"><span style=\"text-decoration:underline\">@warmbody_coldmind<\/span><\/a><\/li><li>Once it’s up, we’ll send you a 20% discount code<\/li><\/ol>",
+        "section-bottom-margin": false
+      }
+    },
+    "90193423-5ce1-4ded-9d1f-d98f7891a813": {
+      "type": "section-blog",
+      "disabled": true,
+      "settings": {
+        "title": "BLOG",
+        "blog": "news",
+        "post_limit": 3,
+        "grid": 3,
+        "section_width": "large",
+        "divider": true,
+        "link_title": "View all",
+        "link": "shopify:\/\/blogs\/news",
+        "blog_image_ratio": "1:1",
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_read_more": true
+      }
+    },
+    "c50bbdd7-e6b3-4ebc-86e3-f157992a4c21": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--20972191187254__c50bbdd7-e6b3-4ebc-86e3-f157992a4c21-text-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WBCM-Nylon-VS-Leather-Lifting-Belt.webp",
+            "title": "Ultimate Nylon VS Leather Lifting Belt Guide",
+            "sub_title": "",
+            "desc": "<p>Weightlifting belts provide support to your core and lower back using intra-abdominal...<\/p>",
+            "link_title": "Read more",
+            "link": "https:\/\/blog.warmbody-coldmind.com\/guides\/nylon-vs-leather-lifting-belt\/"
+          }
+        },
+        "template--20972191187254__c50bbdd7-e6b3-4ebc-86e3-f157992a4c21-text-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_Best_Lifting_Chalks_in_2023.jpg",
+            "title": "8 Best Lifting Chalks in 2023",
+            "sub_title": "",
+            "desc": "<p>If you make the right choice and choose lifting chalk correctly, it will make a world of difference...<\/p>",
+            "link_title": "Read more",
+            "link": "https:\/\/blog.warmbody-coldmind.com\/reviews\/best-lifting-chalk\/"
+          }
+        },
+        "template--20972191187254__c50bbdd7-e6b3-4ebc-86e3-f157992a4c21-text-3": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weightlifting-straps-vs-lifting-hooks.jpg",
+            "title": "Lifting Hooks vs Straps – What’s Best For You?",
+            "sub_title": "",
+            "desc": "<p>So many accessories make their way into weightlifters’ hands, it’s hard to keep track...<\/p>",
+            "link_title": "Read more",
+            "link": "https:\/\/blog.warmbody-coldmind.com\/guides\/lifting-hooks-vs-straps\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--20972191187254__c50bbdd7-e6b3-4ebc-86e3-f157992a4c21-text-1",
+        "template--20972191187254__c50bbdd7-e6b3-4ebc-86e3-f157992a4c21-text-2",
+        "template--20972191187254__c50bbdd7-e6b3-4ebc-86e3-f157992a4c21-text-3"
+      ],
+      "custom_css": [
+        ".multi-column__title {min-height: 67px;}",
+        ".multi-column__media {margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "title": "BLOG",
+        "container": "large",
+        "link_title": "View all",
+        "link": "https:\/\/blog.warmbody-coldmind.com\/",
+        "divider": false,
+        "section-bottom-margin": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "4:3",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "deed0c7d-a6b2-434e-8882-2a7cba84c982": {
+      "type": "section-map",
+      "blocks": {
+        "template--16580692541694__deed0c7d-a6b2-434e-8882-2a7cba84c982-16667837825ddf24c3-0": {
+          "type": "map",
+          "settings": {
+            "title": "Map",
+            "desc": "<p>273 Street Lane<br\/>San Francisco, CA 94102<br\/>(415) 557-4400<br\/>store@email.com<\/p>",
+            "sub_desc": "<p>Monday - Thursday, 12:00 to 23:00<br\/>Friday &amp; Saturday, 12:00 to 00:00<br\/>Sunday, Closed<\/p>",
+            "address": "100 Larkin St, San Francisco, CA 94102, USA"
+          }
+        }
+      },
+      "block_order": [
+        "template--16580692541694__deed0c7d-a6b2-434e-8882-2a7cba84c982-16667837825ddf24c3-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_directions_btn": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "dark",
+        "text_heading_color": false,
+        "map_width": "full",
+        "section-bottom-margin": false,
+        "google_api_key": "",
+        "map_style": "light"
+      }
+    },
+    "7fd3e7a9-0505-4356-84a7-97c6dc3899e0": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--17346847080712__7fd3e7a9-0505-4356-84a7-97c6dc3899e0-1689608030959a5472-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMAGE_2023-07-17_18_29_03.jpg",
+            "title": "ABOUT",
+            "desc": "<p>At Warm Body-Cold Mind, our passionate team is dedicated to providing top-quality sports accessories and training gear for weightlifting enthusiasts. Led by Oleksiy, the true inspiration and creator of our brand, we are committed to empowering you on your fitness journey.<br\/><\/p><p>With our expertise in weightlifting and product development, we strive to deliver innovative and high-performance gear that enhances your training experience.<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847080712__7fd3e7a9-0505-4356-84a7-97c6dc3899e0-1689608030959a5472-0"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1\/2",
+        "block_align": "left",
+        "vertical_align": "top",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "168961141231e79ba1": {
+      "type": "apps",
+      "blocks": {
+        "f6f25d43-9469-4e29-9b0c-09bd6cb34283": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "f6f25d43-9469-4e29-9b0c-09bd6cb34283"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "12775511-6083-46d4-aa47-8b03d4454228",
+    "section-slideshow",
+    "section-collection",
+    "1ad5b4fe-ad71-4a5b-817c-7f8fb161026f",
+    "071958b5-a1b2-468a-a744-91e32bb955c9",
+    "350c3c1a-d687-4b1a-8d36-061be084021e",
+    "db450091-482b-412b-a586-8158ab433ab8",
+    "803888ed-0431-49b7-b3c1-1974ba91ab93",
+    "7fde9218-347e-4759-8414-d9816462cbc3",
+    "1676568335448dc1c1",
+    "c2ff1ced-4b07-4faf-ab82-d23e74e14894",
+    "05f18e83-37d6-41e0-acf5-1f71d7afffff",
+    "17b85188-234e-4bc1-ab6c-0a2df65a983a",
+    "90193423-5ce1-4ded-9d1f-d98f7891a813",
+    "c50bbdd7-e6b3-4ebc-86e3-f157992a4c21",
+    "deed0c7d-a6b2-434e-8882-2a7cba84c982",
+    "7fd3e7a9-0505-4356-84a7-97c6dc3899e0",
+    "168961141231e79ba1"
+  ]
+}
