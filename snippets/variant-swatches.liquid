@@ -1,0 +1,96 @@
+{% comment %}
+    Renders variant swatches
+
+    Accepts:
+    - option: {Object} Product_option Liquid object
+    - section_id: {String} Section id
+    - form_id: {String} Unique form id (optional)
+
+    Usage:
+    {% render 'variant-swatches', id: product_form_id, option: option, section_id: section.id %}
+{% endcomment %}
+
+{%- liquid
+  comment
+    Process colors
+  endcomment
+  assign variant_colors_raw = settings.swatches_colors_override | newline_to_br | strip_newlines | split: '<br />'
+  assign variant_color_names = '' | split: ','
+  assign variant_colors = '' | split: ','
+  for variant_color_raw in variant_colors_raw
+    assign variant_color = variant_color_raw | split: ':' | last | strip
+    if variant_color != ''
+      assign variant_color = variant_color | split: ':'
+      assign variant_colors = variant_colors | concat: variant_color
+      assign variant_color_name = variant_color_raw | split: ':' | first | strip | downcase | split: ':'
+      assign variant_color_names = variant_color_names | concat: variant_color_name
+    endif
+  endfor
+
+  comment
+    Process images
+  endcomment
+  assign variant_images_raw = settings.swatches_images_override | newline_to_br | strip_newlines | split: '<br />'
+  assign variant_image_names = '' | split: ','
+  assign variant_images = '' | split: ','
+  for variant_image_raw in variant_images_raw
+    assign variant_image = variant_image_raw | split: ':' | last | strip
+    if variant_image != ''
+      assign variant_image = variant_image | split: ':'
+      assign variant_images = variant_images | concat: variant_image
+      assign variant_image_name = variant_image_raw | split: ':' | first | strip | downcase | split: ':'
+      assign variant_image_names = variant_image_names | concat: variant_image_name
+    endif
+  endfor
+
+  assign variant_names = variant_color_names | concat: variant_image_names
+-%}
+<variant-swatches>
+  <fieldset class="product-form__swatch">
+    <legend class="product-form__swatch__title u-small">{{ option.name }}: <span class="product-form__swatch__sub-title js-option-title">{{ option.selected_value | downcase }}</span></legend>
+    {%- for value in option.values -%}
+      {%- liquid
+        assign v = value | strip | downcase
+        assign is_white = false
+        assign graphic = ''
+        assign graphic_is_image = false
+        for variant_name in variant_names
+          if variant_name == v
+            if forloop.index0 < variant_color_names.size
+              assign graphic = variant_colors[forloop.index0]
+              assign graphic_is_image = false
+            else
+              assign index = forloop.index0 | minus: variant_color_names.size
+              assign graphic = variant_images[index]
+              assign graphic_is_image = true
+            endif
+            break
+          endif
+        endfor
+
+        if graphic == blank
+          assign graphic = value | downcase | replace: ' ', ''
+        endif
+        if graphic == 'white' or graphic == '#fff' or graphic == '#ffffff'
+          assign is_white = true
+        endif
+      -%}
+
+      <span class="product-form__swatch__item product-form__swatch__item--color{% if settings.use_emphasized_borders %} product-form__swatch__item--emphasize{% endif %} product-form__swatch__item--{% if settings.use_square_swatch %}square{% else %}circle{% endif %}">
+        <input type="radio" id="{{ section_id }}-{{ option.position }}-{{ forloop.index0 }}"
+              name="{{ option.name }}"
+              value="{{ value | escape }}"
+              form="{{ form_id }}"
+              class="product-form__swatch__input u-hidden-visually"
+              aria-label="{{ value }} {{ option.name }}"
+              {% if option.selected_value == value %}checked{% endif %}
+        >
+        <label for="{{ section_id }}-{{ option.position }}-{{ forloop.index0 }}" class="product-form__swatch__label">
+          <span class="product-form__swatch__label__graphic{% if is_white %} product-form__swatch__label__graphic--white{% endif %}" style="--background-graphic: {% if graphic_is_image %}url({{ graphic | file_img_url: '68x' }}){% else %}{{ graphic }}{% endif %}">
+            {{- value -}}
+          </span>
+        </label>
+      </span>
+    {%- endfor -%}
+  </fieldset>
+</variant-swatches>

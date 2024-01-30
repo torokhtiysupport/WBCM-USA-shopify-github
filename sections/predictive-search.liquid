@@ -1,0 +1,79 @@
+{%- if predictive_search.performed -%}
+  <div id="predictive-search-results">
+    {%- if predictive_search.resources.products.size > 0 -%}
+
+      <h3 id="predictive-search-products" class="predictive-search__heading h4">
+        {{ 'general.search.drawer_products_title' | t }}
+      </h3>
+
+      <ul id="predictive-search-results-list" class="predictive-search__results-list o-list-bare" role="listbox" aria-labelledby="predictive-search-products">
+        {%- for product in predictive_search.resources.products -%}
+          <li class="predictive-search__list-item" role="option">
+            <a href="{{ product.url }}" class="predictive-search__item" tabindex="-1">
+
+              <div class="o-ratio o-ratio--bg-product">
+                {%- if product.featured_media != blank -%}
+                  {%- liquid
+                    assign image_width = 50
+                    assign image_height = 50 | divided_by: product.featured_media.preview_image.aspect_ratio | round
+                    assign image_alt = product.featured_media.alt | escape
+                  -%}
+                  <img
+                    class="predictive-search__image o-ratio__content"
+                    src="{{ product.featured_media | image_url: width: 150 }}"
+                    alt="{{ image_alt }}"
+                    width="{{ image_width }}"
+                    height="{{ image_height }}"
+                    loading="lazy"
+                  >
+                {%- else -%}
+                  {%- liquid
+                    assign image_width = 50
+                    assign image_height = 50
+                    assign image_alt = "Placeholder image"
+                  -%}
+                  <img
+                    class="o-ratio__content"
+                    src="{{ 'placeholder.png' | asset_img_url: '150x' }}"
+                    alt="{{ image_alt }}"
+                    width="{{ image_width }}"
+                    height="{{ image_height }}"
+                    loading="lazy"
+                  >
+                {%- endif -%}
+
+                {%- liquid
+                  assign alt = 'general.media.loading_image' | t: alt: image_alt
+                -%}
+                {% render 'image-skeleton',
+                  alt: alt,
+                  width: image_width,
+                  height: image_height
+                %}
+              </div>
+
+              <div class="predictive-search__item-content">
+                <span class="predictive-search__item-heading">{{ product.title }}</span>
+                <span class="predictive-search__item-price">{% render 'product-price', product: product, component: 'predictive-search', from_price: true %}</span>
+              </div>
+            </a>
+          </li>
+        {%- endfor -%}
+      </ul>
+
+      <button class="c-btn c-btn--primary predictive-search__btn" tabindex="-1">
+        {{ 'general.search.drawer_all_results' | t }}
+      </button>
+
+    {%- else -%}
+      <p class="predictive-search__heading predictive-search__empty-heading u-text-center">{{ 'general.search.drawer_no_results' | t: terms: predictive_search.terms }}</p>
+
+
+
+      <button class="c-btn c-btn--primary c-btn--wide predictive-search-empty__btn" tabindex="-1">
+        {{ 'general.search.drawer_search_for' | t: terms: predictive_search.terms }}
+      </button>
+    {%- endif -%}
+
+  </div>
+{%- endif -%}
