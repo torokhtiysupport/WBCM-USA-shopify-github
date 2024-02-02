@@ -1,1 +1,360 @@
-{"sections":{"1700668773ff01bfe3":{"type":"apps","blocks":{"42221e8d-866a-46c1-bb01-f7e390b37c62":{"type":"shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef","settings":{"home":"Home","home_link":"\/","menu":"main-menu","separator":"›","bb_show_hide":true,"unclickable":false,"bb_show_more":true,"enable_custom_feature":true,"bb_capitalize":false,"bb_font_size":13,"bb_padding":0,"bb_top_padding":20,"bb_margin":0,"bb_align":"left","bb_color":"#2a2a2a","truncator":20}}},"block_order":["42221e8d-866a-46c1-bb01-f7e390b37c62"],"settings":{"include_margins":true}},"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"title_size":3,"title_size_mobile":3}},"b5fe1f14-138e-4f5c-b661-8866d61a0490":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}},"price":{"type":"price","settings":{"price_label_discount":true,"price_label_discount_type":"text","price_label_discount_color":"#c00000"}},"db48bf56-e904-4604-9f21-89d04e9bf249":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"variant_picker":{"type":"variant_picker","settings":{"product_variant_style":"swatches","popup_enable":false,"popup_trigger":"Size\nGröße\nTaille\nTaglia\nTalla","popup_label":"Size guide","popup_content":""}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"enable_payment_button":true}},"db48bf56-e904-4604-9f21-89d04e9bf241":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"description":{"type":"description","settings":{}}},"block_order":["title","b5fe1f14-138e-4f5c-b661-8866d61a0490","price","db48bf56-e904-4604-9f21-89d04e9bf249","variant_picker","quantity_selector","buy_buttons","db48bf56-e904-4604-9f21-89d04e9bf241","description"],"settings":{"container":"large","show_breadcrumbs":true,"enable_zoom":true,"enable_video_looping":false,"product_image_ratio":"1:1","enable_product_image_rounded_corners":false,"thumbnails_position":"bottom","thumbnails_ratio":"1:1","thumbnails_show_border":false}},"fab6a9b6-613d-487e-a95e-9dcb54926f1c":{"type":"product_accordion","blocks":{"template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-1":{"type":"article","settings":{"title":"Specs","text":"<ul><li>Dimensions: S (28\"-35\"), M (30\"-37\"), L (31\"-41\"), XL (35\"-45\"), XXL (38\"-48\"), XXXL (41\"-52\")<\/li><li>Material: genuine A-grade leather<\/li><li>Thickness: 6 mm<\/li><li>Width: 4\" (10 cm)<\/li><\/ul>"}},"template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-2":{"type":"article","settings":{"title":"Intended Use","text":"<p>Ideal for both everyday gym goers and professional Oly lifters, powerlifters, bodybuilders, cross-trainers, and general fitness attenders.<\/p>"}},"template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-3":{"type":"article","settings":{"title":"Warranty","text":"<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"}},"template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-4":{"type":"article","settings":{"title":"Care","text":"<p>To clean and maintain a weightlifting belt, just wipe it down with a damp cloth after each use to remove sweat and dirt. You can also apply a leather conditioner for leather belts to maintain its flexibility and prevent cracking.<\/p>"}}},"block_order":["template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-1","template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-2","template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-3","template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-4"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"7266bf5e-5752-4aac-a17b-c0f6ff20f381":{"type":"section-image-with-text","blocks":{"template--17877575270664__7266bf5e-5752-4aac-a17b-c0f6ff20f381-1688993923cc7d1bb8-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/02a_f2566c72-e65a-4bfa-aa95-0a9bfbb83b45.jpg","title":"","desc":"<p><strong>Heavy-Duty:<br\/><\/strong>The Double Roller Stainless Steel Buckle with 4 Strengthened Bol.<br\/><strong>Top Quality:<\/strong><br\/>Genuine A-Grade Leather with 6mm Thickness Maximum Support<br\/><strong>Maximum Support:<\/strong><br\/>4\" Wide for Confident & Comfortable Back Support<br\/><strong>Unique Design:<\/strong><br\/>Tough and Durable Belt with laser printing for men and women.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}},"8996e796-2fa2-4f94-9472-f32e68af7d57":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/03_bba96f57-e9c9-4bd3-b830-ee50247a7f0c.jpg","title":"BEST BELT FOR:","desc":"<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• BODYBUILDING<br\/>• CROSS TRAINING<br\/>• FITNESS TRAINING<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["template--17877575270664__7266bf5e-5752-4aac-a17b-c0f6ff20f381-1688993923cc7d1bb8-0","8996e796-2fa2-4f94-9472-f32e68af7d57"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"1:1","block_layout":"1\/2","block_align":"left","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"7e31d79e-3a8c-408b-bac9-562350eec323":{"type":"section-video","blocks":{"template--17877575270664__7e31d79e-3a8c-408b-bac9-562350eec323-168899706167833dbd-0":{"type":"video","settings":{"video_url":"https:\/\/www.youtube.com\/watch?v=JE7we4QsDOw&t=1s","video_title":""}}},"block_order":["template--17877575270664__7e31d79e-3a8c-408b-bac9-562350eec323-168899706167833dbd-0"],"settings":{"title":"","desc":"","link_title":"More videos","link":"","overlay_strength":50}},"979a19a5-4247-474a-bf08-7ca5faaac1c6":{"type":"section-rich-text","settings":{"full_width":false,"section_title":"","text":"<p>Pay Attention to Take Your Measurements from <strong>True Waist Size<\/strong>. Do Not Use Pants Size.<br\/>If your Measurements are between two sizes, we Recommend Choosing the Upper Size.<\/p>","section-bottom-margin":true}},"6600bffc-d9d5-47d6-8a66-a98b240b5557":{"type":"section-image-slideshow","blocks":{"template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/bammer-4-1464px_x_600px.png","link":""}}},"block_order":["template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":false}},"2d5bd59f-a78a-4717-af1f-2177417b93ca":{"type":"section-faq","blocks":{"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0":{"type":"category","settings":{"title":"FAQs"}},"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1":{"type":"article","settings":{"title":"Shipping","text":"<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"}},"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2":{"type":"article","settings":{"title":"Returns","text":"<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"}}},"block_order":["template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0","template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1","template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"],"custom_css":["{background-color: #eeeeee;}"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"16896104348abb306a":{"type":"apps","blocks":{"88702fc5-4422-4d49-80d5-ca72a2d7847d":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["88702fc5-4422-4d49-80d5-ca72a2d7847d"],"settings":{"include_margins":true}},"product-recommendations":{"type":"product-recommendations","settings":{"related_title":"You may also like","section_width":"wide","related_mobile_layout":"carousel","related_grid_num":4,"grid_mobile":"2","related_grid_row":1}}},"order":["1700668773ff01bfe3","main","fab6a9b6-613d-487e-a95e-9dcb54926f1c","7266bf5e-5752-4aac-a17b-c0f6ff20f381","7e31d79e-3a8c-408b-bac9-562350eec323","979a19a5-4247-474a-bf08-7ca5faaac1c6","6600bffc-d9d5-47d6-8a66-a98b240b5557","2d5bd59f-a78a-4717-af1f-2177417b93ca","16896104348abb306a","product-recommendations"]}
+{
+  "sections": {
+    "1700668773ff01bfe3": {
+      "type": "apps",
+      "blocks": {
+        "42221e8d-866a-46c1-bb01-f7e390b37c62": {
+          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "\/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "unclickable": false,
+            "bb_show_more": true,
+            "enable_custom_feature": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_top_padding": 20,
+            "bb_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a",
+            "truncator": 20
+          }
+        }
+      },
+      "block_order": [
+        "42221e8d-866a-46c1-bb01-f7e390b37c62"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "b5fe1f14-138e-4f5c-b661-8866d61a0490": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "image_swatches_Yj8imr": {
+          "type": "image_swatches",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf241": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "b5fe1f14-138e-4f5c-b661-8866d61a0490",
+        "price",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "image_swatches_Yj8imr",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "db48bf56-e904-4604-9f21-89d04e9bf241",
+        "description"
+      ],
+      "settings": {
+        "container": "large",
+        "show_breadcrumbs": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_product_image_rounded_corners": false,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "fab6a9b6-613d-487e-a95e-9dcb54926f1c": {
+      "type": "product_accordion",
+      "blocks": {
+        "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-1": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<ul><li>Dimensions: S (28\"-35\"), M (30\"-37\"), L (31\"-41\"), XL (35\"-45\"), XXL (38\"-48\"), XXXL (41\"-52\")<\/li><li>Material: genuine A-grade leather<\/li><li>Thickness: 6 mm<\/li><li>Width: 4\" (10 cm)<\/li><\/ul>"
+          }
+        },
+        "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-2": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>Ideal for both everyday gym goers and professional Oly lifters, powerlifters, bodybuilders, cross-trainers, and general fitness attenders.<\/p>"
+          }
+        },
+        "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-3": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+          }
+        },
+        "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-4": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>To clean and maintain a weightlifting belt, just wipe it down with a damp cloth after each use to remove sweat and dirt. You can also apply a leather conditioner for leather belts to maintain its flexibility and prevent cracking.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-1",
+        "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-2",
+        "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-3",
+        "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-4"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "7266bf5e-5752-4aac-a17b-c0f6ff20f381": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--17877575270664__7266bf5e-5752-4aac-a17b-c0f6ff20f381-1688993923cc7d1bb8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02a_f2566c72-e65a-4bfa-aa95-0a9bfbb83b45.jpg",
+            "title": "",
+            "desc": "<p><strong>Heavy-Duty:<br\/><\/strong>The Double Roller Stainless Steel Buckle with 4 Strengthened Bol.<br\/><strong>Top Quality:<\/strong><br\/>Genuine A-Grade Leather with 6mm Thickness Maximum Support<br\/><strong>Maximum Support:<\/strong><br\/>4\" Wide for Confident & Comfortable Back Support<br\/><strong>Unique Design:<\/strong><br\/>Tough and Durable Belt with laser printing for men and women.<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "8996e796-2fa2-4f94-9472-f32e68af7d57": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03_bba96f57-e9c9-4bd3-b830-ee50247a7f0c.jpg",
+            "title": "BEST BELT FOR:",
+            "desc": "<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• BODYBUILDING<br\/>• CROSS TRAINING<br\/>• FITNESS TRAINING<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17877575270664__7266bf5e-5752-4aac-a17b-c0f6ff20f381-1688993923cc7d1bb8-0",
+        "8996e796-2fa2-4f94-9472-f32e68af7d57"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": true,
+        "image_ratio": "1:1",
+        "block_layout": "1\/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "7e31d79e-3a8c-408b-bac9-562350eec323": {
+      "type": "section-video",
+      "blocks": {
+        "template--17877575270664__7e31d79e-3a8c-408b-bac9-562350eec323-168899706167833dbd-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=JE7we4QsDOw&t=1s",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17877575270664__7e31d79e-3a8c-408b-bac9-562350eec323-168899706167833dbd-0"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
+    "979a19a5-4247-474a-bf08-7ca5faaac1c6": {
+      "type": "section-rich-text",
+      "settings": {
+        "full_width": false,
+        "section_title": "",
+        "text": "<p>Pay Attention to Take Your Measurements from <strong>True Waist Size<\/strong>. Do Not Use Pants Size.<br\/>If your Measurements are between two sizes, we Recommend Choosing the Upper Size.<\/p>",
+        "section-bottom-margin": true
+      }
+    },
+    "6600bffc-d9d5-47d6-8a66-a98b240b5557": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bammer-4-1464px_x_600px.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
+      "type": "section-faq",
+      "blocks": {
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0": {
+          "type": "category",
+          "settings": {
+            "title": "FAQs"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1": {
+          "type": "article",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
+          "type": "article",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"
+      ],
+      "custom_css": [
+        "{background-color: #eeeeee;}"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "16896104348abb306a": {
+      "type": "apps",
+      "blocks": {
+        "88702fc5-4422-4d49-80d5-ca72a2d7847d": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "88702fc5-4422-4d49-80d5-ca72a2d7847d"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "wide",
+        "related_mobile_layout": "carousel",
+        "related_grid_num": 4,
+        "grid_mobile": "2",
+        "related_grid_row": 1
+      }
+    }
+  },
+  "order": [
+    "1700668773ff01bfe3",
+    "main",
+    "fab6a9b6-613d-487e-a95e-9dcb54926f1c",
+    "7266bf5e-5752-4aac-a17b-c0f6ff20f381",
+    "7e31d79e-3a8c-408b-bac9-562350eec323",
+    "979a19a5-4247-474a-bf08-7ca5faaac1c6",
+    "6600bffc-d9d5-47d6-8a66-a98b240b5557",
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca",
+    "16896104348abb306a",
+    "product-recommendations"
+  ]
+}
