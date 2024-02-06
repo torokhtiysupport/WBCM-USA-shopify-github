@@ -28,6 +28,22 @@
             "link_2": "shopify:\/\/collections\/accessories"
           }
         },
+        "dfb679ab-d00c-4fbc-af39-386f412074d1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Leather_Belts_Banner_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/New_Leather_Belts_Banner_Mob.jpg",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "",
+            "link_style": "c-btn c-btn--hollow",
+            "link_title": "Shop Now",
+            "link": "shopify:\/\/collections\/lifting-belts",
+            "link_style_2": "c-btn c-btn--hollow",
+            "link_title_2": "",
+            "link_2": "shopify:\/\/collections\/sale"
+          }
+        },
         "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
           "type": "image",
           "settings": {
@@ -60,22 +76,6 @@
             "link_2": "https:\/\/warmbody-coldmind.com\/#shopify-section-template--20972191187254__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f"
           }
         },
-        "dfb679ab-d00c-4fbc-af39-386f412074d1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/New_Leather_Belts_Banner_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/New_Leather_Belts_Banner_Mob.jpg",
-            "alignment": "bottom-center",
-            "title": "",
-            "text": "",
-            "link_style": "c-btn c-btn--hollow",
-            "link_title": "Shop Now",
-            "link": "shopify:\/\/collections\/lifting-belts",
-            "link_style_2": "c-btn c-btn--hollow",
-            "link_title_2": "",
-            "link_2": "shopify:\/\/collections\/sale"
-          }
-        },
         "section-slideshow-1": {
           "type": "image",
           "settings": {
@@ -95,9 +95,9 @@
       },
       "block_order": [
         "9bf15e77-545b-4d61-8855-5dfad503a3f3",
+        "dfb679ab-d00c-4fbc-af39-386f412074d1",
         "e5c5a46b-3efb-442f-9539-5ea086b271d7",
         "section-slideshow-0",
-        "dfb679ab-d00c-4fbc-af39-386f412074d1",
         "section-slideshow-1"
       ],
       "custom_css": [
