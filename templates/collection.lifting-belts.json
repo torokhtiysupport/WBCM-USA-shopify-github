@@ -52,7 +52,7 @@
             "text": "<p>Browse our leather and nylon lifting belts, ensuring safety and performance in every workout. Elevate your training with the perfect belt. Shop now!<\/p>",
             "link_title": "Learn more",
             "link": "",
-            "align": "left",
+            "align": "center",
             "width": "1\/1"
           }
         },
@@ -68,6 +68,9 @@
       "block_order": [
         "text_ecTxK9",
         "image_pKALPQ"
+      ],
+      "custom_css": [
+        "{width: 100%;}"
       ],
       "settings": {
         "section-bottom-margin": false
