@@ -10,9 +10,5 @@
     {%- if current_page != 1 -%}
         &ndash; {{ 'general.meta.page' | t: page: current_page }}
     {%- endif -%}
-    <!-- {%- assign escaped_page_title = page_title | escape -%}
-    {%- unless escaped_page_title contains shop.name -%}
-        &ndash; {{ shop.name }}
-    {%- endunless -%} -->
 {%- endcapture -%}
 {{- seo_title | strip -}}
