@@ -9435,49 +9435,49 @@ body.template-collection section.page--faq.faq details summary span {
 }
 
 /* Перебивання стилів для Google Speed */
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-link,
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-rev__author,
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-sort-dropdown,
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-sort-dropdown-arrow,
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-rev__timestamp,
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-histogram__frequency,
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-sort-dropdown-wrapper {
+body.template-product .jdgm-link,
+body.template-product .jdgm-rev__author,
+body.template-product .jdgm-sort-dropdown,
+body.template-product .jdgm-sort-dropdown-arrow,
+body.template-product .jdgm-rev__timestamp,
+body.template-product .jdgm-histogram__frequency,
+body.template-product .jdgm-sort-dropdown-wrapper {
   color: #212121 !important;
 }
 
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-paginate__page {
+body.template-product .jdgm-paginate__page {
   padding: 10px 20px!important;
 }
-body#weightlifting-wrist-straps-v1-price-from-16 .jdgm-paginate__page:not(:last-of-type) {
+body.template-product .jdgm-paginate__page:not(:last-of-type) {
   margin-right: 10px!important;
 }
 
-body#weightlifting-wrist-straps-v1-price-from-16 .rating-count {
+body.template-product .rating-count {
   color: #212121 !important;
 }
 
-body#weightlifting-wrist-straps-v1-price-from-16 .recommended-products__nav li:not(:last-of-type), body#weightlifting-wrist-straps-v1-price-from-16 ul li.multi-column__nav--item:not(:last-of-type) {
+body.template-product .recommended-products__nav li:not(:last-of-type), body.template-product ul li.multi-column__nav--item:not(:last-of-type) {
   margin-right: 10px !important;
 }
 
-body#weightlifting-wrist-straps-v1-price-from-16 div.media-gallery__nav {
+body.template-product div.media-gallery__nav {
   padding: 0!important;
 }
 
-body#weightlifting-wrist-straps-v1-price-from-16 div.media-gallery__nav > button {
+body.template-product div.media-gallery__nav > button {
   padding: 10px!important;
 }
 
-body#weightlifting-wrist-straps-v1-price-from-16 .product-form__qty-input {
+body.template-product .product-form__qty-input {
   max-height: auto!important;
 }
 
-body#weightlifting-wrist-straps-v1-price-from-16 .product-form__qty-input .js-qty > * {
+body.template-product .product-form__qty-input .js-qty > * {
   height: 48px!important;
   width: 48px!important;
 }
 
-body#weightlifting-wrist-straps-v1-price-from-16 strike.price__compare {
+body.template-product strike.price__compare {
   color: #212121!important;
 }
 
