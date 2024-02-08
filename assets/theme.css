@@ -9435,9 +9435,9 @@ body.template-collection section.page--faq.faq details summary span {
 }
 
 /* Перебивання стилів для Google Speed */
-body.template-product .product-single__box .product-single__bottom .product-form__swatch__title,
-body.template-product .product-single__box .product-single__bottom .quantity-selector,
-body.template-product .product-single__box .product-single__bottom .price__note {
+body.template-product .product-single__box .product-form__swatch__title,
+body.template-product .product-single__box .quantity-selector,
+body.template-product .product-single__box .price__note {
   color: #212121;
 }
 
