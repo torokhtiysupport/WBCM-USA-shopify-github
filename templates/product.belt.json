@@ -179,7 +179,7 @@
         "template--17877575270664__7266bf5e-5752-4aac-a17b-c0f6ff20f381-1688993923cc7d1bb8-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/02a_f2566c72-e65a-4bfa-aa95-0a9bfbb83b45.jpg",
+            "image": "shopify:\/\/shop_images\/The_man_is_holding_a_Leather_Weightlifting_Belt.jpg",
             "title": "",
             "desc": "<p><strong>Heavy-Duty:<br\/><\/strong>The Double Roller Stainless Steel Buckle with 4 Strengthened Bol.<br\/><strong>Top Quality:<\/strong><br\/>Genuine A-Grade Leather with 6mm Thickness Maximum Support<br\/><strong>Maximum Support:<\/strong><br\/>4\" Wide for Confident & Comfortable Back Support<br\/><strong>Unique Design:<\/strong><br\/>Tough and Durable Belt with laser printing for men and women.<\/p>",
             "horizontal_align": "left",
@@ -190,11 +190,30 @@
             "color_text": "#212121",
             "text_heading_color": false
           }
-        },
-        "8996e796-2fa2-4f94-9472-f32e68af7d57": {
+        }
+      },
+      "block_order": [
+        "template--17877575270664__7266bf5e-5752-4aac-a17b-c0f6ff20f381-1688993923cc7d1bb8-0"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "3:4",
+        "block_layout": "1\/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "section_image_with_text_Fh3Gtz": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_mRjwWD": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/03_bba96f57-e9c9-4bd3-b830-ee50247a7f0c.jpg",
+            "image": "shopify:\/\/shop_images\/The_girl_put_on_a_Leather_Weightlifting_Belt.jpg",
             "title": "BEST BELT FOR:",
             "desc": "<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• BODYBUILDING<br\/>• CROSS TRAINING<br\/>• FITNESS TRAINING<\/p>",
             "horizontal_align": "left",
@@ -208,16 +227,15 @@
         }
       },
       "block_order": [
-        "template--17877575270664__7266bf5e-5752-4aac-a17b-c0f6ff20f381-1688993923cc7d1bb8-0",
-        "8996e796-2fa2-4f94-9472-f32e68af7d57"
+        "image_mRjwWD"
       ],
       "settings": {
         "container": "large",
         "block_spacing": 2,
-        "section-bottom-margin": true,
-        "image_ratio": "1:1",
+        "section-bottom-margin": false,
+        "image_ratio": "4:3",
         "block_layout": "1\/2",
-        "block_align": "left",
+        "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
@@ -350,6 +368,7 @@
     "main",
     "fab6a9b6-613d-487e-a95e-9dcb54926f1c",
     "7266bf5e-5752-4aac-a17b-c0f6ff20f381",
+    "section_image_with_text_Fh3Gtz",
     "7e31d79e-3a8c-408b-bac9-562350eec323",
     "979a19a5-4247-474a-bf08-7ca5faaac1c6",
     "6600bffc-d9d5-47d6-8a66-a98b240b5557",
