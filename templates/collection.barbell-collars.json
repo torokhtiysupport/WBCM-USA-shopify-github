@@ -1,1 +1,342 @@
-{"sections":{"17006684633c156f39":{"type":"apps","blocks":{"cf8e3975-e6b6-4dc6-9476-4e93fceb1783":{"type":"shopify:\/\/apps\/schema-breadcrumbs\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef","settings":{"home":"Home","home_link":"\/","menu":"main-menu","separator":"›","bb_show_hide":true,"unclickable":false,"enable_custom_feature":true,"bb_capitalize":false,"bb_font_size":13,"bb_padding":0,"bb_top_padding":20,"bb_margin":0,"bb_align":"left","bb_color":"#2a2a2a"}}},"block_order":["cf8e3975-e6b6-4dc6-9476-4e93fceb1783"],"settings":{"include_margins":true}},"banner":{"type":"main-collection-banner","settings":{"center_title":true,"show_collection_image":true,"collection_image_height":"4:1","collection_image_mobile_height":true,"overlay_color":"#000000","overlay_strength":0}},"section_custom_6XhTgX":{"type":"section-custom","blocks":{"text_TAXqhp":{"type":"text","settings":{"title":"","text":"<p>Explore top-quality weightlifting barbell collars for a safe and effective workout. Shop now and secure your gains with top-quality barbell clamps.<\/p>","link_title":"Learn more","link":"","align":"left","width":"1\/1"}}},"block_order":["text_TAXqhp"],"settings":{"section-bottom-margin":false}},"product-grid":{"type":"main-collection-product-grid","blocks":{"filter":{"type":"filter","settings":{"title":"","count":true,"show_swatches":true,"filter_visibility":"three"}},"e0ce1b59-e7f7-480b-a100-3692611ddfff":{"type":"linklist","settings":{"linklist":""}}},"block_order":["filter","e0ce1b59-e7f7-480b-a100-3692611ddfff"],"settings":{"grid":4,"grid_mobile":"2","rows":5,"sort_enable":true,"show_sidebar":true}},"section_custom_T8Wenr":{"type":"section-custom","blocks":{"text_94TbM7":{"type":"text","settings":{"title":"What are barbell collars?","text":"<p>The key mission of barbell collars is to hold weightlifting plates on the bar to prevent their occasional slipping and falling off during the workout. This way you protect yourself and the equipment in the gym. <\/p><p>There are plenty of barbell collars that differ from each other in their features, despite overall they serve the same purpose.  So, let's outline the major types and characteristics of the weight collars, a few various approaches, as well as positives and drawbacks.<\/p>","link_title":"Learn more","link":"","align":"left","width":"1\/1"}},"spacer_P8WQwF":{"type":"spacer","settings":{"space":"none"}},"image_JTAT9h":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Snap-lock-Collars.jpg","link":"","width":"2\/3"}}},"block_order":["text_94TbM7","spacer_P8WQwF","image_JTAT9h"],"settings":{"section-bottom-margin":false}},"section_liquid_Farx84":{"type":"section-liquid","settings":{"custom_liquid":"<div class=\"container\"><h3>Spring Collars<\/h3><\/div>"}},"section_custom_TkN8AX":{"type":"section-custom","blocks":{"text_DbYbUe":{"type":"text","settings":{"title":"","text":"<p>Spring collars, also known as barbell clamps, are named so because of the spring-like construction, which promotes force generation to the bar. To fix it to a bar you just need to apply pressure to the handles on the sides of the spring to expand the collar diameter. Once you adjust the diameter, you can slide the collar across the bar and release the handles to secure the collar properly.<\/p><p>The main advantage of spring collars is their affordability: they will only cost you $20. It's also easy and fast to slide them onto the bar. It makes them useful especially if you’re working out with weights and adjusting them regularly.<\/p><p>Since you can slide on and off them quickly, they’re ideal for cross-training sessions where you often switch weights.<\/p><p>They provide a secure grip when they’re new, but gradually lose their strength over time and need to be replaced. Also, spring collars can damage the finish on the sleeves. <\/p><p>Speaking about the drawbacks, the main con refers to their low price. They won't work well for such intensive and dynamic movements as in cross-training and Olympic lifts. So, you can use them for regular training with moderate intensity. Also, another side effect is that the tension can begin to decrease over time.<\/p>","link_title":"Learn more","link":"","align":"left","width":"1\/1"}}},"block_order":["text_DbYbUe"],"settings":{"section-bottom-margin":false}},"section_liquid_3D34HY":{"type":"section-liquid","settings":{"custom_liquid":"<div class=\"container\"><h3>Snap-lock Collars<\/h3><\/div>"}},"section_custom_XBaJqn":{"type":"section-custom","blocks":{"text_pFrTCA":{"type":"text","settings":{"title":"","text":"<p>These gym collars are circular-shaped, with a clip to tighten it around the bar. There are also pressure collars working the same way, but come with a handle instead of a clip to tighten the collar. Snap-lock collars apply pressure to the bar to hold the weight plates in place. <\/p><p>High-quality snap-lock collars are highly sturdy, especially those made from metal rather than nylon or plastic. Thus, they're ideal for Olympic lifts and cross-training.<\/p><p>The main benefit of these collars is that it's easy to attach them to the end of a bar. You just need to loosen the clip, slide on the collar, and tighten it. So, they are very convenient for regularly switching weights while working out. <\/p><p>However, if you're practicing Olympic lifts or high-intensity cross-training sessions, you'd better opt for other sturdier and stronger barbell collars. Because these fit regular gym training.<\/p>","link_title":"Learn more","link":"","align":"left","width":"1\/1"}},"spacer_BMQNMa":{"type":"spacer","settings":{"space":"none"}},"image_cLrABT":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/WBCM-Collar-in-Use.jpg","link":"","width":"2\/3"}}},"block_order":["text_pFrTCA","spacer_BMQNMa","image_cLrABT"],"settings":{"section-bottom-margin":false}},"section_liquid_UTGk8x":{"type":"section-liquid","settings":{"custom_liquid":"<div class=\"container\"><h3>Strap Barbell Collars<\/h3><\/div>"}},"section_custom_jiR4kn":{"type":"section-custom","blocks":{"text_eVe3eL":{"type":"text","settings":{"title":"","text":"<p>Usually, straps are made of durable fabric or rubber. Although they're not so popular nowadays, their main benefit is their versatility: they can fit any barbell, compared to the rest of the barbell collars. They're perfect for amateurs who are looking for secure training. <\/p><p>However, straps aren't so reliable for dynamic movements, i.e., snatching and dropping the bar, so the strap won't handle such tension and let the plates slide off the bar.<\/p>","link_title":"Learn more","link":"","align":"left","width":"1\/1"}}},"block_order":["text_eVe3eL"],"settings":{"section-bottom-margin":false}},"section_liquid_nekJWL":{"type":"section-liquid","settings":{"custom_liquid":"<div class=\"container\"><h3>Competition Collars<\/h3><\/div>"}},"section_custom_ErCUKb":{"type":"section-custom","blocks":{"text_JfjygA":{"type":"text","settings":{"title":"","text":"<p>Being made for professional weightlifting and powerlifting, these barbell collars are ready to be used for competitions and suit all Olympic barbells with an opening of 50 mm. The collars come with a ridged surface for a secure grip and are easy to adjust with a turn screw fastening system to tighten down the collars and keep plates in place.<\/p><p>What about the specs, their weight is around 2.5 kg, which is around 5.5 lb, and are made of steel and are chrome plated, featuring a lever handle to adjust the collar.<\/p><p>They also have a protective inner liner to avoid equipment damage. The competition collars are perfect for weightlifters who care about their training safety.<\/p><p>Usually, they feature big locking levers and a knurled screw ring for the tightest fit, while their short design enables you to fit an extra pair of plates.<\/p><p>The competition collar is made from solid steel, but not from cast iron, have an inner metal band to prevent sleeve damage.<\/p>","link_title":"Learn more","link":"","align":"left","width":"1\/1"}},"spacer_DjHicQ":{"type":"spacer","settings":{"space":"none"}},"image_xKbMU6":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Competitions-Collars.jpg","link":"","width":"2\/3"}}},"block_order":["text_JfjygA","spacer_DjHicQ","image_xKbMU6"],"settings":{"section-bottom-margin":false}},"section_custom_atNAf6":{"type":"section-custom","blocks":{"text_ayVHgE":{"type":"text","settings":{"title":"Why do you need barbell collars?","text":"<p>Weightlifting clips keep the weights snug and close together, so you don't distract from plate shaking and rattling. Using weight locks is also about personal safety, consistency, and balance while working with weights. You'll also mitigate injury risk and maintain proper form during training.<\/p><p>Let's remember the key benefits of this lifting accessory and know its usefulness for your everyday workouts.<\/p>","link_title":"Learn more","link":"","align":"left","width":"1\/1"}},"spacer_xD4cw3":{"type":"spacer","settings":{"space":"none"}},"image_NCAapA":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Snap-Lock-Collar-on-Competitions.jpg","link":"","width":"2\/3"}}},"block_order":["text_ayVHgE","spacer_xD4cw3","image_NCAapA"],"settings":{"section-bottom-margin":false}},"section_liquid_9V9Hzq":{"type":"section-liquid","settings":{"custom_liquid":"<div class=\"container\">\n<h3>Safety Ensuring<\/h3>\n    <p>The collar's lockdown system eliminates the possibility of plates sliding off the sleeves. So, you won't damage your surroundings, gym equipment, and yourself. You won't experience weight shift and the barbell won't come off-balanced.<\/p>\n    \n    <p>If the weights are falling, you also create an unbalanced barbell across your frame. Moreover, if you're lifting heavy weights, you could damage the flooring, rack, and ceiling as well.<\/p>\n\n    <h3>Achieving Better Balance in Plates<\/h3>\n    <p>Barbell locks keep your weights together, with no space between each plate. Butted-up plates keep all the weight focused on each end of the barbell sleeve near your grip. So, you can control the weight you lift during each movement. Due to the collars, you'll mitigate noise and clanging during each rep, so you can concentrate on training.<\/p>\n<\/div>"}}},"order":["17006684633c156f39","banner","section_custom_6XhTgX","product-grid","section_custom_T8Wenr","section_liquid_Farx84","section_custom_TkN8AX","section_liquid_3D34HY","section_custom_XBaJqn","section_liquid_UTGk8x","section_custom_jiR4kn","section_liquid_nekJWL","section_custom_ErCUKb","section_custom_atNAf6","section_liquid_9V9Hzq"]}
+{
+  "sections": {
+    "17006684633c156f39": {
+      "type": "apps",
+      "blocks": {
+        "cf8e3975-e6b6-4dc6-9476-4e93fceb1783": {
+          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "\/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "unclickable": false,
+            "enable_custom_feature": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_top_padding": 20,
+            "bb_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a"
+          }
+        }
+      },
+      "block_order": [
+        "cf8e3975-e6b6-4dc6-9476-4e93fceb1783"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "center_title": true,
+        "show_collection_image": false,
+        "collection_image_height": "4:1",
+        "collection_image_mobile_height": true,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    },
+    "section_custom_6XhTgX": {
+      "type": "section-custom",
+      "blocks": {
+        "text_TAXqhp": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Explore top-quality weightlifting barbell collars for a safe and effective workout. Shop now and secure your gains with top-quality barbell clamps.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_TAXqhp"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "title": "",
+            "count": true,
+            "show_swatches": true,
+            "filter_visibility": "three"
+          }
+        },
+        "e0ce1b59-e7f7-480b-a100-3692611ddfff": {
+          "type": "linklist",
+          "settings": {
+            "linklist": ""
+          }
+        }
+      },
+      "block_order": [
+        "filter",
+        "e0ce1b59-e7f7-480b-a100-3692611ddfff"
+      ],
+      "settings": {
+        "grid": 4,
+        "grid_mobile": "2",
+        "rows": 5,
+        "sort_enable": true,
+        "show_sidebar": true
+      }
+    },
+    "section_custom_T8Wenr": {
+      "type": "section-custom",
+      "blocks": {
+        "text_94TbM7": {
+          "type": "text",
+          "settings": {
+            "title": "What are barbell collars?",
+            "text": "<p>The key mission of barbell collars is to hold weightlifting plates on the bar to prevent their occasional slipping and falling off during the workout. This way you protect yourself and the equipment in the gym. <\/p><p>There are plenty of barbell collars that differ from each other in their features, despite overall they serve the same purpose.  So, let's outline the major types and characteristics of the weight collars, a few various approaches, as well as positives and drawbacks.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_P8WQwF": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_JTAT9h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Snap-lock-Collars.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_94TbM7",
+        "spacer_P8WQwF",
+        "image_JTAT9h"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_Farx84": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\"><h3>Spring Collars<\/h3><\/div>"
+      }
+    },
+    "section_custom_TkN8AX": {
+      "type": "section-custom",
+      "blocks": {
+        "text_DbYbUe": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Spring collars, also known as barbell clamps, are named so because of the spring-like construction, which promotes force generation to the bar. To fix it to a bar you just need to apply pressure to the handles on the sides of the spring to expand the collar diameter. Once you adjust the diameter, you can slide the collar across the bar and release the handles to secure the collar properly.<\/p><p>The main advantage of spring collars is their affordability: they will only cost you $20. It's also easy and fast to slide them onto the bar. It makes them useful especially if you’re working out with weights and adjusting them regularly.<\/p><p>Since you can slide on and off them quickly, they’re ideal for cross-training sessions where you often switch weights.<\/p><p>They provide a secure grip when they’re new, but gradually lose their strength over time and need to be replaced. Also, spring collars can damage the finish on the sleeves. <\/p><p>Speaking about the drawbacks, the main con refers to their low price. They won't work well for such intensive and dynamic movements as in cross-training and Olympic lifts. So, you can use them for regular training with moderate intensity. Also, another side effect is that the tension can begin to decrease over time.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_DbYbUe"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_3D34HY": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\"><h3>Snap-lock Collars<\/h3><\/div>"
+      }
+    },
+    "section_custom_XBaJqn": {
+      "type": "section-custom",
+      "blocks": {
+        "text_pFrTCA": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>These gym collars are circular-shaped, with a clip to tighten it around the bar. There are also pressure collars working the same way, but come with a handle instead of a clip to tighten the collar. Snap-lock collars apply pressure to the bar to hold the weight plates in place. <\/p><p>High-quality snap-lock collars are highly sturdy, especially those made from metal rather than nylon or plastic. Thus, they're ideal for Olympic lifts and cross-training.<\/p><p>The main benefit of these collars is that it's easy to attach them to the end of a bar. You just need to loosen the clip, slide on the collar, and tighten it. So, they are very convenient for regularly switching weights while working out. <\/p><p>However, if you're practicing Olympic lifts or high-intensity cross-training sessions, you'd better opt for other sturdier and stronger barbell collars. Because these fit regular gym training.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_BMQNMa": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_cLrABT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WBCM-Collar-in-Use.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_pFrTCA",
+        "spacer_BMQNMa",
+        "image_cLrABT"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_UTGk8x": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\"><h3>Strap Barbell Collars<\/h3><\/div>"
+      }
+    },
+    "section_custom_jiR4kn": {
+      "type": "section-custom",
+      "blocks": {
+        "text_eVe3eL": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Usually, straps are made of durable fabric or rubber. Although they're not so popular nowadays, their main benefit is their versatility: they can fit any barbell, compared to the rest of the barbell collars. They're perfect for amateurs who are looking for secure training. <\/p><p>However, straps aren't so reliable for dynamic movements, i.e., snatching and dropping the bar, so the strap won't handle such tension and let the plates slide off the bar.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_eVe3eL"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_nekJWL": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\"><h3>Competition Collars<\/h3><\/div>"
+      }
+    },
+    "section_custom_ErCUKb": {
+      "type": "section-custom",
+      "blocks": {
+        "text_JfjygA": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Being made for professional weightlifting and powerlifting, these barbell collars are ready to be used for competitions and suit all Olympic barbells with an opening of 50 mm. The collars come with a ridged surface for a secure grip and are easy to adjust with a turn screw fastening system to tighten down the collars and keep plates in place.<\/p><p>What about the specs, their weight is around 2.5 kg, which is around 5.5 lb, and are made of steel and are chrome plated, featuring a lever handle to adjust the collar.<\/p><p>They also have a protective inner liner to avoid equipment damage. The competition collars are perfect for weightlifters who care about their training safety.<\/p><p>Usually, they feature big locking levers and a knurled screw ring for the tightest fit, while their short design enables you to fit an extra pair of plates.<\/p><p>The competition collar is made from solid steel, but not from cast iron, have an inner metal band to prevent sleeve damage.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_DjHicQ": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_xKbMU6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Competitions-Collars.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_JfjygA",
+        "spacer_DjHicQ",
+        "image_xKbMU6"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_custom_atNAf6": {
+      "type": "section-custom",
+      "blocks": {
+        "text_ayVHgE": {
+          "type": "text",
+          "settings": {
+            "title": "Why do you need barbell collars?",
+            "text": "<p>Weightlifting clips keep the weights snug and close together, so you don't distract from plate shaking and rattling. Using weight locks is also about personal safety, consistency, and balance while working with weights. You'll also mitigate injury risk and maintain proper form during training.<\/p><p>Let's remember the key benefits of this lifting accessory and know its usefulness for your everyday workouts.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_xD4cw3": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_NCAapA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Snap-Lock-Collar-on-Competitions.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_ayVHgE",
+        "spacer_xD4cw3",
+        "image_NCAapA"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_9V9Hzq": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n<h3>Safety Ensuring<\/h3>\n    <p>The collar's lockdown system eliminates the possibility of plates sliding off the sleeves. So, you won't damage your surroundings, gym equipment, and yourself. You won't experience weight shift and the barbell won't come off-balanced.<\/p>\n    \n    <p>If the weights are falling, you also create an unbalanced barbell across your frame. Moreover, if you're lifting heavy weights, you could damage the flooring, rack, and ceiling as well.<\/p>\n\n    <h3>Achieving Better Balance in Plates<\/h3>\n    <p>Barbell locks keep your weights together, with no space between each plate. Butted-up plates keep all the weight focused on each end of the barbell sleeve near your grip. So, you can control the weight you lift during each movement. Due to the collars, you'll mitigate noise and clanging during each rep, so you can concentrate on training.<\/p>\n<\/div>"
+      }
+    }
+  },
+  "order": [
+    "17006684633c156f39",
+    "banner",
+    "section_custom_6XhTgX",
+    "product-grid",
+    "section_custom_T8Wenr",
+    "section_liquid_Farx84",
+    "section_custom_TkN8AX",
+    "section_liquid_3D34HY",
+    "section_custom_XBaJqn",
+    "section_liquid_UTGk8x",
+    "section_custom_jiR4kn",
+    "section_liquid_nekJWL",
+    "section_custom_ErCUKb",
+    "section_custom_atNAf6",
+    "section_liquid_9V9Hzq"
+  ]
+}
