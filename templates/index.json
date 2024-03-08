@@ -79,14 +79,14 @@
         "section-slideshow-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/help-ukraine-banner-desktop.png",
-            "image_mobile": "shopify:\/\/shop_images\/help-ukraine-banner-mob.png",
+            "image": "shopify:\/\/shop_images\/spring-sale-banner-desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/spring-sale-banner-mob.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
             "link_style": "c-btn c-btn--primary",
-            "link_title": "READ MORE",
-            "link": "https:\/\/blog.warmbody-coldmind.com\/news\/help-ukraine\/",
+            "link_title": "BUY NOW",
+            "link": "shopify:\/\/collections\/sale",
             "link_style_2": "c-btn c-btn--primary",
             "link_title_2": "",
             "link_2": ""
