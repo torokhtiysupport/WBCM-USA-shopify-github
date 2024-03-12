@@ -352,6 +352,9 @@
       "block_order": [
         "template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0"
       ],
+      "custom_css": [
+        ".container {max-width: 1400px;}"
+      ],
       "settings": {
         "autoplay": false,
         "autoplay_speed": 8,
