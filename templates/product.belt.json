@@ -190,6 +190,9 @@
       "block_order": [
         "image_6mmGN9"
       ],
+      "custom_css": [
+        ".container {max-width: 1400px;}"
+      ],
       "settings": {
         "autoplay": false,
         "autoplay_speed": 8,
@@ -222,6 +225,9 @@
       },
       "block_order": [
         "image_maMLeg"
+      ],
+      "custom_css": [
+        ".container {max-width: 1400px;}"
       ],
       "settings": {
         "autoplay": false,
