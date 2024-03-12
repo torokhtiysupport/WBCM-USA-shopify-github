@@ -18,8 +18,11 @@
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
             "truncator": 20
@@ -173,6 +176,63 @@
         "cta_style": "link"
       }
     },
+    "section_image_slideshow_nDLnV8": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_6mmGN9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leather-belt-features.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6mmGN9"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_rich_text_TT9Yfn": {
+      "type": "section-rich-text",
+      "settings": {
+        "full_width": false,
+        "section_title": "CHOSE YOUR OWN STYLE",
+        "text": "",
+        "section-bottom-margin": true
+      }
+    },
+    "section_image_slideshow_JYFWWp": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_maMLeg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leather-belts-collours.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_maMLeg"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
     "7266bf5e-5752-4aac-a17b-c0f6ff20f381": {
       "type": "section-image-with-text",
       "blocks": {
@@ -181,7 +241,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/The_man_is_holding_a_Leather_Weightlifting_Belt.jpg",
             "title": "",
-            "desc": "<p><strong>Heavy-Duty:<br\/><\/strong>The Double Roller Stainless Steel Buckle with 4 Strengthened Bol.<br\/><strong>Top Quality:<\/strong><br\/>Genuine A-Grade Leather with 6mm Thickness Maximum Support<br\/><strong>Maximum Support:<\/strong><br\/>4\" Wide for Confident & Comfortable Back Support<br\/><strong>Unique Design:<\/strong><br\/>Tough and Durable Belt with laser printing for men and women.<\/p>",
+            "desc": "<p><strong>HEAVY-DUTY:<br\/><\/strong>The Double Roller Stainless Steel Buckle with 4 Strengthened Bol.<br\/><strong>TOP QUALITY:<\/strong><br\/>Genuine A-Grade Leather with 6mm Thickness Maximum Support<br\/><strong>MAXIMUM SUPPORT:<\/strong><br\/>4\" Wide for Confident & Comfortable Back Support<br\/><strong>UNIQUE DESIGN:<\/strong><br\/>Tough and Durable Belt with laser printing for men and women.<\/p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -213,7 +273,7 @@
         "image_mRjwWD": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/The_girl_put_on_a_Leather_Weightlifting_Belt.jpg",
+            "image": "shopify:\/\/shop_images\/best-belt-for.jpg",
             "title": "BEST BELT FOR:",
             "desc": "<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• BODYBUILDING<br\/>• CROSS TRAINING<br\/>• FITNESS TRAINING<\/p>",
             "horizontal_align": "left",
@@ -287,7 +347,7 @@
         "template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0"
       ],
       "settings": {
-        "autoplay": true,
+        "autoplay": false,
         "autoplay_speed": 8,
         "nav_style": "bars",
         "slideshow_width": "contained",
@@ -367,6 +427,9 @@
     "1700668773ff01bfe3",
     "main",
     "fab6a9b6-613d-487e-a95e-9dcb54926f1c",
+    "section_image_slideshow_nDLnV8",
+    "section_rich_text_TT9Yfn",
+    "section_image_slideshow_JYFWWp",
     "7266bf5e-5752-4aac-a17b-c0f6ff20f381",
     "section_image_with_text_Fh3Gtz",
     "7e31d79e-3a8c-408b-bac9-562350eec323",
