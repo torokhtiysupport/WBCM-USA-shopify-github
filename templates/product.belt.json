@@ -191,7 +191,36 @@
         "image_6mmGN9"
       ],
       "custom_css": [
-        ".container {max-width: 1400px;}"
+        ".container {max-width: 1400px;}",
+        "@media screen and (max-width: 600px) {.container {display: none; }}"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_image_slideshow_zWXEe6": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_BgzUUz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leather-belt-features-banner-mob.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BgzUUz"
+      ],
+      "custom_css": [
+        ".container {max-width: 1400px;}",
+        "@media screen and (min-width: 601px) {.container {display: none; }}"
       ],
       "settings": {
         "autoplay": false,
@@ -437,6 +466,7 @@
     "main",
     "fab6a9b6-613d-487e-a95e-9dcb54926f1c",
     "section_image_slideshow_nDLnV8",
+    "section_image_slideshow_zWXEe6",
     "section_rich_text_TT9Yfn",
     "section_image_slideshow_JYFWWp",
     "7266bf5e-5752-4aac-a17b-c0f6ff20f381",
