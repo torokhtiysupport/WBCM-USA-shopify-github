@@ -195,7 +195,7 @@
       ],
       "settings": {
         "autoplay": false,
-        "autoplay_speed": 8,
+        "autoplay_speed": 5,
         "nav_style": "bars",
         "slideshow_width": "contained",
         "overlay_color": "#000000",
