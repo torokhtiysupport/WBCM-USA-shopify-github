@@ -277,19 +277,10 @@
             "align": "center",
             "width": "1\/2"
           }
-        },
-        "image_chQMNc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/singlet-sizes.webp",
-            "link": "",
-            "width": "2\/3"
-          }
         }
       },
       "block_order": [
-        "text_YrYCki",
-        "image_chQMNc"
+        "text_YrYCki"
       ],
       "custom_css": [
         "img {max-width: 600px;}",
@@ -297,6 +288,44 @@
       ],
       "settings": {
         "section-bottom-margin": true
+      }
+    },
+    "section_image_with_text_Yae6cA": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_HArEdd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/singlet-sizes.webp",
+            "title": "",
+            "desc": "",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_HArEdd"
+      ],
+      "custom_css": [
+        ".o-layout {justify-content: center;}",
+        ".o-layout .o-layout__item:last-of-type {display: none;}"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1\/2",
+        "block_align": "left",
+        "vertical_align": "top",
+        "heading_size": 3,
+        "link_style": "hollow"
       }
     },
     "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
@@ -373,6 +402,7 @@
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "9222cec0-f847-4989-9afd-055ed05dd976",
     "section_custom_qcmbYA",
+    "section_image_with_text_Yae6cA",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "169047038881f6c5ad",
     "product-recommendations"
