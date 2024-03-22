@@ -296,7 +296,7 @@
         ".home-custom__img--cover {background-image: none !important;}"
       ],
       "settings": {
-        "section-bottom-margin": false
+        "section-bottom-margin": true
       }
     },
     "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
