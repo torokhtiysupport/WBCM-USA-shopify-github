@@ -10,6 +10,7 @@
             "home_link": "\/",
             "menu": "main-menu",
             "separator": "›",
+            "custom_class": "",
             "bb_show_hide": true,
             "unclickable": false,
             "bb_show_more": true,
@@ -17,8 +18,11 @@
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
             "truncator": 20
@@ -154,8 +158,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/photo-lock.png",
-            "title": "HEAVY DUTY",
-            "desc": "<p>Our wrist straps reinforced with extra stitching for superior strength and safety during deadlifts, shrugs, rows, pull-ups or dumbbell squats.<\/p>",
+            "title": "BEST SINGLET FOR:",
+            "desc": "<ul><li>weightlifting<\/li><li>powerlifting<\/li><li>bodybuilding sessions<\/li><\/ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -174,34 +178,11 @@
         "block_spacing": 2,
         "section-bottom-margin": true,
         "image_ratio": "1:1",
-        "block_layout": "2\/3",
-        "block_align": "right",
+        "block_layout": "1\/2",
+        "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 2,
         "link_style": "hollow"
-      }
-    },
-    "3d13f6f8-1da6-434e-b931-c7cd6227574e": {
-      "type": "section-video",
-      "blocks": {
-        "template--17877542043912__3d13f6f8-1da6-434e-b931-c7cd6227574e-1688733442073661d6-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=E8bM3rGq_aQ&t=1s",
-            "video_title": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17877542043912__3d13f6f8-1da6-434e-b931-c7cd6227574e-1688733442073661d6-0"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "desc": "",
-        "link_title": "More videos",
-        "link": "",
-        "overlay_strength": 50
       }
     },
     "9222cec0-f847-4989-9afd-055ed05dd976": {
@@ -211,23 +192,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/4-new.png",
-            "title": "TWO MATERIAL OPTIONS",
-            "desc": "<p>To best satisfy your preferences, we manufactured two types of heavy duty straps: cotton straps and elastane straps with thick neoprene cushion around the wrist . Whatever you choose, you will receive the highest quality stuff.<\/p>",
-            "horizontal_align": "left",
-            "link_title": "",
-            "link": "",
-            "bg_color_block": "rgba(0,0,0,0)",
-            "bg_color_content": "#ffffff",
-            "color_text": "#212121",
-            "text_heading_color": false
-          }
-        },
-        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3-new.png",
-            "title": "3 SIZES",
-            "desc": "<p>We have made our Figure 8 Lifting Straps in three sizes (S\/M\/L) so that everyone can find the perfect fit for themselves.<\/p>",
+            "title": "DESIGN BY OLYMPIC CHAMPION OLEKSIY TOROKHTIY",
+            "desc": "<p>Designed to withstand rigorous training sessions, this singlet offers superior comfort and durability, empowering athletes to push their limits. Experience the difference of locally-made excellence in every stitch<\/p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -239,8 +205,7 @@
         }
       },
       "block_order": [
-        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1",
-        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-2"
+        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1"
       ],
       "settings": {
         "container": "large",
@@ -248,91 +213,40 @@
         "section-bottom-margin": false,
         "image_ratio": "natural",
         "block_layout": "1\/2",
-        "block_align": "left",
+        "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
       }
     },
-    "f47e7c52-8d76-4826-80a7-073e15a0842e": {
-      "type": "section-multi-column-images",
+    "section_custom_qcmbYA": {
+      "type": "section-custom",
       "blocks": {
-        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-0": {
+        "text_YrYCki": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_f7b3b73a-5777-4a37-950c-bfcce38ae8c4.png",
-            "title": "Step 1:",
-            "sub_title": "",
-            "desc": "<p>TWO MATERIAL OPTIONS - To best satisfy your preferences, we manufactured two types of heavy duty straps: cotton straps and elastane straps with thick neoprene cushion around the wrist . Whatever you choose, you will receive the highest quality stuff.<\/p>",
+            "title": "THE RIGHT SIZE SELECTION",
+            "text": "",
             "link_title": "",
-            "link": ""
+            "link": "",
+            "align": "center",
+            "width": "1\/2"
           }
         },
-        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-1": {
-          "type": "text",
-          "disabled": true,
+        "image_chQMNc": {
+          "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4-2.png",
-            "title": "Step 2:",
-            "sub_title": "",
-            "desc": "<p>3 SIZES - We have made our Figure 8 Lifting Straps in three sizes (S\/M\/L) so that everyone can find the perfect fit for themselves.<br\/><\/p>",
-            "link_title": "",
-            "link": ""
-          }
-        },
-        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2": {
-          "type": "text",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_d7132e1a-9f58-451f-b199-80d4d1776fa7.png",
-            "title": "Step 1:",
-            "sub_title": "",
-            "desc": "<p>With our figure 8 wraps, your grip will be taken to the next level.<\/p>",
-            "link_title": "",
-            "link": ""
-          }
-        },
-        "e5411bbb-14f8-4f86-8156-1b0525ebbbf2": {
-          "type": "text",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2-copy-0.png",
-            "title": "Step 2:",
-            "sub_title": "",
-            "desc": "<p>- Grip fatigue<\/p><p>- Skin damage<\/p>",
-            "link_title": "",
-            "link": ""
+            "link": "",
+            "width": "2\/3"
           }
         }
       },
       "block_order": [
-        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-0",
-        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-1",
-        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2",
-        "e5411bbb-14f8-4f86-8156-1b0525ebbbf2"
+        "text_YrYCki",
+        "image_chQMNc"
       ],
       "settings": {
-        "title": "HOW TO USE STRAP",
-        "container": "large",
-        "link_title": "Learn more",
-        "link": "",
-        "divider": false,
-        "section-bottom-margin": true,
-        "grid": 2,
-        "spacing": 3,
-        "alignment": "center",
-        "link_style": "hollow",
-        "heading_size": 3,
-        "image_toggle": true,
-        "image_size": 100,
-        "image_padding": 0,
-        "image_ratio": "natural",
-        "image_fit": false,
-        "bg_color": "rgba(0,0,0,0)",
-        "color_image": "rgba(0,0,0,0)",
-        "color_text": "#212121",
-        "text_heading_color": false,
-        "grid_mobile": "1",
-        "mobile_layout": "carousel"
+        "section-bottom-margin": false
       }
     },
     "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
@@ -406,9 +320,8 @@
     "17006690294fb39c04",
     "main",
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
-    "3d13f6f8-1da6-434e-b931-c7cd6227574e",
     "9222cec0-f847-4989-9afd-055ed05dd976",
-    "f47e7c52-8d76-4826-80a7-073e15a0842e",
+    "section_custom_qcmbYA",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "169047038881f6c5ad",
     "product-recommendations"
