@@ -151,6 +151,51 @@
         "thumbnails_show_border": false
       }
     },
+    "product_accordion_yxLDxL": {
+      "type": "product_accordion",
+      "blocks": {
+        "article_GEqM4U": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<p><strong>Sizing (size by weight class)<\/strong>:<br\/><\/p><ul><li><strong>S<\/strong>: 62-72kg \/ 136-159 lbs<\/li><li><strong>M<\/strong>: 73-84kg \/ 161-185 lbs<\/li><li><strong>L<\/strong>: 85-98kg \/ 187-216 lbs<\/li><li><strong>XL<\/strong>: 99-110kg \/ 218-242 lbs<\/li><li><strong>XXL<\/strong>: 111-125kg \/ 245-275 lbs<\/li><li><strong>Color palette<\/strong>: black with blue\/yellow print on the sides<\/li><\/ul>"
+          }
+        },
+        "article_iVGyA9": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>This compression singlet suits any type of weight training: weightlifting, powerlifting, and bodybuilding sessions.<\/p>"
+          }
+        },
+        "article_6bQi8y": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+          }
+        },
+        "article_GtpfhX": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>To wash a singlet, use a liquid soap only. Machine wash cold with like colors. Hang dry only.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "article_GEqM4U",
+        "article_iVGyA9",
+        "article_6bQi8y",
+        "article_GtpfhX"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd": {
       "type": "section-image-with-text",
       "blocks": {
@@ -319,6 +364,7 @@
   "order": [
     "17006690294fb39c04",
     "main",
+    "product_accordion_yxLDxL",
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "9222cec0-f847-4989-9afd-055ed05dd976",
     "section_custom_qcmbYA",
