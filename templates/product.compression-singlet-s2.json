@@ -1,0 +1,416 @@
+{
+  "sections": {
+    "17006690294fb39c04": {
+      "type": "apps",
+      "blocks": {
+        "68bb6900-0755-4395-86b5-9a43a15aba1c": {
+          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "\/",
+            "menu": "main-menu",
+            "separator": "›",
+            "bb_show_hide": true,
+            "unclickable": false,
+            "bb_show_more": true,
+            "enable_custom_feature": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_top_padding": 20,
+            "bb_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a",
+            "truncator": 20
+          }
+        }
+      },
+      "block_order": [
+        "68bb6900-0755-4395-86b5-9a43a15aba1c"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+            "vendor_size": 2,
+            "vendor_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "76f4a560-5d7a-4576-b3cb-80e42400f246": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "align": "center"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf241": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb": {
+          "type": "image",
+          "settings": {
+            "image_width": 200,
+            "align": "center",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "76f4a560-5d7a-4576-b3cb-80e42400f246",
+        "price",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "share",
+        "db48bf56-e904-4604-9f21-89d04e9bf241",
+        "description",
+        "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb"
+      ],
+      "settings": {
+        "container": "large",
+        "show_breadcrumbs": false,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_product_image_rounded_corners": false,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo-lock.png",
+            "title": "HEAVY DUTY",
+            "desc": "<p>Our wrist straps reinforced with extra stitching for superior strength and safety during deadlifts, shrugs, rows, pull-ups or dumbbell squats.<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": true,
+        "image_ratio": "1:1",
+        "block_layout": "2\/3",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 2,
+        "link_style": "hollow"
+      }
+    },
+    "3d13f6f8-1da6-434e-b931-c7cd6227574e": {
+      "type": "section-video",
+      "blocks": {
+        "template--17877542043912__3d13f6f8-1da6-434e-b931-c7cd6227574e-1688733442073661d6-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=E8bM3rGq_aQ&t=1s",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17877542043912__3d13f6f8-1da6-434e-b931-c7cd6227574e-1688733442073661d6-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
+    "9222cec0-f847-4989-9afd-055ed05dd976": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-new.png",
+            "title": "TWO MATERIAL OPTIONS",
+            "desc": "<p>To best satisfy your preferences, we manufactured two types of heavy duty straps: cotton straps and elastane straps with thick neoprene cushion around the wrist . Whatever you choose, you will receive the highest quality stuff.<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3-new.png",
+            "title": "3 SIZES",
+            "desc": "<p>We have made our Figure 8 Lifting Straps in three sizes (S\/M\/L) so that everyone can find the perfect fit for themselves.<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1",
+        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-2"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1\/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "f47e7c52-8d76-4826-80a7-073e15a0842e": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_f7b3b73a-5777-4a37-950c-bfcce38ae8c4.png",
+            "title": "Step 1:",
+            "sub_title": "",
+            "desc": "<p>TWO MATERIAL OPTIONS - To best satisfy your preferences, we manufactured two types of heavy duty straps: cotton straps and elastane straps with thick neoprene cushion around the wrist . Whatever you choose, you will receive the highest quality stuff.<\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-2.png",
+            "title": "Step 2:",
+            "sub_title": "",
+            "desc": "<p>3 SIZES - We have made our Figure 8 Lifting Straps in three sizes (S\/M\/L) so that everyone can find the perfect fit for themselves.<br\/><\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d7132e1a-9f58-451f-b199-80d4d1776fa7.png",
+            "title": "Step 1:",
+            "sub_title": "",
+            "desc": "<p>With our figure 8 wraps, your grip will be taken to the next level.<\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "e5411bbb-14f8-4f86-8156-1b0525ebbbf2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-copy-0.png",
+            "title": "Step 2:",
+            "sub_title": "",
+            "desc": "<p>- Grip fatigue<\/p><p>- Skin damage<\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-0",
+        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-1",
+        "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2",
+        "e5411bbb-14f8-4f86-8156-1b0525ebbbf2"
+      ],
+      "settings": {
+        "title": "HOW TO USE STRAP",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": true,
+        "grid": 2,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "natural",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
+      "type": "section-faq",
+      "blocks": {
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0": {
+          "type": "category",
+          "settings": {
+            "title": "FAQs"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1": {
+          "type": "article",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
+          "type": "article",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"
+      ],
+      "custom_css": [
+        "{background-color: #eeeeee;}"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "169047038881f6c5ad": {
+      "type": "apps",
+      "blocks": {
+        "e356709e-30b0-4584-a768-d48e4a306dbb": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "e356709e-30b0-4584-a768-d48e4a306dbb"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "wide",
+        "related_mobile_layout": "carousel",
+        "related_grid_num": 4,
+        "grid_mobile": "2",
+        "related_grid_row": 1
+      }
+    }
+  },
+  "order": [
+    "17006690294fb39c04",
+    "main",
+    "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
+    "3d13f6f8-1da6-434e-b931-c7cd6227574e",
+    "9222cec0-f847-4989-9afd-055ed05dd976",
+    "f47e7c52-8d76-4826-80a7-073e15a0842e",
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca",
+    "169047038881f6c5ad",
+    "product-recommendations"
+  ]
+}
