@@ -281,7 +281,7 @@
         "image_chQMNc": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/compression-singlet-sizes.webp",
+            "image": "shopify:\/\/shop_images\/singlet-sizes.webp",
             "link": "",
             "width": "2\/3"
           }
@@ -290,6 +290,10 @@
       "block_order": [
         "text_YrYCki",
         "image_chQMNc"
+      ],
+      "custom_css": [
+        "img {max-width: 600px;}",
+        ".home-custom__img--cover {background-image: none !important;}"
       ],
       "settings": {
         "section-bottom-margin": false
