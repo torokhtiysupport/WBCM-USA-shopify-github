@@ -15,6 +15,7 @@
             "unclickable": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
@@ -296,7 +297,7 @@
         "image_HArEdd": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/singlet-sizes.webp",
+            "image": "shopify:\/\/shop_images\/singlet-s-2-sizes.webp",
             "title": "",
             "desc": "",
             "horizontal_align": "left",
