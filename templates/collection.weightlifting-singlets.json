@@ -1,0 +1,289 @@
+{
+  "sections": {
+    "17006684633c156f39": {
+      "type": "apps",
+      "blocks": {
+        "cf8e3975-e6b6-4dc6-9476-4e93fceb1783": {
+          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "\/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "unclickable": false,
+            "enable_custom_feature": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_top_padding": 20,
+            "bb_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a"
+          }
+        }
+      },
+      "block_order": [
+        "cf8e3975-e6b6-4dc6-9476-4e93fceb1783"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "center_title": true,
+        "show_collection_image": false,
+        "collection_image_height": "4:1",
+        "collection_image_mobile_height": true,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    },
+    "section_custom_hBMFN3": {
+      "type": "section-custom",
+      "blocks": {
+        "text_px98cm": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Explore premium weightlifting knee sleeves at Warm Body Cold Mind. Enhance your performance with our durable and stylish knee sleeves. Shop now!<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_px98cm"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "title": "",
+            "count": true,
+            "show_swatches": true,
+            "filter_visibility": "three"
+          }
+        },
+        "e0ce1b59-e7f7-480b-a100-3692611ddfff": {
+          "type": "linklist",
+          "settings": {
+            "linklist": ""
+          }
+        }
+      },
+      "block_order": [
+        "filter",
+        "e0ce1b59-e7f7-480b-a100-3692611ddfff"
+      ],
+      "settings": {
+        "grid": 4,
+        "grid_mobile": "2",
+        "rows": 5,
+        "sort_enable": true,
+        "show_sidebar": true
+      }
+    },
+    "section_custom_d6YpL9": {
+      "type": "section-custom",
+      "blocks": {
+        "text_zmDkqA": {
+          "type": "text",
+          "settings": {
+            "title": "What Are Knee Sleeves?",
+            "text": "<p>We encounter a variety of gadgets and accessories designed to enhance performance and safety. Among these, knee sleeves, a seemingly simple yet profoundly impactful piece of equipment, hold a special place. In essence, they are supportive coverings worn around the knee joint with the primary purpose of safeguarding the knee from potential injury. This protective function becomes increasingly vital for knees subjected to intense daily pressure, such as during running, jumping, or weightlifting. But what forms do these knee sleeves take?<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_qRYkCF": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_JxdnFj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Side-Lunges-With-Knee-Sleeves.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_zmDkqA",
+        "spacer_qRYkCF",
+        "image_JxdnFj"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_ghwHVK": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n<h3>Compression<\/h3>\n<p>\n  The weightlifting knee sleeves that compress, you say? Indeed, compression workout knee sleeves are designed to maintain consistent pressure on the knee joint. This pressure augmentation leads to an increase in blood flow, which in turn reduces pain and swelling during and after performance. These sleeves often boast a neoprene make and come in a variety of thicknesses, with <strong>5mm<\/strong> and <strong>7mm<\/strong> being the most prevalent. Such compression sleeves prove beneficial for a range of activities, from running and jumping to weightlifting.\n<\/p>\n<h3>Knee Brace<\/h3>\n<p>\n  Next in line, we have the knee brace. This type of knee sleeve is typically used by individuals who have suffered a significant knee injury or undergone surgery. They offer a higher degree of support than standard knee sleeves for lifting and are designed specifically to protect the anterior knee and patella. Knee braces are ideal for individuals recovering from serious injuries, as they limit knee mobility and aid in reducing pain and inflammation.\n<\/p>\n<p>\n  Contrary to knee sleeves and braces, there are also lifting knee pads that aim to soften the external impact, i.e., when heating the floor. This accessory adds a sense of security. So, if you are banging your knees constantly and want to prevent knee contusions, then knee pads are what you need.\n<\/p>\n<h3>Nylon<\/h3>\n<p>\n  Finally, we have nylon lifting knee sleeves. These sleeves are lightweight and breathable, making them ideal for longer and less intense activities, such as hiking or running. They are typically thinner and more flexible than their neoprene counterparts, with an additional support feature in the form of a patellar pad.\n<\/p>\n<h4>5 mm<\/h4>\n<p>\n  The 5mm knee sleeves are versatile companions for your knee. They offer good support and are suitable for a wide range of activities. Whether you engage in heavy workouts or light training sessions, these sleeves are a reliable choice.\n<\/p>\n<h4>7 mm<\/h4>\n<p>\n  The 7mm sleeves provide maximum support and stability, making them ideal for heavy weightlifting and intense workouts. They are designed to exert significant pressure on the knee joint, thereby helping to increase blood flow and reduce pain and swelling.\n<\/p>\n<\/div>"
+      }
+    },
+    "section_custom_HPXwU3": {
+      "type": "section-custom",
+      "blocks": {
+        "text_hmVyQn": {
+          "type": "text",
+          "settings": {
+            "title": "Why Do You Need Knee Sleeves?",
+            "text": "<p>In the world of fitness equipment, knee sleeves emerge as a crucial piece of protective gear. They are not just a fashion statement or a sign of a serious athlete — they offer tangible benefits that can make a significant difference in your training and performance, not to mention your long-term joint health. So, why exactly do you need knee sleeves?<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_8NF7b7": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_aYwTcr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Back-Squat-Using-Knee-Sleeves.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_hmVyQn",
+        "spacer_8NF7b7",
+        "image_aYwTcr"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_FjUGXk": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n<h3>Benefit 1: The Guardian of Performance<\/h3>\n<p>\n  Weightlifting knee support has a unique role as the guardian of performance. Knee sleeves enhance your ability to perform by providing compression, which in turn increases blood flow and reduces pain and inflammation during and after a workout. This can lead to a modest strength boost, a more comfortable training experience, and fewer nagging aches, allowing you to push harder and reach new levels of performance.\n<\/p>\n<h3>Benefit 2: The Shield Against Injury<\/h3>\n<p>\n  Acting as a shield, weightlifting knee sleeves protect your knees from injuries that can occur due to overuse or sudden twists and turns during physical activity. By providing support to the knee joint and muscles around the knee, the sleeves help mitigate the risk of injury, allowing you to train with confidence and peace of mind.\n<\/p>\n<h3>Benefit 3: The Pain Reliever<\/h3>\n<p>\n  Knee sleeves help reduce pain before and after exercising. This is very helpful for people with long-lasting knee problems like arthritis or people recovering from knee surgeries. By wearing workout knee sleeves, you can continue to engage in physical activities without being held back by discomfort or pain.\n<\/p>\n<h3>Benefit 4: The Proprioception Enhancer<\/h3>\n<p>\n  Knee sleeves are important for improving proprioception, i.e. your body’s ability to sense its movement and location. The sleeves heighten this sense, helping the wearer to perform movements with better form and alignment, thereby reducing the risk of injury.\n<\/p>\n<h3>Benefit 5: The Source of Warmth<\/h3>\n<p>\n  Gym knee sleeves help to keep the knee joint warm, reducing the risk of strains and sprains. This is really helpful during colder months or when exercising in a cold place. The heat helps the liquid inside the knees, also called synovial fluid, to work better by reducing friction in the joints and protecting the knees during weight training.\n<\/p>\n<\/div>"
+      }
+    },
+    "section_custom_qQ8Lzz": {
+      "type": "section-custom",
+      "blocks": {
+        "text_3mEPXC": {
+          "type": "text",
+          "settings": {
+            "title": "How to Pick Knee Sleeves",
+            "text": "<p>Navigating the world of knee sleeves can feel like a journey through a labyrinth. The many choices can make you feel confused because each one has different features and advantages. Don't worry! This guide will help you find the best knee sleeve for you.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_K7pdLN": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_J3QM4h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Front-Lunges-using-Knee-Sleeves.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_3mEPXC",
+        "spacer_K7pdLN",
+        "image_J3QM4h"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_bY6FeD": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n<h3>Tip 1: Purpose-Driven Selection<\/h3>\n<p>\n  The reason behind your need will guide you toward the right type of knee sleeves. For example, if you're doing regular workouts, a compression knee sleeve would be good to use. But if you're recovering from an injury, a knee brace would be better. Fitness knee sleeves will fit when taking up general fitness training or doing some bodyweight exercises to have minimal support and cushioning for your knees.\n<\/p>\n<h3>Tip 2: Material Matters<\/h3>\n<p>\n  The choice of material is a pivotal point on your journey. Neoprene, being durable, flexible, and excellent at retaining heat, is the most common material used in knee sleeves. But if you're going on long adventures or doing light workouts, it's better to wear something made of nylon because it allows more air to pass through and keeps you cool.\n<\/p>\n<p>\n  Choose lifting knee sleeves made from high-quality materials such as neoprene or nylon blend: they'll provide excellent compression, and retain heat around the joints, at the same time they are more flexible and breathable offering great support.\n<\/p>\n<h3>Tip 3: Size Secures Success<\/h3>\n<p>\n  Always measure your knee circumference and check it with the size chart of the chosen knee sleeve brand. With the right size, the knee sleeves will work properly by compressing the area and retaining heat, they should fit moderately snugly, but do not tighten your knees too much. A knee sleeve that's too tight could restrict blood flow, while one that's too loose might not provide the support you need.\n<\/p>\n<h3>Tip 4: Thickness Tells a Tale<\/h3>\n<p>\n  The thickness of your knee sleeve tells a tale of the type of support and stability you're seeking. A 5mm sleeve is useful, flexible, and perfect for different activities, such as fitness and weightlifting. If you are doing harder workouts, you can use a 7mm sleeve for extra support and stability.\n<\/p>\n<h3>Tip 5: Budget Boundaries<\/h3>\n<p>\n  When you're searching for something, remember to consider the limits of what you can afford. Quality should always be your main focus, but it's also okay to look for the best deal for your money. Compare prices, think about the characteristics, and buy a knee sleeve that gives you the best combination of value and good performance.\n<\/p>\n<\/div>"
+      }
+    },
+    "section_custom_tCfjLY": {
+      "type": "section-custom",
+      "blocks": {
+        "text_EcmeVY": {
+          "type": "text",
+          "settings": {
+            "title": "How to Use Knee Sleeves",
+            "text": "<p>After successfully navigating the labyrinth and acquiring your knee sleeves, the next step is understanding how to use them effectively. Here's a roadmap to guide you:<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_J7UXYL": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_FNLfiR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wearing-Knee-Sleeves.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_EcmeVY",
+        "spacer_J7UXYL",
+        "image_FNLfiR"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "section_liquid_byeAVm": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n<h3>Tip 1: Correct Fit<\/h3>\n<p>\n  Make sure the knee sleeve is of the right size and fits well. It should be comfortably fitting to provide support but not too tight that it limits movement. To find the right size, bend your knee a little and measure the distance around the top part of your calf.\n<\/p>\n<h3>Tip 2: Proper Application<\/h3>\n<p>\n  When putting on the knee sleeve, make sure it covers your knee, or use a strap to wrap it around your knee. Some sleeves might have straps to make them more stable and to adjust how tight they fit.\n<\/p>\n<h3>Tip 3: Regular Cleaning<\/h3>\n<p>\n  Regularly clean your knee sleeves to maintain their freshness and prolong their lifespan. Most knee sleeves can be machine-washed, so check the product label for cleaning instructions.\n<\/p>\n<h3>Tip 4: Use During Specific Activities<\/h3>\n<p>\n  Knee sleeves are supposed to be worn at certain times of the day, e.g., when you're working out, going for a walk, or doing certain exercises. You should not wear a knee compression sleeve all day unless you really need it for an activity.\n<\/p>\n<h3>Tip 5: Consult with a Healthcare Professional<\/h3>\n<p>\n  If you're unsure about whether specific knee sleeves are the best option for you, consult with a healthcare professional. They can provide guidance on the type of support you need and how to wear it safely.\n<\/p>\n<\/div>"
+      }
+    }
+  },
+  "order": [
+    "17006684633c156f39",
+    "banner",
+    "section_custom_hBMFN3",
+    "product-grid",
+    "section_custom_d6YpL9",
+    "section_liquid_ghwHVK",
+    "section_custom_HPXwU3",
+    "section_liquid_FjUGXk",
+    "section_custom_qQ8Lzz",
+    "section_liquid_bY6FeD",
+    "section_custom_tCfjLY",
+    "section_liquid_byeAVm"
+  ]
+}
