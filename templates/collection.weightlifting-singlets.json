@@ -256,6 +256,44 @@
       "settings": {
         "custom_liquid": "<div class=\"container\">\n<h3>Fit<\/h3>\n<p>\n  One of the most important features you should consider is singlet fit: it should be snug and tight, the shoulder straps should always stay on the shoulders. The singlet legs have to be longer than 3 cm, but shorter than 25 cm.\n<\/p>\n<p>\nThey should not bunch up around the hips and should be tighter rather than looser around the thighs.\n<\/p>\n<h3>Material<\/h3>\n<p>\n  The fabric should be of the same thickness throughout the singlets. It cannot support any part of lifting performance. Generally, powerlifting singlets are made from a blend of polyester and spandex that is moisture-wicking, stretchy, and durable. It will help to keep you cool and comfortable.\n<\/p>\n<h3>Overall suit<\/h3>\n<p>\n  In powerlifting competitions, lifters have to wear a t-shirt underneath their singlets. It's allowed to pick one or two blank shirts that are part of the approved brand. It's also possible to wear briefs underneath the singlet. Women are allowed to wear a sports bra underneath their t-shirts.\n<\/p>\n<\/div>"
       }
+    },
+    "section_custom_rpywBm": {
+      "type": "section-custom",
+      "blocks": {
+        "text_bMXrkP": {
+          "type": "text",
+          "settings": {
+            "title": "THE RIGHT SIZE SELECTION",
+            "text": "",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_AWV3KC": {
+          "type": "spacer",
+          "settings": {
+            "space": "none"
+          }
+        },
+        "image_3YGzwk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/singlet-s-2-sizes.webp",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_bMXrkP",
+        "spacer_AWV3KC",
+        "image_3YGzwk"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
     }
   },
   "order": [
@@ -267,6 +305,7 @@
     "section_custom_HPXwU3",
     "section_liquid_FjUGXk",
     "section_custom_qQ8Lzz",
-    "section_liquid_bY6FeD"
+    "section_liquid_bY6FeD",
+    "section_custom_rpywBm"
   ]
 }
