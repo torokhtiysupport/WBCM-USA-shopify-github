@@ -105,8 +105,8 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "🌷SPRING SALE UP TO 20% OFF🌷",
-          "message_link": "shopify:\/\/collections\/accessories",
+          "message_text": "HELP UKRAINE 💛💙 READ MORE",
+          "message_link": "https:\/\/blog.warmbody-coldmind.com\/news\/help-ukraine\/",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff"
         }
@@ -916,7 +916,7 @@
       " \/* Search Title *\/h4.search__nav-title {display: none;}",
       " \/* Sale, Accessories Collections Spaces *\/body#men-39-s-workout-accessories-price-from-5 div.collection__header-info,body#sales-of-gym-apparel-amp-weightlifting-clothing div.collection__header-info {padding-top: 0 !important;}",
       "body#men-39-s-workout-accessories-price-from-5 div.collection__header-info__title,body#sales-of-gym-apparel-amp-weightlifting-clothing div.collection__header-info__title {margin-bottom: 0 !important;}",
-      "\/* Text transform for Titles *\/h1,h2:not(.product-card__title),h3,h4 {text-transform: uppercase !important;}"
+      " \/* Text transform for Titles *\/h1,h2:not(.product-card__title),h3,h4 {text-transform: uppercase !important;}"
     ]
   }
 }
