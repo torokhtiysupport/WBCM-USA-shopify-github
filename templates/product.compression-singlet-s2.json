@@ -203,7 +203,7 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Weightlifting-Compression-Singlet-S-2-side-view.webp",
+            "image": "shopify:\/\/shop_images\/best-singlet-s2-for.jpg",
             "title": "BEST SINGLET FOR:",
             "desc": "<ul><li>weightlifting<\/li><li>powerlifting<\/li><li>bodybuilding sessions<\/li><\/ul>",
             "horizontal_align": "left",
@@ -237,7 +237,7 @@
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Weightlifting-Compression-Singlet-S-2-back-view-close-up.webp",
+            "image": "shopify:\/\/shop_images\/singlet-s2-designed-by.jpg",
             "title": "DESIGN BY OLYMPIC CHAMPION OLEKSIY TOROKHTIY",
             "desc": "<p>Designed to withstand rigorous training sessions, this singlet offers superior comfort and durability, empowering athletes to push their limits. Experience the difference of locally-made excellence in every stitch<\/p>",
             "horizontal_align": "left",
@@ -261,6 +261,44 @@
         "block_layout": "1\/2",
         "block_align": "right",
         "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "section_image_with_text_Yae6cA": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_HArEdd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/singlet-s2-features.jpg",
+            "title": "",
+            "desc": "",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_HArEdd"
+      ],
+      "custom_css": [
+        ".o-layout {justify-content: center;}",
+        ".o-layout .o-layout__item:last-of-type {display: none;}"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "3\/4",
+        "block_align": "left",
+        "vertical_align": "top",
         "heading_size": 3,
         "link_style": "hollow"
       }
@@ -291,10 +329,10 @@
         "section-bottom-margin": true
       }
     },
-    "section_image_with_text_Yae6cA": {
+    "section_image_with_text_fCDXF3": {
       "type": "section-image-with-text",
       "blocks": {
-        "image_HArEdd": {
+        "image_gQbtbe": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/singlet-s-2-sizes.webp",
@@ -311,11 +349,7 @@
         }
       },
       "block_order": [
-        "image_HArEdd"
-      ],
-      "custom_css": [
-        ".o-layout {justify-content: center;}",
-        ".o-layout .o-layout__item:last-of-type {display: none;}"
+        "image_gQbtbe"
       ],
       "settings": {
         "container": "large",
@@ -402,8 +436,9 @@
     "product_accordion_yxLDxL",
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "9222cec0-f847-4989-9afd-055ed05dd976",
-    "section_custom_qcmbYA",
     "section_image_with_text_Yae6cA",
+    "section_custom_qcmbYA",
+    "section_image_with_text_fCDXF3",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "169047038881f6c5ad",
     "product-recommendations"
