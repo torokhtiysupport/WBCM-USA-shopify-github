@@ -1,1 +1,459 @@
-{"sections":{"1700669162ae8ba8ff":{"type":"apps","blocks":{"b3488157-c7aa-4db6-8835-d9d433533172":{"type":"shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef","settings":{"home":"Home","home_link":"\/","menu":"main-menu","separator":"›","bb_show_hide":true,"unclickable":false,"bb_show_more":true,"enable_custom_feature":true,"bb_capitalize":false,"bb_font_size":13,"bb_padding":0,"bb_top_padding":20,"bb_margin":0,"bb_align":"left","bb_color":"#2a2a2a","truncator":20}}},"block_order":["b3488157-c7aa-4db6-8835-d9d433533172"],"settings":{"include_margins":true}},"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"title_size":3,"title_size_mobile":3}},"88fe738e-7185-408a-8825-5761ae1a8d07":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}},"price":{"type":"price","settings":{"price_label_discount":true,"price_label_discount_type":"text","price_label_discount_color":"#c00000"}},"db48bf56-e904-4604-9f21-89d04e9bf249":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"variant_picker":{"type":"variant_picker","settings":{"product_variant_style":"swatches","popup_enable":false,"popup_trigger":"Size\nGröße\nTaille\nTaglia\nTalla","popup_label":"Size guide","popup_content":""}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"enable_payment_button":true}},"db48bf56-e904-4604-9f21-89d04e9bf241":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"description":{"type":"description","settings":{}}},"block_order":["title","88fe738e-7185-408a-8825-5761ae1a8d07","price","db48bf56-e904-4604-9f21-89d04e9bf249","variant_picker","quantity_selector","buy_buttons","db48bf56-e904-4604-9f21-89d04e9bf241","description"],"settings":{"container":"large","show_breadcrumbs":true,"enable_zoom":true,"enable_video_looping":false,"product_image_ratio":"1:1","enable_product_image_rounded_corners":false,"thumbnails_position":"bottom","thumbnails_ratio":"1:1","thumbnails_show_border":false}},"08486229-0104-4ed7-b49c-72eb0ea1ddd9":{"type":"product_accordion","blocks":{"template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-1":{"type":"article","settings":{"title":"Specs","text":"<ul><li>Dimensions: one size fits all <\/li><li>Length: 56 cm<\/li><li>Width: 4 cm<\/li><li>Thickness: 4 mm <\/li><li>Maximum weight capacity: 770 lb (350 kg)<\/li><li>Material: 100% cotton, soft neoprene, and authentic leather<\/li><\/ul>"}},"template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-2":{"type":"article","settings":{"title":"Intended Use","text":"<p>They are perfect for weightlifting, powerlifting, bodybuilding, functional fitness, i.e., working out with kettlebells and dumbbells, and more.<\/p>"}},"template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-3":{"type":"article","settings":{"title":"Warranty","text":"<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"}},"template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-4":{"type":"article","settings":{"title":"Care","text":"<p>It's better to hand wash the Lifting Straps with warm water and a mild detergent, allowing the straps to air dry laying on a towel to absorb water, or by hanging the straps to dry.<\/p>"}}},"block_order":["template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-1","template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-2","template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-3","template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-4"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"4d72668d-4bd3-4ac9-9460-867fa8651f93":{"type":"section-image-with-text","blocks":{"template--17877522841864__4d72668d-4bd3-4ac9-9460-867fa8651f93-1688993923cc7d1bb8-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/L000.jpg","title":"","desc":"<p><strong>Unique design:<\/strong><br\/>Based on Olympian experience, that gives ultimate grip comfort.<br\/><strong>Increased performance:<\/strong><br\/>Maximize your wrist strength and boost your lifts.<br\/><strong>Heavy-duty:<\/strong><br\/>Made of Cotton, Neoprene and Natural Leather these lifting straps can withstand many training sessions.<br\/><strong>Prevent injuries:<\/strong><br\/>WBCM straps make your grip more easier<br\/>and protect your wrists.<br\/><strong>Confident grip:<\/strong><br\/>For lifting will help you increase both your reps and weights.<br\/><strong>Approved:<\/strong><br\/>By the world-class athletes and champions<br\/>for your training performance<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}},"template--17877522841864__4d72668d-4bd3-4ac9-9460-867fa8651f93-1688993923cc7d1bb8-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/photo-lock-2_6ca1ae07-0a90-4197-bf1d-7db23a34dced.png","title":"BEST WRIST STRAPS FOR","desc":"<p>• WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• BODYBUILDING<br\/>• KETTLEBELL<br\/>• DUMBBELL<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["template--17877522841864__4d72668d-4bd3-4ac9-9460-867fa8651f93-1688993923cc7d1bb8-0","template--17877522841864__4d72668d-4bd3-4ac9-9460-867fa8651f93-1688993923cc7d1bb8-1"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"1\/2","block_align":"left","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"87cb4b7d-3fb9-4337-bc20-48d1151454c0":{"type":"section-video","blocks":{"template--17877522841864__87cb4b7d-3fb9-4337-bc20-48d1151454c0-168899706167833dbd-0":{"type":"video","settings":{"video_url":"https:\/\/www.youtube.com\/watch?v=zgqvEOmXXhI","video_title":""}}},"block_order":["template--17877522841864__87cb4b7d-3fb9-4337-bc20-48d1151454c0-168899706167833dbd-0"],"settings":{"title":"","desc":"","link_title":"More videos","link":"","overlay_strength":50}},"a81feb30-1c8c-41c3-9fb0-db22f7de6c33":{"type":"section-multi-column-images","blocks":{"template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-0":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/spet-1-800x800_684ee81e-fa1e-459a-8700-fb4b254d6c12.png","title":"Step 1:","sub_title":"","desc":"<p>Use the strap<br\/>so that the tail is in the same direction as your fingertip<br\/><\/p>","link_title":"","link":""}},"template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-1":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/spet-2-800x800_fa757303-cfa0-4c77-bea8-eb3c40ab21a4.png","title":"Step 2:","sub_title":"","desc":"<p>Wrap the tail several times around the bar (counterclockwise)<br\/><\/p>","link_title":"","link":""}},"template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-2":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/spet-3-800x800_74a6f623-32c2-4ccb-9769-0b27fa23211b.png","title":"Step 3:","sub_title":"","desc":"<p>Grab the bar. And you are just in one step before<br\/>your new PR!<\/p>","link_title":"","link":""}}},"block_order":["template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-0","template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-1","template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-2"],"settings":{"title":"HOW TO USE STRAP","container":"large","link_title":"Learn more","link":"","divider":false,"section-bottom-margin":true,"grid":3,"spacing":3,"alignment":"center","link_style":"hollow","heading_size":3,"image_toggle":true,"image_size":100,"image_padding":0,"image_ratio":"circle","image_fit":false,"bg_color":"rgba(0,0,0,0)","color_image":"rgba(0,0,0,0)","color_text":"#212121","text_heading_color":false,"grid_mobile":"1","mobile_layout":"carousel"}},"45b35def-f9f8-4810-b023-e0270476d923":{"type":"section-multi-column-images","blocks":{"612eb561-8796-4a15-9cd2-2edcab772140":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/about-1.png","title":"IMPROVE YOUR GRIP","sub_title":"","desc":"<p><strong>1.<\/strong> <strong>WITHOUT STRAPS You struggle<\/strong> Grip fatigue and skin damage keeps you from lifting your best results. Supporting the smaller hand, wrist & forearm muscles which fatigue first!<br\/><strong>2. WITH STRAPS You dominate<\/strong><br\/>With our lifting straps, you are able to get a better grip on the bar and lift more weight for longer periods of time.<br\/><\/p>","link_title":"","link":""}},"69e6baad-c397-40c7-8163-5377dddeb0ef":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/2_c1a324a0-9d8c-4fb6-af68-6595a5506526.png","title":"RIGHT SIZE - INCREASED WEIGHTS","sub_title":"","desc":"<p>One size fits all. 22\" length, 1.6\" wide, with a special type of dual stitching to prevent tearing.<br\/><\/p>","link_title":"","link":""}},"2ce34f5c-1927-4227-9422-77f5e0aae2a2":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/about-3_2219d62c-118e-4f00-a6b9-5f9fa797c6d6.png","title":"DESIGNED BY A CHAMPION","sub_title":"","desc":"<p>Completely designed by <a href=\"https:\/\/www.instagram.com\/torokhtiy\/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy<\/span><\/a>, an Olympic Champion, the Lifting Straps Lasso \"BASIC\" represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.<\/p>","link_title":"","link":""}}},"block_order":["612eb561-8796-4a15-9cd2-2edcab772140","69e6baad-c397-40c7-8163-5377dddeb0ef","2ce34f5c-1927-4227-9422-77f5e0aae2a2"],"settings":{"title":"","container":"large","link_title":"Learn more","link":"","divider":false,"section-bottom-margin":true,"grid":3,"spacing":3,"alignment":"center","link_style":"hollow","heading_size":3,"image_toggle":true,"image_size":100,"image_padding":0,"image_ratio":"1:1","image_fit":false,"bg_color":"rgba(0,0,0,0)","color_image":"rgba(0,0,0,0)","color_text":"#212121","text_heading_color":false,"grid_mobile":"1","mobile_layout":"carousel"}},"2d5bd59f-a78a-4717-af1f-2177417b93ca":{"type":"section-faq","blocks":{"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0":{"type":"category","settings":{"title":"FAQs"}},"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1":{"type":"article","settings":{"title":"Shipping","text":"<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"}},"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2":{"type":"article","settings":{"title":"Returns","text":"<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"}}},"block_order":["template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0","template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1","template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"],"custom_css":["{background-color: #eeeeee;}"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"1689611527f9e7c225":{"type":"apps","blocks":{"ac5d488a-c29b-4be5-963c-3ab40feff678":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["ac5d488a-c29b-4be5-963c-3ab40feff678"],"settings":{"include_margins":true}},"product-recommendations":{"type":"product-recommendations","settings":{"related_title":"You may also like","section_width":"wide","related_mobile_layout":"carousel","related_grid_num":4,"grid_mobile":"2","related_grid_row":1}}},"order":["1700669162ae8ba8ff","main","08486229-0104-4ed7-b49c-72eb0ea1ddd9","4d72668d-4bd3-4ac9-9460-867fa8651f93","87cb4b7d-3fb9-4337-bc20-48d1151454c0","a81feb30-1c8c-41c3-9fb0-db22f7de6c33","45b35def-f9f8-4810-b023-e0270476d923","2d5bd59f-a78a-4717-af1f-2177417b93ca","1689611527f9e7c225","product-recommendations"]}
+{
+  "sections": {
+    "1700669162ae8ba8ff": {
+      "type": "apps",
+      "blocks": {
+        "b3488157-c7aa-4db6-8835-d9d433533172": {
+          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "\/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "unclickable": false,
+            "bb_show_more": true,
+            "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_mobile_padding": 55,
+            "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
+            "bb_margin": 0,
+            "bb_mobile_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a",
+            "truncator": 20
+          }
+        }
+      },
+      "block_order": [
+        "b3488157-c7aa-4db6-8835-d9d433533172"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "88fe738e-7185-408a-8825-5761ae1a8d07": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf241": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "88fe738e-7185-408a-8825-5761ae1a8d07",
+        "price",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "db48bf56-e904-4604-9f21-89d04e9bf241",
+        "description"
+      ],
+      "settings": {
+        "container": "large",
+        "show_breadcrumbs": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_product_image_rounded_corners": false,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "08486229-0104-4ed7-b49c-72eb0ea1ddd9": {
+      "type": "product_accordion",
+      "blocks": {
+        "template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-1": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<ul><li>Dimensions: one size fits all<br\/>If you don't know how to choose a size, read our tips <a href=\"https:\/\/blog.warmbody-coldmind.com\/guides\/wrist-wrap-size-chart\/\" target=\"_blank\" title=\"https:\/\/blog.warmbody-coldmind.com\/guides\/wrist-wrap-size-chart\/\">here<\/a>.<\/li><li>Length: 56 cm<\/li><li>Width: 4 cm<\/li><li>Thickness: 4 mm <\/li><li>Maximum weight capacity: 770 lb (350 kg)<\/li><li>Material: 100% cotton, soft neoprene, and authentic leather<\/li><\/ul>"
+          }
+        },
+        "template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-2": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>They are perfect for weightlifting, powerlifting, bodybuilding, functional fitness, i.e., working out with kettlebells and dumbbells, and more.<\/p>"
+          }
+        },
+        "template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-3": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+          }
+        },
+        "template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-4": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>It's better to hand wash the Lifting Straps with warm water and a mild detergent, allowing the straps to air dry laying on a towel to absorb water, or by hanging the straps to dry.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-1",
+        "template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-2",
+        "template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-3",
+        "template--20972192104758__08486229-0104-4ed7-b49c-72eb0ea1ddd9-article-4"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "4d72668d-4bd3-4ac9-9460-867fa8651f93": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--17877522841864__4d72668d-4bd3-4ac9-9460-867fa8651f93-1688993923cc7d1bb8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/L000.jpg",
+            "title": "",
+            "desc": "<p><strong>Unique design:<\/strong><br\/>Based on Olympian experience, that gives ultimate grip comfort.<br\/><strong>Increased performance:<\/strong><br\/>Maximize your wrist strength and boost your lifts.<br\/><strong>Heavy-duty:<\/strong><br\/>Made of Cotton, Neoprene and Natural Leather these lifting straps can withstand many training sessions.<br\/><strong>Prevent injuries:<\/strong><br\/>WBCM straps make your grip more easier<br\/>and protect your wrists.<br\/><strong>Confident grip:<\/strong><br\/>For lifting will help you increase both your reps and weights.<br\/><strong>Approved:<\/strong><br\/>By the world-class athletes and champions<br\/>for your training performance<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "template--17877522841864__4d72668d-4bd3-4ac9-9460-867fa8651f93-1688993923cc7d1bb8-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo-lock-2_6ca1ae07-0a90-4197-bf1d-7db23a34dced.png",
+            "title": "BEST WRIST STRAPS FOR",
+            "desc": "<p>• WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• BODYBUILDING<br\/>• KETTLEBELL<br\/>• DUMBBELL<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17877522841864__4d72668d-4bd3-4ac9-9460-867fa8651f93-1688993923cc7d1bb8-0",
+        "template--17877522841864__4d72668d-4bd3-4ac9-9460-867fa8651f93-1688993923cc7d1bb8-1"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": true,
+        "image_ratio": "natural",
+        "block_layout": "1\/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "87cb4b7d-3fb9-4337-bc20-48d1151454c0": {
+      "type": "section-video",
+      "blocks": {
+        "template--17877522841864__87cb4b7d-3fb9-4337-bc20-48d1151454c0-168899706167833dbd-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=zgqvEOmXXhI",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17877522841864__87cb4b7d-3fb9-4337-bc20-48d1151454c0-168899706167833dbd-0"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
+    "a81feb30-1c8c-41c3-9fb0-db22f7de6c33": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spet-1-800x800_684ee81e-fa1e-459a-8700-fb4b254d6c12.png",
+            "title": "Step 1:",
+            "sub_title": "",
+            "desc": "<p>Use the strap<br\/>so that the tail is in the same direction as your fingertip<br\/><\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spet-2-800x800_fa757303-cfa0-4c77-bea8-eb3c40ab21a4.png",
+            "title": "Step 2:",
+            "sub_title": "",
+            "desc": "<p>Wrap the tail several times around the bar (counterclockwise)<br\/><\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spet-3-800x800_74a6f623-32c2-4ccb-9769-0b27fa23211b.png",
+            "title": "Step 3:",
+            "sub_title": "",
+            "desc": "<p>Grab the bar. And you are just in one step before<br\/>your new PR!<\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-0",
+        "template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-1",
+        "template--17877522841864__a81feb30-1c8c-41c3-9fb0-db22f7de6c33-1689001477e3b8286b-2"
+      ],
+      "settings": {
+        "title": "HOW TO USE STRAP",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": true,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "circle",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "45b35def-f9f8-4810-b023-e0270476d923": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "612eb561-8796-4a15-9cd2-2edcab772140": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/about-1.png",
+            "title": "IMPROVE YOUR GRIP",
+            "sub_title": "",
+            "desc": "<p><strong>1.<\/strong> <strong>WITHOUT STRAPS You struggle<\/strong> Grip fatigue and skin damage keeps you from lifting your best results. Supporting the smaller hand, wrist & forearm muscles which fatigue first!<br\/><strong>2. WITH STRAPS You dominate<\/strong><br\/>With our lifting straps, you are able to get a better grip on the bar and lift more weight for longer periods of time.<br\/><\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "69e6baad-c397-40c7-8163-5377dddeb0ef": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_c1a324a0-9d8c-4fb6-af68-6595a5506526.png",
+            "title": "RIGHT SIZE - INCREASED WEIGHTS",
+            "sub_title": "",
+            "desc": "<p>One size fits all. 22\" length, 1.6\" wide, with a special type of dual stitching to prevent tearing.<br\/><\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "2ce34f5c-1927-4227-9422-77f5e0aae2a2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/about-3_2219d62c-118e-4f00-a6b9-5f9fa797c6d6.png",
+            "title": "DESIGNED BY A CHAMPION",
+            "sub_title": "",
+            "desc": "<p>Completely designed by <a href=\"https:\/\/www.instagram.com\/torokhtiy\/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy<\/span><\/a>, an Olympic Champion, the Lifting Straps Lasso \"BASIC\" represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.<\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "612eb561-8796-4a15-9cd2-2edcab772140",
+        "69e6baad-c397-40c7-8163-5377dddeb0ef",
+        "2ce34f5c-1927-4227-9422-77f5e0aae2a2"
+      ],
+      "settings": {
+        "title": "",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": true,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "1:1",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
+      "type": "section-faq",
+      "blocks": {
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0": {
+          "type": "category",
+          "settings": {
+            "title": "FAQs"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1": {
+          "type": "article",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
+          "type": "article",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"
+      ],
+      "custom_css": [
+        "{background-color: #eeeeee;}"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "1689611527f9e7c225": {
+      "type": "apps",
+      "blocks": {
+        "ac5d488a-c29b-4be5-963c-3ab40feff678": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "ac5d488a-c29b-4be5-963c-3ab40feff678"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "wide",
+        "related_mobile_layout": "carousel",
+        "related_grid_num": 4,
+        "grid_mobile": "2",
+        "related_grid_row": 1
+      }
+    }
+  },
+  "order": [
+    "1700669162ae8ba8ff",
+    "main",
+    "08486229-0104-4ed7-b49c-72eb0ea1ddd9",
+    "4d72668d-4bd3-4ac9-9460-867fa8651f93",
+    "87cb4b7d-3fb9-4337-bc20-48d1151454c0",
+    "a81feb30-1c8c-41c3-9fb0-db22f7de6c33",
+    "45b35def-f9f8-4810-b023-e0270476d923",
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca",
+    "1689611527f9e7c225",
+    "product-recommendations"
+  ]
+}
