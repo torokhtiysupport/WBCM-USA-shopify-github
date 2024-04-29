@@ -15,6 +15,7 @@
             "unclickable": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
@@ -138,7 +139,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Dimensions: S (28\"-35\"), M (30\"-37\"), L (31\"-41\"), XL (35\"-45\"), XXL (38\"-48\"), XXXL (41\"-52\")<\/li><li>Material: genuine A-grade leather<\/li><li>Thickness: 6 mm<\/li><li>Width: 4\" (10 cm)<\/li><\/ul>"
+            "text": "<ul><li>Dimensions: S (28\"-35\"), M (30\"-37\"), L (31\"-41\"), XL (35\"-45\"), XXL (38\"-48\"), XXXL (41\"-52\")<br\/>If you don't know how to choose a size, read our tips <a href=\"https:\/\/blog.warmbody-coldmind.com\/size-guides\/lifting-belt-size-chart\/\" target=\"_blank\" title=\"https:\/\/blog.warmbody-coldmind.com\/size-guides\/lifting-belt-size-chart\/\">here<\/a>.<\/li><li>Material: genuine A-grade leather<\/li><li>Thickness: 6 mm<\/li><li>Width: 4\" (10 cm)<\/li><\/ul>"
           }
         },
         "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-2": {
