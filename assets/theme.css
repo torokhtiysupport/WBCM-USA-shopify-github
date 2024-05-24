@@ -9625,3 +9625,38 @@ section.description .container--tiny {
 .breadcrumbs  {
   padding: 20px 0 0!important;
 }
+
+/* Announcement Bar Styles */
+
+.announcement__text {
+  display: inline-block;
+  position: relative;
+}
+
+.announcement__text:before {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 15px;
+  top: 50%;
+  left: -20px;
+  transform: translateY(-50%);
+  background-image: url('https://cdn.shopify.com/s/files/1/0061/2142/2937/files/US-icon.jpg?v=1716531679');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.announcement__text:after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 15px;
+  top: 50%;
+  right: -20px;
+  transform: translateY(-50%);
+  background-image: url('https://cdn.shopify.com/s/files/1/0061/2142/2937/files/US-icon.jpg?v=1716531679');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
