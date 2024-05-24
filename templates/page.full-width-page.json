@@ -2,6 +2,10 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        ".container--tiny {max-width: 1400px;}",
+        ".section__title {max-width: inherit;}"
+      ],
       "settings": {
       }
     }
