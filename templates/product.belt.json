@@ -277,7 +277,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/The_man_is_holding_a_Leather_Weightlifting_Belt.jpg",
             "title": "",
-            "desc": "<p><strong>HEAVY-DUTY:<br\/><\/strong>The Double Roller Stainless Steel Buckle with 4 Strengthened Bol.<br\/><strong>TOP QUALITY:<\/strong><br\/>Genuine A-Grade Leather with 6mm Thickness Maximum Support<br\/><strong>MAXIMUM SUPPORT:<\/strong><br\/>4\" Wide for Confident & Comfortable Back Support<br\/><strong>UNIQUE DESIGN:<\/strong><br\/>Tough and Durable Belt with laser printing for men and women.<\/p>",
+            "desc": "<h2>Design & Materials<\/h2><p>Designed by World and European Olympic weightlifting champion Oleksiy Torokhtiy, this leather gym belt is the epitome of high-quality, tough, and durable construction, ensuring unwavering support during your most intense lifting sessions.<\/p><p>Crafted from premium A-grade genuine leather, this Olympic lifting belt boasts a double roller stainless steel buckle, reinforced with four strengthened bolts for unparalleled stability. Say goodbye to slipping and riding with this meticulously engineered design. Plus, with the buckle strategically positioned away from your skin, discomfort becomes a thing of the past.<\/p><h3>Versatility<\/h3><p>Approved for Olympic Weightlifting competitions, this leather workout belt is trusted by hundreds of professionals across disciplines, including bodybuilding, powerlifting, cross-training, and more. Whether you're deadlifting, squatting, or engaging in intense fitness training, this belt is your ultimate companion.<\/p><p>With sizes ranging from S to XXXL, finding the perfect fit is a breeze. Simply measure your true waist size for optimal results. And with genuine A-grade leather construction, 6mm thickness, and a 4-inch width, you can trust in maximum support and durability, every rep, every set.<\/p><p>Elevate your lifting game with the WBCM leather olympic weightlifting belt. Confidence, comfort, and performance—all in one tough and stylish package.<\/p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -311,7 +311,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/best-belt-for.jpg",
             "title": "BEST BELT FOR:",
-            "desc": "<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• BODYBUILDING<br\/>• CROSS TRAINING<br\/>• FITNESS TRAINING<\/p>",
+            "desc": "<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• BODYBUILDING<br\/>• CROSS TRAINING<br\/>• GENERAL FITNESS TRAINING<\/p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -363,8 +363,8 @@
       "type": "section-rich-text",
       "settings": {
         "full_width": false,
-        "section_title": "",
-        "text": "<p>Pay Attention to Take Your Measurements from <strong>True Waist Size<\/strong>. Do Not Use Pants Size.<br\/>If your Measurements are between two sizes, we Recommend Choosing the Upper Size.<\/p>",
+        "section_title": "Sizing",
+        "text": "<p>Pay Attention to Take Your Measurements from <strong>True Waist Size<\/strong>. Do Not Use Pants Size.<br\/>If your Measurements are between two sizes, we Recommend Choosing the Upper Size.<\/p><p>If you don't know how to choose a size, read our tips <a href=\"https:\/\/blog.warmbody-coldmind.com\/size-guides\/lifting-belt-size-chart\/\" target=\"_blank\" title=\"https:\/\/blog.warmbody-coldmind.com\/size-guides\/lifting-belt-size-chart\/\">here<\/a>.<\/p>",
         "section-bottom-margin": true
       }
     },
