@@ -1,1 +1,491 @@
-{"sections":{"1700668731f2e939dc":{"type":"apps","blocks":{"9c14a0e4-dccc-4f56-971b-eb04ee3ae9fb":{"type":"shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef","settings":{"home":"Home","home_link":"\/","menu":"main-menu","separator":"›","bb_show_hide":true,"unclickable":false,"bb_show_more":true,"enable_custom_feature":true,"bb_capitalize":false,"bb_font_size":13,"bb_padding":0,"bb_top_padding":20,"bb_margin":0,"bb_align":"left","bb_color":"#2a2a2a","truncator":20}}},"block_order":["9c14a0e4-dccc-4f56-971b-eb04ee3ae9fb"],"settings":{"include_margins":true}},"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"title_size":3,"title_size_mobile":3}},"f7fce164-7cc0-4d79-8d0c-65f4cf079356":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}},"price":{"type":"price","settings":{"price_label_discount":true,"price_label_discount_type":"text","price_label_discount_color":"#c00000"}},"db48bf56-e904-4604-9f21-89d04e9bf249":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"variant_picker":{"type":"variant_picker","settings":{"product_variant_style":"swatches","popup_enable":false,"popup_trigger":"Size\nGröße\nTaille\nTaglia\nTalla","popup_label":"Size guide","popup_content":""}},"a0af9be4-4bef-488d-86f1-4b0e5599a6ca":{"type":"image_swatches","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"enable_payment_button":true}},"db48bf56-e904-4604-9f21-89d04e9bf241":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"description":{"type":"description","settings":{}},"c5c79762-70af-4d16-801f-50b992b3d036":{"type":"complementary-products","settings":{"heading":"Goes well with","heading_size":3,"display_collapsible_tab":false,"collapsible_tab_open":false,"product_list_limit":10,"image_size":"1:1","image_fit":true,"hide_labels":true,"enable_quick_shop":true}}},"block_order":["title","f7fce164-7cc0-4d79-8d0c-65f4cf079356","price","db48bf56-e904-4604-9f21-89d04e9bf249","variant_picker","a0af9be4-4bef-488d-86f1-4b0e5599a6ca","quantity_selector","buy_buttons","db48bf56-e904-4604-9f21-89d04e9bf241","description","c5c79762-70af-4d16-801f-50b992b3d036"],"settings":{"container":"large","show_breadcrumbs":true,"enable_zoom":true,"enable_video_looping":false,"product_image_ratio":"1:1","enable_product_image_rounded_corners":false,"thumbnails_position":"bottom","thumbnails_ratio":"1:1","thumbnails_show_border":false}},"1d4bcfae-23a5-4caf-a18e-2ebe103b6e28":{"type":"product_accordion","blocks":{"template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-1":{"type":"article","settings":{"title":"Specs","text":"<ul><li>Fit all 2\" Olympic barbells<\/li><li>Made from scratch-resistant materials<\/li><li>Features quick release mechanism<\/li><li>Come with stainless steel pins<\/li><\/ul>"}},"template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-2":{"type":"article","settings":{"title":"Intended Use","text":"<p>The collars fit perfectly functional fitness workouts, Olympic weightlifting, powerlifting, strength, and cross-training, performing deadlifts and bench presses, as well as other training sessions involving dropping the bars from an elevated position.<\/p>"}},"template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-3":{"type":"article","settings":{"title":"Warranty","text":"<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"}},"template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-4":{"type":"article","settings":{"title":"Care","text":"<p>When working out with a barbell, it’s preferable to use a plastic bristle brush and a mild detergent to clean the knurl. As you use the collars they’re in contact with a bar, so you can also wipe them down with 3:1 oil and brush it into the knurl with a plastic bristle brush. The steel will soak the oil in and the bar will stay healthy. Then wipe off the odd oil with a towel.<\/p>"}}},"block_order":["template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-1","template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-2","template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-3","template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-4"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"e9885e38-c835-44d0-bebe-56faee5bd677":{"type":"section-image-with-text","blocks":{"template--17392842080520__e9885e38-c835-44d0-bebe-56faee5bd677-16887259068edd12c0-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Collars_Pro_All_Colors.jpg","title":"","desc":"<h4><strong>MULTIPLE COLOR<br\/>VARIATIONS<\/strong><\/h4>","horizontal_align":"center","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["template--17392842080520__e9885e38-c835-44d0-bebe-56faee5bd677-16887259068edd12c0-0"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":false,"image_ratio":"natural","block_layout":"3\/4","block_align":"left","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"0619843f-642c-4cc7-94bd-339433ff5a34":{"type":"section-image-with-text","blocks":{"template--17392842080520__0619843f-642c-4cc7-94bd-339433ff5a34-16887259068edd12c0-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/photo-2_eb905445-dc73-4ee5-b18b-064b8c67cdb1.png","title":"","desc":"<p>• FITS ALL 2\" OLYMPIC STANDARD BARBELLS<br\/><\/p><p>• PROVIDES SECURE QUICK RELEASE MECHANISM<br\/><\/p><p>• UPGRADED SOLID SYSTEM PREVENT RATTLING OF WEIGHT PLATES<br\/><\/p><p>• LIGHTWEIGHT <br\/><\/p><p>• PREMIUM DURABLE & LONG<br\/>LASTING SCRATCH-RESISTANT MATERIALS<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["template--17392842080520__0619843f-642c-4cc7-94bd-339433ff5a34-16887259068edd12c0-0"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":false,"image_ratio":"1:1","block_layout":"1\/2","block_align":"right","vertical_align":"middle","heading_size":2,"link_style":"body"}},"6765ee33-3126-4a99-ad5c-fd8d35172648":{"type":"section-image-slideshow","blocks":{"5aa083d4-e6e2-4ddb-adaa-eb66a648b843":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/bammer-3-1464px_x_600px.jpg","link":""}}},"block_order":["5aa083d4-e6e2-4ddb-adaa-eb66a648b843"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":false}},"7098746f-02e0-4400-82ca-bef8bd1524b9":{"type":"section-image-with-text","blocks":{"a797e410-cbfb-4716-a036-f97439def2d4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/photo_ca602d1e-37b6-4aae-a22c-39f0264e8a50.png","title":"BEST FOR:","desc":"<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• DEADLIFTING<br\/>• CROSS TRAINING<br\/>• STRENGTH TRAINING<br\/>• BENCH PRESS<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["a797e410-cbfb-4716-a036-f97439def2d4"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":false,"image_ratio":"1:1","block_layout":"1\/2","block_align":"right","vertical_align":"middle","heading_size":2,"link_style":"body"}},"2ff90489-b036-46c5-975a-657f9f1b9671":{"type":"section-video","blocks":{"template--17392842080520__2ff90489-b036-46c5-975a-657f9f1b9671-1675173359122e886e-0":{"type":"video","settings":{"video_url":"https:\/\/youtu.be\/dNKd3--_hkQ","video_title":""}}},"block_order":["template--17392842080520__2ff90489-b036-46c5-975a-657f9f1b9671-1675173359122e886e-0"],"settings":{"title":"","desc":"","link_title":"More videos","link":"","overlay_strength":50}},"47413272-dd0d-48b9-bb27-bb476648907e":{"type":"section-multi-column-images","blocks":{"template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-0":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/2_3_1.png","title":"STEP 1","sub_title":"","desc":"<p>Place Collar on the Barbell<br\/><\/p>","link_title":"","link":""}},"template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-1":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/2_3_7bf29828-0844-4972-9a53-d9642c282386.png","title":"STEP 2","sub_title":"","desc":"<p>Press Down on the Latch to Secure the Collar<br\/><\/p>","link_title":"","link":""}},"template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-2":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/3_3_a124df56-8786-46be-bac6-51608371d3dd.png","title":"STEP 3","sub_title":"","desc":"<p>Complete & Ready to Use<br\/><\/p>","link_title":"","link":""}}},"block_order":["template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-0","template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-1","template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-2"],"settings":{"title":"HOW TO USE:","container":"large","link_title":"Learn more","link":"","divider":false,"section-bottom-margin":false,"grid":3,"spacing":3,"alignment":"center","link_style":"hollow","heading_size":3,"image_toggle":true,"image_size":100,"image_padding":0,"image_ratio":"1:1","image_fit":false,"bg_color":"rgba(0,0,0,0)","color_image":"rgba(0,0,0,0)","color_text":"#212121","text_heading_color":false,"grid_mobile":"1","mobile_layout":"carousel"}},"1b407558-9d7a-4834-b4c0-8fae2c7ae071":{"type":"section-faq","blocks":{"template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-0":{"type":"category","settings":{"title":"FAQs"}},"template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-1":{"type":"article","settings":{"title":"Shipping","text":"<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"}},"template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-2":{"type":"article","settings":{"title":"Returns","text":"<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"}}},"block_order":["template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-0","template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-1","template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-2"],"custom_css":["{background-color: #eeeeee;}"],"settings":{"enable_sidebar":false,"cta_link_title":"FAQs","cta_link":"","cta_style":"link"}},"16896102249cff15d9":{"type":"apps","blocks":{"50d43415-0d3a-415e-9d11-a6dbca7bd1ce":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["50d43415-0d3a-415e-9d11-a6dbca7bd1ce"],"settings":{"include_margins":true}},"product-recommendations":{"type":"product-recommendations","settings":{"related_title":"You may also like","section_width":"wide","related_mobile_layout":"carousel","related_grid_num":4,"grid_mobile":"2","related_grid_row":1}}},"order":["1700668731f2e939dc","main","1d4bcfae-23a5-4caf-a18e-2ebe103b6e28","e9885e38-c835-44d0-bebe-56faee5bd677","0619843f-642c-4cc7-94bd-339433ff5a34","6765ee33-3126-4a99-ad5c-fd8d35172648","7098746f-02e0-4400-82ca-bef8bd1524b9","2ff90489-b036-46c5-975a-657f9f1b9671","47413272-dd0d-48b9-bb27-bb476648907e","1b407558-9d7a-4834-b4c0-8fae2c7ae071","16896102249cff15d9","product-recommendations"]}
+{
+  "sections": {
+    "1700668731f2e939dc": {
+      "type": "apps",
+      "blocks": {
+        "9c14a0e4-dccc-4f56-971b-eb04ee3ae9fb": {
+          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "\/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "unclickable": false,
+            "bb_show_more": true,
+            "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_mobile_padding": 55,
+            "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
+            "bb_margin": 0,
+            "bb_mobile_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a",
+            "truncator": 20
+          }
+        }
+      },
+      "block_order": [
+        "9c14a0e4-dccc-4f56-971b-eb04ee3ae9fb"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "f7fce164-7cc0-4d79-8d0c-65f4cf079356": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "a0af9be4-4bef-488d-86f1-4b0e5599a6ca": {
+          "type": "image_swatches",
+          "settings": {
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf241": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "c5c79762-70af-4d16-801f-50b992b3d036": {
+          "type": "complementary-products",
+          "settings": {
+            "heading": "Goes well with",
+            "heading_size": 3,
+            "display_collapsible_tab": false,
+            "collapsible_tab_open": false,
+            "product_list_limit": 10,
+            "image_size": "1:1",
+            "image_fit": true,
+            "hide_labels": true,
+            "enable_quick_shop": true
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "f7fce164-7cc0-4d79-8d0c-65f4cf079356",
+        "price",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "variant_picker",
+        "a0af9be4-4bef-488d-86f1-4b0e5599a6ca",
+        "quantity_selector",
+        "buy_buttons",
+        "db48bf56-e904-4604-9f21-89d04e9bf241",
+        "description",
+        "c5c79762-70af-4d16-801f-50b992b3d036"
+      ],
+      "settings": {
+        "container": "large",
+        "show_breadcrumbs": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_product_image_rounded_corners": false,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "1d4bcfae-23a5-4caf-a18e-2ebe103b6e28": {
+      "type": "product_accordion",
+      "blocks": {
+        "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-1": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<ul><li>Fit all 2\" Olympic barbells<\/li><li>Made from scratch-resistant materials<\/li><li>Features quick release mechanism<\/li><li>Come with stainless steel pins<\/li><\/ul>"
+          }
+        },
+        "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-2": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>Warm Body Cold Mind Olympic barbell clamps are perfect for functional fitness workouts, Olympic weightlifting, powerlifting, strength, and cross-training, performing deadlifts and bench presses, as well as other training sessions involving dropping the bars from an elevated position.<\/p>"
+          }
+        },
+        "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-3": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+          }
+        },
+        "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-4": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>When working out with a barbell, it’s preferable to use a plastic bristle brush and a mild detergent to clean the knurl. As you use the collars they’re in contact with a bar, so you can also wipe them down with 3:1 oil and brush it into the knurl with a plastic bristle brush. The steel will soak the oil in and the bar will stay healthy. Then wipe off the odd oil with a towel.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-1",
+        "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-2",
+        "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-3",
+        "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-4"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "e9885e38-c835-44d0-bebe-56faee5bd677": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--17392842080520__e9885e38-c835-44d0-bebe-56faee5bd677-16887259068edd12c0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Collars_Pro_All_Colors.jpg",
+            "title": "",
+            "desc": "<h4><strong>MULTIPLE COLOR<br\/>VARIATIONS<\/strong><\/h4>",
+            "horizontal_align": "center",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17392842080520__e9885e38-c835-44d0-bebe-56faee5bd677-16887259068edd12c0-0"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "3\/4",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "0619843f-642c-4cc7-94bd-339433ff5a34": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--17392842080520__0619843f-642c-4cc7-94bd-339433ff5a34-16887259068edd12c0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo-2_eb905445-dc73-4ee5-b18b-064b8c67cdb1.png",
+            "title": "",
+            "desc": "<p>• OUR OLYMPIC BARBELL CLIPS FIT ALL 2\" OLYMPIC STANDARD BARBELLS<br\/><\/p><p>• PROVIDE SECURE QUICK RELEASE MECHANISM<br\/><\/p><p>• UPGRADED SOLID SYSTEM PREVENTS RATTLING OF WEIGHT PLATES<br\/><\/p><p>• LIGHTWEIGHT <br\/><\/p><p>• PREMIUM DURABLE & LONG<br\/>LASTING SCRATCH-RESISTANT MATERIALS<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17392842080520__0619843f-642c-4cc7-94bd-339433ff5a34-16887259068edd12c0-0"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "1:1",
+        "block_layout": "1\/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 2,
+        "link_style": "body"
+      }
+    },
+    "6765ee33-3126-4a99-ad5c-fd8d35172648": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "5aa083d4-e6e2-4ddb-adaa-eb66a648b843": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bammer-3-1464px_x_600px.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "5aa083d4-e6e2-4ddb-adaa-eb66a648b843"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "7098746f-02e0-4400-82ca-bef8bd1524b9": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "a797e410-cbfb-4716-a036-f97439def2d4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo_ca602d1e-37b6-4aae-a22c-39f0264e8a50.png",
+            "title": "BEST FOR:",
+            "desc": "<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• DEADLIFTING<br\/>• CROSS TRAINING<br\/>• STRENGTH TRAINING<br\/>• BENCH PRESS<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "a797e410-cbfb-4716-a036-f97439def2d4"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "1:1",
+        "block_layout": "1\/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 2,
+        "link_style": "body"
+      }
+    },
+    "2ff90489-b036-46c5-975a-657f9f1b9671": {
+      "type": "section-video",
+      "blocks": {
+        "template--17392842080520__2ff90489-b036-46c5-975a-657f9f1b9671-1675173359122e886e-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/dNKd3--_hkQ",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17392842080520__2ff90489-b036-46c5-975a-657f9f1b9671-1675173359122e886e-0"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
+    "47413272-dd0d-48b9-bb27-bb476648907e": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_3_1.png",
+            "title": "STEP 1",
+            "sub_title": "",
+            "desc": "<p>Place Collar on the Barbell<br\/><\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_3_7bf29828-0844-4972-9a53-d9642c282386.png",
+            "title": "STEP 2",
+            "sub_title": "",
+            "desc": "<p>Press Down on the Latch to Secure the Collar<br\/><\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_3_a124df56-8786-46be-bac6-51608371d3dd.png",
+            "title": "STEP 3",
+            "sub_title": "",
+            "desc": "<p>Complete & Ready to Use<br\/><\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-0",
+        "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-1",
+        "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-2"
+      ],
+      "settings": {
+        "title": "HOW TO USE 2-INCH BARBELL CLAMPS:",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "1:1",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "1b407558-9d7a-4834-b4c0-8fae2c7ae071": {
+      "type": "section-faq",
+      "blocks": {
+        "template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-0": {
+          "type": "category",
+          "settings": {
+            "title": "FAQs"
+          }
+        },
+        "template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-1": {
+          "type": "article",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+          }
+        },
+        "template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-2": {
+          "type": "article",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-0",
+        "template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-1",
+        "template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-2"
+      ],
+      "custom_css": [
+        "{background-color: #eeeeee;}"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "FAQs",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "16896102249cff15d9": {
+      "type": "apps",
+      "blocks": {
+        "50d43415-0d3a-415e-9d11-a6dbca7bd1ce": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "50d43415-0d3a-415e-9d11-a6dbca7bd1ce"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "wide",
+        "related_mobile_layout": "carousel",
+        "related_grid_num": 4,
+        "grid_mobile": "2",
+        "related_grid_row": 1
+      }
+    }
+  },
+  "order": [
+    "1700668731f2e939dc",
+    "main",
+    "1d4bcfae-23a5-4caf-a18e-2ebe103b6e28",
+    "e9885e38-c835-44d0-bebe-56faee5bd677",
+    "0619843f-642c-4cc7-94bd-339433ff5a34",
+    "6765ee33-3126-4a99-ad5c-fd8d35172648",
+    "7098746f-02e0-4400-82ca-bef8bd1524b9",
+    "2ff90489-b036-46c5-975a-657f9f1b9671",
+    "47413272-dd0d-48b9-bb27-bb476648907e",
+    "1b407558-9d7a-4834-b4c0-8fae2c7ae071",
+    "16896102249cff15d9",
+    "product-recommendations"
+  ]
+}
