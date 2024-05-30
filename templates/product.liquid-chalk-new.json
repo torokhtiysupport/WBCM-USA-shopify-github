@@ -1,1 +1,409 @@
-{"sections":{"1700669249193b19df":{"type":"apps","blocks":{"ed84f04a-372a-4d26-b646-676038a1a2a7":{"type":"shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef","settings":{"home":"Home","home_link":"\/","menu":"main-menu","separator":"›","bb_show_hide":true,"unclickable":false,"bb_show_more":true,"enable_custom_feature":true,"bb_capitalize":false,"bb_font_size":13,"bb_padding":0,"bb_top_padding":20,"bb_margin":0,"bb_align":"left","bb_color":"#2a2a2a","truncator":20}}},"block_order":["ed84f04a-372a-4d26-b646-676038a1a2a7"],"settings":{"include_margins":true}},"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"title_size":3,"title_size_mobile":3}},"9ccc968f-b49e-44b5-9415-0599527f423e":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}},"price":{"type":"price","settings":{"price_label_discount":true,"price_label_discount_type":"text","price_label_discount_color":"#c00000"}},"db48bf56-e904-4604-9f21-89d04e9bf249":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"variant_picker":{"type":"variant_picker","settings":{"product_variant_style":"swatches","popup_enable":false,"popup_trigger":"Size\nGröße\nTaille\nTaglia\nTalla","popup_label":"Size guide","popup_content":""}},"image_swatches_XqFLYA":{"type":"image_swatches","settings":{}},"size_swatches_6CewDe":{"type":"size_swatches","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"enable_payment_button":true}},"db48bf56-e904-4604-9f21-89d04e9bf241":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"description":{"type":"description","settings":{}}},"block_order":["title","9ccc968f-b49e-44b5-9415-0599527f423e","price","db48bf56-e904-4604-9f21-89d04e9bf249","variant_picker","image_swatches_XqFLYA","size_swatches_6CewDe","quantity_selector","buy_buttons","db48bf56-e904-4604-9f21-89d04e9bf241","description"],"settings":{"container":"large","show_breadcrumbs":true,"enable_zoom":true,"enable_video_looping":false,"product_image_ratio":"1:1","enable_product_image_rounded_corners":false,"thumbnails_position":"bottom","thumbnails_ratio":"1:1","thumbnails_show_border":false}},"ec7f054f-d1ad-4160-af0b-3b04ed339fb3":{"type":"product_accordion","blocks":{"template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-1":{"type":"article","settings":{"title":"Specs","text":"<ul><li>50 ml, 250 ml<\/li><li>Handy travel bottle<\/li><li>High-quality liquid formulation<br\/>up to 45 uses (50 ml), up to 225 uses (250 ml)<\/li><li>Fast-drying formula<\/li><\/ul>"}},"template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-2":{"type":"article","settings":{"title":"Intended Use","text":"<p>This chalk is perfect for weightlifting, deadlifting, powerlifting, bodybuilding, rock climbing, and other sports involving hand grip.<\/p>"}},"template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-3":{"type":"article","settings":{"title":"Warranty","text":"<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"}},"template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-4":{"type":"article","settings":{"title":"Care","text":"<p>You need just one pea-sized amount to coat your hands and it dries quickly. Dispense a small amount onto your palm, briskly rub your hands together, and let it dry for a few seconds.<\/p>"}}},"block_order":["template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-1","template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-2","template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-3","template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-4"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"4bafeb67-f7b1-4586-ab2a-a95bbb3df588":{"type":"section-image-slideshow","blocks":{"template--17877436039432__4bafeb67-f7b1-4586-ab2a-a95bbb3df588-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/44c7b19d-ff35-459e-9a19-3f3b1e1a95c7.jpg","link":""}}},"block_order":["template--17877436039432__4bafeb67-f7b1-4586-ab2a-a95bbb3df588-image-1"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":true}},"3cac939c-da4a-47ef-87c5-08cffba9c819":{"type":"section-image-slideshow","blocks":{"edd8b517-13e3-4e6f-812e-294807b703dc":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_9226.jpg","link":""}}},"block_order":["edd8b517-13e3-4e6f-812e-294807b703dc"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":true}},"3f54a0ea-28e5-484c-8448-870ba1511580":{"type":"section-image-slideshow","blocks":{"ba581946-260d-4f35-b697-ff5f044098ef":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_9227.jpg","link":""}}},"block_order":["ba581946-260d-4f35-b697-ff5f044098ef"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":true}},"e2fcdea9-abe5-4351-8f5b-76d72cb5e421":{"type":"section-video","blocks":{"template--17877436039432__e2fcdea9-abe5-4351-8f5b-76d72cb5e421-video-1":{"type":"video","settings":{"video_url":"https:\/\/www.youtube.com\/watch?v=lh0rwSrh9bk","video_title":""}}},"block_order":["template--17877436039432__e2fcdea9-abe5-4351-8f5b-76d72cb5e421-video-1"],"settings":{"title":"","desc":"","link_title":"More videos","link":"","overlay_strength":50}},"6c21e0e0-83f8-4b62-8075-30a0caca3a6c":{"type":"section-image-slideshow","blocks":{"55faa441-79b6-4140-9d3c-d6cd038b0a92":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_9228.jpg","link":""}}},"block_order":["55faa441-79b6-4140-9d3c-d6cd038b0a92"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":true}},"2e8d10d2-07e0-4414-97f9-1866653004a7":{"type":"section-image-slideshow","blocks":{"a3ba1197-76b6-420f-a43d-aefb8abc1bf0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_9229.jpg","link":""}}},"block_order":["a3ba1197-76b6-420f-a43d-aefb8abc1bf0"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":true}},"2d5bd59f-a78a-4717-af1f-2177417b93ca":{"type":"section-faq","blocks":{"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0":{"type":"category","settings":{"title":"FAQs"}},"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1":{"type":"article","settings":{"title":"Shipping","text":"<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"}},"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2":{"type":"article","settings":{"title":"Returns","text":"<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"}}},"block_order":["template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0","template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1","template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"],"custom_css":["{background-color: #eeeeee;}"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"16896123021c51a7ca":{"type":"apps","blocks":{"c5ab8e9f-65f9-4694-ab79-7594422ecb6c":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["c5ab8e9f-65f9-4694-ab79-7594422ecb6c"],"settings":{"include_margins":true}},"product-recommendations":{"type":"product-recommendations","settings":{"related_title":"You may also like","section_width":"wide","related_mobile_layout":"carousel","related_grid_num":4,"grid_mobile":"2","related_grid_row":1}}},"order":["1700669249193b19df","main","ec7f054f-d1ad-4160-af0b-3b04ed339fb3","4bafeb67-f7b1-4586-ab2a-a95bbb3df588","3cac939c-da4a-47ef-87c5-08cffba9c819","3f54a0ea-28e5-484c-8448-870ba1511580","e2fcdea9-abe5-4351-8f5b-76d72cb5e421","6c21e0e0-83f8-4b62-8075-30a0caca3a6c","2e8d10d2-07e0-4414-97f9-1866653004a7","2d5bd59f-a78a-4717-af1f-2177417b93ca","16896123021c51a7ca","product-recommendations"]}
+{
+  "sections": {
+    "1700669249193b19df": {
+      "type": "apps",
+      "blocks": {
+        "ed84f04a-372a-4d26-b646-676038a1a2a7": {
+          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "\/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "unclickable": false,
+            "bb_show_more": true,
+            "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_mobile_padding": 55,
+            "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
+            "bb_margin": 0,
+            "bb_mobile_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a",
+            "truncator": 20
+          }
+        }
+      },
+      "block_order": [
+        "ed84f04a-372a-4d26-b646-676038a1a2a7"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "9ccc968f-b49e-44b5-9415-0599527f423e": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "image_swatches_XqFLYA": {
+          "type": "image_swatches",
+          "settings": {
+          }
+        },
+        "size_swatches_6CewDe": {
+          "type": "size_swatches",
+          "settings": {
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf241": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "9ccc968f-b49e-44b5-9415-0599527f423e",
+        "price",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "variant_picker",
+        "image_swatches_XqFLYA",
+        "size_swatches_6CewDe",
+        "quantity_selector",
+        "buy_buttons",
+        "db48bf56-e904-4604-9f21-89d04e9bf241",
+        "description"
+      ],
+      "settings": {
+        "container": "large",
+        "show_breadcrumbs": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_product_image_rounded_corners": false,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "ec7f054f-d1ad-4160-af0b-3b04ed339fb3": {
+      "type": "product_accordion",
+      "blocks": {
+        "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-1": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<ul><li>Size: 250 ml;<\/li><li>Handy travel bottle;<\/li><li>High-quality liquid formulation<br\/>up to 225 uses (250 ml);<\/li><li>Fast-drying formula.<\/li><\/ul>"
+          }
+        },
+        "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-2": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>This chalk is perfect for weightlifting, powerlifting, bodybuilding, rock climbing, gymnastics, and other sports involving hand grip. <\/p>"
+          }
+        },
+        "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-3": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+          }
+        },
+        "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-4": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>You need just one pea-sized amount to coat your hands and it dries quickly. Dispense a small amount onto your palm, briskly rub your hands together, and let it dry for a few seconds.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-1",
+        "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-2",
+        "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-3",
+        "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-4"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "4bafeb67-f7b1-4586-ab2a-a95bbb3df588": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "template--17877436039432__4bafeb67-f7b1-4586-ab2a-a95bbb3df588-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/44c7b19d-ff35-459e-9a19-3f3b1e1a95c7.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17877436039432__4bafeb67-f7b1-4586-ab2a-a95bbb3df588-image-1"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "3cac939c-da4a-47ef-87c5-08cffba9c819": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "edd8b517-13e3-4e6f-812e-294807b703dc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9226.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "edd8b517-13e3-4e6f-812e-294807b703dc"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "3f54a0ea-28e5-484c-8448-870ba1511580": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "ba581946-260d-4f35-b697-ff5f044098ef": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9227.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "ba581946-260d-4f35-b697-ff5f044098ef"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "e2fcdea9-abe5-4351-8f5b-76d72cb5e421": {
+      "type": "section-video",
+      "blocks": {
+        "template--17877436039432__e2fcdea9-abe5-4351-8f5b-76d72cb5e421-video-1": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=lh0rwSrh9bk",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17877436039432__e2fcdea9-abe5-4351-8f5b-76d72cb5e421-video-1"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
+    "6c21e0e0-83f8-4b62-8075-30a0caca3a6c": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "55faa441-79b6-4140-9d3c-d6cd038b0a92": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9228.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "55faa441-79b6-4140-9d3c-d6cd038b0a92"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "2e8d10d2-07e0-4414-97f9-1866653004a7": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "a3ba1197-76b6-420f-a43d-aefb8abc1bf0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9229.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a3ba1197-76b6-420f-a43d-aefb8abc1bf0"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
+      "type": "section-faq",
+      "blocks": {
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0": {
+          "type": "category",
+          "settings": {
+            "title": "FAQs"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1": {
+          "type": "article",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
+          "type": "article",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"
+      ],
+      "custom_css": [
+        "{background-color: #eeeeee;}"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "16896123021c51a7ca": {
+      "type": "apps",
+      "blocks": {
+        "c5ab8e9f-65f9-4694-ab79-7594422ecb6c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "c5ab8e9f-65f9-4694-ab79-7594422ecb6c"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "wide",
+        "related_mobile_layout": "carousel",
+        "related_grid_num": 4,
+        "grid_mobile": "2",
+        "related_grid_row": 1
+      }
+    }
+  },
+  "order": [
+    "1700669249193b19df",
+    "main",
+    "ec7f054f-d1ad-4160-af0b-3b04ed339fb3",
+    "4bafeb67-f7b1-4586-ab2a-a95bbb3df588",
+    "3cac939c-da4a-47ef-87c5-08cffba9c819",
+    "3f54a0ea-28e5-484c-8448-870ba1511580",
+    "e2fcdea9-abe5-4351-8f5b-76d72cb5e421",
+    "6c21e0e0-83f8-4b62-8075-30a0caca3a6c",
+    "2e8d10d2-07e0-4414-97f9-1866653004a7",
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca",
+    "16896123021c51a7ca",
+    "product-recommendations"
+  ]
+}
