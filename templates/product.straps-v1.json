@@ -15,11 +15,15 @@
             "unclickable": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
             "truncator": 20
@@ -158,14 +162,14 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<p><strong>Length<\/strong>: 33 cm<br\/><strong>Width<\/strong>: 6.4 cm<br\/><strong>Thickness<\/strong>: 2 mm<br\/><strong>Material<\/strong>: cotton<\/p>"
+            "text": "<ul><li><strong>Sold in pairs.<\/strong><\/li><li><strong>Length<\/strong>: 13\"<\/li><li><strong>Width<\/strong>: 2.5\"<\/li><li><strong>Thickness<\/strong>: 1\/16\"<\/li><li><strong>Material<\/strong>: cotton<\/li><\/ul>"
           }
         },
         "template--20972192301366__d625e37a-d058-4361-9b4e-64f1973a8bbc-article-3": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>V1 Lifting Straps are designed for weightlifting, powerlifting, bodybuilding, and functional fitness.<\/p>"
+            "text": "<p>V1 Lifting Straps are specifically designed for Olympic weightlifting exercises that require quick-release movements like Snatch and Clean & Jerk, but are also great for powerlifting, bodybuilding, and functional fitness.<\/p>"
           }
         },
         "9b6f41f4-9cb9-4eb9-95c4-4ec534bdc676": {
@@ -249,7 +253,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Weight_Lifting_Wrist_Straps_V1_Red_White.jpg",
             "title": "",
-            "desc": "<p><strong>Unique design:<br\/><\/strong>Based on Olympian experience, that gives ultimate grip comfort.<br\/><strong>Increased performance:<\/strong><br\/>Maximize your wrist strength and boost your lifts.<br\/><strong>Heavy-duty:<\/strong><br\/>Made of 100% Cotton, for withstanding<br\/>many training sessions.<br\/><strong>Prevent injuries:<\/strong><br\/>WBCM straps make your grip more easier and protect your wrists.<br\/><strong>Confident grip:<\/strong><br\/>For lifting will help you increase both your reps and weights.<br\/><strong>Approved:<\/strong><br\/>By the world-class athletes and champions<br\/>for your training performance.<\/p>",
+            "desc": "<p><strong>Unique design:<br\/><\/strong>WBCM Olympic Weightlifting Straps V1 are inspired by Olympian experience and offer the best possible grip comfort. Every element is made to fit your hand's natural ergonomics, guaranteeing a snug and comfortable fit every time you lift something. Olympic activities require a quick-release design which makes disengagement quick and simple and ensures control and safety during vigorous lifts.<br\/><strong>Injury Prevention:<\/strong><br\/>By improving your grip and security, WBCM Olympic lifting wrist straps lessen the strain on your wrists. This helps prevent common wrist injuries and improves your lifting technique, so you can train with less danger and more confidence.<br\/><strong>Heavy-Duty Construction:<\/strong><br\/>WBCM Olympic lifting straps are made of 100% premium cotton and are designed to withstand repeated training sessions. Their sturdy construction guarantees enduring longevity, giving you a dependable training partner that can handle even the most strenuous exercises.<br\/><strong>Confident grip:<\/strong><br\/>Acquire a self-assured grip to revolutionize your lifting regimen. With the help of our straps, you may lift bigger weights and perform more repetitions in the gym, pushing yourself to the limit and making faster progress.<br\/><strong>Approved:<\/strong><br\/>By the world-class athletes and champions for your training performance.<\/p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -340,7 +344,7 @@
             "image": "shopify:\/\/shop_images\/4_f7b3b73a-5777-4a37-950c-bfcce38ae8c4.png",
             "title": "Step 1:",
             "sub_title": "",
-            "desc": "<p>Wrap the strap on any side<br\/><\/p>",
+            "desc": "<p>Wrap the strap on any side.<br\/><\/p>",
             "link_title": "",
             "link": ""
           }
@@ -351,7 +355,7 @@
             "image": "shopify:\/\/shop_images\/4-2.png",
             "title": "Step 2:",
             "sub_title": "",
-            "desc": "<p>Feed the end underneath the bar from back to front<br\/><br\/><\/p>",
+            "desc": "<p>Feed the end underneath the bar from back to front.<br\/><br\/><\/p>",
             "link_title": "",
             "link": ""
           }
@@ -362,7 +366,7 @@
             "image": "shopify:\/\/shop_images\/4-3.png",
             "title": "Step 3:",
             "sub_title": "",
-            "desc": "<p>Flip it over<br\/>once<\/p>",
+            "desc": "<p>Flip it over once.<\/p>",
             "link_title": "",
             "link": ""
           }
@@ -373,7 +377,7 @@
             "image": "shopify:\/\/shop_images\/4-4.png",
             "title": "Step 4:",
             "sub_title": "",
-            "desc": "<p>Grab the strap from another side with fingers<\/p>",
+            "desc": "<p>Grab the strap from another side with fingers.<\/p>",
             "link_title": "",
             "link": ""
           }
@@ -419,7 +423,7 @@
             "image": "shopify:\/\/shop_images\/1_3_f653c870-3503-4ae9-85d9-cff0f0413821.png",
             "title": "GRIP TYPES",
             "sub_title": "",
-            "desc": "<p>✔ Deadlift          ✔ Weightlifting<\/p><p>✔ Deadlift          <strong>X<\/strong> Weightlifting<\/p>",
+            "desc": "<p>Suitable for both Olympic weightlifting and powerlifting.<\/p>",
             "link_title": "",
             "link": ""
           }
