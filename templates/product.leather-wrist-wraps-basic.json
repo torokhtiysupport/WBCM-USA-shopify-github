@@ -7,17 +7,23 @@
           "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
+            "home_link": "\/",
             "menu": "main-menu",
             "separator": "›",
+            "custom_class": "",
             "bb_show_hide": true,
             "unclickable": false,
             "bb_show_more": true,
             "enable_custom_feature": false,
+            "bb_custom_inheritance": true,
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
             "truncator": 20
@@ -120,6 +126,51 @@
         "thumbnails_show_border": false
       }
     },
+    "product_accordion_fmjrPM": {
+      "type": "product_accordion",
+      "blocks": {
+        "article_QUfGGA": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<p><strong>Sizing:<\/strong> S, M, L<br\/><strong>Width:<\/strong> 1\"<br\/><strong>Material:<\/strong> leather<br\/><strong>Colors:<\/strong> salat, beige, brown, blue, aqua, yellow, red, pink<\/p>"
+          }
+        },
+        "article_MQL3Vt": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>Perfect for various fitness activities, i.e., Olympic weightlifting, Powerlifting, bodybuilding, Strongman training, functional fitness, and kettlebell workouts.<\/p>"
+          }
+        },
+        "article_kKREg7": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+          }
+        },
+        "article_hHqHVn": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>We recommend hand washing the wrist wraps with warm water and a mild detergent, then allow the wraps to air dry. Do not use the washing machine as it can damage the fabric of the wrist wrap and its closure system.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "article_QUfGGA",
+        "article_MQL3Vt",
+        "article_kKREg7",
+        "article_hHqHVn"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
     "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
       "type": "section-faq",
       "blocks": {
@@ -190,6 +241,7 @@
   "order": [
     "170056575343263d0f",
     "main",
+    "product_accordion_fmjrPM",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "1691087074b17a7ec7",
     "product-recommendations"
