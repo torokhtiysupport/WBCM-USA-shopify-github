@@ -68,6 +68,11 @@
             "border": true
           }
         },
+        "image_swatches_Q7fdni": {
+          "type": "image_swatches",
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -108,6 +113,7 @@
         "108243de-456a-47e1-8b42-f68915d5089c",
         "price",
         "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "image_swatches_Q7fdni",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
