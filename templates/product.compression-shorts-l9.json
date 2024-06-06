@@ -158,8 +158,8 @@
         "article_GEqM4U": {
           "type": "article",
           "settings": {
-            "title": "Specs",
-            "text": "<p><strong>Sizing<\/strong>: S-XXL<br\/><strong>Material<\/strong>: Supplex Sport <br\/><strong>Inseam<\/strong>: 6.5\"<br\/><strong>Color<\/strong>: black<br\/><strong>Closure type<\/strong>: pull-on<\/p>"
+            "title": "Specifications",
+            "text": "<ul><li><strong>Sizing:<\/strong> S-XXL<\/li><li><strong>Material:<\/strong> Supplex Sport<\/li><li><strong>Inseam:<\/strong> 6.5 inches<\/li><li><strong>Color:<\/strong> Black<\/li><li><strong>Closure Type:<\/strong> Pull-On<\/li><\/ul>"
           }
         },
         "article_iVGyA9": {
@@ -173,14 +173,14 @@
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "text": "<p>You can return or exchange the item within 14 days of receiving it, as long as it's unwashed, unworn, and has all the barcodes intact. If you're not happy with the product, you can return it within 14 days of receipt, or exchange it for another item.<\/p>"
           }
         },
         "article_GtpfhX": {
           "type": "article",
           "settings": {
-            "title": "Care",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "title": "Product Care Instructions",
+            "text": "<ul><li>Machine wash cold with like colors<\/li><li>Use liquid soap only<\/li><li>Hang dry only<\/li><li>Do not iron<\/li><li>Do not dry clean<\/li><\/ul>"
           }
         }
       },
