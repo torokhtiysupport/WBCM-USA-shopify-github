@@ -19,14 +19,18 @@
             "home_link": "\/",
             "menu": "main-menu",
             "separator": "›",
+            "custom_class": "",
             "bb_show_hide": true,
             "unclickable": false,
             "enable_custom_feature": false,
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a"
           }
@@ -41,6 +45,9 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "custom_css": [
+        ".collection__header-info {display: none;}"
+      ],
       "settings": {
         "center_title": true,
         "show_collection_image": true,
@@ -48,6 +55,18 @@
         "collection_image_mobile_height": true,
         "overlay_color": "#000000",
         "overlay_strength": 0
+      }
+    },
+    "section_rich_text_nxHw9w": {
+      "type": "section-rich-text",
+      "custom_css": [
+        "{margin-top: 20px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "section_title": "",
+        "text": "<p>Purchase of <strong>ANY PRODUCT <\/strong>entitles you to receive a free choice of either <a href=\"https:\/\/shop.torokhtiy.com\/products\/male-weightlifting-2-0\" target=\"_blank\" title=\"https:\/\/shop.torokhtiy.com\/products\/male-weightlifting-2-0\"><strong>Male 2.0<\/strong><\/a><strong> <\/strong>or <a href=\"https:\/\/shop.torokhtiy.com\/products\/weight-lifting-program-for-women\" target=\"_blank\" title=\"https:\/\/shop.torokhtiy.com\/products\/weight-lifting-program-for-women\"><strong>Female 2.0 Program<\/strong><\/a>.<strong> <\/strong>No additional actions are necessary – the program will arrive in your email within the next day after your purchase 📩<\/p><p>This offer is <strong>valid for 3 days<\/strong>, so don't miss out!<\/p>",
+        "section-bottom-margin": false
       }
     },
     "product-grid": {
@@ -85,6 +104,7 @@
   "order": [
     "17006684633c156f39",
     "banner",
+    "section_rich_text_nxHw9w",
     "product-grid"
   ]
 }
