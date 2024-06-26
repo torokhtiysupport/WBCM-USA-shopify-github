@@ -9628,7 +9628,7 @@ section.description .container--tiny {
 
 /* Announcement Bar Styles */
 
-/* .announcement__text {
+.announcement__text {
   display: inline-block;
   position: relative;
 }
@@ -9659,4 +9659,4 @@ section.description .container--tiny {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-} */
+}
