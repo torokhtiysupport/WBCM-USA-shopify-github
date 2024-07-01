@@ -40,7 +40,7 @@
         "section-slideshow-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Independence-Day-Banner-Desktop.jpg",
+            "image": "shopify:\/\/shop_images\/Independence-Day-Banner-Desktop.png",
             "image_mobile": "shopify:\/\/shop_images\/Independence-Day-Banner-Mob.jpg",
             "alignment": "bottom-center",
             "title": "",
