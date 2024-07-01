@@ -9639,9 +9639,9 @@ section.description .container--tiny {
   width: 30px;
   height: 15px;
   top: 50%;
-  left: -20px;
+  left: -25px;
   transform: translateY(-50%);
-  background-image: url('https://cdn.shopify.com/s/files/1/0061/2142/2937/files/UA-flag.png?v=1716957277');
+  background-image: url('https://cdn.shopify.com/s/files/1/0061/2142/2937/files/US-icon.jpg?v=1716531679');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -9653,9 +9653,9 @@ section.description .container--tiny {
   width: 30px;
   height: 15px;
   top: 50%;
-  right: -20px;
+  right: -25px;
   transform: translateY(-50%);
-  background-image: url('https://cdn.shopify.com/s/files/1/0061/2142/2937/files/UA-flag.png?v=1716957277');
+  background-image: url('https://cdn.shopify.com/s/files/1/0061/2142/2937/files/US-icon.jpg?v=1716531679');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
