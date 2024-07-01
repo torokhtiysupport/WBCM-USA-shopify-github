@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "170056575343263d0f": {
       "type": "apps",
       "blocks": {
         "0a50ad73-45f0-4b5b-aa19-0fb1659e18d2": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -177,6 +188,37 @@
         "cta_style": "link"
       }
     },
+    "section_custom_zHe3P9": {
+      "type": "section-custom",
+      "blocks": {
+        "text_RyhA4p": {
+          "type": "text",
+          "settings": {
+            "title": "THE RIGHT SIZE SELECTION",
+            "text": "",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "center",
+            "width": "1\/2"
+          }
+        },
+        "image_iqrVzN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leather-wrist-wraps-sizes.webp",
+            "link": "",
+            "width": "2\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_RyhA4p",
+        "image_iqrVzN"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
     "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
       "type": "section-faq",
       "blocks": {
@@ -248,6 +290,7 @@
     "170056575343263d0f",
     "main",
     "product_accordion_fmjrPM",
+    "section_custom_zHe3P9",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "1691087074b17a7ec7",
     "product-recommendations"
