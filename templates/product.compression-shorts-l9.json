@@ -332,7 +332,6 @@
       "block_order": [
         "text_YrYCki"
       ],
-      "disabled": true,
       "custom_css": [
         "img {max-width: 600px;}",
         ".home-custom__img--cover {background-image: none !important;}"
@@ -347,7 +346,7 @@
         "image_gQbtbe": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Compression-Shorts-L9-Sizes.webp",
+            "image": "shopify:\/\/shop_images\/Shorts_SizeTable_V2.png",
             "title": "",
             "desc": "",
             "horizontal_align": "left",
@@ -363,7 +362,6 @@
       "block_order": [
         "image_gQbtbe"
       ],
-      "disabled": true,
       "custom_css": [
         ".o-layout {justify-content: center;}",
         ".o-layout .o-layout__item:last-of-type {display: none;}"
