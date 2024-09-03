@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "17006684633c156f39": {
       "type": "apps",
       "blocks": {
         "cf8e3975-e6b6-4dc6-9476-4e93fceb1783": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -23,7 +32,9 @@
             "bb_margin": 0,
             "bb_mobile_margin": 0,
             "bb_align": "left",
-            "bb_color": "#2a2a2a"
+            "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": ""
           }
         }
       },
@@ -196,21 +207,27 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_hCciFM": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>1. Enhanced functionality<\/h3><p>Since powerlifting is a physically demanding discipline requiring high mobility and stability, singlets provide a full range of motion, enabling athletes to perform the squat, bench press, and deadlift with optimal technique. Its tight fit supports the core muscles, which is important for maintaining proper form during the competition.<\/p><h3>2. Promoting safety<\/h3><p>Gym singlets protect lifters from getting injured due to their tight fit as they keep an athlete's body in the correct position, by reducing injury risk. Olympic weightlifting singlets also help to protect the lifter's skin from friction and abrasion of the barbell or other equipment.<\/p><h3>3. Reducing friction<\/h3><p>Lifting singlets limit external material interference with the bar path, so an athlete experiences a smoother lift performance.<\/p><h3>4. Muscle compression<\/h3><p>The snug fit provides gentle pressure to specific muscle groups, by improving blood flow and oxygen delivery. It helps to reduce muscle fatigue during prolonged training sessions, so athletes can preserve their peak performance.<\/p><h3>5. Temperature regulation<\/h3><p>Being made from breathable and moisture-absorbing material, lifting singlets facilitate heat and moisture dissipation. Thus, it prevents overheating, brings comfort, and ensures concentration during tough lifting sessions.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
         "text_hmVyQn",
         "spacer_8NF7b7",
-        "image_aYwTcr"
+        "image_aYwTcr",
+        "text_hCciFM"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_FjUGXk": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>1. Enhanced functionality<\/h3>\n<p>\n  Since powerlifting is a physically demanding discipline requiring high mobility and stability, singlets provide a full range of motion, enabling athletes to perform the squat, bench press, and deadlift with optimal technique. Its tight fit supports the core muscles, which is important for maintaining proper form during the competition.\n<\/p>\n<h3>2. Promoting safety<\/h3>\n<p>\n  Gym singlets protect lifters from getting injured due to their tight fit as they keep an athlete's body in the correct position, by reducing injury risk. Olympic weightlifting singlets also help to protect the lifter's skin from friction and abrasion of the barbell or other equipment.\n<\/p>\n<h3>3. Reducing friction<\/h3>\n<p>\n  Lifting singlets limit external material interference with the bar path, so an athlete experiences a smoother lift performance.\n<\/p>\n<h3>4. Muscle compression<\/h3>\n<p>\n  The snug fit provides gentle pressure to specific muscle groups, by improving blood flow and oxygen delivery. It helps to reduce muscle fatigue during prolonged training sessions, so athletes can preserve their peak performance.\n<\/p>\n<h3>5. Temperature regulation<\/h3>\n<p>\n  Being made from breathable and moisture-absorbing material, lifting singlets facilitate heat and moisture dissipation. Thus, it prevents overheating, brings comfort, and ensures concentration during tough lifting sessions.\n<\/p>\n<\/div>"
       }
     },
     "section_custom_qQ8Lzz": {
@@ -240,21 +257,27 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_yn7LqN": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>Fit<\/h3><p>One of the most important features you should consider is singlet fit: it should be snug and tight, the shoulder straps should always stay on the shoulders. The singlet legs have to be longer than 3 cm, but shorter than 25 cm.<\/p><p>They should not bunch up around the hips and should be tighter rather than looser around the thighs.<\/p><h3>Material<\/h3><p>The fabric should be of the same thickness throughout the singlets. It cannot support any part of lifting performance. Generally, powerlifting singlets are made from a blend of polyester and spandex that is moisture-wicking, stretchy, and durable. It will help to keep you cool and comfortable.<\/p><h3>Overall suit<\/h3><p>In powerlifting competitions, lifters have to wear a t-shirt underneath their singlets. It's allowed to pick one or two blank shirts that are part of the approved brand. It's also possible to wear briefs underneath the singlet. Women are allowed to wear a sports bra underneath their t-shirts.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
         "text_3mEPXC",
         "spacer_K7pdLN",
-        "image_J3QM4h"
+        "image_J3QM4h",
+        "text_yn7LqN"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_bY6FeD": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>Fit<\/h3>\n<p>\n  One of the most important features you should consider is singlet fit: it should be snug and tight, the shoulder straps should always stay on the shoulders. The singlet legs have to be longer than 3 cm, but shorter than 25 cm.\n<\/p>\n<p>\nThey should not bunch up around the hips and should be tighter rather than looser around the thighs.\n<\/p>\n<h3>Material<\/h3>\n<p>\n  The fabric should be of the same thickness throughout the singlets. It cannot support any part of lifting performance. Generally, powerlifting singlets are made from a blend of polyester and spandex that is moisture-wicking, stretchy, and durable. It will help to keep you cool and comfortable.\n<\/p>\n<h3>Overall suit<\/h3>\n<p>\n  In powerlifting competitions, lifters have to wear a t-shirt underneath their singlets. It's allowed to pick one or two blank shirts that are part of the approved brand. It's also possible to wear briefs underneath the singlet. Women are allowed to wear a sports bra underneath their t-shirts.\n<\/p>\n<\/div>"
       }
     },
     "section_custom_rpywBm": {
@@ -303,9 +326,7 @@
     "product-grid",
     "section_custom_d6YpL9",
     "section_custom_HPXwU3",
-    "section_liquid_FjUGXk",
     "section_custom_qQ8Lzz",
-    "section_liquid_bY6FeD",
     "section_custom_rpywBm"
   ]
 }
