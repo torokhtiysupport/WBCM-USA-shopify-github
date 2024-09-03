@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "17006684633c156f39": {
       "type": "apps",
       "blocks": {
         "cf8e3975-e6b6-4dc6-9476-4e93fceb1783": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -17,10 +26,15 @@
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
-            "bb_color": "#2a2a2a"
+            "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": ""
           }
         }
       },
@@ -122,21 +136,27 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_r3mNcL": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>Tip 1: Prioritizing Comfort and Fit<\/h3><p>The first variable in our equation of the perfect lifting shirt is comfort. Imagine a shirt that clings like a second skin or one that flutters around you like a sail in the wind — neither is conducive to an effective workout. Hence, seek graphic weightlifting tees that strike a balance between being snug and allowing a full range of motion. The material of the shirt also plays a pivotal role in comfort. Opt for breathable fabrics like cotton or specially engineered synthetic materials that can wick away sweat and keep you comfortable throughout your workout.<\/p><h3>Tip 2: Consider Material Quality<\/h3><p>When looking for a lifting T-shirt, you should also consider such factors as moisture management and breathability. It's clear that these specs refer to the fabric the clothes are made from.<\/p><p>Moisture management refers to what the material does when it becomes damp or wet, whether it's moisture-wicking or absorption-resistant. Breathability refers to the air moving through the fabric: breathable material allows hot air to escape, while tight-knit fabrics keep warm air close to your body.<\/p><p>Such synthetic material as polyester is incredibly durable, wrinkle-resistant, and moisture-wicking making it ideal for sportswear. It's also breathable and lightweight, so your sweat evaporates through the fabric, making you stay relatively dry.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
         "text_CqfKAy",
         "spacer_M7Bt7N",
-        "image_38rGtm"
+        "image_38rGtm",
+        "text_r3mNcL"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_8jLJQC": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>Tip 1: Prioritizing Comfort and Fit<\/h3>\n<p>\n  The first variable in our equation of the perfect lifting shirt is comfort. Imagine a shirt that clings like a second skin or one that flutters around you like a sail in the wind — neither is conducive to an effective workout. Hence, seek graphic weightlifting tees that strike a balance between being snug and allowing a full range of motion. The material of the shirt also plays a pivotal role in comfort. Opt for breathable fabrics like cotton or specially engineered synthetic materials that can wick away sweat and keep you comfortable throughout your workout.\n<\/p>\n\n<h3>Tip 2: Consider Material Quality<\/h3>\n<p>\n  When looking for a lifting T-shirt, you should also consider such factors as moisture management and breathability. It's clear that these specs refer to the fabric the clothes are made from.\n<\/p>\n<p>\n  Moisture management refers to what the material does when it becomes damp or wet, whether it's moisture-wicking or absorption-resistant. Breathability refers to the air moving through the fabric: breathable material allows hot air to escape, while tight-knit fabrics keep warm air close to your body.\n<\/p>\n<p>\n  Such synthetic material as polyester is incredibly durable, wrinkle-resistant, and moisture-wicking making it ideal for sportswear. It's also breathable and lightweight, so your sweat evaporates through the fabric, making you stay relatively dry.\n<\/p>\n\n<\/div>"
       }
     },
     "section_custom_YNbBBC": {
@@ -149,19 +169,25 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_GEHNcB": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>Tip 3: Durability — The Hallmark of a Good Lifting Shirt<\/h3><p>Gym graphic tees are not mere bystanders in your workout — they are active participants that endure the same stresses and strains that you do. Thus, durability is a non-negotiable attribute of a good lifting shirt. Look for weightlifting t-shirts made from robust and high-quality material that can withstand the rigors of intense workouts. Signs of a durable lifting shirt include reinforced stitching and meticulous construction.<\/p><h3>Tip 4: Merging Functionality with Aesthetics<\/h3><p>While the primary focus when choosing a lifting shirt should be functionality, style need not be sacrificed at the altar of practicality. The market is teeming with lifting shirts that combine practical features with appealing designs. Choose the lifting tees that resonate with your personal style and boost your confidence. Remember, when you feel good in your workout gear, you are more likely to have an engaging and enjoyable workout.<\/p><h3>Tip 5: The Allure of Special Features<\/h3><p>These shirts come equipped with special features designed to enhance your workout. For instance, some lifting tees boast anti-odor technology to keep you fresh during and after your workout, while others feature reflective elements to increase your visibility in low-light conditions. Compression lifting shirts can provide muscle support and enhance performance. Consider these additional features when choosing your lifting shirt.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
-        "image_KeYDpn"
+        "image_KeYDpn",
+        "text_GEHNcB"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_w9V7Wk": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>Tip 3: Durability — The Hallmark of a Good Lifting Shirt<\/h3>\n<p>\n  Gym graphic tees are not mere bystanders in your workout — they are active participants that endure the same stresses and strains that you do. Thus, durability is a non-negotiable attribute of a good lifting shirt. Look for weightlifting t-shirts made from robust and high-quality material that can withstand the rigors of intense workouts. Signs of a durable lifting shirt include reinforced stitching and meticulous construction.\n<\/p>\n\n<h3>Tip 4: Merging Functionality with Aesthetics<\/h3>\n<p>\n  While the primary focus when choosing a lifting shirt should be functionality, style need not be sacrificed at the altar of practicality. The market is teeming with lifting shirts that combine practical features with appealing designs. Choose the lifting tees that resonate with your personal style and boost your confidence. Remember, when you feel good in your workout gear, you are more likely to have an engaging and enjoyable workout.\n<\/p>\n\n<h3>Tip 5: The Allure of Special Features<\/h3>\n<p>\n  These shirts come equipped with special features designed to enhance your workout. For instance, some lifting tees boast anti-odor technology to keep you fresh during and after your workout, while others feature reflective elements to increase your visibility in low-light conditions. Compression lifting shirts can provide muscle support and enhance performance. Consider these additional features when choosing your lifting shirt.\n<\/p>\n<\/div>"
       }
     },
     "section_custom_HUPVwc": {
@@ -174,19 +200,25 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_gftbXD": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>Tip 6: Price – A Crucial Consideration<\/h3><p>The final factor to consider when choosing a lifting merch is the price. While the adage \"you get what you pay for\" holds true, it does not imply that you should splurge on the most expensive shirt on the market, nor does it suggest that you should settle for the cheapest option. Strike a balance! Set a budget that suits you and strive to find the best quality gym shirts within that price range.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
-        "image_CYCthC"
+        "image_CYCthC",
+        "text_gftbXD"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_9VjXqG": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>Tip 6: Price – A Crucial Consideration\n<\/h3>\n<p>\n  The final factor to consider when choosing a lifting merch is the price. While the adage \"you get what you pay for\" holds true, it does not imply that you should splurge on the most expensive shirt on the market, nor does it suggest that you should settle for the cheapest option. Strike a balance! Set a budget that suits you and strive to find the best quality gym shirts within that price range.\n<\/p>\n<\/div>"
       }
     }
   },
@@ -196,10 +228,7 @@
     "section_custom_AkL4KL",
     "product-grid",
     "section_custom_4qx38g",
-    "section_liquid_8jLJQC",
     "section_custom_YNbBBC",
-    "section_liquid_w9V7Wk",
-    "section_custom_HUPVwc",
-    "section_liquid_9VjXqG"
+    "section_custom_HUPVwc"
   ]
 }
