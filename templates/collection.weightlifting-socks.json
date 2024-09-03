@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "17006684633c156f39": {
       "type": "apps",
       "blocks": {
         "cf8e3975-e6b6-4dc6-9476-4e93fceb1783": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -17,10 +26,15 @@
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
-            "bb_color": "#2a2a2a"
+            "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": ""
           }
         }
       },
@@ -122,21 +136,27 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_34xGeG": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>Tip 1: Choose the Technical, Sweat-Wicking Material<\/h3><p>Pay attention to materials that remove sweat from your feet. It should keep your feet dry and comfortable while doing tough exercises. A blend of synthetic materials like polyester, nylon, spandex, or elastane will provide you with a comfortable fit, have quick-drying features, and maintain the sock shape over time. Cotton is a rather dubious option to buy, but it is simply ideal for comfort.<\/p><p>Despite cotton enabling your skin to breathe, it doesn't mean that the sweat will evaporate soon. The biggest disadvantage of cotton is that it gets wet quickly, doesn't absorb moisture well, and dries very slowly.<\/p><h3>Tip 2: Ensure Good Grip<\/h3><p>You can achieve a better grip and more efficient power transfer. Such socks should provide a reliable grip on the surface and not slip off under any circumstances. Some products have a non-slip coating on the bottom, which can be helpful when doing sock raises. If your socks for weightlifting slip, practice on a slip-resistant surface.<\/p><h3>Tip 3: Cushioning and Support — Your Feet's Best Friends<\/h3><p>Of course, sports equipment must provide comfort and stability. These properties help athletes avoid tired feet. Some lifting socks even provide targeted cushioning in certain areas, giving extra support where you need it most.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
         "text_HxpJa3",
         "spacer_E6gkLP",
-        "image_LEaFnx"
+        "image_LEaFnx",
+        "text_34xGeG"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_qmn68X": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>Tip 1: Choose the Technical, Sweat-Wicking Material<\/h3>\n<p>\n  Pay attention to materials that remove sweat from your feet. It should keep your feet dry and comfortable while doing tough exercises. A blend of synthetic materials like polyester, nylon, spandex, or elastane will provide you with a comfortable fit, have quick-drying features, and maintain the sock shape over time. Cotton is a rather dubious option to buy, but it is simply ideal for comfort.\n<\/p>\n<p>\n  Despite cotton enabling your skin to breathe, it doesn't mean that the sweat will evaporate soon. The biggest disadvantage of cotton is that it gets wet quickly, doesn't absorb moisture well, and dries very slowly.\n<\/p>\n\n<h3>Tip 2: Ensure Good Grip<\/h3>\n<p>\n  You can achieve a better grip and more efficient power transfer. Such socks should provide a reliable grip on the surface and not slip off under any circumstances. Some products have a non-slip coating on the bottom, which can be helpful when doing sock raises. If your socks for weightlifting slip, practice on a slip-resistant surface.\n<\/p>\n\n<h3>Tip 3: Cushioning and Support — Your Feet's Best Friends<\/h3>\n<p>\n  Of course, sports equipment must provide comfort and stability. These properties help athletes avoid tired feet. Some lifting socks even provide targeted cushioning in certain areas, giving extra support where you need it most.\n<\/p>\n\n<\/div>"
       }
     },
     "section_custom_CBnKaQ": {
@@ -212,7 +232,6 @@
     "section_custom_HarGpy",
     "product-grid",
     "section_custom_nXVCKe",
-    "section_liquid_qmn68X",
     "section_custom_CBnKaQ"
   ]
 }
