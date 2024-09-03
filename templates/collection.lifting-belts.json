@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "17006684633c156f39": {
       "type": "apps",
       "blocks": {
         "cf8e3975-e6b6-4dc6-9476-4e93fceb1783": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/collection-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -17,10 +26,15 @@
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
-            "bb_color": "#2a2a2a"
+            "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": ""
           }
         }
       },
@@ -157,12 +171,6 @@
         "section-bottom-margin": false
       }
     },
-    "section_liquid_eNMjhf": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\"><h3>Leather<\/h3><\/div>"
-      }
-    },
     "section_custom_mTUX6a": {
       "type": "section-custom",
       "blocks": {
@@ -170,7 +178,7 @@
           "type": "text",
           "settings": {
             "title": "",
-            "text": "<p>Leather weightlifting belts, often seen as the stalwarts of the weightlifting domain, are celebrated for their outstanding durability and robust support. These belts feature a thicker and stiffer profile, giving a resolute stage to the lifter to support against during weighty lifts. <\/p><p>However, this unbending nature is a situation with two sides. While it offers considerable help for weightlifting, it reduces the belts’ adaptability, making them less obliging for different activities. Nevertheless, cowhide belts remain the favored decision for hard work activities like squats and deadlifts.<\/p>",
+            "text": "<h3>Leather<\/h3><p>Leather weightlifting belts, often seen as the stalwarts of the weightlifting domain, are celebrated for their outstanding durability and robust support. These belts feature a thicker and stiffer profile, giving a resolute stage to the lifter to support against during weighty lifts. <\/p><p>However, this unbending nature is a situation with two sides. While it offers considerable help for weightlifting, it reduces the belts’ adaptability, making them less obliging for different activities. Nevertheless, cowhide belts remain the favored decision for hard work activities like squats and deadlifts.<\/p>",
             "link_title": "Learn more",
             "link": "",
             "align": "left",
@@ -201,12 +209,6 @@
         "section-bottom-margin": false
       }
     },
-    "section_liquid_pBtpUP": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\"><h3>Nylon<\/h3><\/div>"
-      }
-    },
     "section_custom_G89ypx": {
       "type": "section-custom",
       "blocks": {
@@ -214,7 +216,7 @@
           "type": "text",
           "settings": {
             "title": "",
-            "text": "<p>Nylon lifting belts are the featherweights of the lifting belt world, featuring a lightweight and flexible design. These belts are frequently praised for their solace as well as their simplicity of movability — factors that make them an engaging choice for novices and people who play out a different scope of practices in a solitary exercise. While they probably won't offer a similar degree of inflexibility as calfskin belts, they are in no way, shape, or form second-rate. Their adaptability considers more prominent opportunities of development, particularly in practices that require a more profound scope of movement. In this way, nylon belts adjust to the requirements of the lifter, offering viable help across various activities.<\/p>",
+            "text": "<h3>Nylon<\/h3><p>Nylon lifting belts are the featherweights of the lifting belt world, featuring a lightweight and flexible design. These belts are frequently praised for their solace as well as their simplicity of movability — factors that make them an engaging choice for novices and people who play out a different scope of practices in a solitary exercise. While they probably won't offer a similar degree of inflexibility as calfskin belts, they are in no way, shape, or form second-rate. Their adaptability considers more prominent opportunities of development, particularly in practices that require a more profound scope of movement. In this way, nylon belts adjust to the requirements of the lifter, offering viable help across various activities.<\/p>",
             "link_title": "Learn more",
             "link": "",
             "align": "left",
@@ -257,12 +259,6 @@
         "section-bottom-margin": false
       }
     },
-    "section_liquid_m3rQAk": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\"><h3>Prong<\/h3><\/div>"
-      }
-    },
     "section_custom_Pc7ExW": {
       "type": "section-custom",
       "blocks": {
@@ -270,7 +266,7 @@
           "type": "text",
           "settings": {
             "title": "",
-            "text": "<p>First in the lineup is the prong mechanism. These weightlifting belts, often crafted from durable leather, are of the traditional style of lifting belts. Their plan revolves around a metal prong that is strung through a progression of openings in the belt, considering a solid and movable fit. The prong system is eminent for its solidness and flexibility, obliging an assortment of midsection sizes effortlessly. Nonetheless, changing these belts can require a touch of exertion, particularly while managing a new and firm cowhide belt.<\/p>",
+            "text": "<h3>Prong<\/h3><p>First in the lineup is the prong mechanism. These weightlifting belts, often crafted from durable leather, are of the traditional style of lifting belts. Their plan revolves around a metal prong that is strung through a progression of openings in the belt, considering a solid and movable fit. The prong system is eminent for its solidness and flexibility, obliging an assortment of midsection sizes effortlessly. Nonetheless, changing these belts can require a touch of exertion, particularly while managing a new and firm cowhide belt.<\/p>",
             "link_title": "Learn more",
             "link": "",
             "align": "left",
@@ -285,12 +281,6 @@
         "section-bottom-margin": false
       }
     },
-    "section_liquid_8PYEqp": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\"><h3>Lever<\/h3><\/div>"
-      }
-    },
     "section_custom_3GddqX": {
       "type": "section-custom",
       "blocks": {
@@ -298,7 +288,7 @@
           "type": "text",
           "settings": {
             "title": "",
-            "text": "<p>Lever belts are characterized by a metal lever that latches onto the squat belt to secure it in place. The belt switch considers speedy and consistent securing and detaching, going with it a famous decision among lifters who often change their belts during an exercise. Nonetheless, this comfort includes some significant downfalls, as switch belts are normally more costly than prong belts and may require incidental support or new parts.<\/p>",
+            "text": "<h3>Lever<\/h3><p>Lever belts are characterized by a metal lever that latches onto the squat belt to secure it in place. The belt switch considers speedy and consistent securing and detaching, going with it a famous decision among lifters who often change their belts during an exercise. Nonetheless, this comfort includes some significant downfalls, as switch belts are normally more costly than prong belts and may require incidental support or new parts.<\/p>",
             "link_title": "Learn more",
             "link": "",
             "align": "left",
@@ -329,12 +319,6 @@
         "section-bottom-margin": false
       }
     },
-    "section_liquid_4FfeGj": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\"><h3>Velcro<\/h3><\/div>"
-      }
-    },
     "section_custom_KMXM7h": {
       "type": "section-custom",
       "blocks": {
@@ -342,7 +326,7 @@
           "type": "text",
           "settings": {
             "title": "",
-            "text": "<p>Lastly, we have a velcro training belt, typically fashioned from flexible nylon. These belts highlight a velcro lash that can be changed in accordance with the fit of an extensive variety of midriff sizes. The simplicity of changing and securing these belts is speedy, simple, and bother-free. While velcro belts probably won't offer a similar degree of unbending help as prong or switch belts, they are frequently liked for their solace and adaptability, particularly for practices that require a more noteworthy scope of movement.<\/p>",
+            "text": "<h3>Velcro<\/h3><p>Lastly, we have a velcro training belt, typically fashioned from flexible nylon. These belts highlight a velcro lash that can be changed in accordance with the fit of an extensive variety of midriff sizes. The simplicity of changing and securing these belts is speedy, simple, and bother-free. While velcro belts probably won't offer a similar degree of unbending help as prong or switch belts, they are frequently liked for their solace and adaptability, particularly for practices that require a more noteworthy scope of movement.<\/p>",
             "link_title": "Learn more",
             "link": "",
             "align": "left",
@@ -384,21 +368,27 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_7HLazn": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>Benefit 1: Enhances Performance<\/h3><p>The use of a weight training belt can significantly enhance your performance. It can support power, muscle development, and strength, particularly in lower-body workouts. Individuals who performed squats while wearing a belt displayed quicker speed than the people who didn't. Improved muscle movement during an exercise can prompt better muscle development over the long haul, making a gym belt a valuable accessory in your fitness arsenal.<\/p><h3>Benefit 2: Provides Support and Stability<\/h3><p>One of the primary functions of a gym belt is to provide support and stability during heavy lifts. It goes about as an inflexible design against which you can support your center, in this way diminishing the stress on your lower back. This capability is particularly gainful while performing practices that put a significant burden on the spine, like squats and deadlifts.<\/p><h3>Benefit 3: Injury Prevention<\/h3><p>Another significant benefit of weightlifting belts is their role in injury prevention. When lifting heavy weights, there's always a risk of damaging your spine. A lifting belt ensures that you maintain a straight posture and provides your spine with the necessary support to prevent injuries.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
         "text_jMfWMh",
         "spacer_bUeYix",
-        "image_r9qbrM"
+        "image_r9qbrM",
+        "text_7HLazn"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_HgiaPU": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>Benefit 1: Enhances Performance<\/h3>\n<p>\n  The use of a weight training belt can significantly enhance your performance. It can support power, muscle development, and strength, particularly in lower-body workouts. Individuals who performed squats while wearing a belt displayed quicker speed than the people who didn't. Improved muscle movement during an exercise can prompt better muscle development over the long haul, making a gym belt a valuable accessory in your fitness arsenal.\n<\/p>\n\n<h3>Benefit 2: Provides Support and Stability<\/h3>\n<p>\n  One of the primary functions of a gym belt is to provide support and stability during heavy lifts. It goes about as an inflexible design against which you can support your center, in this way diminishing the stress on your lower back. This capability is particularly gainful while performing practices that put a significant burden on the spine, like squats and deadlifts.\n<\/p>\n\n<h3>Benefit 3: Injury Prevention<\/h3>\n<p>\n  Another significant benefit of weightlifting belts is their role in injury prevention. When lifting heavy weights, there's always a risk of damaging your spine. A lifting belt ensures that you maintain a straight posture and provides your spine with the necessary support to prevent injuries.\n<\/p>\n<\/div>"
       }
     },
     "section_custom_YjHx64": {
@@ -428,21 +418,27 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_3NDkbM": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>Material<\/h3><p>The primary component to consider is the material of the belt. Cowhide leather belts, famous for their unbending nature and life span, are the go-to decision for hard work. Nylon belts, on the other hand, which are celebrated for their adaptability and solace, are great for a different scope of activities.<\/p><h3>Width<\/h3><p>The width of the weight belt is a pivotal factor in determining the level of support it provides. A more extensive belt offers more contact area and, thus, more help. In any case, finding some kind of harmony between help and comfort is vital. A belt that is too wide may limit your development and cause inconvenience.<\/p><h3>Fastening Mechanism<\/h3><p>The fastening mechanism of the squat belt is another critical factor to consider. Prong belts, with their traditional style and durability, are a reliable choice. Lever belts offer quick and easy fastening, while velcro belts are pretty adjustable and comfortable as well.<\/p><h3>Consider Your Lifting Style<\/h3><p>Different lifting styles demand different types of belts. For instance, powerlifters might prefer a thick and supportive belt, while Olympic weightlifters might opt for a less intrusive gym belt that allows for more mobility. If you're a cross-training athlete, you should consider lightweight options made of nylon. The belt should be thin enough not to limit your movements, yet rigid enough to offer midsection support. It should also have a simple hook-and-loop closure system that lets you put it on and take it off quickly.<\/p><h3>Try It On<\/h3><p>Nothing beats trying the belt on. A lifting belt should feel comfortable and secure around your waist. It should be tight enough to provide support but not so tight that it restricts your breathing or movement. Remember, each body is unique, and what works for one person might not work for another.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
         "text_qH66zx",
         "spacer_zHktmr",
-        "image_347cxF"
+        "image_347cxF",
+        "text_3NDkbM"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_gJDf7L": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>Material<\/h3>\n<p>\n  The primary component to consider is the material of the belt. Cowhide leather belts, famous for their unbending nature and life span, are the go-to decision for hard work. Nylon belts, on the other hand, which are celebrated for their adaptability and solace, are great for a different scope of activities.\n<\/p>\n\n<h3>Width<\/h3>\n<p>\n  The width of the weight belt is a pivotal factor in determining the level of support it provides. A more extensive belt offers more contact area and, thus, more help. In any case, finding some kind of harmony between help and comfort is vital. A belt that is too wide may limit your development and cause inconvenience.\n<\/p>\n\n<h3>Fastening Mechanism<\/h3>\n<p>\n  The fastening mechanism of the squat belt is another critical factor to consider. Prong belts, with their traditional style and durability, are a reliable choice. Lever belts offer quick and easy fastening, while velcro belts are pretty adjustable and comfortable as well.\n<\/p>\n\n<h3>Consider Your Lifting Style<\/h3>\n<p>\n  Different lifting styles demand different types of belts. For instance, powerlifters might prefer a thick and supportive belt, while Olympic weightlifters might opt for a less intrusive gym belt that allows for more mobility. If you're a cross-training athlete, you should consider lightweight options made of nylon. The belt should be thin enough not to limit your movements, yet rigid enough to offer midsection support. It should also have a simple hook-and-loop closure system that lets you put it on and take it off quickly.\n<\/p>\n\n<h3>Try It On<\/h3>\n<p>\n  Nothing beats trying the belt on. A lifting belt should feel comfortable and secure around your waist. It should be tight enough to provide support but not so tight that it restricts your breathing or movement. Remember, each body is unique, and what works for one person might not work for another.\n<\/p>\n\n<\/div>"
       }
     },
     "section_custom_MCX4wy": {
@@ -472,21 +468,27 @@
             "link": "",
             "width": "2\/3"
           }
+        },
+        "text_eymim7": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3>General Fitness<\/h3><p>If you're starting to get fit, a weight training belt can be helpful, but you don't absolutely need it. For beginners, it is important to let their bodies adjust to the challenges of strength training without using a belt. However, when it comes to exercises like rows, presses, or squats, using a weight belt can be useful for added help. For the majority of various activities, a belt that can curve and change in size, typically made of nylon, would be a decent decision. Here, we focus on making things agreeable and versatile rather than truly severe or strong.<\/p><h3>Olympic Lifting<\/h3><p>If you're into Olympic lifting, you might want to consider a workout belt designed specifically for this type of lifting. The belt should be agreeable and not need a break-in period like most calfskin belts. It ought to likewise be planned and sliced to limit the gamble of slowing down the activity. A belt that is great for significant Olympic lifters or any individual who needs to securely integrate Olympic lifts into their exercises would be a decent decision.<\/p><h3>Powerlifting<\/h3><p>For powerlifting, where heavy lifts are the norm, a robust and supportive gym belt is essential. The Warm Body Cold Mind Lifting Belt is a top decision for experienced powerlifters. This belt, produced of premium cowhide, is planned explicitly for powerlifting exercises. Its thickness and inflexibility offer the most extreme help during weighty lifts, providing a strong stage against which powerlifters can support their center.<\/p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "left",
+            "width": "1\/1"
+          }
         }
       },
       "block_order": [
         "text_jYFRLE",
         "spacer_MwwfRL",
-        "image_AXVUiC"
+        "image_AXVUiC",
+        "text_eymim7"
       ],
       "settings": {
         "section-bottom-margin": false
-      }
-    },
-    "section_liquid_M4pYrU": {
-      "type": "section-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"container\">\n<h3>General Fitness<\/h3>\n<p>\n  If you're starting to get fit, a weight training belt can be helpful, but you don't absolutely need it. For beginners, it is important to let their bodies adjust to the challenges of strength training without using a belt. However, when it comes to exercises like rows, presses, or squats, using a weight belt can be useful for added help. For the majority of various activities, a belt that can curve and change in size, typically made of nylon, would be a decent decision. Here, we focus on making things agreeable and versatile rather than truly severe or strong.\n<\/p>\n\n<h3>Olympic Lifting<\/h3>\n<p>\n  If you're into Olympic lifting, you might want to consider a workout belt designed specifically for this type of lifting. The belt should be agreeable and not need a break-in period like most calfskin belts. It ought to likewise be planned and sliced to limit the gamble of slowing down the activity. A belt that is great for significant Olympic lifters or any individual who needs to securely integrate Olympic lifts into their exercises would be a decent decision.\n<\/p>\n\n<h3>Powerlifting<\/h3>\n<p>\n  For powerlifting, where heavy lifts are the norm, a robust and supportive gym belt is essential. The Warm Body Cold Mind Lifting Belt is a top decision for experienced powerlifters. This belt, produced of premium cowhide, is planned explicitly for powerlifting exercises. Its thickness and inflexibility offer the most extreme help during weighty lifts, providing a strong stage against which powerlifters can support their center.\n<\/p>\n\n<\/div>"
       }
     }
   },
@@ -496,21 +498,13 @@
     "section_custom_gATp68",
     "product-grid",
     "section_custom_KRzpTh",
-    "section_liquid_eNMjhf",
     "section_custom_mTUX6a",
-    "section_liquid_pBtpUP",
     "section_custom_G89ypx",
-    "section_liquid_m3rQAk",
     "section_custom_Pc7ExW",
-    "section_liquid_8PYEqp",
     "section_custom_3GddqX",
-    "section_liquid_4FfeGj",
     "section_custom_KMXM7h",
     "section_custom_eUwQUP",
-    "section_liquid_HgiaPU",
     "section_custom_YjHx64",
-    "section_liquid_gJDf7L",
-    "section_custom_MCX4wy",
-    "section_liquid_M4pYrU"
+    "section_custom_MCX4wy"
   ]
 }
