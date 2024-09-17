@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "17006690294fb39c04": {
       "type": "apps",
       "blocks": {
         "68bb6900-0755-4395-86b5-9a43a15aba1c": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -150,6 +161,51 @@
         "thumbnails_position": "bottom",
         "thumbnails_ratio": "1:1",
         "thumbnails_show_border": false
+      }
+    },
+    "product_accordion_3F4TH9": {
+      "type": "product_accordion",
+      "blocks": {
+        "article_GDgbXE": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<ul><li><strong>Size:<\/strong> S, M, L (7\"-9\")<\/li><li><strong>Material:<\/strong> 95% cotton and 5% elastane<\/li><li><strong>Color:<\/strong> black, white, pink, yellow, checkerboard, camo<\/li><\/ul>"
+          }
+        },
+        "article_hxmiPe": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>WBCM Figure 8 Lifting Straps are designed for weightlifting, powerlifting, bodybuilding, and functional fitness.<\/p>"
+          }
+        },
+        "article_4pkt96": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. In case you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+          }
+        },
+        "article_iUPC7i": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>Hand wash the straps with warm water and a mild detergent and hang them to dry or put them on a towel to absorb the water. Do not machine wash or dry, as you can damage the material.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "article_GDgbXE",
+        "article_hxmiPe",
+        "article_4pkt96",
+        "article_iUPC7i"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
       }
     },
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd": {
@@ -410,6 +466,7 @@
   "order": [
     "17006690294fb39c04",
     "main",
+    "product_accordion_3F4TH9",
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "3d13f6f8-1da6-434e-b931-c7cd6227574e",
     "9222cec0-f847-4989-9afd-055ed05dd976",
