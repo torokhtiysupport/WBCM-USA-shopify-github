@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1700669249193b19df": {
       "type": "apps",
       "blocks": {
         "ed84f04a-372a-4d26-b646-676038a1a2a7": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -145,7 +156,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Size: 50 ml;<\/li><li>Handy travel bottle with carabiner;<\/li><li>High-quality liquid formulation<br\/>up to 45 uses (50 ml);<\/li><li>Fast-drying formula.<\/li><\/ul>"
+            "text": "<ul><li>Size: 50 ml;<\/li><li>Handy travel bottle with carabiner;<\/li><li>High-quality liquid formulation<br\/>up to 45 uses (50 ml);<\/li><li>Fast-drying formula;<\/li><li>Made of: ‎Magnesium Carbonate<\/li><\/ul>"
           }
         },
         "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-2": {
