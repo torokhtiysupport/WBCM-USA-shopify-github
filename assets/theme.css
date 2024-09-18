@@ -9691,12 +9691,17 @@ section.description .container--tiny {
   }
   .product-badges .sold-out {
     background-color: #000;
+    display: none;
   }
   .product-badges .sale {
     background-color: #c00000;
   }
   .product-badges .new {
     background-color: #00cc00;
+  }
+
+  .product-single:has(.product-form__add.is-disabled) .sold-out {
+    display: block!important;
   }
 
   @media screen and (max-width: 768px) {
