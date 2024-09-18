@@ -40,7 +40,7 @@
                             <span class="badge sale">Sale</span>
                           {% endif %}
                           
-                          {% assign new_product_cutoff_date = 'now' | date: "%s" | minus: 604800 %} <!-- Продукт вважається новим, якщо доданий менше ніж тиждень тому -->
+                          {% assign new_product_cutoff_date = 'now' | date: "%s" | minus: 604800 %}
                           {% if product.created_at >= new_product_cutoff_date %}
                             <span class="badge new">New</span>
                           {% endif %}
