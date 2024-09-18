@@ -34,7 +34,7 @@
                             <span class="badge bestseller">Bestseller</span>
                           {% endif %}
                           
-                          <span class="badge sold-out" data-available="{{ current_variant.available }}" style="display: none;">Sold Out</span>
+                          <span class="badge sold-out" data-available="{{ current_variant.available }}">Sold Out</span>
                           
                           {% if product.compare_at_price > product.price %}
                             <span class="badge sale">Sale</span>
@@ -44,7 +44,7 @@
                             <span class="badge new">New</span>
                           {% endif %}
                 </div>
-                <script>
+                <!-- <script>
                   document.addEventListener('DOMContentLoaded', function() {
                     var soldOutBadge = document.querySelector('.badge.sold-out');
                     var isAvailable = soldOutBadge.getAttribute('data-available') === 'true';
@@ -55,7 +55,7 @@
                       soldOutBadge.style.display = 'none';
                     }
                   });
-                </script>
+                </script> -->
             </div>
 
             <div class="container{% unless section.settings.container == 'full' %} container--{{ section.settings.container }}{% endunless %} {% if section.settings.container == 'small' %}container--tiny@tab{% endif %}">           
