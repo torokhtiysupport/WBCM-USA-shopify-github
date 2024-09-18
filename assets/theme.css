@@ -9674,8 +9674,8 @@ section.description .container--tiny {
 /* Badges */
   .product-badges {
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 5px;
+    left: calc(60% + 10px);
   }
   .product-badges .badge {
     background-color: #ff0000;
@@ -9696,4 +9696,9 @@ section.description .container--tiny {
   }
   .product-badges .new {
     background-color: #00cc00;
+  }
+
+  @media screen and (max-width: 768px) {
+    top: 5px;
+    left: 0;
   }
