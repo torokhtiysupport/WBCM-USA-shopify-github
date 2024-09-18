@@ -32,7 +32,7 @@
                             <span class="badge bestseller">Bestseller</span>
                           {% endif %}
                           
-                          {% if product.available == false %}
+                          {% if selected_or_first_available_variant.available == false %}
                             <span class="badge sold-out">Sold Out</span>
                           {% endif %}
                           
