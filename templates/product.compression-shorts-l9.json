@@ -168,10 +168,7 @@
         "popup_bYBV9h"
       ],
       "custom_css": [
-        ".product-popup-draw__wrapper {padding: 30px 10px;}",
-        ".product-popup__media-img {margin: 0;}",
-        ".product-popup__inner {overflow-x: auto;}",
-        ".mfp-content {padding-left: 10px; padding-right: 10px;}"
+
       ],
       "settings": {
         "container": "large",
