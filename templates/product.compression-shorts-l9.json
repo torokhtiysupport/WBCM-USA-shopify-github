@@ -135,6 +135,21 @@
             "align": "center",
             "link": ""
           }
+        },
+        "popup_bYBV9h": {
+          "type": "popup",
+          "settings": {
+            "link_title": "Size chart",
+            "link_style": "body",
+            "align": "left",
+            "popup_heading": "label",
+            "popup_content": "",
+            "image": "shopify:\/\/shop_images\/Shorts_SizeTable_V2.png",
+            "text": "",
+            "icon": "icon-clothes-design-tape-measure",
+            "icon_size": 1,
+            "color_icon": "#212121"
+          }
         }
       },
       "block_order": [
@@ -149,7 +164,8 @@
         "share",
         "db48bf56-e904-4604-9f21-89d04e9bf241",
         "description",
-        "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb"
+        "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb",
+        "popup_bYBV9h"
       ],
       "settings": {
         "container": "large",
