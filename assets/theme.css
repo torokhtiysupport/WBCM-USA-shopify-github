@@ -9670,3 +9670,30 @@ section.description .container--tiny {
     background: #fff;
   }
 }
+
+/* Badges */
+  .product-badges {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  .product-badges .badge {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 3px;
+    font-size: 12px;
+  }
+  .product-badges .bestseller {
+    background-color: #f0c000;
+  }
+  .product-badges .sold-out {
+    background-color: #000;
+  }
+  .product-badges .sale {
+    background-color: #ff6600;
+  }
+  .product-badges .new {
+    background-color: #00cc00;
+  }
