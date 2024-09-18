@@ -33,16 +33,14 @@
                             <span class="badge bestseller">Bestseller</span>
                           {% endif %}
                           
-                          <!-- {% if current_variant.available == false %}
-                            <span class="badge sold-out">Sold Out</span>
-                          {% endif %} -->
                           <span class="badge sold-out" data-available="{{ current_variant.available }}" style="display: none;">Sold Out</span>
                           
                           {% if product.compare_at_price > product.price %}
                             <span class="badge sale">Sale</span>
                           {% endif %}
                           
-                          {% assign new_product_cutoff_date = 'now' | date: "%s" | minus: 604800 %}
+                          {% assign one_year_in_seconds = 31536000 %}
+                          {% assign new_product_cutoff_date = 'now' | date: "%s" | minus: one_year_in_seconds %}
                           {% if product.created_at >= new_product_cutoff_date %}
                             <span class="badge new">New</span>
                           {% endif %}
