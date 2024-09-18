@@ -5209,7 +5209,7 @@ variant-selects {
   background: var(--color--bg);
   max-width: 700px;
   width: auto;
-  margin: 0 10px 0; }
+  margin: 12px auto 42px; }
   .product-popup-draw .mfp-close {
     color: var(--color--text);
     display: block;
@@ -5315,6 +5315,9 @@ variant-selects {
         margin-top: 0; } }
 
 @media screen and (max-width: 767px) {
+  .product-popup-draw {
+    margin: 0 10px 0!important;
+  }
   .mob-col-2.product-single__profile-container,
   .mob-col-2.product-featured__profile-container {
     display: flex;
