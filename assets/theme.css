@@ -9700,5 +9700,5 @@ section.description .container--tiny {
 
   @media screen and (max-width: 768px) {
     top: 5px;
-    left: 0;
+    left: 20px;
   }
