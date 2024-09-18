@@ -30,11 +30,11 @@
 
                 <!-- Badges -->
                 <div class="product-badges">
+                          <span class="badge sold-out" data-available="{{ current_variant.available }}">Sold Out</span>
+
                           {% if product.tags contains 'Bestseller' %}
                             <span class="badge bestseller">Bestseller</span>
                           {% endif %}
-                          
-                          <span class="badge sold-out" data-available="{{ current_variant.available }}">Sold Out</span>
                           
                           {% if product.compare_at_price > product.price %}
                             <span class="badge sale">Sale</span>
