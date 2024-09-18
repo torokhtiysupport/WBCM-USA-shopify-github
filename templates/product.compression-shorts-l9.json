@@ -142,7 +142,7 @@
             "link_title": "Size chart",
             "link_style": "body",
             "align": "left",
-            "popup_heading": "label",
+            "popup_heading": "none",
             "popup_content": "",
             "image": "shopify:\/\/shop_images\/Shorts_SizeTable_V2.png",
             "text": "",
