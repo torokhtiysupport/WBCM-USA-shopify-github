@@ -9687,7 +9687,7 @@ section.description .container--tiny {
     line-height: 1.2;
   }
   .product-badges .bestseller {
-    background-color: #f0c000;
+    background-color: #fa7a02;
   }
   .product-badges .sold-out {
     background-color: #000;
@@ -9697,7 +9697,8 @@ section.description .container--tiny {
     background-color: #c00000;
   }
   .product-badges .new {
-    background-color: #00cc00;
+    background-color: #fadd02;
+    color: #000;
   }
 
   .product-single:has(.product-form__add.is-disabled) .sold-out {
