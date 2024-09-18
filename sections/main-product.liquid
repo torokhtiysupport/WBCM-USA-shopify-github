@@ -47,7 +47,7 @@
                             <span class="badge new">New</span>
                           {% endif %}
                 </div>
-                <!-- <script>
+                <script>
                   document.addEventListener('DOMContentLoaded', function() {
                     var soldOutBadge = document.querySelector('.badge.sold-out');
                     var isAvailable = soldOutBadge.getAttribute('data-available') === 'true';
@@ -58,7 +58,7 @@
                       soldOutBadge.style.display = 'none';
                     }
                   });
-                </script> -->
+                </script>
             </div>
 
             <div class="container{% unless section.settings.container == 'full' %} container--{{ section.settings.container }}{% endunless %} {% if section.settings.container == 'small' %}container--tiny@tab{% endif %}">           
