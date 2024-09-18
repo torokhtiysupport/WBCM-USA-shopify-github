@@ -9701,7 +9701,7 @@ section.description .container--tiny {
   }
 
   .product-single:has(.product-form__add.is-disabled) .sold-out {
-    display: block!important;
+    display: inline-block!important;
   }
 
   @media screen and (max-width: 768px) {
