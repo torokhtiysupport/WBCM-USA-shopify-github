@@ -7,7 +7,7 @@
 <div id="ProductSection-{{ section.id }}">
     <section class="section section--product-single section--{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="product-single">
         <div class="product-single product-single--minimal product-single--{{ product.id }} js-product-{{product.id}} js-product-single" data-product-id="{{product.id}}">
-            <div class="product-single__top">
+            <div class="product-single__top"  style="position: relative">
                 <!-- {% if section.settings.show_breadcrumbs %}
                     <div class="container container--small {% if section.settings.container == 'small' %}container--tiny@tab{% endif %}">
                         <nav class="breadcrumb breadcrumb--product-single u-text-center js-breadcrumb" role="navigation" aria-label="breadcrumbs">
@@ -27,13 +27,7 @@
                         </nav>
                     </div>
                 {% endif %} -->
-            </div>
-
-            <div class="container{% unless section.settings.container == 'full' %} container--{{ section.settings.container }}{% endunless %} {% if section.settings.container == 'small' %}container--tiny@tab{% endif %}">           
-              <div class="product-single__bottom">
-                    <div class="o-layout u-flex{% if section.settings.container != 'narrow' %} o-layout--large{% endif %}" style="position: relative">
-
-                        <div class="product-badges">
+                <div class="product-badges">
                           {% if product.tags contains 'Bestseller' %}
                             <span class="badge bestseller">Bestseller</span>
                           {% endif %}
@@ -50,8 +44,12 @@
                           {% if product.created_at >= new_product_cutoff_date %}
                             <span class="badge new">New</span>
                           {% endif %}
-                        </div>
-                      
+                </div>
+            </div>
+
+            <div class="container{% unless section.settings.container == 'full' %} container--{{ section.settings.container }}{% endunless %} {% if section.settings.container == 'small' %}container--tiny@tab{% endif %}">           
+              <div class="product-single__bottom">
+                    <div class="o-layout u-flex{% if section.settings.container != 'narrow' %} o-layout--large{% endif %}">
                         <div class="o-layout__item u-1/1 u-3/5@desk">
 
                             {%- liquid
