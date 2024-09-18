@@ -7,6 +7,25 @@
 <div id="ProductSection-{{ section.id }}">
     <section class="section section--product-single section--{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="product-single">
 
+        <div class="product-badges">
+          {% if product.tags contains 'Bestseller' %}
+            <span class="badge bestseller">Bestseller</span>
+          {% endif %}
+          
+          {% if product.available == false %}
+            <span class="badge sold-out">Sold Out</span>
+          {% endif %}
+          
+          {% if product.compare_at_price > product.price %}
+            <span class="badge sale">Sale</span>
+          {% endif %}
+          
+          {% assign new_product_cutoff_date = 'now' | date: "%s" | minus: 604800 %} <!-- Продукт вважається новим, якщо доданий менше ніж тиждень тому -->
+          {% if product.created_at >= new_product_cutoff_date %}
+            <span class="badge new">New</span>
+          {% endif %}
+        </div>
+      
         <div class="product-single product-single--minimal product-single--{{ product.id }} js-product-{{product.id}} js-product-single" data-product-id="{{product.id}}">
             <div class="product-single__top">
 
@@ -67,27 +86,6 @@
                             <div class="u-height-100">
 
                                 <div class="product-single__box js-product-single-actions">
-
-                                    <div class="product-badges">
-                                      {% if product.tags contains 'Bestseller' %}
-                                        <span class="badge bestseller">Bestseller</span>
-                                      {% endif %}
-                                      
-                                      {% if product.available == false %}
-                                        <span class="badge sold-out">Sold Out</span>
-                                      {% endif %}
-                                      
-                                      {% if product.compare_at_price > product.price %}
-                                        <span class="badge sale">Sale</span>
-                                      {% endif %}
-                                      
-                                      {% assign new_product_cutoff_date = 'now' | date: "%s" | minus: 604800 %} <!-- Продукт вважається новим, якщо доданий менше ніж тиждень тому -->
-                                      {% if product.created_at >= new_product_cutoff_date %}
-                                        <span class="badge new">New</span>
-                                      {% endif %}
-                                    </div>
-
-                                  
                                     {%- liquid
                                         assign form_id = 'product-form-' | append: section.id
                                         assign buy_buttons_present = false
