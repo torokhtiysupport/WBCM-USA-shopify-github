@@ -39,9 +39,7 @@
                             <span class="badge sale">Sale</span>
                           {% endif %}
                           
-                          {% assign one_year_in_seconds = 31536000 %}
-                          {% assign new_product_cutoff_date = 'now' | date: "%s" | minus: one_year_in_seconds %}
-                          {% if product.created_at >= new_product_cutoff_date %}
+                          {% if product.tags contains 'NEW' %}
                             <span class="badge new">New</span>
                           {% endif %}
                 </div>
