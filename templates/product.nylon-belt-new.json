@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "170066938005b133ef": {
       "type": "apps",
       "blocks": {
         "c4f56327-9744-4418-9c63-0cec40eaa28e": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -160,7 +171,7 @@
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Use a damp cloth and mild soap to clean the belt, then dry it with a clean towel. Before storing the belt, air dry it completely. Keep your weightlifting belt in a cool, dry place that will help it last longer.<\/p>"
+            "text": "<p>Not recommended for machine washing. Hand wash it using a mild soap or cleaner, or wipe it with a wet tissue. Allow the belt to air dry naturally in a well-ventilated area away from heat sources and sunlight.<\/p>"
           }
         }
       },
