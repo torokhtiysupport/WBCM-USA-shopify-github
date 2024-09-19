@@ -44,52 +44,6 @@
                             <span class="badge new">New</span>
                           {% endif %}
                 </div>
-                <script>
-                  document.addEventListener('DOMContentLoaded', function() {
-                  var soldOutBadge = document.querySelector('.product-badges .sold-out');
-                  var addButton = document.querySelector('.product-form__add-btn');
-                
-                  function updateBadge() {
-                    if (addButton && addButton.hasAttribute('disabled')) {
-                      if (soldOutBadge) {
-                        soldOutBadge.style.display = 'inline';
-                      }
-                    } else {
-                      if (soldOutBadge) {
-                        soldOutBadge.style.display = 'none';
-                      }
-                    }
-                  }
-                
-                  updateBadge();
-                
-                  var observer = new MutationObserver(function(mutations) {
-                    mutations.forEach(function(mutation) {
-                      updateBadge();
-                    });
-                  });
-                
-                  var targetNode = document.querySelector('body');
-                  var config = { childList: true, subtree: true };
-                
-                  if (targetNode) {
-                    observer.observe(targetNode, config);
-                  }
-                });
-
-                </script>
-                <!-- <script>
-                  document.addEventListener('DOMContentLoaded', function() {
-                    var soldOutBadge = document.querySelector('.badge.sold-out');
-                    var isAvailable = soldOutBadge.getAttribute('data-available') === 'true';
-                  
-                    if (!isAvailable) {
-                      soldOutBadge.style.display = 'inline-block';
-                    } else {
-                      soldOutBadge.style.display = 'none';
-                    }
-                  });
-                </script> -->
             </div>
 
             <div class="container{% unless section.settings.container == 'full' %} container--{{ section.settings.container }}{% endunless %} {% if section.settings.container == 'small' %}container--tiny@tab{% endif %}">           
@@ -1239,6 +1193,42 @@
         }
     </script>
 {% endif %}
+
+<!-- JS for Sold Out Badge -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    var soldOutBadge = document.querySelector('.product-badges .sold-out');
+    var addButton = document.querySelector('.product-form__add-btn');
+  
+    function updateBadge() {
+      if (addButton && addButton.hasAttribute('disabled')) {
+        if (soldOutBadge) {
+          soldOutBadge.style.display = 'inline';
+        }
+      } else {
+        if (soldOutBadge) {
+          soldOutBadge.style.display = 'none';
+        }
+      }
+    }
+  
+    updateBadge();
+  
+    var observer = new MutationObserver(function(mutations) {
+      mutations.forEach(function(mutation) {
+        updateBadge();
+      });
+    });
+  
+    var targetNode = document.querySelector('body');
+    var config = { childList: true, subtree: true };
+  
+    if (targetNode) {
+      observer.observe(targetNode, config);
+    }
+  });
+</script>
+<!-- End JS for Sold Out Badge -->
 
 {%- liquid
   if product.selected_or_first_available_variant.featured_media
