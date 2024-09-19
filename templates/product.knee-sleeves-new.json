@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1700669101d1d1b080": {
       "type": "apps",
       "blocks": {
         "6b8e2c51-e7d6-4164-bf8d-7b884f8965aa": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -160,7 +171,7 @@
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Do not put your sleeves in the washing machine, which can damage them.<br\/>Soak them in cold water for a couple of hours to loosen dirt and body oils. Add baking soda to the water to eliminate any smells. Do not use hot water on your sleeves.<br\/>It's better to hand wash knee sleeves using a mild dish soap or detergent to scrub them gently.<br\/>Rinse the knee sleeves thoroughly. Then gently squeeze the excess water and lay them to air dry flat. When your knee sleeves are completely dry, store them in a cool, dry place.<\/p>"
+            "text": "<p>Machine washing is allowed. Not recommended to be washed very often as it can influence their lifetime. Not recommended for drying in the drying machine. Allow the knee sleeves to air dry naturally in a well-ventilated area to avoid color bleaching.<\/p>"
           }
         }
       },
