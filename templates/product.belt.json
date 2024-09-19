@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1700668773ff01bfe3": {
       "type": "apps",
       "blocks": {
         "42221e8d-866a-46c1-bb01-f7e390b37c62": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -160,7 +171,7 @@
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>To clean and maintain a weightlifting belt, just wipe it down with a damp cloth after each use to remove sweat and dirt. You can also apply a leather conditioner for leather belts to maintain its flexibility and prevent cracking.<\/p>"
+            "text": "<p>Wipe with a wet tissue. Avoid machine washing so as not to damage the natural leather. Allow the belt to air dry naturally in a well-ventilated area away from heat sources and sunlight.<\/p>"
           }
         }
       },
