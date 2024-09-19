@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1700668731f2e939dc": {
       "type": "apps",
       "blocks": {
         "9c14a0e4-dccc-4f56-971b-eb04ee3ae9fb": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -154,7 +165,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Fit all 2\" Olympic barbells<\/li><li>Made from scratch-resistant materials<\/li><li>Features quick release mechanism<\/li><li>Come with stainless steel pins<\/li><\/ul>"
+            "text": "<ul><li><strong>Material:<\/strong> High-Strength Nylon<\/li><li><strong>Closure:<\/strong> Quick-Lock Mechanism<\/li><li><strong>Fit:<\/strong> 2in Olympic Sleeves<\/li><li><strong>Weight:<\/strong> 0.75 pounds<\/li><li>Sold in pairs<\/li><\/ul>"
           }
         },
         "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-2": {
@@ -175,7 +186,7 @@
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>When working out with a barbell, it’s preferable to use a plastic bristle brush and a mild detergent to clean the knurl. As you use the collars they’re in contact with a bar, so you can also wipe them down with 3:1 oil and brush it into the knurl with a plastic bristle brush. The steel will soak the oil in and the bar will stay healthy. Then wipe off the odd oil with a towel.<\/p>"
+            "text": "<p>Use a stiff bristle brush to remove dirt, chalk, and other debris. Make sure it's stiff enough to scrub away dirt without damaging a collar. Use a clean wet cloth to remove the dirt. You can also use a mild detergent to wipe possible oils or chalk.<\/p>"
           }
         }
       },
