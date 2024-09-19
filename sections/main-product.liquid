@@ -45,10 +45,11 @@
                           {% endif %}
                 </div>
                 <script>
-                  window.onload = function() {
-                    var soldOutBadge = document.querySelector('.product-badges .sold-out');
-                    var addButton = document.querySelector('.product-form__add-btn');
-                  
+                  document.addEventListener('DOMContentLoaded', function() {
+                  var soldOutBadge = document.querySelector('.product-badges .sold-out');
+                  var addButton = document.querySelector('.product-form__add-btn');
+                
+                  function updateBadge() {
                     if (addButton && addButton.hasAttribute('disabled')) {
                       if (soldOutBadge) {
                         soldOutBadge.style.display = 'inline';
@@ -58,7 +59,24 @@
                         soldOutBadge.style.display = 'none';
                       }
                     }
-                  };
+                  }
+                
+                  updateBadge();
+                
+                  var observer = new MutationObserver(function(mutations) {
+                    mutations.forEach(function(mutation) {
+                      updateBadge();
+                    });
+                  });
+                
+                  var targetNode = document.querySelector('body');
+                  var config = { childList: true, subtree: true };
+                
+                  if (targetNode) {
+                    observer.observe(targetNode, config);
+                  }
+                });
+
                 </script>
                 <!-- <script>
                   document.addEventListener('DOMContentLoaded', function() {
