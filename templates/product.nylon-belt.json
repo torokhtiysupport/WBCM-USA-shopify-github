@@ -1,1 +1,456 @@
-{"sections":{"170066938005b133ef":{"type":"apps","blocks":{"c4f56327-9744-4418-9c63-0cec40eaa28e":{"type":"shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef","settings":{"home":"Home","home_link":"\/","menu":"main-menu","separator":"›","bb_show_hide":true,"unclickable":false,"bb_show_more":true,"enable_custom_feature":true,"bb_capitalize":false,"bb_font_size":13,"bb_padding":0,"bb_top_padding":20,"bb_margin":0,"bb_align":"left","bb_color":"#2a2a2a","truncator":20}}},"block_order":["c4f56327-9744-4418-9c63-0cec40eaa28e"],"settings":{"include_margins":true}},"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"title_size":3,"title_size_mobile":3}},"price":{"type":"price","settings":{"price_label_discount":true,"price_label_discount_type":"text","price_label_discount_color":"#c00000"}},"db48bf56-e904-4604-9f21-89d04e9bf249":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"variant_picker":{"type":"variant_picker","settings":{"product_variant_style":"swatches","popup_enable":false,"popup_trigger":"Size\nGröße\nTaille\nTaglia\nTalla","popup_label":"Size guide","popup_content":""}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"enable_payment_button":true}},"db48bf56-e904-4604-9f21-89d04e9bf241":{"type":"spacer","settings":{"top":"small","bottom":"small","border":true}},"description":{"type":"description","settings":{}}},"block_order":["title","price","db48bf56-e904-4604-9f21-89d04e9bf249","variant_picker","quantity_selector","buy_buttons","db48bf56-e904-4604-9f21-89d04e9bf241","description"],"settings":{"container":"large","show_breadcrumbs":true,"enable_zoom":true,"enable_video_looping":false,"product_image_ratio":"1:1","enable_product_image_rounded_corners":false,"thumbnails_position":"bottom","thumbnails_ratio":"1:1","thumbnails_show_border":false}},"51a86ac9-d721-48d9-9da9-d69acf140136":{"type":"product_accordion","blocks":{"template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-1":{"type":"article","settings":{"title":"Specs","text":"<ul><li>Dimensions: S (62-71cm), M (72-81cm), L (82-91cm), XL (92-101cm), XXL (102-111cm)<\/li><li>Material: Premium nylon with a high-quality metal clasp<\/li><\/ul>"}},"template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-2":{"type":"article","settings":{"title":"Intended Use","text":"<p>The belt is suitable for weightlifting, powerlifting, bodybuilding, cross-training, and other strength-related sports. Also, it's suitable for WOD exercises, dip squats, heavy power exercises, and general fitness.<\/p>"}},"template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-3":{"type":"article","settings":{"title":"Warranty","text":"<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"}},"template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-4":{"type":"article","settings":{"title":"Care","text":"<p>Use a damp cloth and mild soap to clean the belt, then dry it with a clean towel. Before storing the belt, air dry it completely. Keep your weightlifting belt in a cool, dry place that will help it last longer.<\/p>"}}},"block_order":["template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-1","template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-2","template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-3","template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-4"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"385a335e-b6df-4fc4-a557-1e66c9db995a":{"type":"section-image-with-text","blocks":{"template--18065832640776__385a335e-b6df-4fc4-a557-1e66c9db995a-16897796097658d468-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/photo-4.png","title":"","desc":"<p><strong>QUALITY SELF-LOCKING SYSTEM:<\/strong><\/p><p>Our Nylon Belt features a top-of-the-line self-locking system that ensures a secure fit and maximum support for all your lifts.<\/p><p><strong>LIGHTWEIGHT & BREATHABLE:<\/strong><\/p><p>Experience maximum comfort and coolness with our lightweight and breathable quick-locking belt, even during the toughest workouts.<\/p><p><strong>DURABLE:<\/strong><\/p><p>Built to withstand the most intense workouts, allowing you to focus solely on pushing your limits.<\/p><p><strong>DESIGNED BY A CHAMPION:<\/strong><\/p><p>This quick-locking nylon belt is crafted by Oleksiy TOROKHTIY, a winner of World and European Weightlifting Championships, catered to both men and women who are passionate about lifting.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["template--18065832640776__385a335e-b6df-4fc4-a557-1e66c9db995a-16897796097658d468-0"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":false,"image_ratio":"natural","block_layout":"1\/2","block_align":"left","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"adc77034-1924-463a-89b8-f0bbbb85a6dc":{"type":"section-multi-column-images","blocks":{"template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-1":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/3_3_5d6d2091-1fe3-46f4-8355-3eb3f111f39f.png","title":"Premium Quality and Secure Fit","sub_title":"","desc":"<p>This winning combination guarantees a secure fit even during the most challenging workouts. Designed for Various Exercises<\/p>","link_title":"","link":""}},"template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-2":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/1_3_622e8f7a-b514-439c-a755-7c205c068a3a.png","title":"Unmatched Features for Maximum Performance","sub_title":"","desc":"<p>With our auto-lock system, you can trust that your weight belt will never slip or come loose, providing you with unparalleled confidence and stability.<\/p>","link_title":"","link":""}},"template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-3":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/2_3_93cb0cf3-a1f1-4c08-b441-b580a04d59be.png","title":"Material Care and Uncompromising Quality","sub_title":"","desc":"<p>At WBCM, we prioritize both the care of our materials and the quality of our products. To ensure the longevity of your Nylon Weightlifting Belt<\/p>","link_title":"","link":""}}},"block_order":["template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-1","template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-2","template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-3"],"settings":{"title":"Details","container":"large","link_title":"Learn more","link":"","divider":false,"section-bottom-margin":true,"grid":3,"spacing":3,"alignment":"center","link_style":"hollow","heading_size":3,"image_toggle":true,"image_size":100,"image_padding":0,"image_ratio":"circle","image_fit":false,"bg_color":"rgba(0,0,0,0)","color_image":"rgba(0,0,0,0)","color_text":"#212121","text_heading_color":false,"grid_mobile":"1","mobile_layout":"carousel"}},"7faa200f-72b5-4fc4-9226-c406fac67896":{"type":"section-video","blocks":{"template--18065832640776__7faa200f-72b5-4fc4-9226-c406fac67896-168977956440e2e457-0":{"type":"video","settings":{"video_url":"https:\/\/youtu.be\/WowPZTqtT2k","video_title":""}}},"block_order":["template--18065832640776__7faa200f-72b5-4fc4-9226-c406fac67896-168977956440e2e457-0"],"settings":{"title":"","desc":"","link_title":"More videos","link":"","overlay_strength":50}},"3e0ffde5-3f43-45a1-9535-cd79f7ea9e34":{"type":"section-image-with-text","blocks":{"7154509e-7b3b-4916-b304-76253d354dad":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/photo-2_d6be923e-c5a9-43c1-a04a-25f3ed8a41c1.png","title":"","desc":"<p><strong>In WBCM we designed high-quality belts that are used by hundreds of professionals at:<\/strong><br\/>- CRUISERWEIGHT<br\/>- POWERLIFTING<br\/>- BODYBUILDING<br\/>- WEIGHTLIFTING<br\/>- CROSS TRAINING<br\/>Also, our Gym belts perfectly suit for WOD exercises, dip squats, heavy power exercises, and fitness.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}},"f98b44c3-aa32-4e6b-abc2-70b276fc400e":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/photo-3.png","title":"","desc":"<p><strong>Our Gym belts<\/strong> are perfectly suited for a wide range of exercises, including WOD exercises, squats, heavy power exercises, and general fitness routines. No matter your preferred workout, the WBCM Nylon Weightlifting Belt will be your trusted companion.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["7154509e-7b3b-4916-b304-76253d354dad","f98b44c3-aa32-4e6b-abc2-70b276fc400e"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"1\/2","block_align":"left","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"e8c19ee4-aafe-42ce-a89b-d47772a7fd74":{"type":"section-image-slideshow","blocks":{"template--18065832640776__e8c19ee4-aafe-42ce-a89b-d47772a7fd74-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Nylon_Belt_Sizes.png","link":""}}},"block_order":["template--18065832640776__e8c19ee4-aafe-42ce-a89b-d47772a7fd74-image-1"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":false}},"2d5bd59f-a78a-4717-af1f-2177417b93ca":{"type":"section-faq","blocks":{"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0":{"type":"category","settings":{"title":"FAQs"}},"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1":{"type":"article","settings":{"title":"Shipping","text":"<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"}},"template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2":{"type":"article","settings":{"title":"Returns","text":"<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"}}},"block_order":["template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0","template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1","template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"],"custom_css":["{background-color: #eeeeee;}"],"settings":{"enable_sidebar":false,"cta_link_title":"Contact us","cta_link":"","cta_style":"link"}},"16897793391d441ce2":{"type":"apps","blocks":{"40570156-6217-4c1a-a077-8edbc7b49133":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["40570156-6217-4c1a-a077-8edbc7b49133"],"settings":{"include_margins":true}},"product-recommendations":{"type":"product-recommendations","settings":{"related_title":"You may also like","section_width":"wide","related_mobile_layout":"carousel","related_grid_num":4,"grid_mobile":"2","related_grid_row":1}}},"order":["170066938005b133ef","main","51a86ac9-d721-48d9-9da9-d69acf140136","385a335e-b6df-4fc4-a557-1e66c9db995a","adc77034-1924-463a-89b8-f0bbbb85a6dc","7faa200f-72b5-4fc4-9226-c406fac67896","3e0ffde5-3f43-45a1-9535-cd79f7ea9e34","e8c19ee4-aafe-42ce-a89b-d47772a7fd74","2d5bd59f-a78a-4717-af1f-2177417b93ca","16897793391d441ce2","product-recommendations"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "170066938005b133ef": {
+      "type": "apps",
+      "blocks": {
+        "c4f56327-9744-4418-9c63-0cec40eaa28e": {
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "\/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "unclickable": false,
+            "bb_show_more": true,
+            "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_mobile_padding": 55,
+            "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
+            "bb_margin": 0,
+            "bb_mobile_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
+            "truncator": 20
+          }
+        }
+      },
+      "block_order": [
+        "c4f56327-9744-4418-9c63-0cec40eaa28e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf241": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "db48bf56-e904-4604-9f21-89d04e9bf241",
+        "description"
+      ],
+      "settings": {
+        "container": "large",
+        "show_breadcrumbs": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_product_image_rounded_corners": false,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "51a86ac9-d721-48d9-9da9-d69acf140136": {
+      "type": "product_accordion",
+      "blocks": {
+        "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-1": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<ul><li>Dimensions: S (62-71cm), M (72-81cm), L (82-91cm), XL (92-101cm), XXL (102-111cm)<\/li><li>Material: Premium nylon with a high-quality metal clasp<\/li><\/ul>"
+          }
+        },
+        "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-2": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>The belt is suitable for weightlifting, powerlifting, bodybuilding, cross-training, and other strength-related sports. Also, it's suitable for WOD exercises, dip squats, heavy power exercises, and general fitness.<\/p>"
+          }
+        },
+        "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-3": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+          }
+        },
+        "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-4": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>Not recommended for machine washing. Hand wash it using a mild soap or cleaner, or wipe it with a wet tissue. Allow the belt to air dry naturally in a well-ventilated area away from heat sources and sunlight.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-1",
+        "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-2",
+        "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-3",
+        "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-4"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "385a335e-b6df-4fc4-a557-1e66c9db995a": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--18065832640776__385a335e-b6df-4fc4-a557-1e66c9db995a-16897796097658d468-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo-4.png",
+            "title": "",
+            "desc": "<p><strong>QUALITY SELF-LOCKING SYSTEM:<\/strong><\/p><p>Our Nylon Belt features a top-of-the-line self-locking system that ensures a secure fit and maximum support for all your lifts.<\/p><p><strong>LIGHTWEIGHT & BREATHABLE:<\/strong><\/p><p>Experience maximum comfort and coolness with our lightweight and breathable quick-locking belt, even during the toughest workouts.<\/p><p><strong>DURABLE:<\/strong><\/p><p>Built to withstand the most intense workouts, allowing you to focus solely on pushing your limits.<\/p><p><strong>DESIGNED BY A CHAMPION:<\/strong><\/p><p>This quick-locking nylon belt is crafted by Oleksiy TOROKHTIY, a winner of World and European Weightlifting Championships, catered to both men and women who are passionate about lifting.<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18065832640776__385a335e-b6df-4fc4-a557-1e66c9db995a-16897796097658d468-0"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1\/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "adc77034-1924-463a-89b8-f0bbbb85a6dc": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_3_5d6d2091-1fe3-46f4-8355-3eb3f111f39f.png",
+            "title": "Premium Quality and Secure Fit",
+            "sub_title": "",
+            "desc": "<p>This winning combination guarantees a secure fit even during the most challenging workouts. Designed for Various Exercises<\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_3_622e8f7a-b514-439c-a755-7c205c068a3a.png",
+            "title": "Unmatched Features for Maximum Performance",
+            "sub_title": "",
+            "desc": "<p>With our auto-lock system, you can trust that your weight belt will never slip or come loose, providing you with unparalleled confidence and stability.<\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-3": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_3_93cb0cf3-a1f1-4c08-b441-b580a04d59be.png",
+            "title": "Material Care and Uncompromising Quality",
+            "sub_title": "",
+            "desc": "<p>At WBCM, we prioritize both the care of our materials and the quality of our products. To ensure the longevity of your Nylon Weightlifting Belt<\/p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-1",
+        "template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-2",
+        "template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-3"
+      ],
+      "settings": {
+        "title": "Details",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": true,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "circle",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "7faa200f-72b5-4fc4-9226-c406fac67896": {
+      "type": "section-video",
+      "blocks": {
+        "template--18065832640776__7faa200f-72b5-4fc4-9226-c406fac67896-168977956440e2e457-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/WowPZTqtT2k",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18065832640776__7faa200f-72b5-4fc4-9226-c406fac67896-168977956440e2e457-0"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
+    "3e0ffde5-3f43-45a1-9535-cd79f7ea9e34": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "7154509e-7b3b-4916-b304-76253d354dad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo-2_d6be923e-c5a9-43c1-a04a-25f3ed8a41c1.png",
+            "title": "",
+            "desc": "<p><strong>In WBCM we designed high-quality belts that are used by hundreds of professionals at:<\/strong><br\/>- CRUISERWEIGHT<br\/>- POWERLIFTING<br\/>- BODYBUILDING<br\/>- WEIGHTLIFTING<br\/>- CROSS TRAINING<br\/>Also, our Gym belts perfectly suit for WOD exercises, dip squats, heavy power exercises, and fitness.<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "f98b44c3-aa32-4e6b-abc2-70b276fc400e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo-3.png",
+            "title": "",
+            "desc": "<p><strong>Our Gym belts<\/strong> are perfectly suited for a wide range of exercises, including WOD exercises, squats, heavy power exercises, and general fitness routines. No matter your preferred workout, the WBCM Nylon Weightlifting Belt will be your trusted companion.<\/p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "7154509e-7b3b-4916-b304-76253d354dad",
+        "f98b44c3-aa32-4e6b-abc2-70b276fc400e"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": true,
+        "image_ratio": "natural",
+        "block_layout": "1\/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "e8c19ee4-aafe-42ce-a89b-d47772a7fd74": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "template--18065832640776__e8c19ee4-aafe-42ce-a89b-d47772a7fd74-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nylon_Belt_Sizes.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18065832640776__e8c19ee4-aafe-42ce-a89b-d47772a7fd74-image-1"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
+      "type": "section-faq",
+      "blocks": {
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0": {
+          "type": "category",
+          "settings": {
+            "title": "FAQs"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1": {
+          "type": "article",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
+          "type": "article",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"
+      ],
+      "custom_css": [
+        "{background-color: #eeeeee;}"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "16897793391d441ce2": {
+      "type": "apps",
+      "blocks": {
+        "40570156-6217-4c1a-a077-8edbc7b49133": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "40570156-6217-4c1a-a077-8edbc7b49133"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "wide",
+        "related_mobile_layout": "carousel",
+        "related_grid_num": 4,
+        "grid_mobile": "2",
+        "related_grid_row": 1
+      }
+    }
+  },
+  "order": [
+    "170066938005b133ef",
+    "main",
+    "51a86ac9-d721-48d9-9da9-d69acf140136",
+    "385a335e-b6df-4fc4-a557-1e66c9db995a",
+    "adc77034-1924-463a-89b8-f0bbbb85a6dc",
+    "7faa200f-72b5-4fc4-9226-c406fac67896",
+    "3e0ffde5-3f43-45a1-9535-cd79f7ea9e34",
+    "e8c19ee4-aafe-42ce-a89b-d47772a7fd74",
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca",
+    "16897793391d441ce2",
+    "product-recommendations"
+  ]
+}
