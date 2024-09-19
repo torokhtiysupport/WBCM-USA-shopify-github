@@ -44,6 +44,22 @@
                             <span class="badge new">New</span>
                           {% endif %}
                 </div>
+                <script>
+                  window.onload = function() {
+                    var soldOutBadge = document.querySelector('.product-badges .sold-out');
+                    var addButton = document.querySelector('.product-form__add-btn');
+                  
+                    if (addButton && addButton.hasAttribute('disabled')) {
+                      if (soldOutBadge) {
+                        soldOutBadge.style.display = 'inline';
+                      }
+                    } else {
+                      if (soldOutBadge) {
+                        soldOutBadge.style.display = 'none';
+                      }
+                    }
+                  };
+                </script>
                 <!-- <script>
                   document.addEventListener('DOMContentLoaded', function() {
                     var soldOutBadge = document.querySelector('.badge.sold-out');
