@@ -1,10 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1700669162ae8ba8ff": {
       "type": "apps",
       "blocks": {
         "b3488157-c7aa-4db6-8835-d9d433533172": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "\/",
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -154,7 +165,7 @@
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>It's better to hand wash the straps with warm water and a mild detergent, allowing the straps to air dry laying on a towel to absorb water, or by hanging the straps to dry.<\/p>"
+            "text": "<p>Hand wash them with warm water and a mild detergent. Can be machine-washed as well. We do not recommend washing them very often as it influences its lifetime and damages the fabric. Allow the straps to air dry.<\/p>"
           }
         }
       },
