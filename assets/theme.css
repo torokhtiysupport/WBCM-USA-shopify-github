@@ -5249,6 +5249,12 @@ variant-selects {
   margin: 0!important;
   width: 100%; }
 
+@media screen and (max-width: 767px) {
+  .product-popup-draw {
+    margin: 0 10px 0!important;
+  }
+}
+
 .product-single__profile-container--divider,
 .product-featured__profile-container--divider {
   border-top: 1px solid var(--color--text-lightest);
@@ -5315,9 +5321,6 @@ variant-selects {
         margin-top: 0; } }
 
 @media screen and (max-width: 767px) {
-  .product-popup-draw {
-    margin: 0 10px 0!important;
-  }
   .mob-col-2.product-single__profile-container,
   .mob-col-2.product-featured__profile-container {
     display: flex;
