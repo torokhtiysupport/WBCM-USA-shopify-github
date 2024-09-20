@@ -9683,7 +9683,7 @@ section.description .container--tiny {
   }
   .product-badges .badge {
     background-color: #ff0000;
-    color: #fff;
+    color: #000;
     padding: 5px 10px;
     margin-right: 5px;
     border-radius: 3px;
@@ -9697,18 +9697,17 @@ section.description .container--tiny {
   .product-badges .sold-out {
     background-color: #000;
     display: none;
+    color: #fff;
   }
   .product-badges .sale {
     background-color: #c00000;
   }
   .product-badges .new {
     background-color: #fadd02;
-    color: #000;
   }
 
   .product-badges .coming-soon, .product-badges .last-items {
     background-color: #fff;
-    color: #000;
   }
 
   @media screen and (max-width: 768px) {
