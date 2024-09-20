@@ -9693,6 +9693,8 @@ section.description .container--tiny {
   }
   .product-badges .bestseller {
     background-color: #fa7a02;
+    border: 1px solid #fa7a02;
+    color: #fff;
   }
   .product-badges .sold-out {
     background-color: #000;
@@ -9701,9 +9703,12 @@ section.description .container--tiny {
   }
   .product-badges .sale {
     background-color: #c00000;
+    border: 1px solid #c00000;
+    color: #fff;
   }
   .product-badges .new {
     background-color: #fadd02;
+    border: 1px solid #fadd02;
   }
 
   .product-badges .coming-soon, .product-badges .last-items {
