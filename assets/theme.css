@@ -5246,7 +5246,7 @@ variant-selects {
   margin-top: 12px; }
 
 .product-popup__media-img {
-  margin: 0;
+  margin: 0!important;
   width: 100%; }
 
 .product-single__profile-container--divider,
