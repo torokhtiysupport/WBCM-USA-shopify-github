@@ -9687,6 +9687,7 @@ section.description .container--tiny {
     padding: 5px 10px;
     margin-right: 5px;
     border-radius: 3px;
+    border: 1px solid #000;
     font-size: 12px;
     line-height: 1.2;
   }
@@ -9702,6 +9703,11 @@ section.description .container--tiny {
   }
   .product-badges .new {
     background-color: #fadd02;
+    color: #000;
+  }
+
+  .product-badges .coming-soon, .product-badges .last-items {
+    background-color: #fff;
     color: #000;
   }
 
