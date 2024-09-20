@@ -31,7 +31,7 @@
                 <!-- Badges -->
                 <div class="product-badges">
                           {% unless product.tags contains 'Coming Soon' %}
-                              <span class="badge sold-out" data-available="{{ current_variant.available }}">Sold Out</span>
+                              <span class="badge sold-out">Sold Out</span>
                           {% endunless %}
 
                           {% if product.tags contains 'Coming Soon' %}
