@@ -58,7 +58,7 @@
     "product_grid_label_new_days": 90,
     "swatches_enabled": true,
     "swatches_trigger": "Color\nColour\nCouleur\nFarbe\nCor",
-    "swatches_colors_override": "Red\/Black: background: linear-gradient(90deg, rgba(255,0,0,1) 50%, rgba(0,0,0,1) 50%);\n\nBlack\/Orange: background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,136,0,1) 50%);\n\nOrange\/Black: background: linear-gradient(90deg, rgba(255,136,0,1) 50%, rgba(0,0,0,1) 50%);\n\nMix BWR: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(255,255,255,1) 33% 67%, rgba(255,0,0,1) 67%);\n\nMix BBP: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(0,134,255,1) 33% 67%, rgba(255,105,196,1) 67%);\n\nMix BWY: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(255,255,255,1) 33% 67%, rgba(255,252,0,1) 67%);\n\nMix: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(255,255,255,1) 33% 67%, rgba(117,255,0,1) 67%);\n\nBlue\/Yellow: background: linear-gradient(90deg, rgba(0,134,255,1) 50%, rgba(255,252,0,1) 50%);\n\nBlue\/Pink: background: linear-gradient(90deg, rgba(0,134,255,1) 50%, rgba(227, 109, 172,1) 50%);\n\nYellow\/Blue: background: linear-gradient(90deg, rgba(255,252,0,1) 50%, rgba(0,134,255,1) 50%);\n\nRed\/White: background: linear-gradient(90deg, rgba(255,0,0,1) 50%, rgba(255,255,255,1) 50%);\n\nBlue\/Silver: linear-gradient(90deg, rgba(0,134,255,1) 50%, rgba(203,213,224,1) 50%);\n\nNavy\/Orange: linear-gradient(90deg, rgba(14,60,111,1) 50%, rgba(255,136,0,1) 50%);\n\nRed\/Blue: background: linear-gradient(90deg, rgba(255,0,0,1) 50%, rgba(0,134,255,1) 50%);\n\nBlack\/White: background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 50%);\n\nBlack\/Pink: background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,105,196,1) 50%);\n\nWhite\/Black: background: linear-gradient(90deg, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 50%);\n\nKhaki\/Orange: linear-gradient(90deg, rgba(132,147,41,1) 50%, rgba(255,136,0,1) 50%);\n\nCamo: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(157,157,157,1) 33% 67%, rgba(255,136,0,1) 67%);\n\nCheckerboard: background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 50%);\n\nGraphite: #555;\n\nSalat: #a7fa02;\n\nAqua: #02ccbb;\n\nPurple\/White: linear-gradient(90deg, rgba(149, 64, 189, 1) 50%, rgba(255,255,255,1) 50%);\n\nSky Logo: #a0f4fa;\n\nUkrainian Spirit: background: linear-gradient(0deg, rgba(255,252,0,1) 50%, rgba(0,134,255,1) 50%);",
+    "swatches_colors_override": "Red/Black: background: linear-gradient(90deg, rgba(255,0,0,1) 50%, rgba(0,0,0,1) 50%);\n\nBlack/Orange: background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,136,0,1) 50%);\n\nOrange/Black: background: linear-gradient(90deg, rgba(255,136,0,1) 50%, rgba(0,0,0,1) 50%);\n\nMix BWR: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(255,255,255,1) 33% 67%, rgba(255,0,0,1) 67%);\n\nMix BBP: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(0,134,255,1) 33% 67%, rgba(255,105,196,1) 67%);\n\nMix BWY: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(255,255,255,1) 33% 67%, rgba(255,252,0,1) 67%);\n\nMix: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(255,255,255,1) 33% 67%, rgba(117,255,0,1) 67%);\n\nBlue/Yellow: background: linear-gradient(90deg, rgba(0,134,255,1) 50%, rgba(255,252,0,1) 50%);\n\nBlue/Pink: background: linear-gradient(90deg, rgba(0,134,255,1) 50%, rgba(227, 109, 172,1) 50%);\n\nYellow/Blue: background: linear-gradient(90deg, rgba(255,252,0,1) 50%, rgba(0,134,255,1) 50%);\n\nRed/White: background: linear-gradient(90deg, rgba(255,0,0,1) 50%, rgba(255,255,255,1) 50%);\n\nBlue/Silver: linear-gradient(90deg, rgba(0,134,255,1) 50%, rgba(203,213,224,1) 50%);\n\nNavy/Orange: linear-gradient(90deg, rgba(14,60,111,1) 50%, rgba(255,136,0,1) 50%);\n\nRed/Blue: background: linear-gradient(90deg, rgba(255,0,0,1) 50%, rgba(0,134,255,1) 50%);\n\nBlack/White: background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 50%);\n\nBlack/Pink: background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,105,196,1) 50%);\n\nWhite/Black: background: linear-gradient(90deg, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 50%);\n\nKhaki/Orange: linear-gradient(90deg, rgba(132,147,41,1) 50%, rgba(255,136,0,1) 50%);\n\nCamo: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(157,157,157,1) 33% 67%, rgba(255,136,0,1) 67%);\n\nCheckerboard: background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 50%);\n\nGraphite: #555;\n\nSalat: #a7fa02;\n\nAqua: #02ccbb;\n\nPurple/White: linear-gradient(90deg, rgba(149, 64, 189, 1) 50%, rgba(255,255,255,1) 50%);\n\nSky Logo: #a0f4fa;\n\nUkrainian Spirit: background: linear-gradient(0deg, rgba(255,252,0,1) 50%, rgba(0,134,255,1) 50%);\n\nMix BWPB: linear-gradient(90deg, \n    rgba(0, 0, 0, 1) 50%, \n    rgba(255, 255, 255, 1) 50%),\n    linear-gradient(180deg, \n    rgba(0, 134, 255, 1) 50%, \n    rgba(255, 105, 196, 1) 50%);",
     "swatches_images_override": "Blue Snake Print: Blue-Snake-Print.jpg\nBlue Chili Print: Blue-Chili-Print.jpg\nRed Skull Print: Red-Skull-Print.jpg\nBlack Chili Print: Black-Chili-Print.jpg\nRainbow Triangle Print: Rainbow-Triangle-Print.jpg\nColor Triangle Print: Color-Triangle-Print.jpg\nBlack & Red Print: Black-Red-Print.jpg\nSkulls Print: Skulls-Print.jpg",
     "use_square_swatch": false,
     "radius_buttons": 30,
@@ -80,14 +80,14 @@
 
     ],
     "search_collections_ratio": "1:1",
-    "social_facebook_link": "https:\/\/www.facebook.com\/WarmBodyColdMind\/",
+    "social_facebook_link": "https://www.facebook.com/WarmBodyColdMind/",
     "social_twitter_link": "",
-    "social_pinterest_link": "https:\/\/www.pinterest.com\/warmbody_coldmind\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/warmbody_coldmind\/",
+    "social_pinterest_link": "https://www.pinterest.com/warmbody_coldmind/",
+    "social_instagram_link": "https://www.instagram.com/warmbody_coldmind/",
     "social_tiktok_link": "",
     "social_youtube_link": "",
-    "favicon": "shopify:\/\/shop_images\/342_-2.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/WBCM-LOGO.png",
+    "favicon": "shopify://shop_images/342_-2.png",
+    "checkout_logo_image": "shopify://shop_images/WBCM-LOGO.png",
     "sections": {
       "mobile-drawer": {
         "type": "mobile-drawer",
@@ -115,7 +115,7 @@
           "message_show": true,
           "home_page_only": false,
           "message_text": "HELP UKRAINE",
-          "message_link": "https:\/\/blog.warmbody-coldmind.com\/news\/help-ukraine\/",
+          "message_link": "https://blog.warmbody-coldmind.com/news/help-ukraine/",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff"
         }
@@ -130,7 +130,7 @@
           "parent_links": true,
           "header_bg": "#ffffff",
           "header_text": "#111111",
-          "logo": "shopify:\/\/shop_images\/WBCM-LOGO.png",
+          "logo": "shopify://shop_images/WBCM-LOGO.png",
           "header_transparent": false,
           "header_transparent_collection": false,
           "header_transparent_divider": true,
@@ -163,7 +163,7 @@
             "type": "text",
             "settings": {
               "title": "Promotion heading",
-              "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+              "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
               "link_title": "Learn more",
               "link": ""
             }
@@ -172,7 +172,7 @@
             "type": "text",
             "settings": {
               "title": "Promotion heading",
-              "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+              "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
               "link_title": "Learn more",
               "link": ""
             }
@@ -181,7 +181,7 @@
             "type": "text",
             "settings": {
               "title": "Promotion heading",
-              "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+              "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
               "link_title": "Learn more",
               "link": ""
             }
@@ -226,7 +226,7 @@
           "newsletter_style": "dark",
           "default_title_color": false,
           "footer_newsletter_title": "Subscribe To Our Newsletter",
-          "footer_newsletter_desc": "<p>and get a 5% Discount on your first purchase<\/p>"
+          "footer_newsletter_desc": "<p>and get a 5% Discount on your first purchase</p>"
         }
       },
       "footer": {
@@ -286,7 +286,7 @@
           "enable": false,
           "mobile": false,
           "title": "Popup",
-          "text": "<p>Use this popup to embed a mailing list sign up form. Alternatively use it as a simple call to action with a link to a product or a page.<\/p>",
+          "text": "<p>Use this popup to embed a mailing list sign up form. Alternatively use it as a simple call to action with a link to a product or a page.</p>",
           "link_title": "More info",
           "link": "",
           "delay": 3,
@@ -299,7 +299,7 @@
         "settings": {
           "enable": false,
           "title": "Age verification",
-          "text": "<p>By clicking enter you are verifying that you are old enough to consume alcohol.<\/p>",
+          "text": "<p>By clicking enter you are verifying that you are old enough to consume alcohol.</p>",
           "enter_btn_label": "Enter",
           "leave_btn_label": "Leave",
           "leave_link": ""
@@ -311,25 +311,25 @@
     ],
     "blocks": {
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-product-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
         }
       },
       "341186785192672687": {
-        "type": "shopify:\/\/apps\/seal-subscriptions-loyalty\/blocks\/subscription-script-append\/13b25004-a140-4ab7-b5fe-29918f759699",
+        "type": "shopify://apps/seal-subscriptions-loyalty/blocks/subscription-script-append/13b25004-a140-4ab7-b5fe-29918f759699",
         "disabled": true,
         "settings": {
         }
       },
       "16865981829950876834": {
-        "type": "shopify:\/\/apps\/icart-cart-drawer-cart-upsell\/blocks\/icart-block\/e651bbc2-5760-47d8-a513-2aa6ee3a9aa7",
+        "type": "shopify://apps/icart-cart-drawer-cart-upsell/blocks/icart-block/e651bbc2-5760-47d8-a513-2aa6ee3a9aa7",
         "disabled": false,
         "settings": {
         }
       },
       "8882555360308167327": {
-        "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/schema-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+        "type": "shopify://apps/schema-breadcrumbs/blocks/schema-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
         "disabled": false,
         "settings": {
           "shipping_rate": 0,
@@ -343,13 +343,13 @@
         }
       },
       "12198985164985445843": {
-        "type": "shopify:\/\/apps\/nova-eu-cookie-bar-gdpr\/blocks\/app-embed\/6667ecbd-70cf-4527-84a9-e6037e6ca706",
+        "type": "shopify://apps/nova-eu-cookie-bar-gdpr/blocks/app-embed/6667ecbd-70cf-4527-84a9-e6037e6ca706",
         "disabled": false,
         "settings": {
         }
       },
       "15885745614559378752": {
-        "type": "shopify:\/\/apps\/accessibly\/blocks\/app-embed\/4b59303e-1141-4c8a-945f-bf4adb516864",
+        "type": "shopify://apps/accessibly/blocks/app-embed/4b59303e-1141-4c8a-945f-bf4adb516864",
         "disabled": false,
         "settings": {
           "themeColor": "#574CD5",
@@ -499,7 +499,7 @@
               "type": "text",
               "settings": {
                 "title": "Promotion heading",
-                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
                 "link_title": "Learn more",
                 "link": ""
               }
@@ -508,7 +508,7 @@
               "type": "text",
               "settings": {
                 "title": "Promotion heading",
-                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
                 "link_title": "Learn more",
                 "link": ""
               }
@@ -517,7 +517,7 @@
               "type": "text",
               "settings": {
                 "title": "Promotion heading",
-                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
                 "link_title": "Learn more",
                 "link": ""
               }
@@ -562,7 +562,7 @@
             "newsletter_style": "dark",
             "default_title_color": false,
             "footer_newsletter_title": "Newsletter",
-            "footer_newsletter_desc": "<p>Let your customers know what to expect if they sign up to your mailing list. A discount code or the latest news about your brand.<\/p>"
+            "footer_newsletter_desc": "<p>Let your customers know what to expect if they sign up to your mailing list. A discount code or the latest news about your brand.</p>"
           }
         },
         "footer": {
@@ -586,7 +586,7 @@
               "type": "text",
               "settings": {
                 "title": "Text area",
-                "text": "<p>Add some text such as a mini biography or your mission statement.<\/p>"
+                "text": "<p>Add some text such as a mini biography or your mission statement.</p>"
               }
             },
             "4471e50e-c157-46b7-ba5e-464266db8052": {
@@ -622,7 +622,7 @@
             "enable": true,
             "mobile": true,
             "title": "Popup",
-            "text": "<p>Use this popup to embed a mailing list sign up form. Alternatively use it as a simple call to action with a link to a product or a page.<\/p>",
+            "text": "<p>Use this popup to embed a mailing list sign up form. Alternatively use it as a simple call to action with a link to a product or a page.</p>",
             "link_title": "More info",
             "link": "",
             "delay": 3,
@@ -635,7 +635,7 @@
           "settings": {
             "enable": false,
             "title": "Age verification",
-            "text": "<p>By clicking enter you are verifying that you are old enough to consume alcohol.<\/p>",
+            "text": "<p>By clicking enter you are verifying that you are old enough to consume alcohol.</p>",
             "enter_btn_label": "Enter",
             "leave_btn_label": "Leave",
             "leave_link": ""
@@ -781,7 +781,7 @@
               "type": "text",
               "settings": {
                 "title": "Promotion heading",
-                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
                 "link_title": "Learn more",
                 "link": ""
               }
@@ -790,7 +790,7 @@
               "type": "text",
               "settings": {
                 "title": "Promotion heading",
-                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
                 "link_title": "Learn more",
                 "link": ""
               }
@@ -799,7 +799,7 @@
               "type": "text",
               "settings": {
                 "title": "Promotion heading",
-                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.<\/p>",
+                "desc": "<p>Use these blocks to tell your brand story or promote your products above the footer of your whole store.</p>",
                 "link_title": "Learn more",
                 "link": ""
               }
@@ -844,7 +844,7 @@
             "newsletter_style": "dark",
             "default_title_color": false,
             "footer_newsletter_title": "Newsletter",
-            "footer_newsletter_desc": "<p>Let your customers know what to expect if they sign up to your mailing list. A discount code or the latest news about your brand.<\/p>"
+            "footer_newsletter_desc": "<p>Let your customers know what to expect if they sign up to your mailing list. A discount code or the latest news about your brand.</p>"
           }
         },
         "footer": {
@@ -868,7 +868,7 @@
               "type": "text",
               "settings": {
                 "title": "Text area",
-                "text": "<p>Add some text such as a mini biography or your mission statement.<\/p>"
+                "text": "<p>Add some text such as a mini biography or your mission statement.</p>"
               }
             },
             "4471e50e-c157-46b7-ba5e-464266db8052": {
@@ -904,7 +904,7 @@
             "enable": true,
             "mobile": true,
             "title": "Popup",
-            "text": "<p>Use this popup to embed a mailing list sign up form. Alternatively use it as a simple call to action with a link to a product or a page.<\/p>",
+            "text": "<p>Use this popup to embed a mailing list sign up form. Alternatively use it as a simple call to action with a link to a product or a page.</p>",
             "link_title": "More info",
             "link": "",
             "delay": 3,
@@ -917,7 +917,7 @@
           "settings": {
             "enable": false,
             "title": "Age verification",
-            "text": "<p>By clicking enter you are verifying that you are old enough to consume alcohol.<\/p>",
+            "text": "<p>By clicking enter you are verifying that you are old enough to consume alcohol.</p>",
             "enter_btn_label": "Enter",
             "leave_btn_label": "Leave",
             "leave_link": ""
@@ -931,15 +931,15 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "\/* Cookies Popup *\/@media screen and (min-width: 750px) {div[aria-label=\"cookieconsent\"] {width: 60% !important; }}",
-      " \/* Judge Me Carousel Mob Image Height Fix *\/@media screen and (max-width: 750px) {.jdgm-carousel__item-wrapper {height: auto !important; }}",
+      "/* Cookies Popup */@media screen and (min-width: 750px) {div[aria-label=\"cookieconsent\"] {width: 60% !important; }}",
+      " /* Judge Me Carousel Mob Image Height Fix */@media screen and (max-width: 750px) {.jdgm-carousel__item-wrapper {height: auto !important; }}",
       "@media only screen and (max-width: 425px) {.jdgm-carousel--focused-theme .jdgm-carousel-item__product-image {width: 100% !important; height: auto !important; }}",
-      " \/* Black Friday banner in Sales, Accessories *\/body#sale-up-to-50-off-on-weightlifting-clothing-and-gym-apparel-warm-body-cold-mind .collection__header-info,body#men-39-s-workout-accessories-price-from-5 .collection__header-info,body#new-arrivals .collection__header-info {width: 100% !important; max-width: 100% !important;}",
-      " \/* Breadcrumbs App *\/section[data-section-type=\"section-apps\"]:has(nav.breadcrumbs) {margin-bottom: 0 !important;}",
-      " \/* Search Title *\/h4.search__nav-title {display: none;}",
-      " \/* Sale, Accessories Collections Spaces *\/body#men-39-s-workout-accessories-price-from-5 div.collection__header-info,body#sales-of-gym-apparel-amp-weightlifting-clothing div.collection__header-info {padding-top: 0 !important;}",
+      " /* Black Friday banner in Sales, Accessories */body#sale-up-to-50-off-on-weightlifting-clothing-and-gym-apparel-warm-body-cold-mind .collection__header-info,body#men-39-s-workout-accessories-price-from-5 .collection__header-info,body#new-arrivals .collection__header-info {width: 100% !important; max-width: 100% !important;}",
+      " /* Breadcrumbs App */section[data-section-type=\"section-apps\"]:has(nav.breadcrumbs) {margin-bottom: 0 !important;}",
+      " /* Search Title */h4.search__nav-title {display: none;}",
+      " /* Sale, Accessories Collections Spaces */body#men-39-s-workout-accessories-price-from-5 div.collection__header-info,body#sales-of-gym-apparel-amp-weightlifting-clothing div.collection__header-info {padding-top: 0 !important;}",
       "body#men-39-s-workout-accessories-price-from-5 div.collection__header-info__title,body#sales-of-gym-apparel-amp-weightlifting-clothing div.collection__header-info__title {margin-bottom: 0 !important;}",
-      " \/* Text transform for Titles *\/h1,h2:not(.product-card__title),h3,h4 {text-transform: uppercase !important;}"
+      " /* Text transform for Titles */h1,h2:not(.product-card__title),h3,h4 {text-transform: uppercase !important;}"
     ]
   }
 }
