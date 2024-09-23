@@ -9682,7 +9682,7 @@ section.description .container--tiny {
   .product-badges {
     position: absolute;
     top: 5px;
-    left: calc(60% + 10px);
+    left: calc(60% + 30px);
   }
   .product-badges .badge {
     background-color: #ff0000;
@@ -9718,6 +9718,6 @@ section.description .container--tiny {
   @media screen and (max-width: 768px) {
     .product-badges {
       top: 5px;
-      left: 20px;
+      left: 18px;
     }
   }
