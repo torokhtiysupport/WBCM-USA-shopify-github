@@ -13,10 +13,10 @@
       "type": "apps",
       "blocks": {
         "68bb6900-0755-4395-86b5-9a43a15aba1c": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
@@ -67,7 +67,7 @@
           }
         },
         "76f4a560-5d7a-4576-b3cb-80e42400f246": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         },
@@ -144,7 +144,7 @@
             "align": "left",
             "popup_heading": "none",
             "popup_content": "",
-            "image": "shopify:\/\/shop_images\/Shorts-Sizes-new.jpg",
+            "image": "shopify://shop_images/Shorts-Sizes-new.jpg",
             "text": "",
             "icon": "icon-clothes-design-tape-measure",
             "icon_size": 1,
@@ -189,28 +189,28 @@
           "type": "article",
           "settings": {
             "title": "Specifications",
-            "text": "<ul><li><strong>Sizing:<\/strong> S-XXL<\/li><li><strong>Material:<\/strong> Supplex Sport<\/li><li><strong>Inseam:<\/strong> 6.5 inches<\/li><li><strong>Color:<\/strong> Black<\/li><li><strong>Closure Type:<\/strong> Pull-On<\/li><\/ul>"
+            "text": "<ul><li><strong>Sizing:</strong> S-XXL</li><li><strong>Material:</strong> Supplex Sport</li><li><strong>Inseam:</strong> 6.5 inches</li><li><strong>Color:</strong> Black</li><li><strong>Closure Type:</strong> Pull-On</li></ul>"
           }
         },
         "article_iVGyA9": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>These compression shorts suit any type of weight training: weightlifting, powerlifting, and bodybuilding sessions.<\/p>"
+            "text": "<p>These compression shorts suit any type of weight training: weightlifting, powerlifting, and bodybuilding sessions.</p>"
           }
         },
         "article_6bQi8y": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>You can return or exchange the item within 14 days of receiving it, as long as it's unwashed, unworn, and has all the barcodes intact. If you're not happy with the product, you can return it within 14 days of receipt, or exchange it for another item.<\/p>"
+            "text": "<p>You can return or exchange the item within 14 days of receiving it, as long as it's unwashed, unworn, and has all the barcodes intact. If you're not happy with the product, you can return it within 14 days of receipt, or exchange it for another item.</p>"
           }
         },
         "article_GtpfhX": {
           "type": "article",
           "settings": {
             "title": "Product Care Instructions",
-            "text": "<ul><li>Machine wash cold with like colors<\/li><li>Use liquid soap only<\/li><li>Hang dry only<\/li><li>Do not iron<\/li><li>Do not dry clean<\/li><\/ul>"
+            "text": "<ul><li>Machine wash cold with like colors</li><li>Use liquid soap only</li><li>Hang dry only</li><li>Do not iron</li><li>Do not dry clean</li></ul>"
           }
         }
       },
@@ -233,9 +233,9 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Compression-Shorts-L9-best-for.webp",
+            "image": "shopify://shop_images/Compression-Shorts-L9-best-for.webp",
             "title": "BEST SHORTS FOR:",
-            "desc": "<ul><li>weightlifting<\/li><li>powerlifting<\/li><li>bodybuilding sessions<\/li><\/ul>",
+            "desc": "<ul><li>weightlifting</li><li>powerlifting</li><li>bodybuilding sessions</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -254,7 +254,7 @@
         "block_spacing": 2,
         "section-bottom-margin": true,
         "image_ratio": "3:4",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 2,
@@ -267,9 +267,9 @@
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shorts-l9-features.webp",
+            "image": "shopify://shop_images/shorts-l9-features.webp",
             "title": "DESIGNED BY OLYMPIC CHAMPION OLEKSIY TOROKHTIY",
-            "desc": "<p>Designed to withstand rigorous training sessions, these shorts offers superior comfort and durability, empowering athletes to push their limits. Experience the difference of locally-made excellence in every stitch.<\/p>",
+            "desc": "<p>Designed to withstand rigorous training sessions, these shorts offers superior comfort and durability, empowering athletes to push their limits. Experience the difference of locally-made excellence in every stitch.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -288,7 +288,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -301,7 +301,7 @@
         "image_HArEdd": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shorts-l9-technical-features.webp",
+            "image": "shopify://shop_images/shorts-l9-technical-features.webp",
             "title": "",
             "desc": "",
             "horizontal_align": "left",
@@ -326,7 +326,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "3\/4",
+        "block_layout": "3/4",
         "block_align": "left",
         "vertical_align": "top",
         "heading_size": 3,
@@ -344,7 +344,7 @@
             "link_title": "",
             "link": "",
             "align": "center",
-            "width": "1\/2"
+            "width": "1/2"
           }
         }
       },
@@ -365,7 +365,7 @@
         "image_gQbtbe": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Shorts_SizeTable_V2.png",
+            "image": "shopify://shop_images/Shorts-Sizes-new.jpg",
             "title": "",
             "desc": "",
             "horizontal_align": "left",
@@ -390,7 +390,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "2\/3",
+        "block_layout": "2/3",
         "block_align": "left",
         "vertical_align": "top",
         "heading_size": 3,
@@ -410,14 +410,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders are processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via DHL Standard in 3-5 business days.<\/p><p>✔ Shipping costs and taxes can be viewed at checkout.<\/p>"
+            "text": "<p>✔ Orders are processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via DHL Standard in 3-5 business days.</p><p>✔ Shipping costs and taxes can be viewed at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ You have the option to return the item within 14 days after receiving it.<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn.<\/p><p>✔ To initiate a return, send a request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ For more information about our return or exchange policy, <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ You have the option to return the item within 14 days after receiving it.</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn.</p><p>✔ To initiate a return, send a request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ For more information about our return or exchange policy, <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -440,7 +440,7 @@
       "type": "apps",
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
