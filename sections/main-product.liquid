@@ -1204,41 +1204,48 @@
     </script>
 {% endif %}
 
-<!-- JS for Sold Out Badge -->
+<!-- JS for Sold Out and Coming Soon Badge -->
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
+  document.addEventListener('DOMContentLoaded', function() {
     var soldOutBadge = document.querySelector('.product-badges .sold-out');
+    var comingSoonBadge = document.querySelector('.product-badges .coming-soon');
     var addButton = document.querySelector('.product-form__add-btn');
-  
+
     function updateBadge() {
       if (addButton && addButton.hasAttribute('disabled')) {
         if (soldOutBadge) {
           soldOutBadge.style.display = 'inline';
         }
+        if (comingSoonBadge) {
+          comingSoonBadge.style.display = 'inline';
+        }
       } else {
         if (soldOutBadge) {
           soldOutBadge.style.display = 'none';
         }
+        if (comingSoonBadge) {
+          comingSoonBadge.style.display = 'none';
+        }
       }
     }
-  
+
     updateBadge();
-  
+
     var observer = new MutationObserver(function(mutations) {
       mutations.forEach(function(mutation) {
         updateBadge();
       });
     });
-  
+
     var targetNode = document.querySelector('body');
     var config = { childList: true, subtree: true };
-  
+
     if (targetNode) {
       observer.observe(targetNode, config);
     }
   });
 </script>
-<!-- End JS for Sold Out Badge -->
+<!-- End JS for Sold Out and Coming Soon Badge -->
 
 {%- liquid
   if product.selected_or_first_available_variant.featured_media
