@@ -659,6 +659,43 @@
 
 {% endpaginate %}
 
+<!-- JS for Coming Soon Badge -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var products = document.querySelectorAll('.product-card');
+    products.forEach(function(product) {
+        var addButton = product.querySelector('.product-form__add-btn');
+        var customLabels = product.querySelectorAll('.product-card__label--custom__4');
+        
+        function updateLabels() {
+            if (addButton && customLabels.length > 0) {
+                customLabels.forEach(function(customLabel) {
+                    if (addButton.hasAttribute('disabled')) {
+                        customLabel.style.display = 'block';
+                    } else {
+                        customLabel.style.display = 'none';
+                    }
+                });
+            }
+        }
+        
+        updateLabels(); 
+        var observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if (mutation.target === addButton && mutation.type === 'attributes' && mutation.attributeName === 'disabled') {
+                    updateLabels();
+                }
+            });
+        });
+        
+        if (addButton) {
+            observer.observe(addButton, { attributes: true });
+        }
+    });
+});
+</script>
+<!-- End JS for Coming Soon Badge -->
+
 {% schema %}
 {
     "name": "Collection page",
