@@ -30,6 +30,24 @@
             endif
         endfor
     endif
+
+   if settings.product_grid_label_custom_3
+        for collection in product.collections
+            if collection.title == collections[settings.product_grid_label_collection_3].title
+                assign custom_label_3 = true
+                break
+            endif
+        endfor
+    endif
+
+   if settings.product_grid_label_custom_4
+        for collection in product.collections
+            if collection.title == collections[settings.product_grid_label_collection_4].title
+                assign custom_label_4 = true
+                break
+            endif
+        endfor
+    endif
 -%}
 {%- if sold_out_label or discount_label or new_label or custom_label_1 or custom_label_2 -%}
     <!-- snippet/product-grid-label.liquid -->
@@ -95,6 +113,18 @@
         {% if custom_label_2 %}
             <li class="product-card__label product-card__label--custom__2 label label--custom_2{% if settings.product_grid_label_hide_all and product.available == false %} product-card__label__items_hide{% endif %}">
                 <p class="product-card__label-text label__text">{{ settings.product_grid_label_title_custom_2 }}</p>
+            </li>
+        {% endif %}
+
+        {% if custom_label_3 %}
+            <li class="product-card__label product-card__label--custom__3 label label--custom_3{% if settings.product_grid_label_hide_all and product.available == false %} product-card__label__items_hide{% endif %}">
+                <p class="product-card__label-text label__text">{{ settings.product_grid_label_title_custom_3 }}</p>
+            </li>
+        {% endif %}
+
+        {% if custom_label_4 %}
+            <li class="product-card__label product-card__label--custom__4 label label--custom_4{% if settings.product_grid_label_hide_all and product.available == false %} product-card__label__items_hide{% endif %}">
+                <p class="product-card__label-text label__text">{{ settings.product_grid_label_title_custom_4 }}</p>
             </li>
         {% endif %}
     </ul>
