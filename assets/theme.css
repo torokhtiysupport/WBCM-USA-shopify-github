@@ -9640,7 +9640,7 @@ section.description .container--tiny {
   position: relative;
 }
 
-.announcement__text:before {
+/* .announcement__text:before {
   content: "";
   position: absolute;
   width: 30px;
@@ -9667,7 +9667,7 @@ section.description .container--tiny {
   background-position: center;
   background-repeat: no-repeat;
 }
-
+ */
 /* Collection Header Images */
 @media screen and (max-width: 768px) {
   .collection__header-img {
