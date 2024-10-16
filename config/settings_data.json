@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_headings": "#212121",
@@ -125,8 +125,8 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "HELP UKRAINE",
-          "message_link": "https://blog.warmbody-coldmind.com/news/help-ukraine/",
+          "message_text": "BUY $200 = GET FREE CONSULTATION",
+          "message_link": "shopify://collections/accessories",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff"
         }
