@@ -46,9 +46,7 @@
                             <span class="badge bestseller">Bestseller</span>
                           {% endif %}
                           
-                          {% if product.compare_at_price > product.price %}
-                            <span class="badge sale">Sale</span>
-                          {% endif %}
+                          <span class="badge sale" style="display: none;">Sale</span>
                           
                           {% if product.tags contains 'NEW' %}
                             <span class="badge new">New</span>
@@ -1204,11 +1202,12 @@
     </script>
 {% endif %}
 
-<!-- JS for Sold Out and Coming Soon Badge -->
+<!-- JS for Badges -->
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     var soldOutBadge = document.querySelector('.product-badges .sold-out');
     var comingSoonBadge = document.querySelector('.product-badges .coming-soon');
+    var saleBadge = document.querySelector('.product-badges .sale');
     var addButton = document.querySelector('.product-form__add-btn');
 
     function updateBadge() {
@@ -1225,6 +1224,17 @@
         }
         if (comingSoonBadge) {
           comingSoonBadge.style.display = 'none';
+        }
+      }
+
+      var label = document.querySelector('.product-single__box__block .label');
+      if (label) {
+        if (saleBadge) {
+          saleBadge.style.display = 'inline';
+        }
+      } else {
+        if (saleBadge) {
+          saleBadge.style.display = 'none';
         }
       }
     }
@@ -1245,7 +1255,7 @@
     }
   });
 </script>
-<!-- End JS for Sold Out and Coming Soon Badge -->
+<!-- End JS for Badges -->
 
 {%- liquid
   if product.selected_or_first_available_variant.featured_media
