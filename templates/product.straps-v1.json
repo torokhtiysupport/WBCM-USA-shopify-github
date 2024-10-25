@@ -1,22 +1,22 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "17006696105164b2a8": {
       "type": "apps",
       "blocks": {
         "55993838-e581-40b7-a01c-95360ae890bd": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
@@ -67,7 +67,7 @@
           }
         },
         "76f4a560-5d7a-4576-b3cb-80e42400f246": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         },
@@ -173,28 +173,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Sold in pairs.<\/strong><\/li><li><strong>Length<\/strong>: 13\"<\/li><li><strong>Width<\/strong>: 2.5\"<\/li><li><strong>Thickness<\/strong>: 1\/16\"<\/li><li><strong>Material<\/strong>: cotton<\/li><\/ul>"
+            "text": "<ul><li><strong>Sold in pairs.</strong></li><li><strong>Length</strong>: 13\"</li><li><strong>Width</strong>: 2.5\"</li><li><strong>Thickness</strong>: 1/16\"</li><li><strong>Material</strong>: cotton</li></ul>"
           }
         },
         "template--20972192301366__d625e37a-d058-4361-9b4e-64f1973a8bbc-article-3": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>V1 Lifting Straps are specifically designed for Olympic weightlifting exercises that require quick-release movements like Snatch and Clean & Jerk, but are also great for powerlifting, bodybuilding, and functional fitness.<\/p>"
+            "text": "<p>V1 Lifting Straps are specifically designed for Olympic weightlifting exercises that require quick-release movements like Snatch and Clean & Jerk, but are also great for powerlifting, bodybuilding, and functional fitness.</p>"
           }
         },
         "9b6f41f4-9cb9-4eb9-95c4-4ec534bdc676": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact.<br\/>In case you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact.<br/>In case you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "d64c1414-16b4-42c9-93b5-bcb721295709": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Hand wash them with warm water and a mild detergent. Can be machine-washed as well. We do not recommend washing them very often as it influences its lifetime and damages the fabric. Allow the straps to air dry.<\/p>"
+            "text": "<p>Hand wash them with warm water and a mild detergent. Can be machine-washed as well. We do not recommend washing them very often as it influences its lifetime and damages the fabric. Allow the straps to air dry.</p>"
           }
         }
       },
@@ -221,28 +221,28 @@
           "type": "tab",
           "settings": {
             "heading": "Description",
-            "tab_content": "<p>Completely designed by Oleksiy Torokhtiy, the Olympic Lifting Straps \"V1\" are a testament to his expertise. They are crafted to enhance grip strength, allowing lifters to handle heavier weights without grip limitations.<\/p>"
+            "tab_content": "<p>Completely designed by Oleksiy Torokhtiy, the Olympic Lifting Straps \"V1\" are a testament to his expertise. They are crafted to enhance grip strength, allowing lifters to handle heavier weights without grip limitations.</p>"
           }
         },
         "feaf3015-346b-4166-abb4-cbd24ef2de45": {
           "type": "tab",
           "settings": {
             "heading": "Product advantage",
-            "tab_content": "<p>\"V1\" straps have a special type of dual stitching to prevent tearing and can handle a weight up to 300kg (over 660 pounds!).<\/p>"
+            "tab_content": "<p>\"V1\" straps have a special type of dual stitching to prevent tearing and can handle a weight up to 300kg (over 660 pounds!).</p>"
           }
         },
         "5c9445a8-039f-433d-ac15-ff1bee64dfae": {
           "type": "tab",
           "settings": {
             "heading": "Dimensions",
-            "tab_content": "<p>13\" in length and 2.5\" in width.<\/p>"
+            "tab_content": "<p>13\" in length and 2.5\" in width.</p>"
           }
         },
         "a8edbf46-5db7-4f36-a4d2-947738b82b48": {
           "type": "tab",
           "settings": {
             "heading": "Material",
-            "tab_content": "<p>100% Cotton.<\/p><p>🇺🇦 Made in Ukraine.<\/p>"
+            "tab_content": "<p>100% Cotton.</p><p>🇺🇦 Made in Ukraine.</p>"
           }
         }
       },
@@ -262,9 +262,9 @@
         "template--17877542043912__a735ea2d-2943-4430-99e1-06e648e32a7c-16887259068edd12c0-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Weight_Lifting_Wrist_Straps_V1_Red_White.jpg",
+            "image": "shopify://shop_images/Weight_Lifting_Wrist_Straps_V1_Red_White.jpg",
             "title": "",
-            "desc": "<p><strong>Unique design:<br\/><\/strong>WBCM Olympic Weightlifting Straps V1 are inspired by Olympian experience and offer the best possible grip comfort. Every element is made to fit your hand's natural ergonomics, guaranteeing a snug and comfortable fit every time you lift something. Olympic activities require a quick-release design which makes disengagement quick and simple and ensures control and safety during vigorous lifts.<br\/><strong>Injury Prevention:<\/strong><br\/>By improving your grip and security, WBCM Olympic lifting wrist straps lessen the strain on your wrists. This helps prevent common wrist injuries and improves your lifting technique, so you can train with less danger and more confidence.<br\/><strong>Heavy-Duty Construction:<\/strong><br\/>WBCM Olympic lifting straps are made of 100% premium cotton and are designed to withstand repeated training sessions. Their sturdy construction guarantees enduring longevity, giving you a dependable training partner that can handle even the most strenuous exercises.<br\/><strong>Confident grip:<\/strong><br\/>Acquire a self-assured grip to revolutionize your lifting regimen. With the help of our <a href=\"https:\/\/warmbody-coldmind.com\/collections\/lifting-straps\" title=\"https:\/\/warmbody-coldmind.com\/collections\/lifting-straps\">lifting straps<\/a>, you may lift bigger weights and perform more repetitions in the gym, pushing yourself to the limit and making faster progress.<br\/><strong>Approved:<\/strong><br\/>By the world-class athletes and champions for your training performance.<\/p>",
+            "desc": "<p><strong>Unique design:<br/></strong>WBCM Olympic Weightlifting Straps V1 are inspired by Olympian experience and offer the best possible grip comfort. Every element is made to fit your hand's natural ergonomics, guaranteeing a snug and comfortable fit every time you lift something. Olympic activities require a quick-release design which makes disengagement quick and simple and ensures control and safety during vigorous lifts.<br/><strong>Injury Prevention:</strong><br/>By improving your grip and security, WBCM Olympic lifting wrist straps lessen the strain on your wrists. This helps prevent common wrist injuries and improves your lifting technique, so you can train with less danger and more confidence.<br/><strong>Heavy-Duty Construction:</strong><br/>WBCM Olympic lifting straps are made of 100% premium cotton and are designed to withstand repeated training sessions. Their sturdy construction guarantees enduring longevity, giving you a dependable training partner that can handle even the most strenuous exercises.<br/><strong>Confident grip:</strong><br/>Acquire a self-assured grip to revolutionize your lifting regimen. With the help of our <a href=\"https://warmbody-coldmind.com/collections/lifting-straps\" title=\"https://warmbody-coldmind.com/collections/lifting-straps\">lifting straps</a>, you may lift bigger weights and perform more repetitions in the gym, pushing yourself to the limit and making faster progress.<br/><strong>Approved:</strong><br/>By the world-class athletes and champions for your training performance.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -283,7 +283,7 @@
         "block_spacing": 2,
         "section-bottom-margin": true,
         "image_ratio": "1:1",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "top",
         "heading_size": 3,
@@ -296,9 +296,9 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Man_lifting_a_barbell_using_Weight_Lifting_Wrist_Straps_V1_Red_White.jpg",
+            "image": "shopify://shop_images/Man_lifting_a_barbell_using_Weight_Lifting_Wrist_Straps_V1_Red_White.jpg",
             "title": "BEST STRAPS FOR:",
-            "desc": "<p>WEIGHTLIFTING<br\/>POWERLIFTING<br\/>BODYBUILDING<br\/>KETTLEBELL<br\/>DUMBELL<br\/>FUNCTIONAL FITNESS<\/p>",
+            "desc": "<p>WEIGHTLIFTING<br/>POWERLIFTING<br/>BODYBUILDING<br/>KETTLEBELL<br/>DUMBELL<br/>FUNCTIONAL FITNESS</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -317,7 +317,7 @@
         "block_spacing": 2,
         "section-bottom-margin": true,
         "image_ratio": "1:1",
-        "block_layout": "2\/3",
+        "block_layout": "2/3",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 2,
@@ -330,7 +330,7 @@
         "template--17877542043912__3d13f6f8-1da6-434e-b931-c7cd6227574e-1688733442073661d6-0": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=E8bM3rGq_aQ&t=1s",
+            "video_url": "https://www.youtube.com/watch?v=E8bM3rGq_aQ&t=1s",
             "video_title": ""
           }
         }
@@ -352,10 +352,10 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_f7b3b73a-5777-4a37-950c-bfcce38ae8c4.png",
+            "image": "shopify://shop_images/4_f7b3b73a-5777-4a37-950c-bfcce38ae8c4.png",
             "title": "Step 1:",
             "sub_title": "",
-            "desc": "<p>Wrap the strap on any side.<br\/><\/p>",
+            "desc": "<p>Wrap the strap on any side.<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -363,10 +363,10 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4-2.png",
+            "image": "shopify://shop_images/4-2.png",
             "title": "Step 2:",
             "sub_title": "",
-            "desc": "<p>Feed the end underneath the bar from back to front.<br\/><br\/><\/p>",
+            "desc": "<p>Feed the end underneath the bar from back to front.<br/><br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -374,10 +374,10 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4-3.png",
+            "image": "shopify://shop_images/4-3.png",
             "title": "Step 3:",
             "sub_title": "",
-            "desc": "<p>Flip it over once.<\/p>",
+            "desc": "<p>Flip it over once.</p>",
             "link_title": "",
             "link": ""
           }
@@ -385,10 +385,10 @@
         "e5411bbb-14f8-4f86-8156-1b0525ebbbf2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4-4.png",
+            "image": "shopify://shop_images/4-4.png",
             "title": "Step 4:",
             "sub_title": "",
-            "desc": "<p>Grab the strap from another side with fingers.<\/p>",
+            "desc": "<p>Grab the strap from another side with fingers.</p>",
             "link_title": "",
             "link": ""
           }
@@ -431,10 +431,10 @@
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_3_f653c870-3503-4ae9-85d9-cff0f0413821.png",
+            "image": "shopify://shop_images/v1-straps-grip-type.jpg",
             "title": "GRIP TYPES",
             "sub_title": "",
-            "desc": "<p>Suitable for both Olympic weightlifting and powerlifting.<\/p>",
+            "desc": "<ol><li>✔ Deadlift ✔ Weightlifting</li><li>✔ Deadlift <strong>X</strong> Weightlifting</li></ol>",
             "link_title": "",
             "link": ""
           }
@@ -442,10 +442,10 @@
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_3_bab465dd-80e9-4742-8616-9e76bb579a41.png",
+            "image": "shopify://shop_images/2_3_bab465dd-80e9-4742-8616-9e76bb579a41.png",
             "title": "RIGHT SIZE - INCREASED WEIGHTS",
             "sub_title": "",
-            "desc": "<p>One size fits all. Max test strength of the straps is rated over 660 pounds! 1\/16\" thick, 2.5\" wide, with a special type of dual stitching to prevent tearing.<\/p>",
+            "desc": "<p>One size fits all. Max test strength of the straps is rated over 660 pounds! 1/16\" thick, 2.5\" wide, with a special type of dual stitching to prevent tearing.</p>",
             "link_title": "",
             "link": ""
           }
@@ -453,10 +453,10 @@
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_3_dad6f064-27ef-4a93-9ab4-ec2349d68bfb.png",
+            "image": "shopify://shop_images/3_3_dad6f064-27ef-4a93-9ab4-ec2349d68bfb.png",
             "title": "DESIGNED BY A CHAMPION",
             "sub_title": "",
-            "desc": "<p>Completely designed by <a href=\"https:\/\/www.instagram.com\/torokhtiy\/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy<\/span><\/a>, an Olympic Champion, the Olympic Lifting Straps \"V1\" represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.<\/p>",
+            "desc": "<p>Completely designed by <a href=\"https://www.instagram.com/torokhtiy/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy</span></a>, an Olympic Champion, the Olympic Lifting Straps \"V1\" represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.</p>",
             "link_title": "",
             "link": ""
           }
@@ -466,6 +466,9 @@
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-0",
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-1",
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-2"
+      ],
+      "custom_css": [
+        "li {list-style-position: inside;}"
       ],
       "settings": {
         "title": "",
@@ -505,14 +508,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -535,7 +538,7 @@
       "type": "apps",
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
