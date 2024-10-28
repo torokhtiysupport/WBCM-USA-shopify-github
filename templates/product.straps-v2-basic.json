@@ -170,28 +170,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<p>Dimensions: <br/><strong>Length</strong>: 33cm <br/><strong>Width</strong>: 6.4cm<br/><strong>Material</strong>: 100% Cotton</p>"
+            "text": "<ul><li><strong>Length:</strong> 34cm (13,39in)</li><li><strong>Width:</strong> 2,5cm (0,98in)</li><li><strong>Thickness:</strong> 3mm </li><li><strong>Material:</strong> cotton, neopren, leather</li></ul>"
           }
         },
         "article_xU3kGD": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>Approved by top-notch athletes and champions, these lifting straps will fit weightlifters, powerlifters, bodybuilders, and training with kettlebells, dumbbells, and functional fitness.</p>"
+            "text": "<p>V2 Lifting Straps are suitable both for professional weightlifters and for casual gym goers.</p>"
           }
         },
         "article_WjRUFE": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact.In case you're not fully satisfied with the product, you can return it within 14 days of receipt. The same rule works for exchanging the items.</p>"
           }
         },
         "article_mFwzXr": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Hand wash them with warm water and a mild detergent. Can be machine-washed as well. We do not recommend washing them very often as it influences its lifetime and damages the fabric. Allow the straps to air dry.</p>"
+            "text": "<p>Hand wash them with warm water and a mild detergent. Can be machine-washed as well. We do not recommend washing them very often as it may influence their lifetime and damage the fabric. Allow the straps to air dry.</p>"
           }
         }
       },
@@ -214,9 +214,9 @@
         "template--17877542043912__a735ea2d-2943-4430-99e1-06e648e32a7c-16887259068edd12c0-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/121210001.jpg",
+            "image": "shopify://shop_images/straps-v2-all-colors.jpg",
             "title": "",
-            "desc": "<p><strong>Unique design:<br/></strong>Based on Olympian experience, that gives ultimate grip comfort.<br/><strong>Increased performance:</strong><br/>Maximize your wrist strength and boost your lifts.<br/><strong>Heavy-duty:</strong><br/>Made of 100% Cotton, for withstanding<br/>many training sessions.<br/><strong>Prevent injuries:</strong><br/>WBCM straps make your grip more easier and protect your wrists.<br/><strong>Confident grip:</strong><br/>For lifting will help you increase both your reps and weights.<br/><strong>Approved:</strong><br/>By the world-class athletes and champions<br/>for your training performance.</p>",
+            "desc": "<p><strong>Improved design:<br/></strong>Quicker to strap up and quicker to release.</p><p><strong>More durability:<br/></strong>Sturdy materials used for your active every-day workouts.  </p><p><strong>Prevent injuries:<br/></strong>Additional neoprene padding makes your grip easier and protects your wrists.</p><p><strong>Universal</strong>:<br/>Suitable both for professional lifters and amateur gym goers. </p><p><strong>Increased performance:<br/></strong>Maximize your wrist strength and boost your lifts.</p><p><strong>Approved:<br/></strong>Designed by an Olympian Champion.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -233,11 +233,11 @@
       "settings": {
         "container": "large",
         "block_spacing": 2,
-        "section-bottom-margin": true,
+        "section-bottom-margin": false,
         "image_ratio": "1:1",
         "block_layout": "1/2",
         "block_align": "left",
-        "vertical_align": "top",
+        "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
       }
@@ -248,7 +248,7 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/photo-lock-2_87509d6a-3e36-4898-8675-8f07f257d86f.png",
+            "image": "shopify://shop_images/Straps-V2-basic-pink-in-use-1.jpg",
             "title": "BEST STRAPS FOR:",
             "desc": "<p>WEIGHTLIFTING<br/>POWERLIFTING<br/>BODYBUILDING<br/>KETTLEBELL<br/>DUMBBELL<br/>FUNCTIONAL FITNESS</p>",
             "horizontal_align": "left",
@@ -269,7 +269,7 @@
         "block_spacing": 2,
         "section-bottom-margin": true,
         "image_ratio": "1:1",
-        "block_layout": "2/3",
+        "block_layout": "1/2",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 2,
@@ -290,6 +290,7 @@
       "block_order": [
         "template--17877542043912__3d13f6f8-1da6-434e-b931-c7cd6227574e-1688733442073661d6-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "desc": "",
@@ -352,6 +353,7 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2",
         "e5411bbb-14f8-4f86-8156-1b0525ebbbf2"
       ],
+      "disabled": true,
       "settings": {
         "title": "HOW TO USE STRAP",
         "container": "large",
@@ -419,6 +421,7 @@
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-1",
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-2"
       ],
+      "disabled": true,
       "custom_css": [
         "li {list-style-position: inside;}"
       ],
