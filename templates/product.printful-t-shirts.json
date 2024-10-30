@@ -63,6 +63,14 @@
           "settings": {
           }
         },
+        "text_GUd9id": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "style": "h3",
+            "text": "<p>We know, you love our old designs, but we can’t continue having all of them in stock. That’s why we decided to print them via third-party services for them to be still available for you. Please, check the product details below before purchasing. These T-shirts have a different characteristics from the PRO* ones.</p>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -108,11 +116,6 @@
             "border": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "popup_YQ6YB9": {
           "type": "popup",
           "settings": {
@@ -132,13 +135,13 @@
       "block_order": [
         "title",
         "106529e2-51eb-4e60-b46e-da369900c001",
+        "text_GUd9id",
         "price",
         "db48bf56-e904-4604-9f21-89d04e9bf249",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "db48bf56-e904-4604-9f21-89d04e9bf241",
-        "description",
         "popup_YQ6YB9"
       ],
       "settings": {
@@ -169,9 +172,9 @@
         "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mens-t-shirts-sizes.jpg",
+            "image": "{{ product.featured_image }}",
             "title": "Product details:",
-            "desc": "<ul><li>Composition: 95% Cotton/ 5% Elastane</li><li>Material wicks sweat & dries really fast</li><li>Machine wash: 30°C with similar colors</li><li>Made in Ukraine</li></ul>",
+            "desc": "<ul><li>Solid colors are 100% Airlume combed and ring-spun cotton</li><li>Ash color is 99% combed and ring-spun cotton, 1% polyester</li><li>Heather colors are 52% combed and ring-spun cotton, 48% polyester</li><li>Athletic and Black Heather are 90% combed and ring-spun cotton, 10% polyester</li><li>Heather Prism colors are 99% combed and ring-spun cotton, 1% polyester</li><li>Fabric weight: 4.2 oz./yd.² (142 g/m²)</li><li>Pre-shrunk fabric</li><li>30 singles</li><li>Side-seamed construction</li><li>Tear-away label</li><li>Shoulder-to-shoulder taping</li><li>Blank product sourced from Nicaragua, Mexico, Honduras, or the US</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -189,12 +192,92 @@
         "container": "large",
         "block_spacing": 2,
         "section-bottom-margin": false,
+        "image_ratio": "3:4",
+        "block_layout": "1/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "section_image_with_text_jqi3jb": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_7i7LfE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/measure-yourself-torokhtiy.jpg",
+            "title": "Product measurements",
+            "desc": "<p>Measurements are provided by our suppliers. Product measurements may vary by up to 2\" (5 cm).</p><p>Pro tip! Measure one of your products at home and compare with the measurements you see in this guide.</p><p><strong>A Length</strong></p><p>Place the end of the tape beside the collar at the top of the tee (Highest Point Shoulder). Pull the tape measure to the bottom of the shirt.</p><p><strong>B Width</strong></p><p>Place the end of the tape at the seam under the sleeve and pull the tape measure across the shirt to the seam under the opposite sleeve.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_7i7LfE"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "section_image_with_text_nX4qPJ": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_qYQyHN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/product-measurements-torokhtiy.jpg",
+            "title": "Measure yourself",
+            "desc": "<p>Measurements are provided by suppliers.</p><p>Product measurements may vary by up to 2″ (5 cm).</p><p><strong>A Length</strong></p><p>Place the end of the tape beside the collar at the top of the tee (Highest Point Shoulder). Pull the tape measure to the bottom of the shirt.</p><p><strong>B Width</strong></p><p>Measure yourself around the fullest part of your chest. Keep the tape measure horizontal.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_qYQyHN"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
         "image_ratio": "natural",
         "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
+      }
+    },
+    "section_liquid_fBAdEy": {
+      "type": "section-liquid",
+      "custom_css": [
+        ".size-table th,.size-table td {padding: 12px 15px; border: 1px solid #ddd;}",
+        ".size-table tbody tr:hover {background-color: #eaeaea;}",
+        ".size-table th {font-weight: bold; color: #333; text-align: center;}",
+        "@media (max-width: 768px) {.size-table {font-size: 14px; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"container--large\" style=\"margin: 0 auto\" id=\"size-guide\">\n<div class=\"table-responsive\" style=\"overflow-x:auto;\">\n<h2 style=\"text-align: center\">Size Guide</h2>\n    <table class=\"size-table\" style=\"width:100%;border-collapse:collapse;margin:20px 0;font-size:16px;min-width:300px;text-align:center;\">\n        <thead style=\"background-color:#f4f4f4;\">\n            <tr>\n                <th width=\"50\">&nbsp;</th>\n                <th>LENGTH (inches)</th>\n                <th>WIDTH (inches)</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td style=\"font-weight:bold;\" width=\"50\">S</td>\n                <td>28</td>\n                <td>18</td>\n            </tr>\n            <tr style=\"background-color:#f9f9f9;\">\n                <td style=\"font-weight:bold;\" width=\"50\">M</td>\n                <td>29</td>\n                <td>20</td>\n            </tr>\n            <tr>\n                <td style=\"font-weight:bold;\" width=\"50\">L</td>\n                <td>30</td>\n                <td>22</td>\n            </tr>\n            <tr style=\"background-color:#f9f9f9;\">\n                <td style=\"font-weight:bold;\" width=\"50\">XL</td>\n                <td>31</td>\n                <td>24</td>\n            </tr>\n            <tr>\n                <td style=\"font-weight:bold;\" width=\"50\">2XL</td>\n                <td>32</td>\n                <td>26</td>\n            </tr>\n            <tr style=\"background-color:#f9f9f9;\">\n                <td style=\"font-weight:bold;\" width=\"50\">3XL</td>\n                <td>33</td>\n                <td>28</td>\n            </tr>\n        </tbody>\n    </table>\n</div>\n\n<div class=\"table-responsive\" style=\"overflow-x:auto;\">\n    <table class=\"size-table\" style=\"width:100%;border-collapse:collapse;margin:20px 0;font-size:16px;min-width:300px;text-align:center;\">\n        <thead style=\"background-color:#f4f4f4;\">\n            <tr>\n                <th width=\"50\">&nbsp;</th>\n                <th>LENGTH (cm)</th>\n                <th>WIDTH (cm)</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td style=\"font-weight:bold;\" width=\"50\">S</td>\n                <td>71.1</td>\n                <td>45.7</td>\n            </tr>\n            <tr style=\"background-color:#f9f9f9;\">\n                <td style=\"font-weight:bold;\" width=\"50\">M</td>\n                <td>73.7</td>\n                <td>50.8</td>\n            </tr>\n            <tr>\n                <td style=\"font-weight:bold;\" width=\"50\">L</td>\n                <td>76.2</td>\n                <td>55.9</td>\n            </tr>\n            <tr style=\"background-color:#f9f9f9;\">\n                <td style=\"font-weight:bold;\" width=\"50\">XL</td>\n                <td>78.7</td>\n                <td>61</td>\n            </tr>\n            <tr>\n                <td style=\"font-weight:bold;\" width=\"50\">2XL</td>\n                <td>81.3</td>\n                <td>66</td>\n            </tr>\n            <tr style=\"background-color:#f9f9f9;\">\n                <td style=\"font-weight:bold;\" width=\"50\">3XL</td>\n                <td>83.8</td>\n                <td>71.1</td>\n            </tr>\n        </tbody>\n    </table>\n</div>\n</div>"
       }
     },
     "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
@@ -269,6 +352,9 @@
     "main",
     "203d1340-3a17-4e4f-bb2a-d09fc99c356b",
     "83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6",
+    "section_image_with_text_jqi3jb",
+    "section_image_with_text_nX4qPJ",
+    "section_liquid_fBAdEy",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "1690977685ca3c1a41",
     "product-recommendations"
