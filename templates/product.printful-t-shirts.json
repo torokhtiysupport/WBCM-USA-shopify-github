@@ -189,7 +189,7 @@
         "section-bottom-margin": false,
         "image_ratio": "3:4",
         "block_layout": "1/2",
-        "block_align": "left",
+        "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
@@ -223,7 +223,7 @@
         "section-bottom-margin": false,
         "image_ratio": "natural",
         "block_layout": "1/2",
-        "block_align": "right",
+        "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
@@ -257,7 +257,7 @@
         "section-bottom-margin": false,
         "image_ratio": "natural",
         "block_layout": "1/2",
-        "block_align": "left",
+        "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
