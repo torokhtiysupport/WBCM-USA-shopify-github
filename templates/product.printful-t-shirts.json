@@ -108,27 +108,22 @@
             "enable_payment_button": true
           }
         },
+        "link_FT6thn": {
+          "type": "link",
+          "settings": {
+            "title": "📐Size Chart",
+            "link": "#size-guide",
+            "style": "body",
+            "align": "left",
+            "new_tab": false
+          }
+        },
         "db48bf56-e904-4604-9f21-89d04e9bf241": {
           "type": "spacer",
           "settings": {
             "top": "small",
             "bottom": "small",
             "border": true
-          }
-        },
-        "popup_YQ6YB9": {
-          "type": "popup",
-          "settings": {
-            "link_title": "Size chart",
-            "link_style": "body",
-            "align": "left",
-            "popup_heading": "label",
-            "popup_content": "",
-            "image": "shopify://shop_images/Mens-t-shirts-sizes.jpg",
-            "text": "",
-            "icon": "icon-clothes-design-tape-measure",
-            "icon_size": 1,
-            "color_icon": "#212121"
           }
         }
       },
@@ -141,8 +136,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "db48bf56-e904-4604-9f21-89d04e9bf241",
-        "popup_YQ6YB9"
+        "link_FT6thn",
+        "db48bf56-e904-4604-9f21-89d04e9bf241"
       ],
       "settings": {
         "container": "large",
