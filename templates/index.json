@@ -40,8 +40,8 @@
         "section-slideshow-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Halloween-banner-desktop-US.jpg",
-            "image_mobile": "shopify://shop_images/Halloween-banner-mob-US.jpg",
+            "image": "shopify://shop_images/Helloween-sale-banner-desktop.jpg",
+            "image_mobile": "shopify://shop_images/Helloween-sale-mob-desktop.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
