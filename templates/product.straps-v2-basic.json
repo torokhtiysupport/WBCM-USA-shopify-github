@@ -267,7 +267,7 @@
       "settings": {
         "container": "large",
         "block_spacing": 2,
-        "section-bottom-margin": true,
+        "section-bottom-margin": false,
         "image_ratio": "1:1",
         "block_layout": "1/2",
         "block_align": "right",
@@ -305,7 +305,7 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/1_4.png",
+            "image": "shopify://shop_images/Basic-1-how-to-use.jpg",
             "title": "Step 1:",
             "sub_title": "",
             "desc": "<p>Wrap the strap on any side<br/></p>",
@@ -316,7 +316,7 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/2_4.png",
+            "image": "shopify://shop_images/Basic-2-how-to-use.jpg",
             "title": "Step 2:",
             "sub_title": "",
             "desc": "<p>Feed the end underneath the bar from back to front<br/><br/></p>",
@@ -327,7 +327,7 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/3_4.png",
+            "image": "shopify://shop_images/Basic-3-how-to-use.jpg",
             "title": "Step 3:",
             "sub_title": "",
             "desc": "<p>Flip it over<br/>once</p>",
@@ -338,7 +338,7 @@
         "e5411bbb-14f8-4f86-8156-1b0525ebbbf2": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/4_4_62c7cfeb-b047-49d8-ae59-0a8eb442bddb.png",
+            "image": "shopify://shop_images/Basic-4-how-to-use.jpg",
             "title": "Step 4:",
             "sub_title": "",
             "desc": "<p>Grab the strap from another side with fingers</p>",
@@ -353,7 +353,6 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2",
         "e5411bbb-14f8-4f86-8156-1b0525ebbbf2"
       ],
-      "disabled": true,
       "settings": {
         "title": "HOW TO USE STRAP",
         "container": "large",
@@ -385,7 +384,7 @@
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/V1-basic-grip-types.jpg",
+            "image": "shopify://shop_images/Basic-2.1.jpg",
             "title": "GRIP TYPES",
             "sub_title": "",
             "desc": "<ol><li>✔ Deadlift ✔ Weightlifting</li><li>✔ Deadlift <strong>X</strong> Weightlifting</li></ol>",
@@ -396,10 +395,10 @@
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/about-2.png",
+            "image": "shopify://shop_images/Basic-2.jpg",
             "title": "RIGHT SIZE - INCREASED WEIGHTS",
             "sub_title": "",
-            "desc": "<p>One size fits all. Max test strength of the straps is rated over 660 pounds! 1/16\" thick, 2.5\" wide, with a special type of dual stitching to prevent tearing.</p>",
+            "desc": "<p>One size fits all. Max test strength of the straps is rated at 390kg (over 860 pounds!). 3mm thick, 2.5cm wide, quicker to strap up and quicker to release!</p>",
             "link_title": "",
             "link": ""
           }
@@ -410,7 +409,7 @@
             "image": "shopify://shop_images/about-3_2219d62c-118e-4f00-a6b9-5f9fa797c6d6.png",
             "title": "DESIGNED BY A CHAMPION",
             "sub_title": "",
-            "desc": "<p>Completely designed by <a href=\"https://www.instagram.com/torokhtiy/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy</span></a>, an Olympic Champion, the Olympic Lifting Straps V1 Basic represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.</p>",
+            "desc": "<p>Completely designed by <a href=\"https://www.instagram.com/torokhtiy/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy</span></a>, an Olympic Champion, the Olympic Lifting Straps V2 Basic represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.</p>",
             "link_title": "",
             "link": ""
           }
@@ -421,7 +420,6 @@
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-1",
         "template--17877542043912__9c5582dd-a5de-49f8-8aed-a7448ecc3dcc-16887257524b3aa6cc-2"
       ],
-      "disabled": true,
       "custom_css": [
         "li {list-style-position: inside;}"
       ],
