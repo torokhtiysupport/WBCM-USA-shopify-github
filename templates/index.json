@@ -93,7 +93,7 @@
             "alignment": "bottom-center",
             "title": "",
             "text": "",
-            "link_style": "c-btn c-btn--hollow",
+            "link_style": "c-btn c-btn--primary",
             "link_title": "READ MORE",
             "link": "https://blog.warmbody-coldmind.com/news/help-ukraine/",
             "link_style_2": "c-btn c-btn--primary",
