@@ -48,6 +48,15 @@
             endif
         endfor
     endif
+
+   if settings.product_grid_label_custom_5
+        for collection in product.collections
+            if collection.title == collections[settings.product_grid_label_collection_5].title
+                assign custom_label_5 = true
+                break
+            endif
+        endfor
+    endif
 -%}
 {%- if sold_out_label or discount_label or new_label or custom_label_1 or custom_label_2 -%}
     <!-- snippet/product-grid-label.liquid -->
