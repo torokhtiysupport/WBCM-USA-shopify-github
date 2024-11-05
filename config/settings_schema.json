@@ -807,6 +807,33 @@
                 "id": "color_label_custom_four",
                 "label": "Color",
                 "default": "#E5E5E5"
+            },
+            {
+                "type": "header",
+                "content": "Custom label 5"
+            },
+            {
+                "type": "checkbox",
+                "id": "product_grid_label_custom_5",
+                "label": "Show label",
+                "default": true
+            },
+            {
+                "id": "product_grid_label_collection_5",
+                "type": "collection",
+                "label": "Custom label collection"
+            },
+            {
+                "type": "text",
+                "id": "product_grid_label_title_custom_5",
+                "label": "Custom label text",
+                "default": "Collection 5"
+            },
+            {
+                "type": "color",
+                "id": "color_label_custom_five",
+                "label": "Color",
+                "default": "#E5E5E5"
             }
         ]
     },
