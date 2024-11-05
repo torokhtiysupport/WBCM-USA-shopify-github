@@ -9711,6 +9711,11 @@ section.description .container--tiny {
     background-color: #fadd02;
   }
 
+  .product-badges .by-shopify {
+    background-color: #9C00FF;
+    color: #fff;
+  }
+
   .product-badges .coming-soon, .product-badges .last-items {
     background-color: #fff;
   }
