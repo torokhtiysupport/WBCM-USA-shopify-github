@@ -51,6 +51,10 @@
                           {% if product.tags contains 'NEW' %}
                             <span class="badge new">New</span>
                           {% endif %}
+
+                          {% if product.tags contains 'by Shopify' %}
+                            <span class="badge by-shopify">by Shopify</span>
+                          {% endif %}
                 </div>
             </div>
 
