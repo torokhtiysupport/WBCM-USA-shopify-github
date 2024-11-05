@@ -127,5 +127,11 @@
                 <p class="product-card__label-text label__text">{{ settings.product_grid_label_title_custom_4 }}</p>
             </li>
         {% endif %}
+
+        {% if custom_label_5 %}
+            <li class="product-card__label product-card__label--custom__5 label label--custom_5{% if settings.product_grid_label_hide_all and product.available == false %} product-card__label__items_hide{% endif %}">
+                <p class="product-card__label-text label__text">{{ settings.product_grid_label_title_custom_5 }}</p>
+            </li>
+        {% endif %}
     </ul>
 {%- endif -%}
