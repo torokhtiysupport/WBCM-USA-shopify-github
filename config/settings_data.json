@@ -90,9 +90,7 @@
     "cart_announcement_icon": "icon-discount-circle",
     "cart_announcement_icon_color": "#C00000",
     "cart_terms": false,
-    "search_collections": [
-
-    ],
+    "search_collections": [],
     "search_collections_ratio": "1:1",
     "social_facebook_link": "https://www.facebook.com/WarmBodyColdMind/",
     "social_twitter_link": "",
@@ -128,8 +126,8 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "HELP UKRAINE",
-          "message_link": "https://blog.warmbody-coldmind.com/news/help-ukraine/",
+          "message_text": "BLACK FRIDAY SALE",
+          "message_link": "shopify://collections/sale",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff"
         }
@@ -320,27 +318,22 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "14060646107696862457": {
         "type": "shopify://apps/judge-me-product-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "341186785192672687": {
         "type": "shopify://apps/seal-subscriptions-loyalty/blocks/subscription-script-append/13b25004-a140-4ab7-b5fe-29918f759699",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "16865981829950876834": {
         "type": "shopify://apps/icart-cart-drawer-cart-upsell/blocks/icart-block/e651bbc2-5760-47d8-a513-2aa6ee3a9aa7",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "8882555360308167327": {
         "type": "shopify://apps/schema-breadcrumbs/blocks/schema-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
@@ -359,8 +352,7 @@
       "12198985164985445843": {
         "type": "shopify://apps/nova-eu-cookie-bar-gdpr/blocks/app-embed/6667ecbd-70cf-4527-84a9-e6037e6ca706",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15885745614559378752": {
         "type": "shopify://apps/accessibly/blocks/app-embed/4b59303e-1141-4c8a-945f-bf4adb516864",
@@ -435,9 +427,7 @@
       "radius_media": 0,
       "cart_announcement_text": "Announce discount codes, free shipping etc",
       "cart_announcement_icon": "icon-gift-box",
-      "search_collections": [
-
-      ],
+      "search_collections": [],
       "search_collections_ratio": "1:1",
       "social_twitter_link": "",
       "social_tiktok_link": "",
@@ -656,9 +646,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     },
     "Clutch": {
       "color_headings": "#212121",
@@ -717,9 +705,7 @@
       "radius_media": 0,
       "cart_announcement_text": "Announce discount codes, free shipping etc",
       "cart_announcement_icon": "icon-gift-box",
-      "search_collections": [
-
-      ],
+      "search_collections": [],
       "search_collections_ratio": "1:1",
       "social_twitter_link": "",
       "social_tiktok_link": "",
@@ -938,9 +924,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     }
   },
   "platform_customizations": {
