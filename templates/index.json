@@ -40,8 +40,8 @@
         "section-slideshow-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BF-banner-desktop_1.jpg",
-            "image_mobile": "shopify://shop_images/BF-banner-mob_1.jpg",
+            "image": "shopify://shop_images/BF-banner-desktop-new.jpg",
+            "image_mobile": "shopify://shop_images/BF-banner-mob-new.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
