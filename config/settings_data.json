@@ -51,7 +51,7 @@
     "product_grid_label_position_right": false,
     "product_grid_label_opacity": 80,
     "product_grid_label_sold_out": true,
-    "product_grid_label_hide_all": true,
+    "product_grid_label_hide_all": false,
     "color_label_sold_out": "#212121",
     "product_grid_label_discount_type": "text",
     "color_label_discount": "#c00000",
