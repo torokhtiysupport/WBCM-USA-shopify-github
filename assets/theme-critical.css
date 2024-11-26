@@ -2599,10 +2599,10 @@ body:not(.header-stuck) [data-transparent-header=true].header:not(:hover) .heade
   color: var(--color--text-label-custom_four); }
 
 .label--custom_5 {
-  background-color: rgba(199, 199, 199, 0.8); }
+  background-color: var(--color--label-custom5); }
 
 .label--custom_5 .label__text {
-  color: var(--color--text-label-custom_five); }
+  color: #fff; }
 
 .product-card__label__items {
   position: absolute;
