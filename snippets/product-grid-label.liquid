@@ -58,7 +58,7 @@
         endfor
     endif
 -%}
-{%- if sold_out_label or discount_label or new_label or custom_label_1 or custom_label_2 -%}
+{%- if sold_out_label or discount_label or new_label or custom_label_1 or custom_label_2 or custom_label_3 or custom_label_4 or custom_label_5 -%}
     <!-- snippet/product-grid-label.liquid -->
     <ul class="product-card__label__items {% if settings.product_grid_label_inline %}product-card__label__items--inline{% endif %} {% if settings.product_grid_label_position_right %}product-card__label__items--position_right{% endif %} {% if settings.product_grid_label_inline and settings.product_grid_label_position_right %}product-card__label__items--right_inline{% endif %} o-list-bare">
         {%- if sold_out_label -%}
