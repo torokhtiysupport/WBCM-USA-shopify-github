@@ -2599,7 +2599,7 @@ body:not(.header-stuck) [data-transparent-header=true].header:not(:hover) .heade
   color: var(--color--text-label-custom_four); }
 
 .label--custom_5 {
-  background-color: #9C00FF; }
+  background-color: rgba(156, 0, 255, 0.8); }
 
 .label--custom_5 .label__text {
   color: #fff; }
