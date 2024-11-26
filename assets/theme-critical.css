@@ -2598,6 +2598,12 @@ body:not(.header-stuck) [data-transparent-header=true].header:not(:hover) .heade
 .label--custom_4 .label__text {
   color: var(--color--text-label-custom_four); }
 
+.label--custom_5 {
+  background-color: rgba(199, 199, 199, 0.8); }
+
+.label--custom_5 .label__text {
+  color: var(--color--text-label-custom_five); }
+
 .product-card__label__items {
   position: absolute;
   display: flex;
