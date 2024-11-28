@@ -53,6 +53,22 @@
             "link_2": ""
           }
         },
+        "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BF-banner-desktop-new.jpg",
+            "image_mobile": "shopify://shop_images/BF-banner-mob-new.jpg",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "",
+            "link": "",
+            "link_style_2": "c-btn c-btn--hollow",
+            "link_title_2": "Shop Now",
+            "link_2": "shopify://collections/sale"
+          }
+        },
         "dfb679ab-d00c-4fbc-af39-386f412074d1": {
           "type": "image",
           "settings": {
@@ -67,22 +83,6 @@
             "link_style_2": "c-btn c-btn--hollow",
             "link_title_2": "",
             "link_2": "shopify://collections/sale"
-          }
-        },
-        "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/new-arrivals-banner1920_1080-2.jpg",
-            "image_mobile": "shopify://shop_images/new-arrivals-banner900_1465.jpg",
-            "alignment": "bottom-center",
-            "title": "",
-            "text": "",
-            "link_style": "c-btn c-btn--primary",
-            "link_title": "",
-            "link": "",
-            "link_style_2": "c-btn c-btn--hollow",
-            "link_title_2": "Shop Now",
-            "link_2": "shopify://collections/new-arrivals"
           }
         },
         "section-slideshow-0": {
@@ -105,8 +105,8 @@
       "block_order": [
         "9bf15e77-545b-4d61-8855-5dfad503a3f3",
         "section-slideshow-1",
-        "dfb679ab-d00c-4fbc-af39-386f412074d1",
         "e5c5a46b-3efb-442f-9539-5ea086b271d7",
+        "dfb679ab-d00c-4fbc-af39-386f412074d1",
         "section-slideshow-0"
       ],
       "custom_css": [
