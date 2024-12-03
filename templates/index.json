@@ -88,8 +88,8 @@
         "section-slideshow-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner-2.png",
-            "image_mobile": "shopify://shop_images/banner900x1465-2_7994c736-676b-4da5-87ee-938576d6d25f.png",
+            "image": "shopify://shop_images/tor-promo-code-banner-desktop-US.jpg",
+            "image_mobile": "shopify://shop_images/tor-promo-code-banner-mob-US.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
