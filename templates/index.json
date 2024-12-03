@@ -40,8 +40,8 @@
         "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BF-banner-desktop-new.jpg",
-            "image_mobile": "shopify://shop_images/BF-banner-mob-new.jpg",
+            "image": "shopify://shop_images/Christmas_Sale_desktop_banner.jpg",
+            "image_mobile": "shopify://shop_images/Christmas_banner_mob.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
