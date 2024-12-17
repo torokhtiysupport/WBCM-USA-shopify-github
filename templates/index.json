@@ -40,8 +40,8 @@
         "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Christmas_Sale_desktop_banner.jpg",
-            "image_mobile": "shopify://shop_images/Christmas_banner_mob.jpg",
+            "image": "shopify://shop_images/new-christmas-sale-2024-desktop.png",
+            "image_mobile": "shopify://shop_images/new-christmas-sale-2024-mob.png",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
@@ -382,6 +382,7 @@
             "title_color": "",
             "alignment": "center",
             "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
