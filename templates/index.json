@@ -21,22 +21,6 @@
     "section-slideshow": {
       "type": "section-slideshow",
       "blocks": {
-        "9bf15e77-545b-4d61-8855-5dfad503a3f3": {
-          "type": "video",
-          "settings": {
-            "video_link": "",
-            "yt_link": "https://youtu.be/eequK5kl4XY",
-            "alignment": "bottom-center",
-            "title": "",
-            "text": "<p>Weight lifting gear and clothing</p>",
-            "link_style": "c-btn c-btn--primary",
-            "link_title": "",
-            "link": "",
-            "link_style_2": "c-btn c-btn--hollow",
-            "link_title_2": "Shop now",
-            "link_2": "shopify://collections/accessories"
-          }
-        },
         "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
           "type": "image",
           "settings": {
@@ -51,6 +35,22 @@
             "link_style_2": "c-btn c-btn--hollow",
             "link_title_2": "Shop Now",
             "link_2": "shopify://collections/sale"
+          }
+        },
+        "9bf15e77-545b-4d61-8855-5dfad503a3f3": {
+          "type": "video",
+          "settings": {
+            "video_link": "",
+            "yt_link": "https://youtu.be/eequK5kl4XY",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "<p>Weight lifting gear and clothing</p>",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "",
+            "link": "",
+            "link_style_2": "c-btn c-btn--hollow",
+            "link_title_2": "Shop now",
+            "link_2": "shopify://collections/accessories"
           }
         },
         "dfb679ab-d00c-4fbc-af39-386f412074d1": {
@@ -103,8 +103,8 @@
         }
       },
       "block_order": [
-        "9bf15e77-545b-4d61-8855-5dfad503a3f3",
         "e5c5a46b-3efb-442f-9539-5ea086b271d7",
+        "9bf15e77-545b-4d61-8855-5dfad503a3f3",
         "dfb679ab-d00c-4fbc-af39-386f412074d1",
         "section-slideshow-1",
         "section-slideshow-0"
