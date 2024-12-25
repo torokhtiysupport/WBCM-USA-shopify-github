@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "17006690294fb39c04": {
@@ -21,7 +21,7 @@
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -68,8 +68,7 @@
         },
         "76f4a560-5d7a-4576-b3cb-80e42400f246": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -99,8 +98,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -125,8 +123,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb": {
           "type": "image",
@@ -167,9 +164,7 @@
         "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb",
         "popup_bYBV9h"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "container": "large",
         "show_breadcrumbs": false,
@@ -268,7 +263,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/shorts-l9-features.webp",
-            "title": "DESIGNED BY OLYMPIC CHAMPION OLEKSIY TOROKHTIY",
+            "title": "DESIGNED BY the Olympian OLEKSIY TOROKHTIY",
             "desc": "<p>Designed to withstand rigorous training sessions, these shorts offers superior comfort and durability, empowering athletes to push their limits. Experience the difference of locally-made excellence in every stitch.</p>",
             "horizontal_align": "left",
             "link_title": "",
@@ -441,8 +436,7 @@
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
