@@ -1,18 +1,27 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1700669643c4bd16fe": {
       "type": "apps",
       "blocks": {
         "29239879-d7e5-4319-991e-6f594840584f": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -48,9 +59,8 @@
           }
         },
         "d8da3255-5a45-41f8-9caf-cc7a25e1af5b": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -80,8 +90,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -99,8 +108,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -133,28 +141,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Length: 19 ft (5.8 meters)<\/li><li>Width: 2 in (5 cm)<\/li><li>Material: cotton<\/li><\/ul>"
+            "text": "<ul><li>Length: 19 ft (5.8 meters)</li><li>Width: 2\" (5 cm)</li><li>Material: cotton</li></ul>"
           }
         },
         "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>The WBCM weightlifting tape is a perfect fit for Olympic weightlifting, powerlifting, functional fitness, gymnastics, and other strength-oriented workouts.<\/p>"
+            "text": "<p>The WBCM weightlifting tape is a perfect fit for Olympic weightlifting, powerlifting, functional fitness, gymnastics, and other strength-oriented workouts.</p>"
           }
         },
         "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-3": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-4": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Remove finger tape when it shows signs of wear and tear that can influence its effectiveness. It's not designed to be washed, so it should be replaced after each use.<br\/>Carefully peel off the thumb tape, starting from the top and moving downward, to avoid pulling on the skin. You can use coconut oil to rub into the tape to soften the adhesive, making it slide off.<\/p>"
+            "text": "<p>Remove finger tape when it shows signs of wear and tear that can influence its effectiveness. It's not designed to be washed, so it should be replaced after each use.<br/>Carefully peel off the thumb tape, starting from the top and moving downward, to avoid pulling on the skin. You can use coconut oil to rub into the tape to soften the adhesive, making it slide off.</p>"
           }
         }
       },
@@ -177,9 +185,9 @@
         "template--17775597322504__3e499de0-72f4-43fc-a17f-bab246eab652-1688993923cc7d1bb8-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo.png",
+            "image": "shopify://shop_images/photo.png",
             "title": "",
-            "desc": "<p><strong>Extra Adhesive:<\/strong><br\/>Our sticky weightlifting thumb tape provides a great amount of flexibility for your thumbs and stays on even during the most intense workout routines.       <br\/><strong>Tearable & Stretchy:<\/strong><br\/>Tear grip tape by hand and wrap around thumbs, palms, wrists for excellent protection during hook grip.<br\/><strong>Safe & Natural:<\/strong><br\/>100% cotton for ultimate thumb comfort. This elastic lifting tape absorbs chalk and sweat. Non-allergenic. No residue left.<\/p>",
+            "desc": "<p><strong>Extra Adhesive:</strong><br/>Our sticky weightlifting thumb tape provides a great amount of flexibility for your thumbs and stays on even during the most intense workout routines.       <br/><strong>Tearable & Stretchy:</strong><br/>Tear grip tape by hand and wrap around thumbs, palms, wrists for excellent protection during hook grip.<br/><strong>Safe & Natural:</strong><br/>100% cotton for ultimate thumb comfort. This elastic lifting tape absorbs chalk and sweat. Non-allergenic. No residue left.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -192,9 +200,9 @@
         "ace69dc9-9b17-4ce2-9eb0-8541279a250c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo-2.png",
+            "image": "shopify://shop_images/photo-2.png",
             "title": "BEST TAPE FOR:",
-            "desc": "<p>OLYMPIC WEIGHTLIFTING<br\/>POWERLIFTING<br\/>DUMBELLS<br\/>FUNCTIONAL FITNESS<br\/>GYMNASTICS<\/p>",
+            "desc": "<p>OLYMPIC WEIGHTLIFTING<br/>POWERLIFTING<br/>DUMBBELLS<br/>FUNCTIONAL FITNESS<br/>GYMNASTICS</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -214,7 +222,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "4:3",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -227,7 +235,7 @@
         "template--17775597322504__e65ea801-a136-48f0-9c87-5ca23b3dcb4c-168899706167833dbd-0": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=k24SkZj_778",
+            "video_url": "https://www.youtube.com/watch?v=k24SkZj_778",
             "video_title": ""
           }
         }
@@ -249,10 +257,10 @@
         "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-0": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/step-1.png",
+            "image": "shopify://shop_images/step-1.png",
             "title": "Step 1:",
             "sub_title": "",
-            "desc": "<p>Apply the tape <br\/>beginning from your fingertip.<\/p>",
+            "desc": "<p>Apply the tape <br/>beginning from your fingertip.</p>",
             "link_title": "",
             "link": ""
           }
@@ -260,10 +268,10 @@
         "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/step-2.png",
+            "image": "shopify://shop_images/step-2.png",
             "title": "Step 2:",
             "sub_title": "",
-            "desc": "<p>Loosely wrap<br\/>your thumb 2-3 times.<\/p>",
+            "desc": "<p>Loosely wrap<br/>your thumb 2-3 times.</p>",
             "link_title": "",
             "link": ""
           }
@@ -271,10 +279,10 @@
         "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/step-3.png",
+            "image": "shopify://shop_images/step-3.png",
             "title": "Step 3:",
             "sub_title": "",
-            "desc": "<p>Tear the tape and<br\/>then squeeze with your hand to mold around your thumb.<\/p>",
+            "desc": "<p>Tear the tape and<br/>then squeeze with your hand to mold around your thumb.</p>",
             "link_title": "",
             "link": ""
           }
@@ -316,10 +324,10 @@
         "62e4543e-09c3-49ed-beaa-0ebec96c6190": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_3.png",
+            "image": "shopify://shop_images/1_3.png",
             "title": "SWEAT & CHALK FRIENDLY",
             "sub_title": "",
-            "desc": "<p>Protect your hands from skin injuries. WARM BODY COLD MIND Premium thumb tape won't slip or slide due to sweat. Use the tape with WBCM chalk to get a perfect grip.<\/p>",
+            "desc": "<p>Protect your hands from skin injuries. WARM BODY COLD MIND Premium thumb tape won't slip or slide due to sweat. Use the tape with WBCM chalk to get a perfect grip.</p>",
             "link_title": "",
             "link": ""
           }
@@ -327,10 +335,10 @@
         "44040c05-5002-4629-a772-44df29b6c020": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_3.png",
+            "image": "shopify://shop_images/2_3.png",
             "title": "FEEL THE MEASURE DIFFERENCE",
             "sub_title": "",
-            "desc": "<p>Every roll in your pack is 2 inches wide and 19 feet long. With WBCM tape you can wrap a maximum of the thumb area for a solid number of your workouts.<\/p>",
+            "desc": "<p>Every roll in your pack is 2 inches wide and 19 feet long. With WBCM tape you can wrap a maximum of the thumb area for a solid number of your workouts.</p>",
             "link_title": "",
             "link": ""
           }
@@ -338,10 +346,10 @@
         "69fcf440-2830-4e6c-9b0d-5aac3564dfd9": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_3.png",
-            "title": "DESIGNED BY A CHAMPION",
+            "image": "shopify://shop_images/3_3.png",
+            "title": "DESIGNED BY the Olympian",
             "sub_title": "",
-            "desc": "<p>Completely designed by <a href=\"https:\/\/www.instagram.com\/torokhtiy\/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy<\/span><\/a>, an Olympic Champion, the Lifting Thumb Tape represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.<\/p>",
+            "desc": "<p>Completely designed by <a href=\"https://www.instagram.com/torokhtiy/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy</span></a>, the Olympian, the Lifting Thumb Tape represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.</p>",
             "link_title": "",
             "link": ""
           }
@@ -390,14 +398,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -420,9 +428,8 @@
       "type": "apps",
       "blocks": {
         "82b79fe6-2453-4c4c-adef-1890707a7646": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
