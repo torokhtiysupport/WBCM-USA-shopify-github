@@ -1,27 +1,27 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1700669132222c35cb": {
       "type": "apps",
       "blocks": {
         "4e3d7f04-ab03-4054-a5b9-4d76d47fd4d9": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -59,9 +59,8 @@
           }
         },
         "16dc58cc-8c70-4825-9b59-78d564ecf698": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -91,8 +90,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -110,8 +108,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -144,28 +141,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Dimensions: one size fits all<\/li><li>Length: 56 cm<\/li><li>Width: 4 cm<\/li><li>Thickness: 6 mm <\/li><li>Maximum weight capacity: 815 lb (370 kg)<\/li><li>Material: 100% cotton, soft neoprene, and authentic leather, with reinforced dual stitching<\/li><\/ul>"
+            "text": "<ul><li>Dimensions: one size fits all</li><li>Length: 56 cm (22.05\")</li><li>Width: 4 cm (1.57\")</li><li>Thickness: 6 mm (0.24\")</li><li>Maximum weight capacity: 370 kg (815 lb)</li><li>Material: 100% cotton, soft neoprene, and authentic leather, with reinforced dual stitching</li></ul>"
           }
         },
         "template--20972192071990__0359c11c-003d-4ab6-a978-2588e916f305-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>They are perfect for weightlifting, powerlifting, bodybuilding, functional fitness, i.e., working out with kettlebells and dumbbells, and more.<\/p>"
+            "text": "<p>They are perfect for weightlifting, powerlifting, bodybuilding, functional fitness, i.e., working out with kettlebells and dumbbells, and more.</p>"
           }
         },
         "template--20972192071990__0359c11c-003d-4ab6-a978-2588e916f305-article-3": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "template--20972192071990__0359c11c-003d-4ab6-a978-2588e916f305-article-4": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Hand wash them with warm water and a mild detergent. Can be machine-washed as well. We do not recommend washing them very often as it influences its lifetime and damages the fabric. Allow the straps to air dry.<\/p>"
+            "text": "<p>Hand wash them with warm water and a mild detergent. Can be machine-washed as well. We do not recommend washing them very often as it influences its lifetime and damages the fabric. Allow the straps to air dry.</p>"
           }
         }
       },
@@ -188,9 +185,9 @@
         "template--17927247036680__d3bfa29f-b542-4c3c-983d-6fb1294c6008-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-1-a.png",
+            "image": "shopify://shop_images/banner-1-a.png",
             "title": "BEST LIFTING STRAPS FOR",
-            "desc": "<p>FUNCTIONAL FITNESS<br\/>WEIGHTLIFTING<br\/>POWERLIFTING<br\/>BODYBUILDING<br\/>KETTLEBELL<br\/>DUMBBELL<\/p>",
+            "desc": "<p>FUNCTIONAL FITNESS<br/>WEIGHTLIFTING<br/>POWERLIFTING<br/>BODYBUILDING<br/>KETTLEBELL<br/>DUMBBELL</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -203,9 +200,9 @@
         "template--17927247036680__d3bfa29f-b542-4c3c-983d-6fb1294c6008-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-2-a.png",
+            "image": "shopify://shop_images/banner-2-a.png",
             "title": "",
-            "desc": "<p>Meticulously crafted from <strong>durable cotton<\/strong>, soft neoprene, and authentic leather. Further enhanced with <strong>reinforced dual stitching<\/strong> for unparalleled resilience.<\/p><p><\/p><p>Suitable for a wide<br\/>range of exercises and<br\/>lifting styles<\/p>",
+            "desc": "<p>Meticulously crafted from <strong>durable cotton</strong>, soft neoprene, and authentic leather. Further enhanced with <strong>reinforced dual stitching</strong> for unparalleled resilience.</p><p></p><p>Suitable for a wide<br/>range of exercises and<br/>lifting styles</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -225,7 +222,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "1:1",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -238,10 +235,10 @@
         "template--17927247036680__aa7c6c94-fc24-4a67-8991-8dd1a5ca5b9a-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/about-1_93c620ba-1b89-44c2-91ff-bc73c8c19b11.png",
+            "image": "shopify://shop_images/about-1_93c620ba-1b89-44c2-91ff-bc73c8c19b11.png",
             "title": "IMPROVE YOUR GRIP",
             "sub_title": "",
-            "desc": "<p><strong>1.<\/strong> <strong>WITHOUT STRAPS You struggle<\/strong> Grip fatigue and skin damage keeps you from lifting your best results. Supporting the smaller hand, wrist & forearm muscles which fatigue first!<br\/><strong>2. WITH STRAPS You dominate<\/strong><br\/>With our lifting straps, you are able to get a better grip on the bar and lift more weight for longer periods of time.<br\/><\/p>",
+            "desc": "<p><strong>1.</strong> <strong>WITHOUT STRAPS You struggle</strong> Grip fatigue and skin damage keeps you from lifting your best results. Supporting the smaller hand, wrist & forearm muscles which fatigue first!<br/><strong>2. WITH STRAPS You dominate</strong><br/>With our lifting straps, you are able to get a better grip on the bar and lift more weight for longer periods of time.<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -249,10 +246,10 @@
         "template--17927247036680__aa7c6c94-fc24-4a67-8991-8dd1a5ca5b9a-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/about-2_f016378e-485b-4716-b73c-1c9ad921fb06.png",
+            "image": "shopify://shop_images/about-2_f016378e-485b-4716-b73c-1c9ad921fb06.png",
             "title": "RIGHT SIZE INCREASED WEIGHTS",
             "sub_title": "",
-            "desc": "<p>One size fitsall. Max test sstrength of the straps is rated  770 pounds! 21\" length, 1.6\" wide, with a special type of dual stitchhing to prevent tearing.<br\/><\/p>",
+            "desc": "<p>One size fitsall. Max test sstrength of the straps is rated  770 pounds! 21\" length, 1.6\" wide, with a special type of dual stitchhing to prevent tearing.<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -260,10 +257,10 @@
         "template--17927247036680__aa7c6c94-fc24-4a67-8991-8dd1a5ca5b9a-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/about-3_2219d62c-118e-4f00-a6b9-5f9fa797c6d6.png",
+            "image": "shopify://shop_images/about-3_2219d62c-118e-4f00-a6b9-5f9fa797c6d6.png",
             "title": "DESIGNED BYA CHAMPION",
             "sub_title": "",
-            "desc": "<p>Completely designed by <a href=\"https:\/\/www.instagram.com\/torokhtiy\/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy<\/span><\/a>, an Olympic Champion, the Lifting Straps Lasso \"PRO\" represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.<\/p>",
+            "desc": "<p>Completely designed by <a href=\"https://www.instagram.com/torokhtiy/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy</span></a>, an Olympic Champion, the Lifting Straps Lasso \"PRO\" represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.</p>",
             "link_title": "",
             "link": ""
           }
@@ -305,7 +302,7 @@
         "template--17927247036680__1158c455-aab3-4f3a-8534-62127ae053eb-168871943788190729-0": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=GRWtdlr3daQ&t=1s",
+            "video_url": "https://www.youtube.com/watch?v=GRWtdlr3daQ&t=1s",
             "video_title": ""
           }
         }
@@ -327,9 +324,9 @@
         "template--17927247036680__83e98ba2-660a-4b5f-81a1-41cb3e915a09-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo-lock-2.png",
+            "image": "shopify://shop_images/photo-lock-2.png",
             "title": "",
-            "desc": "<p>Designed for serious lifters by Champion Oleksiy Torokhtiy.<\/p><p>Max Test Strength: <strong>770lbs<\/strong> - these straps are built to endure.<\/p><p>Featuring special reinforced dual stitching to prevent tearing.<\/p><p>Straps measure <strong>1.6\"<\/strong> in width, <strong>21\"<\/strong> in length, and are <strong>1\/4\" <\/strong>thick.<\/p>",
+            "desc": "<p>Designed for serious lifters by Champion Oleksiy Torokhtiy.</p><p>Max Test Strength: <strong>770lbs</strong> - these straps are built to endure.</p><p>Featuring special reinforced dual stitching to prevent tearing.</p><p>Straps measure <strong>1.6\"</strong> in width, <strong>21\"</strong> in length, and are <strong>1/4\" </strong>thick.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -348,7 +345,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "1:1",
-        "block_layout": "2\/3",
+        "block_layout": "2/3",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -361,10 +358,10 @@
         "32b17077-2af6-4721-bb6b-2fe795973923": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/step-1_9b3acc78-830b-4f67-9134-60fd71997006.png",
+            "image": "shopify://shop_images/step-1_9b3acc78-830b-4f67-9134-60fd71997006.png",
             "title": "STEP 1:",
             "sub_title": "",
-            "desc": "<p>Use the strap so that the tail is in the same direction as your fingertip<\/p>",
+            "desc": "<p>Use the strap so that the tail is in the same direction as your fingertip</p>",
             "link_title": "",
             "link": ""
           }
@@ -372,10 +369,10 @@
         "44e69291-eb01-426c-b94f-623615667961": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/step-2_4c320275-ea56-4185-b2be-f639a3cf0c99.png",
+            "image": "shopify://shop_images/step-2_4c320275-ea56-4185-b2be-f639a3cf0c99.png",
             "title": "STEP 2:",
             "sub_title": "",
-            "desc": "<p>Wrap the tail several times around the bar (counterclock-wise)<br\/><\/p>",
+            "desc": "<p>Wrap the tail several times around the bar (counterclock-wise)<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -383,10 +380,10 @@
         "b082ebf3-f8ab-4103-a4c7-f13ab0ba2e00": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/step-3_1c580775-74d4-4651-9ce7-b10dde940253.png",
+            "image": "shopify://shop_images/step-3_1c580775-74d4-4651-9ce7-b10dde940253.png",
             "title": "STEP 3:",
             "sub_title": "",
-            "desc": "<p>Grab the bar. And you are just in one step before<br\/>your new PR!<\/p>",
+            "desc": "<p>Grab the bar. And you are just in one step before<br/>your new PR!</p>",
             "link_title": "",
             "link": ""
           }
@@ -435,14 +432,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -465,9 +462,8 @@
       "type": "apps",
       "blocks": {
         "a20281d6-3574-4715-bade-aa58f016fad2": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
