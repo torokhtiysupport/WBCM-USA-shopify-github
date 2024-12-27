@@ -21,7 +21,7 @@
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -68,8 +68,7 @@
         },
         "76f4a560-5d7a-4576-b3cb-80e42400f246": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -99,8 +98,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -125,8 +123,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb": {
           "type": "image",
@@ -151,9 +148,7 @@
         "description",
         "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "container": "large",
         "show_breadcrumbs": false,
@@ -173,7 +168,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Sold in pairs.</strong></li><li><strong>Length</strong>: 13\"</li><li><strong>Width</strong>: 2.5\"</li><li><strong>Thickness</strong>: 1/16\"</li><li><strong>Material</strong>: cotton</li></ul>"
+            "text": "<p><strong>Length</strong>: 33 cm (13\")<br/><strong>Width</strong>: 6.4 cm (2.52\")<br/><strong>Thickness</strong>: 2 mm (0.08\")<br/><strong>Material</strong>: cotton</p>"
           }
         },
         "template--20972192301366__d625e37a-d058-4361-9b4e-64f1973a8bbc-article-3": {
@@ -204,9 +199,7 @@
         "9b6f41f4-9cb9-4eb9-95c4-4ec534bdc676",
         "d64c1414-16b4-42c9-93b5-bcb721295709"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "enable_sidebar": false,
         "cta_link_title": "Contact us",
@@ -253,8 +246,7 @@
         "a8edbf46-5db7-4f36-a4d2-947738b82b48"
       ],
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "a735ea2d-2943-4430-99e1-06e648e32a7c": {
       "type": "section-image-with-text",
@@ -539,8 +531,7 @@
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -552,9 +543,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "related_title": "You may also like",
         "section_width": "wide",
