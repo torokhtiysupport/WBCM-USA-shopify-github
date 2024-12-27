@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "17006689411512fdec": {
@@ -21,7 +21,7 @@
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -60,8 +60,7 @@
         },
         "9b291abc-4653-41cf-b730-bae51b59166b": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -91,8 +90,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "inventory_notice": {
           "type": "inventory_notice",
@@ -124,8 +122,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "popup_dzBJrN": {
           "type": "popup",
@@ -177,7 +174,7 @@
           "settings": {
             "image": "shopify://shop_images/Womens-t-shirts-sizes.jpg",
             "title": "Product details:",
-            "desc": "<ul><li>Composition: 95% Cotton/ 5% Elastane</li><li>Material wicks sweat & dries really fast</li><li>Machine wash: 30°C with similar colors</li></ul>",
+            "desc": "<ul><li>Composition: 95% Cotton/ 5% Elastane</li><li>Material wicks sweat & dries really fast</li><li>Machine wash: 30°C with similar colors</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -244,8 +241,7 @@
       "blocks": {
         "5b7e398d-a191-4372-96cb-4bff413cc050": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
