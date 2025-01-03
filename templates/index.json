@@ -88,17 +88,17 @@
         "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/new-christmas-sale-2024-desktop.png",
-            "image_mobile": "shopify://shop_images/new-christmas-sale-2024-mob.png",
+            "image": "shopify://shop_images/help-ukraine-banner-desktop.png",
+            "image_mobile": "shopify://shop_images/help-ukraine-banner-mob.png",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
             "link_style": "c-btn c-btn--primary",
             "link_title": "",
             "link": "",
-            "link_style_2": "c-btn c-btn--hollow",
-            "link_title_2": "Shop Now",
-            "link_2": "shopify://collections/sale"
+            "link_style_2": "c-btn c-btn--primary",
+            "link_title_2": "READ MORE",
+            "link_2": "https://blog.warmbody-coldmind.com/news/help-ukraine/"
           }
         }
       },
