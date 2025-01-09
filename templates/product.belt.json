@@ -21,7 +21,7 @@
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -60,8 +60,7 @@
         },
         "b5fe1f14-138e-4f5c-b661-8866d61a0490": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -81,8 +80,7 @@
         },
         "image_swatches_Yj8imr": {
           "type": "image_swatches",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -96,8 +94,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -115,8 +112,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -150,7 +146,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Dimensions:</strong> S (28\"-35\"), M (30\"-37\"), L (31\"-41\"), XL (35\"-45\"), XXL (38\"-48\"), XXXL (41\"-52\")<br/>If you don't know how to choose a size, read our tips <a href=\"https://blog.warmbody-coldmind.com/size-guides/lifting-belt-size-chart/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/size-guides/lifting-belt-size-chart/\">here</a>.</li><li><strong>Material:</strong> genuine A-grade leather</li><li><strong>Thickness:</strong> 6 mm</li><li><strong>Width:</strong> 4\" (10 cm)</li><li><strong>Closure type:</strong> Buckle</li></ul>"
+            "text": "<ul><li><strong>Dimensions:</strong> </li></ul><p><strong>S -</strong> 28\"-35\"/ 71,12 - 88,9 cm <br/><strong>M</strong> - 30\"-37\"/ 76,2 - 93,98 cm <br/><strong>L</strong> - 31\"-41\"/ 78,74 - 104,14 cm <br/><strong>XL</strong> - 35\"-45\"/ 88,9 - 114,3 cm <br/><strong>XXL</strong> - 38\"-48\"/ 96,52 - 121,92 cm <br/><strong>XXXL</strong> - 41\"-52\"/ 104,14 - 132,08 cm<br/><br/><strong>Note:</strong> If you don't know how to choose a size, read our tips <a href=\"https://blog.warmbody-coldmind.com/size-guides/lifting-belt-size-chart/\"><span style=\"text-decoration:underline\">here</span></a>. (виділити here червоним або синім)</p><ul><li><strong>Thickness</strong>: 6 mm (0,24”)</li><li><strong>Width</strong>: 4\" (10 cm)</li><li><strong>Material</strong>: genuine A-grade leather</li><li><strong>Closure type</strong>: Buckle</li></ul>"
           }
         },
         "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-2": {
@@ -450,8 +446,7 @@
       "blocks": {
         "88702fc5-4422-4d49-80d5-ca72a2d7847d": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
