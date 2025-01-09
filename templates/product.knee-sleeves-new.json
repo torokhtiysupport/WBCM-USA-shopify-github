@@ -1,27 +1,27 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1700669101d1d1b080": {
       "type": "apps",
       "blocks": {
         "6b8e2c51-e7d6-4164-bf8d-7b884f8965aa": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -59,9 +59,8 @@
           }
         },
         "108243de-456a-47e1-8b42-f68915d5089c": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -91,13 +90,11 @@
         },
         "88a0db8a-c9d9-4c21-81c9-fd46149f0ee6": {
           "type": "image_swatches",
-          "settings": {
-          }
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -115,8 +112,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -150,28 +146,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Sold in pairs<\/li><li>Thickness: 7 mm<\/li><li>Sizing: S (&lt;30 cm), M(30 cm - 33 cm), L(33 cm - 36 cm), 2XL(39.9 cm - 43.2 cm), 3XL(43.2 cm - 46.5 cm).<br\/>If you are not sure which size to pick, read our tips <a href=\"https:\/\/blog.warmbody-coldmind.com\/guides\/knee-sleeves-size-chart\/\" target=\"_blank\" title=\"https:\/\/blog.warmbody-coldmind.com\/guides\/knee-sleeves-size-chart\/\">here<\/a>.<\/li><li>Package Dimensions : ‎ 3.94 x 1.97 x 1.18 inches<\/li><li>Item weight: 1.32 lb<\/li><\/ul>"
+            "text": "<ul><li><strong>Sizing:</strong> </li></ul><p><strong>S</strong> - &lt;30 cm/ 11,81” <br/><strong>M</strong> - 30 - 33 cm/ up to 13” <br/><strong>L </strong>(33 - 36 cm/ up to 14,17” <br/><strong>2XL</strong> - 39.9 - 43.2 cm/ up to 17” <br/><strong>3XL</strong> - 43.2 - 46.5 cm/ up to 18,31”<br/><br/><strong>Note:</strong> If you don't know how to choose a size, read our tips <a href=\"https://blog.warmbody-coldmind.com/guides/knee-sleeves-size-chart/\"><span style=\"text-decoration:underline\">here</span></a>.</p><ul><li><strong>Thickness:</strong> 7 mm (0,28”)</li><li><strong>Package Dimensions: </strong>‎ 3.94” x 1.97” x 1.18” (10 cm x 5 cm x 3 cm)</li><li><strong>Item weight:</strong> 1.32 lb (0,6 kg)</li></ul>"
           }
         },
         "template--20972192039222__713dd5b6-daa8-49c3-b4a5-829e3de39170-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>7mm neoprene knee sleeves are perfect for weightlifting and powerlifting. The sleeves provide exceptional support during heavy deadlifts, squats, lunges and other lifting exercises.<\/p>"
+            "text": "<p>7mm neoprene knee sleeves are perfect for weightlifting and powerlifting. The sleeves provide exceptional support during heavy deadlifts, squats, lunges and other lifting exercises.</p>"
           }
         },
         "template--20972192039222__713dd5b6-daa8-49c3-b4a5-829e3de39170-article-3": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "template--20972192039222__713dd5b6-daa8-49c3-b4a5-829e3de39170-article-4": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Machine washing is allowed. Not recommended to be washed very often as it can influence their lifetime. Not recommended for drying in the drying machine. Allow the knee sleeves to air dry naturally in a well-ventilated area to avoid color bleaching.<\/p>"
+            "text": "<p>Machine washing is allowed. Not recommended to be washed very often as it can influence their lifetime. Not recommended for drying in the drying machine. Allow the knee sleeves to air dry naturally in a well-ventilated area to avoid color bleaching.</p>"
           }
         }
       },
@@ -194,7 +190,7 @@
         "c255926a-1cc4-43cf-819b-5c23e2e9532a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/b_e1989a89-a2ad-4d40-9b49-4319acaa6bb7.png",
+            "image": "shopify://shop_images/b_e1989a89-a2ad-4d40-9b49-4319acaa6bb7.png",
             "link": ""
           }
         }
@@ -218,10 +214,10 @@
         "template--18082832384264__96b9d5a9-f8f5-4098-a8a2-9d1a97fa0406-text-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_3_1a1e19fc-7fba-443c-97d0-d7b0dbfabb05.png",
+            "image": "shopify://shop_images/1_3_1a1e19fc-7fba-443c-97d0-d7b0dbfabb05.png",
             "title": "Anatomical design",
             "sub_title": "",
-            "desc": "<p>The lifting knee sleeves have been crafted considering the sustainable anatomical features of the knee, its joints, and ligaments.<\/p>",
+            "desc": "<p>The lifting knee sleeves have been crafted considering the sustainable anatomical features of the knee, its joints, and ligaments.</p>",
             "link_title": "",
             "link": ""
           }
@@ -229,10 +225,10 @@
         "template--18082832384264__96b9d5a9-f8f5-4098-a8a2-9d1a97fa0406-text-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_3_0c424982-1c0d-42ca-b53b-0d9ec78fa14c.png",
+            "image": "shopify://shop_images/2_3_0c424982-1c0d-42ca-b53b-0d9ec78fa14c.png",
             "title": "Professional Use",
             "sub_title": "",
-            "desc": "<p>Equipped with a high-quality <strong>anti-slip system<\/strong>, these powerlifting knee sleeves ensure a secure fit around your leg, providing both comfort and confidence in your movements.<\/p>",
+            "desc": "<p>Equipped with a high-quality <strong>anti-slip system</strong>, these powerlifting knee sleeves ensure a secure fit around your leg, providing both comfort and confidence in your movements.</p>",
             "link_title": "",
             "link": ""
           }
@@ -240,10 +236,10 @@
         "template--18082832384264__96b9d5a9-f8f5-4098-a8a2-9d1a97fa0406-text-3": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_3_ec69fee6-b6d2-406e-a584-3ca1d1f0cc45.png",
+            "image": "shopify://shop_images/3_3_ec69fee6-b6d2-406e-a584-3ca1d1f0cc45.png",
             "title": "Compression",
             "sub_title": "",
-            "desc": "<p>Made of a durable and breathable material, these compression weight lifting knee braces effectively absorb moisture and sweat, ensuring comfort without any discomfort.<\/p>",
+            "desc": "<p>Made of a durable and breathable material, these compression weight lifting knee braces effectively absorb moisture and sweat, ensuring comfort without any discomfort.</p>",
             "link_title": "",
             "link": ""
           }
@@ -285,9 +281,9 @@
         "template--18082832384264__0a0a26fd-f3ab-4e10-808b-e9125c452ae8-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo-2_5b19a5f8-ff6c-49c7-b5f7-431ec01ce97e.png",
+            "image": "shopify://shop_images/photo-2_5b19a5f8-ff6c-49c7-b5f7-431ec01ce97e.png",
             "title": "Benefits:",
-            "desc": "<ul><li>Compression<\/li><li>Breathable<\/li><li>Durable<\/li><li>Flexible<\/li><li>Professional use<\/li><li>Exercise use<\/li><li>Medical use<\/li><li>Daily use<\/li><\/ul><p><strong>Package Dimensions :<\/strong> ‎ 3.94 x 1.97 x 1.18 inches; 1.32 Pounds<\/p>",
+            "desc": "<ul><li>Compression</li><li>Breathable</li><li>Durable</li><li>Flexible</li><li>Professional use</li><li>Exercise use</li><li>Medical use</li><li>Daily use</li></ul><p><strong>Package Dimensions :</strong> ‎ 3.94 x 1.97 x 1.18 inches; 1.32 Pounds</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -306,7 +302,7 @@
         "block_spacing": 2,
         "section-bottom-margin": true,
         "image_ratio": "natural",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -319,7 +315,7 @@
         "template--18082832384264__109a6b2d-6fc6-4794-886b-832b7a5e23a8-video-1": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=aLJ27_SwhFA",
+            "video_url": "https://www.youtube.com/watch?v=aLJ27_SwhFA",
             "video_title": ""
           }
         }
@@ -341,7 +337,7 @@
         "template--18082832384264__def1476a-a844-4723-86d4-06491e0febd8-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Knee_Sleeves_Sizes.png",
+            "image": "shopify://shop_images/Knee_Sleeves_Sizes.png",
             "link": ""
           }
         }
@@ -372,14 +368,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -402,9 +398,8 @@
       "type": "apps",
       "blocks": {
         "3e8cc0b0-a43f-44c4-8784-b646a6803ea9": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
