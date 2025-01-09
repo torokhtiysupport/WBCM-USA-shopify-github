@@ -1,18 +1,27 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "170067012660020156": {
       "type": "apps",
       "blocks": {
         "0f02d821-bd3d-4371-a943-94cada2fb5fe": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -48,9 +59,8 @@
           }
         },
         "b890f4c5-9938-4df9-a0cd-ab709a7ba4f9": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -70,8 +80,7 @@
         },
         "image_swatches_CYwCYG": {
           "type": "image_swatches",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -85,8 +94,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -104,8 +112,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -139,28 +146,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Sold in <\/strong><\/li><li><strong>Material<\/strong>: 100% cotton (canvas webbing with reinforced stitching)<\/li><li><strong>Dimensions<\/strong>: length - 30\", width - 3\"<\/li><\/ul>"
+            "text": "<ul><li><strong>Length</strong> - 30\" (76,2 cm)</li><li><strong>Width</strong> - 3\" (7,62 cm)</li><li><strong>Material:</strong> 100% cotton (canvas webbing with reinforced stitching)</li></ul>"
           }
         },
         "template--20972192399670__f7aa6753-c495-43bb-908e-f58d7d3830cc-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>Perfect for various fitness activities, i.e., Olympic weightlifting, powerlifting, bodybuilding, strongman training, functional fitness, dumbbell and kettlebell workouts.<\/p>"
+            "text": "<p>Perfect for various fitness activities, i.e., Olympic weightlifting, powerlifting, bodybuilding, strongman training, functional fitness, dumbbell and kettlebell workouts.</p>"
           }
         },
         "template--20972192399670__f7aa6753-c495-43bb-908e-f58d7d3830cc-article-3": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "template--20972192399670__f7aa6753-c495-43bb-908e-f58d7d3830cc-article-4": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>We recommend hand washing the wrist wraps with warm water and a mild detergent, then allow the wraps to air dry. Do not use the washing machine as it can damage the fabric of the wrist wrap and its closure system.<\/p>"
+            "text": "<p>We recommend hand washing the wrist wraps with warm water and a mild detergent, then allow the wraps to air dry. Do not use the washing machine as it can damage the fabric of the wrist wrap and its closure system.</p>"
           }
         }
       },
@@ -183,9 +190,9 @@
         "template--18064480993544__339ec281-35af-41ad-90db-e33c4cbf0115-1689689156f98b561c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/w0001.jpg",
+            "image": "shopify://shop_images/w0001.jpg",
             "title": "",
-            "desc": "<p><strong>Unique design:<\/strong><br\/>Designed based on Olympian experience, wrist wraps provide ultimate grip comfort.<br\/><strong>Increased performance:<\/strong><br\/>Maximize your wrist strength and boost your lifts.<br\/><strong>Heavy-duty:<\/strong><br\/>Made of 100% Cotton, for withstanding many training sessions.<br\/><strong>Confident grip:<\/strong><br\/>WBCM lifting wraps will help you increase both your reps and weights.<br\/><strong>Approved:<\/strong><br\/>By the world-class athletes and champions<br\/>for your training performance.<\/p>",
+            "desc": "<p><strong>Unique design:</strong><br/>Designed based on Olympian experience, wrist wraps provide ultimate grip comfort.<br/><strong>Increased performance:</strong><br/>Maximize your wrist strength and boost your lifts.<br/><strong>Heavy-duty:</strong><br/>Made of 100% Cotton, for withstanding many training sessions.<br/><strong>Confident grip:</strong><br/>WBCM lifting wraps will help you increase both your reps and weights.<br/><strong>Approved:</strong><br/>By the world-class athletes and champions<br/>for your training performance.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -204,7 +211,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -217,9 +224,9 @@
         "5dbcd340-893a-4f70-9f56-a018428de5d6": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo-lock-2_9fb99632-9883-43ed-b49b-78067cf7e315.png",
+            "image": "shopify://shop_images/photo-lock-2_9fb99632-9883-43ed-b49b-78067cf7e315.png",
             "title": "BEST WRAPS FOR:",
-            "desc": "<p>• POWERLIFTING<br\/>• FUNCTIONAL FITNESS<br\/>• WEIGHTLIFTING<br\/>• BODYBUILDING<br\/>• KETTLEBELL<br\/>• DUMBBELL<\/p>",
+            "desc": "<p>• POWERLIFTING<br/>• FUNCTIONAL FITNESS<br/>• WEIGHTLIFTING<br/>• BODYBUILDING<br/>• KETTLEBELL<br/>• DUMBBELL</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -238,7 +245,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "2\/3",
+        "block_layout": "2/3",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -251,7 +258,7 @@
         "template--18064480993544__28855942-3267-47a6-ab4e-f1ea83c06142-1689689207acf7aed9-0": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=OhZdF_W64bk",
+            "video_url": "https://www.youtube.com/watch?v=OhZdF_W64bk",
             "video_title": ""
           }
         }
@@ -273,10 +280,10 @@
         "template--18064480993544__b8acffdb-f15c-406f-8861-b9cfc149a025-1689682505b6c43fb3-0": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_4_6cb3314b-55f0-45ec-a378-3d94230b3341.png",
+            "image": "shopify://shop_images/4_4_6cb3314b-55f0-45ec-a378-3d94230b3341.png",
             "title": "Step 1:",
             "sub_title": "",
-            "desc": "<p>Hook the wrap<br\/>onto your thumb using the thumb loop<\/p>",
+            "desc": "<p>Hook the wrap<br/>onto your thumb using the thumb loop</p>",
             "link_title": "",
             "link": ""
           }
@@ -284,10 +291,10 @@
         "template--18064480993544__b8acffdb-f15c-406f-8861-b9cfc149a025-1689682505b6c43fb3-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_4_40d36bcf-705e-4762-acc1-99eb714fea43.png",
+            "image": "shopify://shop_images/2_4_40d36bcf-705e-4762-acc1-99eb714fea43.png",
             "title": "Step 2:",
             "sub_title": "",
-            "desc": "<p>Wrap around your wrist<br\/><\/p>",
+            "desc": "<p>Wrap around your wrist<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -295,10 +302,10 @@
         "template--18064480993544__b8acffdb-f15c-406f-8861-b9cfc149a025-1689682505b6c43fb3-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_4_bec3baaa-1208-4e06-866a-7767cee89379.png",
+            "image": "shopify://shop_images/3_4_bec3baaa-1208-4e06-866a-7767cee89379.png",
             "title": "Step 3:",
             "sub_title": "",
-            "desc": "<p>Tuck the loose end of the string under the wrapped string<\/p>",
+            "desc": "<p>Tuck the loose end of the string under the wrapped string</p>",
             "link_title": "",
             "link": ""
           }
@@ -306,10 +313,10 @@
         "33927b25-1472-46d8-a01d-48f31acf34c5": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_4_395f7c75-dcae-49b8-9259-f789c1aeaa31.png",
+            "image": "shopify://shop_images/1_4_395f7c75-dcae-49b8-9259-f789c1aeaa31.png",
             "title": "Step 4:",
             "sub_title": "",
-            "desc": "<p>Adjust tightness by placing your hand on the wrist wrap and twisting<\/p>",
+            "desc": "<p>Adjust tightness by placing your hand on the wrist wrap and twisting</p>",
             "link_title": "",
             "link": ""
           }
@@ -352,10 +359,10 @@
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-0": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/about-1_c17d046b-f93c-4f0d-ad06-e78e80d2a3d6.png",
+            "image": "shopify://shop_images/about-1_c17d046b-f93c-4f0d-ad06-e78e80d2a3d6.png",
             "title": "BOOST YOUR PERFORMANCE",
             "sub_title": "",
-            "desc": "<p>WBCM cotton wrist wraps allow you to perform all sorts of movements like snatch, clean, kettlebell exercises, shrug, deadlift, push press, push jerk, split jerk, and overhead squat. Use these wrist wraps for greater wrist stability anytime.<br\/><\/p>",
+            "desc": "<p>WBCM cotton wrist wraps allow you to perform all sorts of movements like snatch, clean, kettlebell exercises, shrug, deadlift, push press, push jerk, split jerk, and overhead squat. Use these wrist wraps for greater wrist stability anytime.<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -363,10 +370,10 @@
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/about-2_ac2679b6-b5be-40c4-8e2d-9b85f7136438.png",
+            "image": "shopify://shop_images/about-2_ac2679b6-b5be-40c4-8e2d-9b85f7136438.png",
             "title": "RIGHT SIZE - INCREASED WEIGHTS",
             "sub_title": "",
-            "desc": "<p>100% heavy-duty cotton (canvas webbing with reinforced stitching), 30\" long and 3\" wide. One size fits all. Left\/Right hand labels. One pair of wrist wraps per package (2 pcs).<\/p>",
+            "desc": "<p>100% heavy-duty cotton (canvas webbing with reinforced stitching), 30\" long and 3\" wide. One size fits all. Left/Right hand labels. One pair of wrist wraps per package (2 pcs).</p>",
             "link_title": "",
             "link": ""
           }
@@ -374,10 +381,10 @@
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/about-3_2219d62c-118e-4f00-a6b9-5f9fa797c6d6.png",
+            "image": "shopify://shop_images/about-3_2219d62c-118e-4f00-a6b9-5f9fa797c6d6.png",
             "title": "DESIGNED BY A CHAMPION",
             "sub_title": "",
-            "desc": "<p>Hi! My name is Oleksiy Torokhtiy. In 2015 I launched my brand WARM BODY COLD MIND, which specializes in clothing and accessories. By combining many years of athletic experience with a winning mindset I welcome you to my world of WARM BODY COLD MIND.<\/p>",
+            "desc": "<p>Hi! My name is Oleksiy Torokhtiy. In 2015 I launched my brand WARM BODY COLD MIND, which specializes in clothing and accessories. By combining many years of athletic experience with a winning mindset I welcome you to my world of WARM BODY COLD MIND.</p>",
             "link_title": "",
             "link": ""
           }
@@ -426,14 +433,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -456,9 +463,8 @@
       "type": "apps",
       "blocks": {
         "6df4564a-2588-453a-8234-3ecd5de22174": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
