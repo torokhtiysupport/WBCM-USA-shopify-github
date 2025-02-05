@@ -931,5 +931,8 @@
   .product-buttons {
     flex-direction: column;
   }
+  .star-rating-container + ul {
+    margin-bottom: 10px;
+  }
 }
 
