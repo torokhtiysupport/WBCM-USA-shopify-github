@@ -83,7 +83,7 @@
   display: block;
 }
 .author-bio, .contact-us {
-  font-size: 14px;
+  font-size: 14px!important;
 }
 
 @media screen and (max-width: 768px) {
