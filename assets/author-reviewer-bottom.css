@@ -28,17 +28,21 @@
 .author-block-header {
   display: flex;
   gap: 24px;
+  margin-bottom: 10px;
 }
 .author-block-header img, .author-image-link {
   display: block;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
 }
 .author-social-media a:not(:last-of-type) {
   margin-right: 4px;
 }
 .author-block-header p {
-  margin: 0 0 10px;
+  margin: 0;
+}
+.author-social-media {
+  margin-top: 10px;
 }
 .author-reviewer-tabs p:not(.author-block-header-name) {
   font-size: 14px;
