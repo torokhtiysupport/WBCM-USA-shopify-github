@@ -32,21 +32,9 @@
             {% endif %}
           </div>
         </div>
-        <div>
-          <p><strong>Experience:</strong> {{ author.experience }}</p>
-          {% if author.best_result != blank %}
-            <p><strong>Best Results:</strong> {{ author.best_result }}</p>
-          {% endif %}
-          {% if author.specializing_in != blank %}
-            <p><strong>Specializing in:</strong> {{ author.specializing_in }}</p>
-          {% endif %}
-        </div>
       </div>
       <p>
         {{ author.bio }}
-      </p>
-      <p class="author-page-link">
-        <a href="{{ author.page_url }}" target="_blank">View author's page</a>
       </p>
     </div>
     {% if reviewer != blank %}
@@ -80,21 +68,9 @@
               {% endif %}
             </div>
           </div>
-          <div>
-            <p><strong>Experience:</strong> {{ reviewer.experience }}</p>
-            {% if reviewer.best_result != blank %}
-              <p><strong>Best Results:</strong> {{ reviewer.best_result }}</p>
-            {% endif %}
-            {% if reviewer.specializing_in != blank %}
-              <p><strong>Specializing in:</strong> {{ reviewer.specializing_in }}</p>
-            {% endif %}
-          </div>
         </div>
         <p>
           {{ reviewer.bio }}
-        </p>
-        <p class="author-page-link">
-          <a href="{{ reviewer.page_url }}" target="_blank">View reviewer's page</a>
         </p>
       </div>
     {% endif %}
