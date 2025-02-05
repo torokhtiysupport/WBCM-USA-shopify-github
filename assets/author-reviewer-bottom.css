@@ -41,9 +41,6 @@
   background: #ffffff;
 }
 .tab-panel {
-  display: none;
-}
-.tab-panel.active {
   display: block;
 }
 .author-block-header {
