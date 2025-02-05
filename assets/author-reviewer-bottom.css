@@ -43,9 +43,6 @@
 .author-reviewer-tabs p:not(.author-block-header-name) {
   font-size: 14px;
 }
-.author-block-header > div:first-of-type {
-  padding-top: 20px;
-}
 .author-block-header-name {
   font-family: 'Work Sans', sans-serif;
   font-weight: 700;
