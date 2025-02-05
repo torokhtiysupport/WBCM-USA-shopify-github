@@ -54,8 +54,26 @@
           "type": "date",
           "settings": {}
         },
-        "content": {
-          "type": "content",
+        "richtext_XVT646": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Who knew there’s so much science going on behind what seems to be only a few pieces of fabric? Well, as I’m sure you already know, lifting straps are so much more than that, and today, I have a list of the best figure 8 lifting straps you can find on the market.</p><p>Figure 8 lifting straps are considered to be the most popular type of lifting straps among weightlifters, and they’ve actually held that title for a while. Of course, it always comes down to personal preference and the type of workouts you do. Still, you can’t argue with the fact that figure 8 lifting straps are super effective. The grip is secure and their design makes them not only easy to use, but they do a great job at supporting your wrists.</p><p>So, let’s see which eleven are currently the best and if they’re something that would help your workouts.</p><p><strong>Let’s strap!</strong></p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "in_a_hurry_w6MGQW": {
+          "type": "in_a_hurry",
+          "settings": {
+            "in_a_hurry_image": "shopify://shop_images/figure-8-lifting-straps-WBCM.jpg",
+            "in_a_hurry_image_alt": "",
+            "in_a_hurry_title": "Our Best Choice!",
+            "in_a_hurry_text": "<p>Check out our Top Pick <a href=\"https://warmbody-coldmind.com/products/figure-8-lifting-straps?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/figure-8-lifting-straps?sca_ref=5120971.qSPHd7ePgJ\"><strong>WBCM figure-8 straps</strong></a>. This lifting gear won’t compromise you during tough training, so you’ll succeed in beating your PB! Designed by the Olympic Champion Oleksiy Torokhtiy, these straps will meet the needs both of amateur and elite lifters.</p>",
+            "in_a_hurry_url": "https://warmbody-coldmind.com/products/figure-8-lifting-straps?sca_ref=5120971.qSPHd7ePgJ"
+          }
+        },
+        "rating_table_VFkHUY": {
+          "type": "rating_table",
           "settings": {}
         },
         "meta": {
@@ -70,13 +88,15 @@
         "tags",
         "title",
         "date",
-        "content",
+        "richtext_XVT646",
+        "in_a_hurry_w6MGQW",
+        "rating_table_VFkHUY",
         "meta"
       ],
       "settings": {
-        "criteria_1": "",
-        "criteria_2": "",
-        "criteria_3": "",
+        "criteria_1": "Sizing",
+        "criteria_2": "Material",
+        "criteria_3": "Durability",
         "criteria_4": "",
         "criteria_5": "",
         "criteria_6": "",
