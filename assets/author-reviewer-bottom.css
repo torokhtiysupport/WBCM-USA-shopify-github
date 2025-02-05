@@ -46,9 +46,6 @@
 .author-block-header > div:first-of-type {
   padding-top: 20px;
 }
-.author-block-header > div:last-of-type {
-  padding-top: 30px;
-}
 .author-block-header-name {
   font-family: 'Work Sans', sans-serif;
   font-weight: 700;
