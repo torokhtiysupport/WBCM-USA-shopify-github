@@ -743,8 +743,11 @@
 .product-card-rating > * {
   flex-basis: 50%;
 }
+
+
 .star-rating {
   display: flex;
+  gap: 2px;
 }
 
 .star-wrapper {
@@ -759,16 +762,17 @@
 }
 
 .star-bg {
-  fill: #ccc;
+  fill: #ccc; /* Сірий колір для фону */
 }
 
 .star-fill {
-  fill: gold;
+  fill: gold; /* Жовте заповнення */
   position: absolute;
   top: 0;
   left: 0;
   height: 100%;
 }
+
 
 
 .star-rating-container {
