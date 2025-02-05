@@ -454,6 +454,7 @@
 
 .anchor-list p {
   margin: 0;
+  text-transform: capitalize;
 }
 .anchor-list li {
   font-weight: 700;
