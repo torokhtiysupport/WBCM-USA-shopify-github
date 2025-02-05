@@ -746,26 +746,23 @@
 .star-rating {
   position: relative;
   display: inline-block;
-  font-size: 24px;
   width: 120px;
-  margin-left: 5px;
-}
-.star {
-  width: 24px;
   height: 24px;
-  fill: #ccc;
 }
 .stars-background {
   display: flex;
+}
+.stars-background .star {
+  fill: #ccc;
 }
 .stars-overlay {
   position: absolute;
   top: 0;
   left: 0;
-  white-space: nowrap;
+  height: 100%;
   overflow: hidden;
   display: flex;
-  color: #ffee52;
+  width: 0%;
 }
 .stars-overlay .star {
   fill: gold;
