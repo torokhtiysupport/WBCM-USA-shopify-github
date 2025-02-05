@@ -453,6 +453,7 @@
  * css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
  */
 html {
+  scroll-behavior: smooth;
   box-sizing: border-box; }
 
 *, *:before, *:after {
