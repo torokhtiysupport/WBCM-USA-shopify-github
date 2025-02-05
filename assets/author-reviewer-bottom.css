@@ -1,0 +1,123 @@
+.author-reviewer-tabs {
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  margin-top: 20px;
+  filter: drop-shadow(5px 5px 10px #333333);
+  background: #ffffff;
+}
+.author-reviewer-tabs .tabs {
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+.author-reviewer-tabs .tabs button:first-of-type {
+  border-top-left-radius: 16px;
+}
+.author-reviewer-tabs .tabs button:last-of-type {
+  border-top-right-radius: 16px;
+}
+.author-reviewer-tabs .tab-content {
+  border-radius: 16px;
+}
+.author-reviewer-tabs .tabs {
+  display: flex;
+}
+.tab-button {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  background: #F0F0F0;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #000000;
+}
+.tab-button.active {
+  background: #ffffff;
+}
+.tab-content {
+  padding: 15px;
+  background: #ffffff;
+}
+.tab-panel {
+  display: none;
+}
+.tab-panel.active {
+  display: block;
+}
+.author-block-header {
+  display: flex;
+  gap: 24px;
+}
+.author-block-header img {
+  display: block;
+  width: 150px;
+  height: 150px;
+}
+.author-social-media a:not(:last-of-type) {
+  margin-right: 4px;
+}
+.author-block-header p {
+  margin: 0 0 10px;
+}
+.author-reviewer-tabs p:not(.author-block-header-name) {
+  font-size: 14px;
+}
+.author-block-header > div:first-of-type {
+  padding-top: 20px;
+}
+.author-block-header > div:last-of-type {
+  padding-top: 30px;
+}
+.author-block-header-name {
+  font-family: 'Oswald';
+  font-weight: 700;
+}
+.author-page-link {
+  font-weight: 700;
+  text-align: right;
+}
+.tab-panel > div.separator {
+  display: block;
+  height: 1px;
+  width: 100%;
+  color: #000000;
+}
+.contact-us {
+  text-align: center;
+}
+.contact-us:before {
+  display: inline-block;
+  content: '';
+  width: 100%;
+  height: 1px;
+  background: #d6d6d6;
+  margin-bottom: 10px;
+}
+.author-social-media i {
+  color: #000000;
+  transition: color 0.3s ease-in-out;
+}
+.author-social-media a:hover i, .author-social-media a:focus i {
+  color: #D30202;
+  transition: color 0.3s ease-in-out;
+}
+
+
+@media screen and (max-width: 768px) {
+  .author-block-header {
+    flex-direction: column;
+    gap: 16px;
+  }
+  .author-block-header > div:first-of-type {
+    padding-top: 0;
+  }
+  .author-block-header > div:last-of-type {
+    padding-top: 0;
+  }
+  .author-block-header img {
+    width: 100px!important;
+    height: 100px!important;
+  }
+}

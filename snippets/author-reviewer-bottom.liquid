@@ -1,0 +1,102 @@
+{{ 'author-reviewer-bottom.css' | asset_url | stylesheet_tag }}
+<div class="author-reviewer-bottom">
+  <div class="tab-content">
+    <div id="author" class="tab-panel">
+      <div class="author-block-header">
+        <a href="{{ author.page_url }}" target="_blank"><img src="{{ author.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ author.name }}"></a>
+        <div>
+          <p class="author-block-header-name">{% if reviewer == blank %}Author: {% endif %}<a href="{{ author.page_url }}" target="_blank">{{ author.name }}</a></p>
+          <p><strong>{{ author.subtitle }}</strong></p>
+          <div class="author-social-media">
+            {% if author.social_instagram != blank %}
+              <a href="{{ author.social_instagram }}" target="_blank"><i class="fa-brands fa-lg fa-instagram"></i></a>
+            {% endif %}
+            {% if author.social_facebook != blank %}
+              <a href="{{ author.social_facebook }}" target="_blank"><i class="fa-brands fa-lg fa-facebook"></i></a>
+            {% endif %}
+            {% if author.social_youtube != blank %}
+              <a href="{{ author.social_youtube }}" target="_blank"><i class="fa-brands fa-lg fa-youtube"></i></a>
+            {% endif %}
+            {% if author.social_wiki != blank %}
+              <a href="{{ author.social_wiki }}" target="_blank"><i class="fa-brands fa-lg fa-wikipedia-w"></i></a>
+            {% endif %}
+            {% if author.social_tiktok != blank %}
+              <a href="{{ author.social_tiktok }}" target="_blank"><i class="fa-brands fa-lg fa-tiktok"></i></a>
+            {% endif %}
+            {% if author.social_reddit != blank %}
+              <a href="{{ author.social_reddit }}" target="_blank"><i class="fa-brands fa-lg fa-reddit"></i></a>
+            {% endif %}
+            {% if author.social_personal_website != blank %}
+              <a href="{{ author.social_reddit }}" target="_blank"><i class="fa-solid fa-lg fa-link"></i></a>
+            {% endif %}
+          </div>
+        </div>
+        <div>
+          <p><strong>Experience:</strong> {{ author.experience }}</p>
+          {% if author.best_result != blank %}
+            <p><strong>Best Results:</strong> {{ author.best_result }}</p>
+          {% endif %}
+          {% if author.specializing_in != blank %}
+            <p><strong>Specializing in:</strong> {{ author.specializing_in }}</p>
+          {% endif %}
+        </div>
+      </div>
+      <p>
+        {{ author.bio }}
+      </p>
+      <p class="author-page-link">
+        <a href="{{ author.page_url }}" target="_blank">View author's page</a>
+      </p>
+    </div>
+    {% if reviewer != blank %}
+      <div id="reviewer" class="tab-panel">
+        <div class="author-block-header">
+          <a href="{{ reviewer.page_url }}" target="_blank"><img src="{{ reviewer.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ reviewer.name }}"></a>
+          <div>
+            <p class="author-block-header-name"><a href="{{ reviewer.page_url }}" target="_blank">{{ reviewer.name }}</a></p>
+            <p><strong>{{ reviewer.subtitle }}</strong></p>
+            <div class="author-social-media">
+              {% if reviewer.social_instagram != blank %}
+                <a href="{{ reviewer.social_instagram }}" target="_blank"><i class="fa-brands fa-lg fa-instagram"></i></a>
+              {% endif %}
+              {% if reviewer.social_facebook != blank %}
+                <a href="{{ reviewer.social_facebook }}" target="_blank"><i class="fa-brands fa-lg fa-facebook"></i></a>
+              {% endif %}
+              {% if reviewer.social_youtube != blank %}
+                <a href="{{ reviewer.social_youtube }}" target="_blank"><i class="fa-brands fa-lg fa-youtube"></i></a>
+              {% endif %}
+              {% if reviewer.social_wiki != blank %}
+                <a href="{{ reviewer.social_wiki }}" target="_blank"><i class="fa-brands fa-lg fa-wikipedia-w"></i></a>
+              {% endif %}
+              {% if reviewer.social_tiktok != blank %}
+                <a href="{{ reviewer.social_tiktok }}" target="_blank"><i class="fa-brands fa-lg fa-tiktok"></i></a>
+              {% endif %}
+              {% if reviewer.social_reddit != blank %}
+                <a href="{{ reviewer.social_reddit }}" target="_blank"><i class="fa-brands fa-lg fa-reddit"></i></a>
+              {% endif %}
+              {% if reviewer.social_personal_website != blank %}
+                <a href="{{ reviewer.social_reddit }}" target="_blank"><i class="fa-solid fa-lg fa-link"></i></a>
+              {% endif %}
+            </div>
+          </div>
+          <div>
+            <p><strong>Experience:</strong> {{ reviewer.experience }}</p>
+            {% if reviewer.best_result != blank %}
+              <p><strong>Best Results:</strong> {{ reviewer.best_result }}</p>
+            {% endif %}
+            {% if reviewer.specializing_in != blank %}
+              <p><strong>Specializing in:</strong> {{ reviewer.specializing_in }}</p>
+            {% endif %}
+          </div>
+        </div>
+        <p>
+          {{ reviewer.bio }}
+        </p>
+        <p class="author-page-link">
+          <a href="{{ reviewer.page_url }}" target="_blank">View reviewer's page</a>
+        </p>
+      </div>
+    {% endif %}
+    <p class="contact-us">If you purchase through the link in this post, we may receive a small affiliate commission, at no extra cost to you.<br>As an Amazon Associate we earn from qualifying purchases.</p>
+  </div>
+</div>
