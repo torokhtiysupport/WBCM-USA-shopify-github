@@ -145,6 +145,14 @@
             "product_cons": "<ul><li>Not all colors areavailable dependingon chosen size</li><li>The fit can be a bit off(make sure to consultthe sizing chart)</li></ul>"
           }
         },
+        "richtext_DCjDcX": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>What Are the 5 Benefits of Using Figure 8 Straps?</h2><p>Lifting straps have their general benefits. Here I want to focus on the benefits that you get from figure-8 straps specifically.</p><h3>✅ Better Grip</h3><p>Probably the main reason people use lifting straps – to improve their grip. Unlike other types of lifting straps, figure-8 straps wrap around the hand and barbell twice. This essentially makes a much stronger connection between the two than what you’d get with other straps. That way, you can focus on your technique and the lift itself instead of worrying about your grip strength (and it possibly failing). This can increase your strength and endurance.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
           "settings": {}
@@ -175,6 +183,7 @@
         "anchor_list_Unty8k",
         "product_pkiFrA",
         "product_RM6UEY",
+        "richtext_DCjDcX",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
