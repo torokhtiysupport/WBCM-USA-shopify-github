@@ -21,21 +21,6 @@
 .author-reviewer-tabs .tabs {
   display: flex;
 }
-.tab-button {
-  flex: 1;
-  padding: 10px;
-  border: none;
-  background: #F0F0F0;
-  cursor: pointer;
-  font-weight: bold;
-  transition: background 0.3s;
-  font-family: 'Roboto';
-  font-size: 18px;
-  color: #000000;
-}
-.tab-button.active {
-  background: #ffffff;
-}
 .tab-content {
   padding: 15px;
   background: #ffffff;
@@ -65,7 +50,7 @@
   padding-top: 30px;
 }
 .author-block-header-name {
-  font-family: 'Oswald';
+  font-family: 'Work Sans', sans-serif;
   font-weight: 700;
 }
 .author-page-link {
