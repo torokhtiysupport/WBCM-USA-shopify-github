@@ -37,7 +37,7 @@
       }
     },
     "main": {
-      "type": "main-article",
+      "type": "custom-main-article",
       "blocks": {
         "tags": {
           "type": "tags",
