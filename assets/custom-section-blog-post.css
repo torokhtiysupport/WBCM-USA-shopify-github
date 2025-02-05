@@ -748,6 +748,7 @@
 .star-rating {
   display: flex;
   gap: 2px;
+  margin-left: 4px;
 }
 
 .star-wrapper {
