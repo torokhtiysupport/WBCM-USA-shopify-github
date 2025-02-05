@@ -762,11 +762,11 @@
 }
 
 .star-bg {
-  fill: #ccc; /* Сірий колір для фону */
+  fill: #ccc;
 }
 
 .star-fill {
-  fill: gold; /* Жовте заповнення */
+  fill: gold;
   position: absolute;
   top: 0;
   left: 0;
