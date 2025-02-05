@@ -16,16 +16,19 @@
           "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/article-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
+            "custom_class": "",
             "bb_show_hide": true,
+            "enable_custom_feature": false,
             "bb_capitalize": true,
             "bb_font_size": 13,
             "bb_padding": 55,
             "bb_top_padding": 55,
             "bb_margin": 0,
             "bb_align": "center",
-            "bb_color": "#C0C0C0"
+            "bb_color": "#c0c0c0"
           }
         }
       },
@@ -59,7 +62,7 @@
           "type": "meta",
           "settings": {
             "show_author": true,
-            "show_sharing": true
+            "show_sharing": false
           }
         }
       },
@@ -71,6 +74,16 @@
         "meta"
       ],
       "settings": {
+        "criteria_1": "",
+        "criteria_2": "",
+        "criteria_3": "",
+        "criteria_4": "",
+        "criteria_5": "",
+        "criteria_6": "",
+        "criteria_7": "",
+        "criteria_8": "",
+        "criteria_9": "",
+        "criteria_10": "",
         "show_img": true
       }
     }
