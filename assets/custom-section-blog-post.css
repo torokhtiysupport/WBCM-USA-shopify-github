@@ -744,29 +744,31 @@
   flex-basis: 50%;
 }
 .star-rating {
-  position: relative;
-  display: inline-block;
-  width: 120px;
-  height: 24px;
-}
-.stars-background {
   display: flex;
 }
-.stars-background .star {
+
+.star-wrapper {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.star {
+  width: 100%;
+  height: 100%;
+}
+.star-bg {
   fill: #ccc;
 }
-.stars-overlay {
+.star-fill {
+  fill: gold;
   position: absolute;
   top: 0;
   left: 0;
   height: 100%;
   overflow: hidden;
-  display: flex;
-  width: 0%;
+  clip-path: inset(0 calc(100% - var(--fill, 0%)) 0 0);
 }
-.stars-overlay .star {
-  fill: gold;
-}
+
 .star-rating-container {
   display: flex;
   align-items: center;
