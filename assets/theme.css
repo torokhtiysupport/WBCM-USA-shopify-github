@@ -1178,13 +1178,16 @@ image-skeleton {
   object-fit: cover; }
 
 .article__container {
-  max-width: 840px; }
-
+  /* max-width: 840px; */
+  max-width: 900px;
+}
 .article__blocks {
   margin-top: -70px;
   background: var(--color--bg);
   position: relative;
-  padding: 12px 60px 18px; }
+  /* padding: 12px 60px 18px;  */
+  padding: 12px 0px 18px;
+}
 
 .article__block {
   margin-top: 18px;
