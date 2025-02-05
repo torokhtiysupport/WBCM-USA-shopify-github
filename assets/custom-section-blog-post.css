@@ -477,7 +477,7 @@
 }
 .rich-text-image {
   border-radius: 16px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .article-page-section img:not(.half-width-destop-image):not(.article-header-avatar) {
   width: 100%;
