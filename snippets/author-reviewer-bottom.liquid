@@ -6,29 +6,29 @@
       <div class="author-block-header">
         <a href="{{ author.page_url }}" target="_blank"><img src="{{ author.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ author.name }}"></a>
         <div>
-          <p class="author-block-header-name">{% if reviewer == blank %}Author: {% endif %}<a href="{{ author.page_url }}" target="_blank">{{ author.name }}</a></p>
+          <p class="author-block-header-name">Author: <a href="{{ author.page_url }}" target="_blank">{{ author.name }}</a></p>
           <p><strong>{{ author.subtitle }}</strong></p>
           <div class="author-social-media">
             {% if author.social_instagram != blank %}
-              <a href="{{ author.social_instagram }}" target="_blank"><i class="fa-brands fa-lg fa-instagram"></i></a>
+              <a href="{{ author.social_instagram }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/instagram.svg?v=1738762198" width="30" height="30"></a>
             {% endif %}
             {% if author.social_facebook != blank %}
-              <a href="{{ author.social_facebook }}" target="_blank"><i class="fa-brands fa-lg fa-facebook"></i></a>
+              <a href="{{ author.social_facebook }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/facebook.svg?v=1738762197" width="30" height="30"></a>
             {% endif %}
             {% if author.social_youtube != blank %}
-              <a href="{{ author.social_youtube }}" target="_blank"><i class="fa-brands fa-lg fa-youtube"></i></a>
+              <a href="{{ author.social_youtube }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/youtube.svg?v=1738762198" width="30" height="30"></a>
             {% endif %}
             {% if author.social_wiki != blank %}
-              <a href="{{ author.social_wiki }}" target="_blank"><i class="fa-brands fa-lg fa-wikipedia-w"></i></a>
+              <a href="{{ author.social_wiki }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/wikipedia.svg?v=1738762198" width="30" height="30"></a>
             {% endif %}
             {% if author.social_tiktok != blank %}
-              <a href="{{ author.social_tiktok }}" target="_blank"><i class="fa-brands fa-lg fa-tiktok"></i></a>
+              <a href="{{ author.social_tiktok }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/tik-tok.svg?v=1738762198" width="30" height="30"></a>
             {% endif %}
             {% if author.social_reddit != blank %}
-              <a href="{{ author.social_reddit }}" target="_blank"><i class="fa-brands fa-lg fa-reddit"></i></a>
+              <a href="{{ author.social_reddit }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/reddit.svg?v=1738762198" width="30" height="30"></a>
             {% endif %}
             {% if author.social_personal_website != blank %}
-              <a href="{{ author.social_reddit }}" target="_blank"><i class="fa-solid fa-lg fa-link"></i></a>
+              <a href="{{ author.social_reddit }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/link.svg?v=1738762197" width="30" height="30"></a>
             {% endif %}
           </div>
         </div>
@@ -54,29 +54,29 @@
         <div class="author-block-header">
           <a href="{{ reviewer.page_url }}" target="_blank"><img src="{{ reviewer.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ reviewer.name }}"></a>
           <div>
-            <p class="author-block-header-name"><a href="{{ reviewer.page_url }}" target="_blank">{{ reviewer.name }}</a></p>
+            <p class="author-block-header-name">Reviewed by: <a href="{{ reviewer.page_url }}" target="_blank">{{ reviewer.name }}</a></p>
             <p><strong>{{ reviewer.subtitle }}</strong></p>
             <div class="author-social-media">
               {% if reviewer.social_instagram != blank %}
-                <a href="{{ reviewer.social_instagram }}" target="_blank"><i class="fa-brands fa-lg fa-instagram"></i></a>
+                <a href="{{ reviewer.social_instagram }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/instagram.svg?v=1738762198" width="30" height="30"></a>
               {% endif %}
               {% if reviewer.social_facebook != blank %}
-                <a href="{{ reviewer.social_facebook }}" target="_blank"><i class="fa-brands fa-lg fa-facebook"></i></a>
+                <a href="{{ reviewer.social_facebook }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/facebook.svg?v=1738762197" width="30" height="30"></a>
               {% endif %}
               {% if reviewer.social_youtube != blank %}
-                <a href="{{ reviewer.social_youtube }}" target="_blank"><i class="fa-brands fa-lg fa-youtube"></i></a>
+                <a href="{{ reviewer.social_youtube }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/youtube.svg?v=1738762198" width="30" height="30"></a>
               {% endif %}
               {% if reviewer.social_wiki != blank %}
-                <a href="{{ reviewer.social_wiki }}" target="_blank"><i class="fa-brands fa-lg fa-wikipedia-w"></i></a>
+                <a href="{{ reviewer.social_wiki }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/wikipedia.svg?v=1738762198" width="30" height="30"></a>
               {% endif %}
               {% if reviewer.social_tiktok != blank %}
-                <a href="{{ reviewer.social_tiktok }}" target="_blank"><i class="fa-brands fa-lg fa-tiktok"></i></a>
+                <a href="{{ reviewer.social_tiktok }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/tik-tok.svg?v=1738762198" width="30" height="30"></a>
               {% endif %}
               {% if reviewer.social_reddit != blank %}
-                <a href="{{ reviewer.social_reddit }}" target="_blank"><i class="fa-brands fa-lg fa-reddit"></i></a>
+                <a href="{{ reviewer.social_reddit }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/reddit.svg?v=1738762198" width="30" height="30"></a>
               {% endif %}
               {% if reviewer.social_personal_website != blank %}
-                <a href="{{ reviewer.social_reddit }}" target="_blank"><i class="fa-solid fa-lg fa-link"></i></a>
+                <a href="{{ reviewer.social_reddit }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/link.svg?v=1738762197" width="30" height="30"></a>
               {% endif %}
             </div>
           </div>
