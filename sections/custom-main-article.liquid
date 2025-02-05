@@ -276,7 +276,7 @@
                               <div class="star-rating">
                                 {% assign total_rating = block.settings.total_rating | plus: 0 %}
                                 {% assign percentage = total_rating | times: 20 %}
-                              
+                            
                                 <div class="stars-overlay" style="width: {{ percentage }}%;">
                                   {% for i in (1..5) %}
                                     <svg class="star" viewBox="0 0 24 24">
@@ -284,7 +284,7 @@
                                     </svg>
                                   {% endfor %}
                                 </div>
-                              
+                            
                                 <div class="stars-background">
                                   {% for i in (1..5) %}
                                     <svg class="star" viewBox="0 0 24 24">
