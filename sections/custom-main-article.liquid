@@ -278,11 +278,12 @@
                                 {% assign percentage = total_rating | times: 20 %}
                             
                                 {% for i in (1..5) %}
-                                  {% assign star_fill = percentage | minus: 20 | times: -1 | at_least: 0 | at_most: 20 %}
+                                  {% assign star_fill = percentage | at_least: 0 | at_most: 20 %}
                                   <div class="star-wrapper">
                                     <svg class="star" viewBox="0 0 24 24">
                                       <polygon class="star-bg" points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9"></polygon>
-                                      <polygon class="star-fill" points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9" style="width: {{ star_fill }}%;"></polygon>
+                                      <polygon class="star-fill" points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9" 
+                                        style="clip-path: inset(0 {{ 100 | minus: star_fill | append: '%' }} 0 0);"></polygon>
                                     </svg>
                                   </div>
                                   {% assign percentage = percentage | minus: 20 %}
