@@ -173,7 +173,7 @@
 }
 .article-template__comments-comment {
   padding: 2.4rem;
-  filter: drop-shadow(5px 5px 10px #333333);
+  box-shadow: 5px 5px 10px #333333;
   background: #ffffff;
 }
 
@@ -198,7 +198,7 @@
   border-radius: 1.2rem;
   border: 0.1rem solid rgb(var(--color-foreground), 0.05);
   background: #ffffff;
-  filter: drop-shadow(5px 5px 10px #333333);
+  box-shadow: 5px 5px 10px #333333;
   gap: 2.4rem;
 }
 .article-template__comment-form .field__input {
@@ -402,7 +402,7 @@
     border-radius: 16px;
     padding: 16px;
     gap: 16px;
-    filter: drop-shadow(5px 5px 10px #333333);
+    box-shadow: 5px 5px 10px #333333;
 }
 .in-a-hurry {
   border: 5px solid #d7230a;
