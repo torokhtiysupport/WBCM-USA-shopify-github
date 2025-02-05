@@ -275,25 +275,30 @@
                               <p><strong>Our Ratings: </strong> {{ block.settings.total_rating }}</p>
                               <div class="star-rating">
                                 {% assign total_rating = block.settings.total_rating | plus: 0 %}
-                                {% assign percentage = total_rating | times: 20 %}
+                                {% assign full_stars = total_rating | floor %}
+                                {% assign remainder = total_rating | minus: full_stars %}
+                                {% assign partial_fill = remainder | times: 100 %}
+                                {% assign next_star = full_stars | plus: 1 %}
                             
                                 {% for i in (1..5) %}
-                                  {% assign star_fill = percentage | at_least: 0 | at_most: 20 %}
                                   <div class="star-wrapper">
                                     <svg class="star" viewBox="0 0 24 24">
-                                      <!-- Сіра зірка -->
                                       <polygon class="star-bg" points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9"></polygon>
-                                      <!-- Жовте заповнення -->
-                                      {% if star_fill > 0 %}
-                                        <polygon class="star-fill" points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9" 
-                                          style="clip-path: inset(0 {{ 20 | minus: star_fill | append: '%' }} 0 0);"></polygon>
+                            
+                                      {% if i <= full_stars %}
+                                        <polygon class="star-fill" points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9"></polygon>
+                                      {% elsif i == next_star and partial_fill > 0 %}
+                                        <polygon class="star-fill" points="12,2 15,9 22,9 17,14 19,21 12,17 5,21 7,14 2,9 9,9"
+                                          style="clip-path: inset(0 {{ 100 | minus: partial_fill | append: '%' }} 0 0);"></polygon>
                                       {% endif %}
                                     </svg>
                                   </div>
-                                  {% assign percentage = percentage | minus: 20 %}
                                 {% endfor %}
                               </div>
                             </div>
+
+
+
                             <ul>
                               {% for i in (1..10) %}
                                 {% assign rating_key = 'product_rating_' | append: i %}
