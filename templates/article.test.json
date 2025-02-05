@@ -145,11 +145,23 @@
             "product_cons": "<ul><li>Not all colors areavailable dependingon chosen size</li><li>The fit can be a bit off(make sure to consultthe sizing chart)</li></ul>"
           }
         },
+        "why_trust_us_EbVgbF": {
+          "type": "why_trust_us",
+          "settings": {}
+        },
         "meta": {
           "type": "meta",
           "settings": {
             "show_author": true,
             "show_sharing": false
+          }
+        },
+        "sidebar_aUbMMd": {
+          "type": "sidebar",
+          "settings": {
+            "sidebar_product_image": "shopify://shop_images/figure-8-lifting-straps-WBCM.jpg",
+            "sidebar_product_url": "https://warmbody-coldmind.com/products/figure-8-lifting-straps?sca_ref=5120971.qSPHd7ePgJ",
+            "sidebar_product_name": "WBCM Figure 8 Lifting Straps"
           }
         }
       },
@@ -163,7 +175,9 @@
         "anchor_list_Unty8k",
         "product_pkiFrA",
         "product_RM6UEY",
-        "meta"
+        "why_trust_us_EbVgbF",
+        "meta",
+        "sidebar_aUbMMd"
       ],
       "settings": {
         "criteria_1": "Sizing",
