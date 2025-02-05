@@ -82,7 +82,7 @@
   height: 30px;
   display: block;
 }
-.author-bio p, .contact-us {
+.author-bio, .contact-us {
   font-size: 14px;
 }
 
