@@ -4,7 +4,7 @@
   <div class="tab-content">
     <div id="author" class="tab-panel">
       <div class="author-block-header">
-        <a href="{{ author.page_url }}" target="_blank"><img src="{{ author.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ author.name }}"></a>
+        <a href="{{ author.page_url }}" target="_blank" class="author-image-link"><img src="{{ author.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ author.name }}"></a>
         <div>
           <p class="author-block-header-name">Author: <a href="{{ author.page_url }}" target="_blank">{{ author.name }}</a></p>
           <p><strong>{{ author.subtitle }}</strong></p>
@@ -40,7 +40,7 @@
     {% if reviewer != blank %}
       <div id="reviewer" class="tab-panel">
         <div class="author-block-header">
-          <a href="{{ reviewer.page_url }}" target="_blank"><img src="{{ reviewer.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ reviewer.name }}"></a>
+          <a href="{{ reviewer.page_url }}" target="_blank" class="author-image-link"><img src="{{ reviewer.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ reviewer.name }}"></a>
           <div>
             <p class="author-block-header-name">Reviewed by: <a href="{{ reviewer.page_url }}" target="_blank">{{ reviewer.name }}</a></p>
             <p><strong>{{ reviewer.subtitle }}</strong></p>
