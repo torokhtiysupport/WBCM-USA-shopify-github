@@ -144,44 +144,12 @@
             "product_cons": "<ul><li>Limited color options</li></ul>"
           }
         },
-        "product_VWLjUg": {
-          "type": "product",
-          "settings": {
-            "product_title": "W8TRAIN Padded Figure 8 Straps",
-            "short_product_title": "W8TRAIN",
-            "product_position": "3",
-            "product_award": "",
-            "product_url": "https://www.amazon.com/dp/B08KFFF3VH/?tag=wbcm-20",
-            "product_main_image": "shopify://shop_images/w8train-figure-8.jpg",
-            "product_rating_description": "<p>If you use lifting straps, particularly figure 8, you’ve most likely either heard of W8TRAIN or possibly even tried them. They’re quite popular, and it’s obvious why – you get professional quality and comfortable straps at an exceedingly reasonable price.</p><ul><li><strong>Size:</strong> SMALL: 10’’ strap for wrists up to 6.75’’ (for smaller lifters), MEDIUM: 12’’ strap for wrists above 6.75’’ (for most lifters), LARGE: 14’’ *twist to the desired fit (for fat bars and axle bars)</li><li><strong>Material: </strong>Durable Anti-slip Cloth Fabric + Neoprene Cushion</li><li><strong>Color:</strong> Blue</li></ul>",
-            "product_rating_1": "4.7",
-            "product_rating_2": "5",
-            "product_rating_3": "5",
-            "product_rating_4": "",
-            "product_rating_5": "",
-            "product_rating_6": "",
-            "product_rating_7": "",
-            "product_rating_8": "",
-            "product_rating_9": "",
-            "product_rating_10": "",
-            "total_rating": "4.9",
-            "first_button_text": "CHECK LATEST PRICE",
-            "second_button_text": "",
-            "second_button_url": "",
-            "product_text_content_1": "<p>One of the first things that stand out on the <a href=\"https://www.amazon.com/dp/B08KFFF3VH/?tag=wbcmb-20\" target=\"_blank\" title=\"https://www.amazon.com/dp/B08KFFF3VH/?tag=wbcmb-20\">W8TRAIN FIgure 8 straps</a> is the interior padding, which is an uncommon feature when it comes to lifting straps.</p><p>The added cushion ensures an excellent grip without sacrificing comfort. This will reduce strain and irritation on the lifter's skin (especially when lifting heavy).</p><p>The straps come in a deep blue color, as well as in three size options (small, medium, and large) that cater to various wrist sizes. Up to 6.75 inches, above that, and the biggest size is made so that it can be twisted to ensure the perfect fit. The largest size was also engineered to accommodate axle and fat barbells. The multi-cloth anti-slip material is exceptionally sturdy and breathable. This helps keep the hands sweat-free and thereby increases performance.</p><p>Also worth noting is the 1000-pound lift rating, which is plenty enough. The W8TRAIN straps were designed to be comfortable, to be reliable, to boost performance by minimizing hindrances such as sweat/irritation, and to last.</p>",
-            "half_width_review_image": false,
-            "product_review_image_caption": "",
-            "product_text_content_2": "",
-            "product_pros": "<ul><li>Very comfortable padding</li><li>Breathable and durable</li><li>Solid lifting rating of up to 1000 lbs</li></ul>",
-            "product_cons": "<ul><li>Limited color options</li></ul>"
-          }
-        },
         "product_LMbfeW": {
           "type": "product",
           "settings": {
             "product_title": "IRON APE Entry Level Figure 8 Straps",
             "short_product_title": "IRON APE Entry",
-            "product_position": "4",
+            "product_position": "3",
             "product_award": "",
             "product_url": "https://www.amazon.com/IRON-APE-Deadlift-Weightlifting-Suitable/dp/B07XXHHXWY/?tag=wbcm-20",
             "product_main_image": "shopify://shop_images/iron-ape-figure-8.jpg",
@@ -206,6 +174,38 @@
             "product_text_content_2": "",
             "product_pros": "<ul><li>Very durable considering price tag</li><li>Very affordable figure 8 straps</li><li>4mm neoprene padding for extra comfort</li><li>6-way, heavy-duty stitching</li></ul>",
             "product_cons": "<ul><li>Size LARGE is unavailable</li><li>Only one color is available (black)</li></ul>"
+          }
+        },
+        "product_VWLjUg": {
+          "type": "product",
+          "settings": {
+            "product_title": "W8TRAIN Padded Figure 8 Straps",
+            "short_product_title": "W8TRAIN",
+            "product_position": "4",
+            "product_award": "",
+            "product_url": "https://www.amazon.com/dp/B08KFFF3VH/?tag=wbcm-20",
+            "product_main_image": "shopify://shop_images/w8train-figure-8.jpg",
+            "product_rating_description": "<p>If you use lifting straps, particularly figure 8, you’ve most likely either heard of W8TRAIN or possibly even tried them. They’re quite popular, and it’s obvious why – you get professional quality and comfortable straps at an exceedingly reasonable price.</p><ul><li><strong>Size:</strong> SMALL: 10’’ strap for wrists up to 6.75’’ (for smaller lifters), MEDIUM: 12’’ strap for wrists above 6.75’’ (for most lifters), LARGE: 14’’ *twist to the desired fit (for fat bars and axle bars)</li><li><strong>Material: </strong>Durable Anti-slip Cloth Fabric + Neoprene Cushion</li><li><strong>Color:</strong> Blue</li></ul>",
+            "product_rating_1": "4.7",
+            "product_rating_2": "5",
+            "product_rating_3": "5",
+            "product_rating_4": "",
+            "product_rating_5": "",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.9",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p>One of the first things that stand out on the <a href=\"https://www.amazon.com/dp/B08KFFF3VH/?tag=wbcmb-20\" target=\"_blank\" title=\"https://www.amazon.com/dp/B08KFFF3VH/?tag=wbcmb-20\">W8TRAIN FIgure 8 straps</a> is the interior padding, which is an uncommon feature when it comes to lifting straps.</p><p>The added cushion ensures an excellent grip without sacrificing comfort. This will reduce strain and irritation on the lifter's skin (especially when lifting heavy).</p><p>The straps come in a deep blue color, as well as in three size options (small, medium, and large) that cater to various wrist sizes. Up to 6.75 inches, above that, and the biggest size is made so that it can be twisted to ensure the perfect fit. The largest size was also engineered to accommodate axle and fat barbells. The multi-cloth anti-slip material is exceptionally sturdy and breathable. This helps keep the hands sweat-free and thereby increases performance.</p><p>Also worth noting is the 1000-pound lift rating, which is plenty enough. The W8TRAIN straps were designed to be comfortable, to be reliable, to boost performance by minimizing hindrances such as sweat/irritation, and to last.</p>",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
+            "product_text_content_2": "",
+            "product_pros": "<ul><li>Very comfortable padding</li><li>Breathable and durable</li><li>Solid lifting rating of up to 1000 lbs</li></ul>",
+            "product_cons": "<ul><li>Limited color options</li></ul>"
           }
         },
         "product_zdcwxA": {
@@ -490,7 +490,7 @@
         "richtext_LDfwRz": {
           "type": "richtext",
           "settings": {
-            "rich_text_content": "<p>They will both give you a firm grip, but the problem with traditional straps is that they can get loose if you haven't wrapped them correctly or if you were in a rush. The figure 8 straps will lock your hands in place and there will be a lot less risk of slippage with them.</p><p>Comfort-wise, the figure 8 straps are a winner because they will often come with padding. Regular ones usually have no padding and can be uncomfortable during heavy lifts. There are exceptions; for example, the specialized <a href=\"https://www.amazon.com/WARM-BODY-COLD-MIND-Weightlifting/dp/B0BP88WY36?tag=wbcmb-20\" target=\"_blank\" title=\"https://www.amazon.com/WARM-BODY-COLD-MIND-Weightlifting/dp/B0BP88WY36?tag=wbcmb-20\">Warm Body Cold Mind (WBCM) Pro Lasso Straps</a> have sufficient padding to make them comfy on the hands and not cause irritation due to their aggressive texture.</p><p>If time is a factor for you, then this is another category figure 8 straps win in. There's no need to wrap them around the bar a million times. Also, keep in mind that the process of having to wrap the straps between sets can affect your focus.</p><p>Versatility is a different thing, though, and traditional straps are more versatile. Figure 8 straps are ideal for deadlifts and pulling exercises where a secure grip is crucial, but the traditional straps are better for a wider range of exercises that do not involve quick-release movements(e.g., cleans and snatches), such as pull-ups or rows.</p>",
+            "rich_text_content": "<p>They will both give you a firm grip, but the problem with traditional straps is that they can get loose if you haven't wrapped them correctly or if you were in a rush. The figure 8 straps will lock your hands in place and there will be a lot less risk of slippage with them.</p><p>Comfort-wise, the figure 8 straps are a winner because they will often come with padding. Regular ones usually have no padding and can be uncomfortable during heavy lifts. There are exceptions; for example, the specialized <a href=\"https://www.amazon.com/WARM-BODY-COLD-MIND-Weightlifting/dp/B089WK1JM7/?tag=wbcmb-20\" target=\"_blank\" title=\"https://www.amazon.com/WARM-BODY-COLD-MIND-Weightlifting/dp/B089WK1JM7/?tag=wbcmb-20\">Warm Body Cold Mind (WBCM) Pro Lasso Straps</a> have sufficient padding to make them comfy on the hands and not cause irritation due to their aggressive texture.</p><p>If time is a factor for you, then this is another category figure 8 straps win in. There's no need to wrap them around the bar a million times. Also, keep in mind that the process of having to wrap the straps between sets can affect your focus.</p><p>Versatility is a different thing, though, and traditional straps are more versatile. Figure 8 straps are ideal for deadlifts and pulling exercises where a secure grip is crucial, but the traditional straps are better for a wider range of exercises that do not involve quick-release movements(e.g., cleans and snatches), such as pull-ups or rows.</p>",
             "rich_text_image_alt": "",
             "half_width_main_image": false
           }
@@ -547,8 +547,8 @@
         "anchor_list_Unty8k",
         "product_Ww8FGG",
         "product_8PEXxM",
-        "product_VWLjUg",
         "product_LMbfeW",
+        "product_VWLjUg",
         "product_zdcwxA",
         "product_qFVVhh",
         "product_gNP6zz",
