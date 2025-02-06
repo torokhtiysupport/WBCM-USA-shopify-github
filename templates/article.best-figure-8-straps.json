@@ -446,7 +446,17 @@
           "type": "richtext",
           "settings": {
             "rich_text_content": "<h3>3. Better Muscle Engagement</h3><p>When you use traditional straps, the grip is often a weak link in the chain. But your grip is more secure with figure 8 lifting straps, which means you can keep your muscles engaged throughout the entire lift. This makes your performance better, speeds up muscle development, and lets you lift more than you normally would.</p><h3>4. More Mind-Muscle Connection</h3><p>If you want to lift properly, then you need to have a strong mind-muscle connection. This means that you consciously engage your muscles with each rep. Figure 8 straps help improve this connection because you don't have to worry about your grip slipping and you can be sure your hold on the bar is nice and firm.</p><h3>5. Improved Progression</h3><p>Generally speaking, all lifting straps allow you to focus on progressive overload. This is especially true for the figure 8 lifting straps because they remove the limitation your grip can pose so you can slowly increase the weight you lift.</p>",
+            "rich_text_image": "shopify://shop_images/WBCM-V8-Straps-on-plate.jpg",
             "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_j88Nja": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>How to Pick Figure 8 Straps?</h2><h3>1. Improved Progression</h3><p>If none of the ones listed are to your liking, you might want to opt to look for figure-8 straps yourself. And out of the many on the market out there, it might not be easy to pick the ones that are best for you. Here are some general guidelines on what you should consider and not compromise on.</p><h3>2. Material</h3><p>The first thing to consider is the material. You want cotton, neoprene or polyester. Cotton is great because it's breathable and natural, but make sure it's heavy-duty, durable cotton. Neoprene and polyester are super durable but, again, look for something sturdy and good quality.</p><h3>3. Stitching</h3><p>Stitching is key because it's what keeps the straps together. Reinforced stitching is ideal, but you need to make sure it's neat. Messy stitches that are all over the place mean the company thinks manufacturing speed is more important than quality, which usually results in bad straps that fall apart soon. Poorly stitched straps would also be uncomfortable when used.</p>",
+            "rich_text_image": "shopify://shop_images/Stitching-of-WBCM-V8-Straps.jpg",
+            "rich_text_image_alt": "training using lifting straps",
             "half_width_main_image": false
           }
         },
@@ -490,6 +500,7 @@
         "product_nGrwyj",
         "richtext_nffwCf",
         "richtext_PnCqqt",
+        "richtext_j88Nja",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
