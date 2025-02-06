@@ -248,6 +248,7 @@
             "product_position": "6",
             "product_award": "",
             "product_url": "https://www.amazon.com/IRON-APE-Deadlift-Deadlifting-Weightlifting/dp/B07D244W4C/?tag=wbcm-20",
+            "product_main_image": "shopify://shop_images/IRON-APE-Figure-8-Straps.jpg",
             "product_rating_description": "<p>With these, you can be absolutely sure you’re focusing on your lift and not on the grip. Being tested to a whopping 3300 lbs., these are ideal for any of you that like to push your limits and break records.</p><ul><li><strong>Size: </strong>Medium(up to 6.5’’ wrists, intermediate (6.5–7.5’’ wrists), large over 7.5’’), and extra large (for axle lifts or giants)</li><li><strong>Material:</strong> Cotton</li><li><strong>Color:</strong> Black</li></ul>",
             "product_rating_1": "4.5",
             "product_rating_2": "5",
@@ -267,9 +268,41 @@
             "product_review_image": "shopify://shop_images/IRON-APE-Figure-8-Straps-insta.jpg",
             "half_width_review_image": true,
             "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/CwZ54evofxQ/\" target=\"_blank\" title=\"https://www.instagram.com/p/CwZ54evofxQ/\">@officialironape</a></p>",
+            "product_text_content_2": "<p>The stitching is next level, and I don’t just mean it’s neat – it can take some serious lifts without showing any signs of wear.</p><p>The sizes are inclusive because these straps are meant to be used by people who lift super heavy weights. The sizing chart is a bit unorthodox, and you’ll quickly notice that the straps don’t come in size S. But, the smallest available size, MEDIUM, is the size of what you’d normally find on figure 8 straps. So, their size M is actually the traditional size S. What Iron Ape could’ve done better was to actually include a size S that is made for wrist sizes even smaller than the typical 6.5’’ in circumference.</p><p>If, however, you struggle with finding straps that will fit your large wrists, you’ll likely find these perfect.</p>",
+            "product_pros": "<ul><li>Rated for 3300 lbs, the highest rating on this list</li><li>Suitable for large wrists</li><li>Heavy duty stitching</li><li>No need to break the straps in to be comfortable</li></ul>",
+            "product_cons": "<ul><li>Does not come in size SMALL</li></ul>"
+          }
+        },
+        "product_gNP6zz": {
+          "type": "product",
+          "settings": {
+            "product_title": "Serious Steel Fitness Figure 8 Straps",
+            "short_product_title": "Serious Steel Fitness",
+            "product_position": "7",
+            "product_award": "",
+            "product_url": "https://www.amazon.com/dp/B06XKYZ18T/?tag=wbcm-20",
+            "product_main_image": "shopify://shop_images/ssf-straps.jpg",
+            "product_rating_description": "<p>The Serious Steel straps feel like most other figure 8 straps at all. More like someone took a fire hose, cut off 23.6–31.5 inches off, and stitched them together into lifting straps.</p><ul><li><strong>Size:</strong> 23.6’’(60cm) strap length for wrists up to 7.25’’ in circumference, 27.6’’(70cm) strap length for wrists above 7.25’’ in circumference, 31.5’’(80cm) strap length for use with an axle/fat bar</li><li><strong>Material:</strong> Cotton with nylon filament</li><li><strong>Color: </strong>Black with red stripes, OD Green, Red</li></ul>",
+            "product_rating_1": "4.5",
+            "product_rating_2": "4.5",
+            "product_rating_3": "5",
+            "product_rating_4": "",
+            "product_rating_5": "",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.7",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p>The <a href=\"https://www.amazon.com/dp/B06XKYZ18T/?tag=wbcmb-20\" target=\"_blank\" title=\"https://www.amazon.com/dp/B06XKYZ18T/?tag=wbcmb-20\">Serious Steel figure 8</a> straps are made from cotton, but they are reinforced with nylon filaments. This gives them a few exciting properties: flexibility, moisture management, abrasion resistance, weight, and durability. Both cotton and nylon have their own sets of pros and cons when it comes to material characteristics, but they definitely do cover many weaknesses that the other material has.</p><p>For example, nylon is known for resilience and, tensile strength, abrasion resistance, which are all much higher than pure cotton. Cotton adds flexibility and comfort to the mix. Cotton is also good at absorbing moisture (sweat), while nylon isn’t, thus creating a material that will absorb sweat slower and dry more quickly.</p><p>These straps come in three sizes, as seen above, and they offer three color style options for personalization. They also come with extra stitching. And the average price tag (compared to others on this list) is not too much considering that the straps will likely last you a long time.</p><p>To further ease your mind on what mileage you’ll get out of these straps, you’ll also enjoy a 1-year warranty when you buy them. And given how well-made they are with the strong blend of materials, it is likely the straps will last you even longer. Great buy!</p>",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
             "product_text_content_2": "",
-            "product_pros": "",
-            "product_cons": ""
+            "product_pros": "<ul><li>Sturdy feel</li><li>The cotton–nylon blend has many more advantages than pure cotton</li><li>Aesthetically pleasing color style options</li></ul>",
+            "product_cons": "<ul><li>No padding</li><li>The size SMALL might run a bit big and require twisting to ensure a snug fit</li></ul>"
           }
         },
         "why_trust_us_EbVgbF": {
@@ -305,6 +338,7 @@
         "product_LMbfeW",
         "product_zdcwxA",
         "product_qFVVhh",
+        "product_gNP6zz",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
