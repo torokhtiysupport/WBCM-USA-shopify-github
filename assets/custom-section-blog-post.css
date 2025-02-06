@@ -479,6 +479,10 @@
   border-radius: 16px;
   margin-bottom: 16px;
 }
+.rich-text-content li a {
+  color: #ed1b24;
+  text-decoration: underline;
+}
 .custom-article-container img:not(.half-width-destop-image):not(.article-header-avatar) {
   width: 100%;
   margin: 0 auto 16px;
