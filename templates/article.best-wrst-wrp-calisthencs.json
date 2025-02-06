@@ -57,10 +57,11 @@
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
-            "in_a_hurry_image_alt": "",
-            "in_a_hurry_title": "",
-            "in_a_hurry_text": "",
-            "in_a_hurry_url": ""
+            "in_a_hurry_image": "shopify://shop_images/wbcm-elastic_velcro-wrist-wraps.jpg",
+            "in_a_hurry_image_alt": "WBCM Elastic Velcro rist-wraps",
+            "in_a_hurry_title": "Our Best Choice!",
+            "in_a_hurry_text": "<p>Warm Body Cold Mind, a highly reputable fitness accessory brand, offers well-crafted performance wraps suitable for athletes of all levels, blending top-tier quality and affordability in their cotton and canvas webbing wraps that guarantee comfort, flexibility, and durability during intense workouts.</p>",
+            "in_a_hurry_url": "https://warmbody-coldmind.com/products/elastic-velcro-wrist-wraps?sca_ref=5120971.qSPHd7ePgJ"
           }
         },
         "rating_table_VFkHUY": {
@@ -102,11 +103,11 @@
         "sidebar_aUbMMd"
       ],
       "settings": {
-        "criteria_1": "1",
-        "criteria_2": "",
-        "criteria_3": "",
-        "criteria_4": "",
-        "criteria_5": "",
+        "criteria_1": "Comfort",
+        "criteria_2": "Longevity",
+        "criteria_3": "Support",
+        "criteria_4": "Stitching",
+        "criteria_5": "Price/Quality",
         "criteria_6": "",
         "criteria_7": "",
         "criteria_8": "",
