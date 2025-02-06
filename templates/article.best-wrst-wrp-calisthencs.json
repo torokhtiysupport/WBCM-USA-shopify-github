@@ -245,6 +245,15 @@
             "product_cons": "<ul><li>Noticeably more expensive than our other picks</li></ul>"
           }
         },
+        "richtext_TwXYtX": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>Why Use Wrist Wraps for Calisthenics?</h2><p>Wrist wraps primarily see use as a protective and performance-enhancing tool in weightlifting disciplines — <a href=\"https://www.academia.edu/41832379/The_Wrist_wrap_as_a_protective_and_performance_enhancing_device_in_powerlifting\" target=\"_blank\" title=\"https://www.academia.edu/41832379/The_Wrist_wrap_as_a_protective_and_performance_enhancing_device_in_powerlifting\">most notably, powerlifting</a>. Wrist wraps are designed to provide stability to the wrist joint, which makes push-based exercises like bench presses or overhead presses more comfortable.</p><p>So, can the same principle apply to calisthenics? Yes, many calisthenics exercises apply direct impact on the wrist and rely on push-based motion from our hands to generate momentum. For example, push-ups are one of the most popular calisthenics exercises, with hundreds of viable variations. In many ways, they are the calisthenics athlete’s answer to bench presses. Studies comparing the two exercises showed they <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728153/\" target=\"_blank\" title=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728153/\">share many of the same mechanics and target nearly identical muscle groups</a>.</p>",
+            "rich_text_image": "shopify://shop_images/athlete-using-wrist-wraps-wbcm.jpg",
+            "rich_text_image_alt": "Athlete Using WBCM Wrist Wraps for Calisthenics",
+            "half_width_main_image": false
+          }
+        },
         "richtext_P4HLDx": {
           "type": "richtext",
           "settings": {
@@ -285,6 +294,7 @@
         "product_bzUFdM",
         "product_86Lym4",
         "product_rq7w9W",
+        "richtext_TwXYtX",
         "richtext_P4HLDx",
         "why_trust_us_EbVgbF",
         "meta",
