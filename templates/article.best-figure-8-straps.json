@@ -54,6 +54,14 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_WQAL7T": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Who knew there’s so much science going on behind what seems to be only a few pieces of fabric? Well, as I’m sure you already know, lifting straps are so much more than that, and today, I have a list of the best figure 8 lifting straps you can find on the market. </p><p>Figure 8 lifting straps are considered to be the most popular type of lifting straps among weightlifters, and they’ve actually held that title for a while. Of course, it always comes down to personal preference and the type of workouts you do. Still, you can’t argue with the fact that figure 8 lifting straps are super effective. The grip is secure and their design makes them not only easy to use, but they do a great job at supporting your wrists.</p><p>So, let’s see which eleven are currently the best and if they’re something that would help your workouts.</p><p><strong>Let’s strap!</strong></p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
@@ -71,6 +79,69 @@
         "anchor_list_Unty8k": {
           "type": "anchor_list",
           "settings": {}
+        },
+        "product_Ww8FGG": {
+          "type": "product",
+          "settings": {
+            "product_title": "WBCM Figure 8 Lifting Straps",
+            "short_product_title": "WBCM",
+            "product_position": "1",
+            "product_award": "TOP PICK",
+            "product_url": "https://warmbody-coldmind.com/products/figure-8-lifting-straps?sca_ref=5120971.qSPHd7ePgJ",
+            "product_main_image": "shopify://shop_images/wbcm-figure8-straps.jpg",
+            "product_rating_description": "<p>The Top Pick for this list comes from Warm Body Cold Mind. Their figure 8 straps are the best bang for your buck that you can get. Not only that, but the WBCM straps don’t compromise in any of the scoring categories. Let’s check it out!</p><ul><li><strong>Size:</strong> Small for wrists up to 7’’ in circumference, Medium for wrists from 7’’-9’’ in circumference, Large for wrists from 9’’ and higher in circumference</li><li><strong>Material:</strong> Cotton</li><li><strong>Color:</strong> Black, white, pink, yellow, green/orange camo, black/white chessboard (not all colors are available in all sizes)</li></ul>",
+            "product_rating_1": "5",
+            "product_rating_2": "5",
+            "product_rating_3": "5",
+            "product_rating_4": "",
+            "product_rating_5": "",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "5",
+            "first_button_text": "CHECK PRICE ON WBCM",
+            "second_button_text": "CHECK PRICE ON AMAZON",
+            "second_button_url": "https://www.amazon.com/dp/B0BP88ZC6K?tag=wbcmb-20",
+            "product_text_content_1": "",
+            "half_width_review_image": false,
+            "product_review_image_caption": "<p>First of all, these straps were designed by the Olympian Oleksiy Torokhtiy and his team. So that is a good indicator that this accessory has been engineered to accommodate professionals at the elite level of weightlifting.</p><p>The figure-8 straps come in three sizes (small, medium, and large) and are specially designed to be used by both men and women. This can be seen by the wrist sizing they recommend – up to 7’’ for S, to 9’’ and upwards for size L, and size M occupying the sweet spot from 7–9 inches.</p><p>Regarding materials used, there are two options. Heavy-duty cotton, or high-quality elastane straps with a thick neoprene cushion around the wrist. Both are amazing options to buy. With that in mind, if you’re into very heavy lifting or you enjoy lifting often, then I recommend you opt for the cushioned version. The price difference isn’t much, but the cushion (which is not present in many lifting straps) is a real game changer. You can really feel its effects when lifting heavy.</p><p>In terms of longevity, the straps are reinforced with extra-quality stitching. This not only ensures that the straps will last you a long time, but also promotes safety during your deadlifts, rows, shrugs, pull-ups, and dumbbell squats.</p><p><a href=\"https://warmbody-coldmind.com/products/figure-8-lifting-straps?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/figure-8-lifting-straps?sca_ref=5120971.qSPHd7ePgJ\">They come in six design options</a>: white, black, pink, yellow, camo (military green, orange, grey, and black), and a chessboard (black and white) pattern. You cannot get the full color selection depending on the size you choose.</p><p>The straps might run a bit large, so ensure you consult the sizing chart. You want to ensure a good snug fit when using your straps. Well deserved top pick choice. Cannot go wrong with the WBCM figure 8 straps!</p>",
+            "product_text_content_2": "",
+            "product_pros": "<ul><li>Supreme quality materials used</li><li>Wrist padding for extra comfort(in the elastic options)</li><li>Extra stitching to ensureproduct longevityand the lifter’s safety</li><li>Designed for both men and women</li></ul>",
+            "product_cons": "<ul><li>Not all colors areavailable dependingon chosen size</li><li>The fit can be a bit off(make sure to consultthe sizing chart)</li></ul>"
+          }
+        },
+        "product_8PEXxM": {
+          "type": "product",
+          "settings": {
+            "product_title": "Gymreapers Figure 8 Lifting Straps",
+            "short_product_title": "Gymreapers",
+            "product_position": "2",
+            "product_award": "BEST FREE STANDING",
+            "product_url": "https://www.gymreapers.com/products/gymreapers-figure-8-lifting-straps?aff=172",
+            "product_rating_description": "",
+            "product_rating_1": "",
+            "product_rating_2": "",
+            "product_rating_3": "",
+            "product_rating_4": "",
+            "product_rating_5": "",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
+            "product_text_content_2": "",
+            "product_pros": "",
+            "product_cons": ""
+          }
         },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
@@ -95,9 +166,12 @@
         "tags",
         "title",
         "date",
+        "richtext_WQAL7T",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
+        "product_Ww8FGG",
+        "product_8PEXxM",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
