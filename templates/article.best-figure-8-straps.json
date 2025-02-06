@@ -531,8 +531,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/wbcm-figure8-straps.jpg",
+            "sidebar_product_url": "https://warmbody-coldmind.com/products/figure-8-lifting-straps?sca_ref=5120971.qSPHd7ePgJ",
+            "sidebar_product_name": "WBCM Figure 8 Lifting Straps"
           }
         }
       },
