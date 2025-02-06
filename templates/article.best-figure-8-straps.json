@@ -433,6 +433,23 @@
             "product_cons": "<ul><li>The wrist circumference range from 6.75-7.5 inches isn’t covered</li><li>Doesn’t come in size LARGE</li><li>Only one color to choose from</li></ul>"
           }
         },
+        "richtext_nffwCf": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>What Are the 5 Benefits of Using Figure 8 Straps?</h2><p>Lifting straps have their general benefits. Here I want to focus on the benefits that you get from figure-8 straps specifically.</p><h3>1. Better Grip</h3><p>Probably the main reason people use lifting straps – to improve their grip. Unlike other types of lifting straps, figure-8 straps wrap around the hand and barbell twice. This essentially makes a much stronger connection between the two than what you’d get with other straps. That way, you can focus on your technique and the lift itself instead of worrying about your grip strength (and it possibly failing). This can increase your strength and endurance.</p><h3>2. Less Hand Fatigue</h3><p>Figure 8 lifting straps take some of the load off your hands so they don't get tired as quickly as they would if you weren't using them and muscle fatigue doesn't set in.</p>",
+            "rich_text_image": "shopify://shop_images/WBCM-V8-Straps.jpg",
+            "rich_text_image_alt": "figure 8 straps in use",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_PnCqqt": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>3. Better Muscle Engagement</h3><p>When you use traditional straps, the grip is often a weak link in the chain. But your grip is more secure with figure 8 lifting straps, which means you can keep your muscles engaged throughout the entire lift. This makes your performance better, speeds up muscle development, and lets you lift more than you normally would.</p><h3>4. More Mind-Muscle Connection</h3><p>If you want to lift properly, then you need to have a strong mind-muscle connection. This means that you consciously engage your muscles with each rep. Figure 8 straps help improve this connection because you don't have to worry about your grip slipping and you can be sure your hold on the bar is nice and firm.</p><h3>5. Improved Progression</h3><p>Generally speaking, all lifting straps allow you to focus on progressive overload. This is especially true for the figure 8 lifting straps because they remove the limitation your grip can pose so you can slowly increase the weight you lift.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
           "settings": {}
@@ -471,6 +488,8 @@
         "product_YXnwXz",
         "product_9kH4qV",
         "product_nGrwyj",
+        "richtext_nffwCf",
+        "richtext_PnCqqt",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
