@@ -276,7 +276,8 @@
           "type": "richtext",
           "settings": {
             "rich_text_content": "<h3>2. Mental Reliance</h3><p>Excessive reliance on any exercise equipment can lead to mental dependence. Relying too heavily on wrist wraps in gymnastics may give you a sense that you need them to perform, potentially staggering your overall progress.</p><h3>3. Reduced Mobility</h3><p>Gymnastics demands intricate and rapid movements, with the body transitioning between positions within milliseconds. Regardless of how tightly or loosely you fasten them, wrist wraps can potentially impede joint mobility, leading to a loss of momentum or the risk of injury during an exercise.</p><h3>4. Competitive Restrictions</h3><p>For aspiring gymnasts looking to compete at any level, it's important to note that the use of assistance tools is typically prohibited. Therefore, if any of the aforementioned considerations pertain to you, competing in the future might pose a challenge.</p>",
-            "rich_text_image_alt": "",
+            "rich_text_image": "shopify://shop_images/wbcm-wrist-wraps-in-use.jpg",
+            "rich_text_image_alt": "WBCM Wrist Wraps for Calisthenics in Use",
             "half_width_main_image": false
           }
         },
