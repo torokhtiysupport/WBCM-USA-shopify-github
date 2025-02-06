@@ -135,7 +135,7 @@
                           </div>
                       </div>
                   {%- when 'richtext' -%}
-                    <div>
+                    <div class="rich-text-content">
                       {{ block.settings.rich_text_content }}
                       {% if block.settings.rich_text_image != blank %}
                         <img src="{{ block.settings.rich_text_image | img_url: 'original' }}" width="" height="" alt="{{ block.settings.rich_text_image_alt }}" class="rich-text-image {% if block.settings.half_width_main_image %}half-width-destop-image{% endif %}">
