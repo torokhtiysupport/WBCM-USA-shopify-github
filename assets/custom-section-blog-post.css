@@ -481,11 +481,11 @@
 }
 .custom-article-container img:not(.half-width-destop-image):not(.article-header-avatar) {
   width: 100%;
-  margin: 0 auto;
+  margin: 0 auto 16px;
 }
 .custom-article-container img.half-width-destop-image {
   display: block;
-  margin: 0 auto 20px;
+  margin: 0 auto 16px;
 }
 @media screen and (min-width: 769px) {
   .custom-article-container img.half-width-destop-image {
