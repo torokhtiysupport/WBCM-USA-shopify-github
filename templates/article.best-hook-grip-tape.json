@@ -54,13 +54,21 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_bGDJ86": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Have you ever seen the band-aid-looking tape that lifters use? It may look weird if you don’t know what it is, but it actually serves an important purpose and today, I’ll share with you the best hook grip tape.</p><p>If you’re a weightlifter or a powerlifter, there’s a chance you’re using the hook grip tape already so this review will come in handy if you’re in the market for a new one. If you don’t use the tape yet, then this could revolutionize your workouts. And I’m not exaggerating. </p><p>I’m sure you know the importance of a firm grip and what can happen if it accidentally slips. This is where the hook grip tape can help and make your life a whole lot easier. Let’s get into the reviews first, and then we’ll get into details regarding the tape itself.</p><p>Tape up!</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
             "in_a_hurry_image_alt": "",
-            "in_a_hurry_title": "",
-            "in_a_hurry_text": "",
-            "in_a_hurry_url": ""
+            "in_a_hurry_title": "Our Best Choice!",
+            "in_a_hurry_text": "<p>The <a href=\"https://warmbody-coldmind.com/products/self-adhesive-thumb-tape\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/self-adhesive-thumb-tape\">WARM BODY COLD MIND 2″ Premium Lifting Thumb Tape</a> is not only affordably priced and available in a variety of colors but also delivers exceptional performance. It remains securely in place during your workouts, ensuring your lifts are worry-free, and it offers tearable and stretchy qualities for easy adjustments, providing the ideal grip tape solution for your weightlifting needs.</p>",
+            "in_a_hurry_url": "https://warmbody-coldmind.com/products/self-adhesive-thumb-tape"
           }
         },
         "rating_table_VFkHUY": {
@@ -94,6 +102,7 @@
         "tags",
         "title",
         "date",
+        "richtext_bGDJ86",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
@@ -102,13 +111,13 @@
         "sidebar_aUbMMd"
       ],
       "settings": {
-        "criteria_1": "",
-        "criteria_2": "",
-        "criteria_3": "",
-        "criteria_4": "",
-        "criteria_5": "",
-        "criteria_6": "",
-        "criteria_7": "",
+        "criteria_1": "Adhesiveness",
+        "criteria_2": "Flexibility",
+        "criteria_3": "Durability",
+        "criteria_4": "Easy-To-Tear",
+        "criteria_5": "Material Quality",
+        "criteria_6": "Clean Removal",
+        "criteria_7": "Packaging",
         "criteria_8": "",
         "criteria_9": "",
         "criteria_10": "",
