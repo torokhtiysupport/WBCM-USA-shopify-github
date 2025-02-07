@@ -93,10 +93,14 @@
   max-width: 650px;
 }
 .contact-us:before {
-  content: '\f05a';
+  content: "\f05a";
   width: 10px;
   height: 10px;
   display: inline-block;
+  font-family: 'FontAwesome';
+  font-size: 14px;
+  color: #ED1B24;
+  margin: 0;
 }
 
 @media screen and (max-width: 768px) {
