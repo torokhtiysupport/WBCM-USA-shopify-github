@@ -42,14 +42,6 @@
     "main": {
       "type": "custom-main-article",
       "blocks": {
-        "richtext_x4pNeJ": {
-          "type": "richtext",
-          "settings": {
-            "rich_text_content": "<p>If you’re a female lifter, it can sometimes feel hard to find appropriate-sized gear. Finding the best lifting straps for small wrists can be challenging, as many brands simply won’t fit, even with the smaller size. So, we decided to compile the 5 best lifting straps for women to help narrow down your search.</p><p>Our team of professional weightlifters and coaches, including myself, looked at 12 popular options. We compared factors like durability, material, price vs. quality, comfort levels, and ease of use, and looked at other reviews to get a broader view.</p><p>After three workout sessions with moderate to high-intensity exercises, we got the list down to five best ones. We regularly update the list, so if you have thoughts or insight to share, feel free to leave a comment.</p>",
-            "rich_text_image_alt": "",
-            "half_width_main_image": false
-          }
-        },
         "tags": {
           "type": "tags",
           "settings": {}
@@ -61,6 +53,14 @@
         "date": {
           "type": "date",
           "settings": {}
+        },
+        "richtext_x4pNeJ": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>If you’re a female lifter, it can sometimes feel hard to find appropriate-sized gear. Finding the best lifting straps for small wrists can be challenging, as many brands simply won’t fit, even with the smaller size. So, we decided to compile the 5 best lifting straps for women to help narrow down your search.</p><p>Our team of professional weightlifters and coaches, including myself, looked at 12 popular options. We compared factors like durability, material, price vs. quality, comfort levels, and ease of use, and looked at other reviews to get a broader view.</p><p>After three workout sessions with moderate to high-intensity exercises, we got the list down to five best ones. We regularly update the list, so if you have thoughts or insight to share, feel free to leave a comment.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
         },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
@@ -351,10 +351,10 @@
         }
       },
       "block_order": [
-        "richtext_x4pNeJ",
         "tags",
         "title",
         "date",
+        "richtext_x4pNeJ",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
