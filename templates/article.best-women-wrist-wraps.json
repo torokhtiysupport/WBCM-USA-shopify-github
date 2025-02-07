@@ -355,6 +355,7 @@
         "image_cKMQdt": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Women-Wrist-Wraps.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -384,6 +385,7 @@
         "image_eCajDQ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Women-Back-Squat-Wrist-Wraps.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -399,6 +401,7 @@
         "image_CtitGN": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Female-Back-Squat-with-Wrist-Wraps.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -414,6 +417,7 @@
         "image_mDAyJq": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Women-Wrist-Wraps-Preparaion.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -429,6 +433,7 @@
         "image_dTpfRE": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Women-Wrist-Wraps-Holdeng-Barbell.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
