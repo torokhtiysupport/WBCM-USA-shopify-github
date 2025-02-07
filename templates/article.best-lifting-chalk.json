@@ -481,8 +481,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/wbcm-liquid-chalk-4-1024x1024.webp",
+            "sidebar_product_url": "https://warmbody-coldmind.com/products/liquid-chalk?sca_ref=5120971.qSPHd7ePgJ",
+            "sidebar_product_name": "WBCM Liquid Chalk"
           }
         }
       },
