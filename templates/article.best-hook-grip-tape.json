@@ -244,6 +244,80 @@
             "product_cons": "<ul><li>Not flexible</li><li>Harder to remove than others</li></ul>"
           }
         },
+        "richtext_AbpG9y": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>What Is Hook Grip?</h2><p>Hook grip is a weightlifting technique used in strength and weightlifting training. It's basically a special way of holding the barbell or bar to improve grip strength and reduce the chance of slipping. <br/>With hook grip, you grip the barbell with your thumb under your fingers, which creates a 'hook' with the thumb around the bar. This results in a more secure way to hold the bar.</p>",
+            "rich_text_image": "shopify://shop_images/WBCM-Hook-Grip-Tapes.jpg",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_yrLRhx": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>What Are the 4 Benefits of Using Hook Grip Tape?</h2><p>The tape can seem like a hassle sometimes because it's one more step you need to take before you're ready to start your workout. But it has quite a few benefits that can ultimately lead to your performance being improved. It will make the workout more comfortable, and you won't have to worry about the bar slipping from your hands, And those nasty blisters and calluses? You'll have way less of them (if any!) if you decide to give the tape a try.</p><h3>1. Better Grip Stability</h3><p>The tape makes the surface tacky and prevents any slipping that would be caused by chalk or sweat. Essentially, it improves grip stability and allows you to have a very strong hold on the barbell.</p><h3>2. Less Friction</h3><p>Since you have the tape as the protective barrier between the barbel and the skin, you won’t feel as much friction. The tape will also prevent blisters, abrasions, and calluses.</p><h3>3. More Thumb Comfort</h3><p>You’ve probably noticed that the tape is usually applied to the thumb. The hook grip technique is not the most comfortable and the tape will protect the thumb from the pressure coming from the bar. This makes the technique more tolerable.</p><h3>4. Improved Confidence</h3><p>If your grip is secure, you can focus on your technique and not worry about slipping or accidents.</p>",
+            "rich_text_image": "shopify://shop_images/athlete-grip-tape-workout.jpg",
+            "rich_text_image_alt": "grip tape in use",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_jcjNRw": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>5 Tips on How to Pick the Right Lifting Tape for You?</h2><h3>1. Adhesiveness</h3><p>This is one thing you most likely know you need to pay attention to. It’s pretty simple – if the glue is not strong enough, the tape will shift or completely fall off. However, glue that’s too strong will leave residue and will be hard to remove. You want something in between – strong enough to stay in place, but not as strong where it will be hard to remove.</p><h3>2. Material</h3><p>You want a cotton-spandex blend. Anywhere from 5% to 25% spandex is great, but don’t go over 25%. If your tape is too stretchy, it won’t work well. This is also the case with it being too stiff – it will be uncomfortable and hard to adjust.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_WDjUDJ": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>Pro Tip:</h3><p><em>\"When selecting grip tape, it's crucial to strike a balance in terms of adhesiveness. You'll want it to be sufficiently strong to remain in place during your workouts but not excessively adhesive, which can make removal challenging. In terms of material, prioritize a cotton-spandex blend, which offers flexibility without being overly stretchy or uncomfortably rigid.\"</em></p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_pmYqVq": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>3. Sweat Absorption</h3><p>Cotton is great at sweat absorption, and it’s also durable, which is why you want your tape to be mostly made of cotton.</p><h3>4. Easily Applicable</h3><p>Good tape is easy to tear, and it won’t leave any frays behind it. If you see a tape that needs to be cut with scissors, it doesn’t mean that it’s bad, but who really wants to have to have scissors as part of their gym equipment?</p><h3>5. Non-allergenic</h3><p>If your skin is sensitive or if you’re allergic to latex, make sure to get non-allergenic tape. When you combine sensitive skin, sweat and tape that can cause allergies.</p>",
+            "rich_text_image": "shopify://shop_images/different-tapes.jpg",
+            "rich_text_image_alt": "different tapes",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_HkgCM8": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>How to Use Lifting Tape?</h2><p>You need to start off with clean, dry hands. Then, measure the length of the area you want to protect so you know how much weightlifting tape for hands you need to tear off (or cut off if you’re unlucky and got the annoying kind of tape). </p><p>Once you’ve torn off what you need, apply one end of the tape to your skin with a little bit of tension. Stretch it as you apply it but be gentle with it. Overlap each wrap so you know that everything is covered, and the tape is secure.</p><p>As you’re wrapping, smooth the tape down and into your skin to make it adhere evenly. </p><p>When you reach the end, press it down and secure it. </p><p>When you’re done with your workout, do the following:</p><ul><li>peel off the tape</li><li>wash your hands</li><li>If you see any stubborn glue residue: apply some coconut oilgently rub until all the residue has been removed</li></ul>",
+            "rich_text_image": "shopify://shop_images/kettlebells-workout-using-grip-tape.jpg",
+            "rich_text_image_alt": "kettlebells exercises with hook tape",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_eaKUVM": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>FAQ</h2><h3>Why Do Weightlifters Tape Their Thumbs?</h3><p>They do it to protect their skin from friction and tearing during heavy workouts and to improve their grip. Tape is especially popular with the hook grip technique.</p><h3>Is Thumb Tape Allowed in Powerlifting?</h3><p>It usually is, but it’s best to check the rules and guidelines set by the specific powerlifting federation or organization that’s hosting the event.</p><h3>Does Thumb Tape Help Hook Grip?</h3><p>Yes, it can. It acts as a protective layer between the skin and the bar and prevents tears, calluses, and blisters. It also allows you to have a more comfortable and secure grip on the bar.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "video_cFNLW8": {
+          "type": "video",
+          "settings": {
+            "youtube_video_url": "https://www.youtube.com/watch?v=aZIveyj-CKQ&t=176s"
+          }
+        },
+        "richtext_hTWPLm": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Conclusion</p><p>We’ve gone over everything tape-related, so now you know exactly what hook grip tape does and you also have a few recommendations!</p><p>The <a href=\"https://warmbody-coldmind.com/products/self-adhesive-thumb-tape\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/self-adhesive-thumb-tape\">WARM BODY COLD MIND 2\" Premium Lifting Thumb Tape</a> is an absolute winner today, but the other tapes are something worth trying, too.</p><p>What do you think about grip tape for thumbs? Do you use it, and for what? Do you have a favorite kind of tape? What results have you seen when you started using tape?</p><p>Leave all opinions and comments below!</p><p><strong>Taping out!</strong> <em>(I know… Doesn’t really make sense)</em></p><p>Also Read:</p><ul><li><a href=\"https://warmbody-coldmind.com/blogs/news/what-is-gym-chalk-used-for\" target=\"_blank\" title=\"https://warmbody-coldmind.com/blogs/news/what-is-gym-chalk-used-for\">What Does Chalk Do for Lifting</a></li><li><a href=\"https://warmbody-coldmind.com/blogs/news/deadlift-hook-grip\" target=\"_blank\" title=\"https://warmbody-coldmind.com/blogs/news/deadlift-hook-grip\">Deadlift Hook Grip</a></li><li><a href=\"https://blog.warmbody-coldmind.com/guides/how-to-use-deadlift-straps/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/how-to-use-deadlift-straps/\">How to Use Straps for Deadlift</a></li><li><a href=\"https://blog.warmbody-coldmind.com/guides/wrist-pain-from-lifting/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/wrist-pain-from-lifting/\">Wrist Pain From Lifting</a></li></ul><p>References:</p><ol><li>\"Why is cotton so cooling?\" UCSB Science Line 2020-06-23 http://scienceline.ucsb.edu/getkey.php?key=7007</li><li>Marion B. Sulzberger MD, Thomas A. Cortese Jr MD,PhD, Leonard Fishman MD, Hugh S. Wiley MD, Paul S. Peyakovich AB \"Studies on Blisters Produced by Friction: I. Results of Linear Rubbing and Twisting Technics\" Journal of Investigative Dermatology 6 January 2016 https://www.sciencedirect.com/ science/article/pii/S0022202X15472112</li><li>Rijen Shrestha; Kewal Krishan; Husnain Ishaq; Tanuj Kanchan \"Abrasion\" 2023 January https://www.ncbi.nlm.nih.gov/books/NBK554465/</li><li>Stacy Frye \"Callus\" Encyclopedia Britannica Sep 22, 2023 https://www.britannica.com/science/callus-dermatology</li><li>\"Spandex\" Encyclopedia Britannica https://www.britannica.com/technology/spandex</li><li>\"Cotton Fabric\" Encyclopedia of Energy, 2004 https://www.sciencedirect.com/ topics/engineering/cotton-fabric</li><li>Photos made by Torokhtiy Media Team.</li></ol>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
           "settings": {}
@@ -258,8 +332,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/wbcm-tape.jpg",
+            "sidebar_product_url": "https://warmbody-coldmind.com/products/self-adhesive-thumb-tape?sca_ref=5120971.qSPHd7ePgJ",
+            "sidebar_product_name": "WBCM Premium Lifting Thumb Tape"
           }
         }
       },
@@ -276,6 +351,15 @@
         "product_Tbcmca",
         "product_ygfdjB",
         "product_twNFkr",
+        "richtext_AbpG9y",
+        "richtext_yrLRhx",
+        "richtext_jcjNRw",
+        "richtext_WDjUDJ",
+        "richtext_pmYqVq",
+        "richtext_HkgCM8",
+        "richtext_eaKUVM",
+        "video_cFNLW8",
+        "richtext_hTWPLm",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
