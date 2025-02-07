@@ -89,6 +89,9 @@
 .author-bio, .contact-us {
   font-size: 14px!important;
 }
+.author-block-header p > strong {
+  max-width: 650px;
+}
 
 @media screen and (max-width: 768px) {
   .author-block-header {
