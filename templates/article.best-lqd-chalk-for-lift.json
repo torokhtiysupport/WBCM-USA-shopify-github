@@ -206,9 +206,9 @@
         "product_jbCyCi": {
           "type": "product",
           "settings": {
-            "product_title": "",
-            "short_product_title": "",
-            "product_position": "",
+            "product_title": "Sportmediq Pro Grade Liquid Chalk",
+            "short_product_title": "Sportmediq",
+            "product_position": "5",
             "product_award": "",
             "product_url": "",
             "product_rating_description": "",
@@ -237,9 +237,9 @@
         "product_eckeMK": {
           "type": "product",
           "settings": {
-            "product_title": "",
-            "short_product_title": "",
-            "product_position": "",
+            "product_title": "Liquid Grip 8-Ounce Bottle",
+            "short_product_title": "Liquid Grip",
+            "product_position": "6",
             "product_award": "",
             "product_url": "",
             "product_rating_description": "",
@@ -268,9 +268,9 @@
         "product_4zwNjF": {
           "type": "product",
           "settings": {
-            "product_title": "",
-            "short_product_title": "",
-            "product_position": "",
+            "product_title": "Spider Chalk Black Widow Liquid Chalk",
+            "short_product_title": "Spider Chalk Black Widow",
+            "product_position": "7",
             "product_award": "",
             "product_url": "",
             "product_rating_description": "",
@@ -294,6 +294,76 @@
             "product_text_content_2": "",
             "product_pros": "",
             "product_cons": ""
+          }
+        },
+        "product_rUJd9L": {
+          "type": "product",
+          "settings": {
+            "product_title": "IRON AMERICAN Liquid Sports Chalk",
+            "short_product_title": "Iron American",
+            "product_position": "8",
+            "product_award": "",
+            "product_url": "",
+            "product_rating_description": "",
+            "product_rating_1": "",
+            "product_rating_2": "",
+            "product_rating_3": "",
+            "product_rating_4": "",
+            "product_rating_5": "",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
+            "product_text_content_2": "",
+            "product_pros": "",
+            "product_cons": ""
+          }
+        },
+        "product_cKHhxx": {
+          "type": "product",
+          "settings": {
+            "product_title": "Togear Liquid Chalk",
+            "short_product_title": "Togear",
+            "product_position": "9",
+            "product_award": "",
+            "product_url": "",
+            "product_rating_description": "",
+            "product_rating_1": "",
+            "product_rating_2": "",
+            "product_rating_3": "",
+            "product_rating_4": "",
+            "product_rating_5": "",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
+            "product_text_content_2": "",
+            "product_pros": "",
+            "product_cons": ""
+          }
+        },
+        "richtext_84kUNn": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>What Is Liquid Chalk for Lifting?</p><p>Hand chalk is an essential tool for keeping your hands dry in a variety of sports that benefit from a firm grip. It’s used in rock climbing, gymnastics, aerial arts (hoops, pole dancing), calisthenics, and weightlifting, to name a few.</p><p>Despite sharing the name, it’s not to be confused with regular drawing/classroom chalk, as they’re made from completely different materials. Workout chalk is made out of Magnesium Carbonate (MgCO3), which is primarily known for and used in chemistry for its absorbent and drying properties.</p><p>Originally, hand chalk came as either a powdered substance or as a block. More recently, liquid chalk has taken the stage, figuratively and literally, because it has some unique advantages (more on this in a later segment). It comes in plastic bottles, making it much easier to store and carry than powder chalk.</p><p>How Does Liquid Chalk Work?</p><p>Liquid hand chalk is made from the same Magnesium Carbonate mixed with a liquid adhesive, usually alcohol. When squeezed out of the bottle, it feels fluid like a cream, making it easy to spread evenly on your palms. Once it dries down, it leaves behind the moisture-wicking MgCO3 layer.</p><p>In sports, MgCO3 is rubbed into the palms to absorb sweat and keep the skin dry, preventing slipping when gripping onto a surface. It’s especially useful when gripping cylindrical objects, such as barbells or handlebars, to minimize friction from rolling.</p><p>The idea behind Magnesium Carbonate is grounded in known chemistry, and there’s plenty of research into its effects in various sports. For example, chalk has been shown to decrease friction during rock climbing.</p><p>Calisthenics athletes do plenty of exercises by gripping onto handlebars (pull-ups, drips, monkey bars), and using chalk has also been shown to improve grip duration. Similar results were found in a study observing chalk’s use in weightlifting.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
           }
         },
         "why_trust_us_EbVgbF": {
@@ -330,6 +400,9 @@
         "product_jbCyCi",
         "product_eckeMK",
         "product_4zwNjF",
+        "product_rUJd9L",
+        "product_cKHhxx",
+        "richtext_84kUNn",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
