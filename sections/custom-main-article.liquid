@@ -322,7 +322,7 @@
                         <div class="product-buttons">
                           <a class="button secondary-button" href="{{ block.settings.product_url }}" target="_blank"><span>{{ block.settings.first_button_text }}</span></a>
                           {% if block.settings.second_button_text != blank %}
-                            <a class="button button-main" href="{{ block.settings.second_button_url }}" target="_blank"><span>{{ block.settings.second_button_text }}</span></a>
+                            <a class="button button-main {% if block.settings.second_button_url contains 'amazon' %}button-amazon{% endif %}" href="{{ block.settings.second_button_url }}" target="_blank"><span>{{ block.settings.second_button_text }}</span></a>
                           {% endif %}
                         </div>
                       </div>
