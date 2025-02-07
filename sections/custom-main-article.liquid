@@ -58,16 +58,18 @@
                           <div class="article__date">
                               <p class="article__date-text">Updated on {{ article.updated_at | date: "%b %d, %Y" }}</p>
                           </div>
-                          <div>
-                            <img src="{{ author.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ author.name }}" class="article-header-avatar">
-                            <span itemprop="author">Author: <a href="#author-reviewer">{{ author.name }}</a></span>
-                          </div>
-                          {% if article.metafields.custom.reviewer.value != blank %}
+                          <div class="article-header__author-reviewer">
                             <div>
-                              <img src="{{ reviewer.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ reviewer.name }}" class="article-header-avatar">
-                              <span>Reviewed by: <a href="#author-reviewer">{{ reviewer.name }}</a></span>
+                              <img src="{{ author.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ author.name }}" class="article-header-avatar">
+                              <span itemprop="author">Author: <a href="#author-reviewer">{{ author.name }}</a></span>
                             </div>
-                          {% endif %}
+                            {% if article.metafields.custom.reviewer.value != blank %}
+                              <div>
+                                <img src="{{ reviewer.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ reviewer.name }}" class="article-header-avatar">
+                                <span>Reviewed by: <a href="#author-reviewer">{{ reviewer.name }}</a></span>
+                              </div>
+                            {% endif %}
+                          </div>
                       </div>
   
                   {%- when 'tags'-%}
