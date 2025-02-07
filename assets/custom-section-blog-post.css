@@ -404,6 +404,9 @@
     gap: 16px;
     box-shadow: 5px 5px 10px #333333;
 }
+.article-header p, .article-header span {
+  font-size: 14px;
+}
 .in-a-hurry {
   border: 5px solid #d7230a;
   display: flex;
