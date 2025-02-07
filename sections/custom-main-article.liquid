@@ -274,7 +274,7 @@
                           </a>
                           <div>
                             <div class="star-rating-container">
-                              <p><strong>Our Ratings: </strong> {{ block.settings.total_rating }}</p>
+                              <p><strong>Our Ratings: {{ block.settings.total_rating }}</strong></p>
                               <div class="star-rating">
                                 {% assign total_rating = block.settings.total_rating | plus: 0 %}
                                 {% assign full_stars = total_rating | floor %}
