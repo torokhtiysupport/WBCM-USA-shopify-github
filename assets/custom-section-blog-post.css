@@ -520,13 +520,20 @@
   color: #ed1b24;
   text-decoration: underline;
 }
-.custom-article-container img:not(.half-width-destop-image):not(.article-header-avatar) {
+.custom-article-container img:not(.half-width-destop-image):not(.article-header-avatar):not(.review-image) {
   width: 100%;
   margin: 0 auto 16px;
 }
-.custom-article-container img.half-width-destop-image {
+.custom-article-container img.half-width-destop-image:not(.review-image) {
   display: block;
   margin: 0 auto 16px;
+}
+
+.custom-article-container .review-image:not(.half-width-destop-image) {
+  width: 100%;
+}
+.custom-article-container .review-image {
+  display: block;
 }
 
 @media screen and (min-width: 769px) {
