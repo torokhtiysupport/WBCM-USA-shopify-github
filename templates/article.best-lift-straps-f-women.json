@@ -344,8 +344,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/lifting-wrist-straps.png",
+            "sidebar_product_url": "https://warmbody-coldmind.com/products/weightlifting-wrist-straps-4-options?sca_ref=5120971.qSPHd7ePgJ",
+            "sidebar_product_name": "WBCM Weight Lifting Wrist Straps V1"
           }
         }
       },
