@@ -37,12 +37,19 @@
   background-color: #FFEE52;
   color: #000000;
 }
+.button-amazon span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
 .button-amazon span:before {
   content: '';
   background-color: url('https://cdn.shopify.com/s/files/1/0061/6939/5313/files/icon-amazon.svg?v=1738926878');
   width: 20px;
   height: 20px;
   background-size: 20px;
+  display: inline-block;
 }
 
 .article-page-section li:not([itemprop="itemListElement"]), .article-page-section p:not(.product-pros__title, .product-cons__title) {
