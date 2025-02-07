@@ -54,6 +54,14 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_LHYqat": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>From calisthenic athletes to Olympic gymnasts, using gymnastics grips for bars is highly recommended. They’re an easy way to minimize/prevent skin damage on your palms and improve your grip by blocking sweat from the bar. Let’s help you find a pair. To round up the best gymnastic grips for 2024, our team of professional gymnasts, coaches, and athletes (including myself) selected and tested 15 commercial products.</p><p>We evaluated each grip pair according to five relevant parameters — material, comfort, design, durability, and quality for price — and took into account reviews from other experts in the field.</p><p>Overall, we’ve spent about 4 hours with each, trying them on various grip-based gymnastics exercises, and narrowed the list to 8 we liked most. We update the list regularly, so if you have relevant experience or thoughts to share, feel free to leave a comment.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
@@ -94,6 +102,7 @@
         "tags",
         "title",
         "date",
+        "richtext_LHYqat",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
@@ -102,11 +111,11 @@
         "sidebar_aUbMMd"
       ],
       "settings": {
-        "criteria_1": "",
-        "criteria_2": "",
-        "criteria_3": "",
-        "criteria_4": "",
-        "criteria_5": "",
+        "criteria_1": "Material",
+        "criteria_2": "Comfort",
+        "criteria_3": "Design",
+        "criteria_4": "Durability",
+        "criteria_5": "Price vs.Quality",
         "criteria_6": "",
         "criteria_7": "",
         "criteria_8": "",

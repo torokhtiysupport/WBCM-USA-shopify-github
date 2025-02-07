@@ -1,5 +1,6 @@
 .custom-article-container {
   font-size: 18px;
+  margin-top: 10px;
 }
 .custom-article-container h1, .custom-article-container h2, .custom-article-container h3, .custom-article-container h4, .custom-article-container h5 {
   text-transform: capitalize!important;
@@ -517,6 +518,7 @@
   }
   .article-header__author-reviewer {
     flex-direction: column;
+    gap: 0;
   }
 }
 .best-product-section a.button {
