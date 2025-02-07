@@ -37,7 +37,7 @@
   background-color: #FFEE52;
   color: #000000;
 }
-.button-amazon span {
+.button-amazon span, .button-amazon-black span {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -46,6 +46,14 @@
 .button-amazon span:before {
   content: '';
   background: url('https://cdn.shopify.com/s/files/1/0061/6939/5313/files/icon-amazon.svg?v=1738926878');
+  width: 20px;
+  height: 20px;
+  background-size: 20px;
+  display: inline-block;
+}
+.button-amazon-black span:before {
+  content: '';
+  background: url('https://cdn.shopify.com/s/files/1/0061/6939/5313/files/icon-amazon-black.svg?v=1738927527');
   width: 20px;
   height: 20px;
   background-size: 20px;
