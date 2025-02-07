@@ -89,7 +89,7 @@
 .author-bio, .contact-us {
   font-size: 14px!important;
 }
-.author-block-header p > strong {
+.author-block-header__subtitle {
   max-width: 650px;
 }
 

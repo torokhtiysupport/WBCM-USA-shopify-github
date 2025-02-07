@@ -7,7 +7,7 @@
         <a href="{{ author.page_url }}" target="_blank" class="author-image-link"><img src="{{ author.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ author.name }}"></a>
         <div>
           <p class="author-block-header-name">Author: <a href="{{ author.page_url }}" target="_blank">{{ author.name }}</a></p>
-          <p><strong>{{ author.subtitle }}</strong></p>
+          <p class="author-block-header__subtitle"><strong>{{ author.subtitle }}</strong></p>
           <div class="author-social-media">
             {% if author.social_instagram != blank %}
               <a href="{{ author.social_instagram }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/instagram.svg?v=1738762198" width="30" height="30"></a>
@@ -43,7 +43,7 @@
           <a href="{{ reviewer.page_url }}" target="_blank" class="author-image-link"><img src="{{ reviewer.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ reviewer.name }}"></a>
           <div>
             <p class="author-block-header-name">Reviewed by: <a href="{{ reviewer.page_url }}" target="_blank">{{ reviewer.name }}</a></p>
-            <p><strong>{{ reviewer.subtitle }}</strong></p>
+            <p class="author-block-header__subtitle"><strong>{{ reviewer.subtitle }}</strong></p>
             <div class="author-social-media">
               {% if reviewer.social_instagram != blank %}
                 <a href="{{ reviewer.social_instagram }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0061/6939/5313/files/instagram.svg?v=1738762198" width="30" height="30"></a>
