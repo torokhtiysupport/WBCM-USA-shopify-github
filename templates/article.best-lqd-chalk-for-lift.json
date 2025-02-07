@@ -54,6 +54,14 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_dw9N4a": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>If you find your palms get sweaty when you weightlift and the barbell slips through your hands, gym chalk can be a game-changer. That said, powder chalk can be messy and is often not allowed in a public gym. So, today we’re going to discuss the best liquid chalk for lifting exercises.</p><p>For this list, our team of professional weightlifting certified coaches and cross trainers pooled together their multi-decade experience with barbell exercises to decide on the best liquid hand chalk.</p><p>Our product experts also compared many liquid chalk reviews to see if there’s something we missed worth pointing out. We aim to keep these lists up to date so if you have a product or experience worth sharing, reach out through the comment section.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
@@ -94,6 +102,7 @@
         "tags",
         "title",
         "date",
+        "richtext_dw9N4a",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
