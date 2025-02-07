@@ -406,6 +406,7 @@
 }
 .article-header p, .article-header span {
   font-size: 14px;
+  color: rgba(33, 33, 33, 0.7);
 }
 .article-header a {
   color: #d7230a;
