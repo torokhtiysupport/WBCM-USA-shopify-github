@@ -92,6 +92,9 @@
 .author-block-header__subtitle {
   max-width: 650px;
 }
+.contact-us {
+  font-style: italic;
+}
 .contact-us:before {
   content: "\f05a";
   width: 10px;
