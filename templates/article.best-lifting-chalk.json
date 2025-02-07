@@ -80,6 +80,14 @@
             "half_width_main_image": false
           }
         },
+        "rating_table_VFkHUY": {
+          "type": "rating_table",
+          "settings": {}
+        },
+        "anchor_list_Unty8k": {
+          "type": "anchor_list",
+          "settings": {}
+        },
         "product_DiDNgt": {
           "type": "product",
           "settings": {
@@ -204,20 +212,46 @@
             "second_button_text": "CHECK PRICE ON AMAZON",
             "second_button_url": "https://www.amazon.com/Bison-Designs-Standard-Chalk-Ball/dp/B008TYH64C?tag=wbcmb-20",
             "product_text_content_1": "<p><a href=\"https://www.roguefitness.com/bison-chalk/?a_aid=62ff8b7e519eb\" target=\"_blank\" title=\"https://www.roguefitness.com/bison-chalk/?a_aid=62ff8b7e519eb\">Chalk balls</a> are a great choice if you want to use powder chalk but don’t want to deal with the mess that comes with it. Bison chalk is very fine, easy to use, and produces hardly any mess compared to the traditional block or powder chalk.</p><p>This chalk is very clean – no additives or fillers, just pure magnesium carbonate composition. You’ll usually find fillers and additives in low-quality chalks, and they can dilute the purity, which means they won’t be as effective, so a pure composition is always a huge plus.</p><p>Since it’s baked at 400° F, the chalk is very good at absorbing excess moisture, but it still doesn’t perform that great in very humid environments and you’ll need to reapply it. </p>",
-            "half_width_review_image": false,
-            "product_review_image_caption": "",
-            "product_text_content_2": "",
-            "product_pros": "",
-            "product_cons": ""
+            "product_review_image": "shopify://shop_images/bison-chalk-instagram.jpg",
+            "half_width_review_image": true,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/8MuVZQyHa6/\" target=\"_blank\" title=\"https://www.instagram.com/p/8MuVZQyHa6/\">@morgan.b.holland</a></p>",
+            "product_text_content_2": "<p>It comes in several sizes: 3 ounces (single pack, 5-pack, and 20-pack), 4 ounces, and half a gallon, which comes in a jug with a carry handle. </p><p>Compared to the traditional block chalk, this one makes hardly any mess and is very easy to use. You just roll it around in your hands and you’re ready to start your exercise. It also doesn’t break up that easily, so you don’t have to be too careful with it and you can toss it in a bucket after you’re done with using it.</p>",
+            "product_pros": "<ul><li>Pure composition with no fillers or additives</li><li>Comes in many formats</li><li>Very easy to use and makes hardly any mess</li></ul>",
+            "product_cons": "<ul><li>Not long-lasting in humidity</li><li>Not enough chalk comes from the ball, so you need to roll it around your hands for a bit longer</li></ul>"
           }
         },
-        "rating_table_VFkHUY": {
-          "type": "rating_table",
-          "settings": {}
-        },
-        "anchor_list_Unty8k": {
-          "type": "anchor_list",
-          "settings": {}
+        "product_rfDiKd": {
+          "type": "product",
+          "settings": {
+            "product_title": "SPORTMEDIQ Pro Grade Liquid Chalk",
+            "short_product_title": "SPORTMEDIQ",
+            "product_position": "5",
+            "product_award": "BEST CHALK IN BULK",
+            "product_url": "https://www.amazon.com/dp/B07CL94PTH?tag=wbcmb-20",
+            "product_main_image": "shopify://shop_images/sportmediq-pro-liquid-chalk.jpg",
+            "product_rating_description": "<p>SPORTMEDIQ Pro Grade Liquid Chalk provides a reliable grip with quick drying, but its initial messiness upon application and the need for frequent reapplication may not suit those seeking a completely mess-free and long-lasting liquid chalk experience.</p><ul><li><strong>Grip Enhancement:</strong> Good</li><li><strong>Texture and Consistency: </strong>Liquid, lotion consistency</li><li><strong>Dustiness:</strong> None</li><li><strong>Longevity:</strong> Not very long-lasting</li><li><strong>Packaging:</strong> Bottle</li><li><strong>Drying Time:</strong> 15-25 seconds</li><li><strong>Scent:</strong> Fresh and light</li><li><strong>Price:</strong> $$$</li></ul>",
+            "product_rating_1": "4.6",
+            "product_rating_2": "5",
+            "product_rating_3": "4.2",
+            "product_rating_4": "4.7",
+            "product_rating_5": "4.6",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.6",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "https://www.amazon.com/dp/B07CL94PTH?tag=wbcmb-20",
+            "product_text_content_1": "<p>Sportmediq’s idea was to create a very effective and long-lasting chalk that would be easy to apply without making a mess. This chalk has a consistency that feels like a lotion, and it dries in 15-25 seconds.</p><p>If you get liquid chalk, you expect it to come out of the bottle and into your palm without getting anywhere else. This, however, is not the case here because once you open the bottle, there’s a lot of chalk that comes out, and since there’s so much of it, it gets everywhere. The consistency is very nice, and it dries quickly, but the mess it makes is surprising and you don’t expect it from liquid chalk. Not to mention, the bottle gets messy too, because the chalk gets all over it, so it doesn’t stay looking clean for a long time. </p><p>Nevertheless, the grip it provides is really good and reliable, but it doesn’t last very long. You’ll need to reapply this after every set, and if your hands sweat a lot, you’ll have a hard time applying the chalk directly onto sweaty palms because it won’t stick. Make sure to pat your hands dry with a towel and then apply chalk. This way, you’ll have no issues with it sticking to your skin.</p>",
+            "product_review_image": "shopify://shop_images/sportmediq-liquid-chalk-instagram.jpg",
+            "half_width_review_image": true,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/BsO9wOEhkpe/\" target=\"_blank\" title=\"https://www.instagram.com/p/BsO9wOEhkpe/\">@edgeperformance</a></p>",
+            "product_text_content_2": "<p>It doesn’t leave a lot of traces on the equipment and won’t get onto your clothes, so that’s a plus. It’s also not very drying, so your skin won’t suffer, and since you need to reapply it often, this is a bonus because imagine how cracked your hands would get otherwise. This chalk is a good choice for people with dry hands, who usually struggle with using chalk.  </p><p>It has a nice fresh scent, which, although the scent is not the most important thing in the world, makes applying the chalk more pleasant.</p><p>Overall, this is a good alternative to block chalk because you won’t inhale any chalk particles, but if you’re expecting something super long-lasting that won’t make a mess, you may want to look elsewhere.</p>",
+            "product_pros": "<ul><li>Very good grip</li><li>Has a pleasant scent</li><li>Good for dry hands</li></ul>",
+            "product_cons": "<ul><li>Doesn’t last long</li><li>Messy; too much product comes out of the bottle</li></ul>"
+          }
         },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
@@ -245,12 +279,13 @@
         "richtext_x3MX4p",
         "in_a_hurry_w6MGQW",
         "richtext_ckXzHh",
+        "rating_table_VFkHUY",
+        "anchor_list_Unty8k",
         "product_DiDNgt",
         "product_Qt6GGU",
         "product_BY36m4",
         "product_4Leiai",
-        "rating_table_VFkHUY",
-        "anchor_list_Unty8k",
+        "product_rfDiKd",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
