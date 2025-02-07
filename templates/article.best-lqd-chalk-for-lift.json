@@ -377,7 +377,7 @@
         "richtext_zTndif": {
           "type": "richtext",
           "settings": {
-            "rich_text_content": "<h2>How to Choose the Best Liquid Chalk?</h2><p>Liquid chalk for weightlifting is a fairly consistent product between the various brands. However, people have different needs and preferences, such as brand, stickiness, price, as well as their sport of choice, which may sway purchasing decisions. With that in mind, here are some aspects to consider when choosing the best gym chalk:</p><p>1. Grip Effectiveness</p><p>The stickiness of your chalk depends on the ratio between Magnesium Carbonate and the carrier fluid. Higher MgCO3 content will result in stickier chalk, providing a more robust grip, while chalk with a higher percentage of liquid is easier to wash out. Depending on the difficulty of your exercise, you might value grip effectiveness differently.</p><h3>2. Dry Time</h3><p>Most liquid chalk dries fairly quickly, between 10-20 seconds depending on your skin texture and room humidity. For most people, a few seconds difference won’t be too much of a factor, but it may be for those who need their chalk to dry quicker. For example, during competitive endeavors where time is essential like rock climbing races or cross-training competitions.</p>",
+            "rich_text_content": "<h2>How to Choose the Best Liquid Chalk?</h2><p>Liquid <a href=\"https://blog.warmbody-coldmind.com/guides/what-is-gym-chalk-used-for/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/what-is-gym-chalk-used-for/\">chalk for weightlifting</a> is a fairly consistent product between the various brands. However, people have different needs and preferences, such as brand, stickiness, price, as well as their sport of choice, which may sway purchasing decisions. With that in mind, here are some aspects to consider when choosing the best gym chalk:</p><p>1. Grip Effectiveness</p><p>The stickiness of your chalk depends on the ratio between Magnesium Carbonate and the carrier fluid. Higher MgCO3 content will result in stickier chalk, providing a more robust grip, while chalk with a higher percentage of liquid is easier to wash out. Depending on the difficulty of your exercise, you might value grip effectiveness differently.</p><h3>2. Dry Time</h3><p>Most liquid chalk dries fairly quickly, between 10-20 seconds depending on your skin texture and room humidity. For most people, a few seconds difference won’t be too much of a factor, but it may be for those who need their chalk to dry quicker. For example, during competitive endeavors where time is essential like rock climbing races or cross-training competitions.</p>",
             "rich_text_image_alt": "",
             "half_width_main_image": false
           }
@@ -385,8 +385,30 @@
         "richtext_xqRh3T": {
           "type": "richtext",
           "settings": {
-            "rich_text_content": "",
+            "rich_text_content": "<h3>Pro Tip:</h3><p><em>\"You can usually find the expected drying time printed on the bottle or in the user manual.\"</em></p>",
             "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_eQjyQt": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>3. Consistency</h3><p>Formula consistency will affect how easy the chalk is to apply and how big of a mess it can leave behind. A smooth and even-textured liquid with tiny grains of chalk is easier to apply and spreads out more evenly. It’s also easier to wash out afterward. </p><h3>4. Smell</h3><p>Some liquid chalk brands are odorless, while some might have a mild fragrance. As your hands warm up from the exercise, the chalk will heat up and release the smell. It’s a good idea to check the smell before purchase, as it might be a scent you’re not fond of or the one that your brain associates with allergies you may have, making it distracting to use.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "video_fEG4dt": {
+          "type": "video",
+          "settings": {
+            "youtube_video_url": "https://www.youtube.com/watch?v=huFVPigEtr8"
+          }
+        },
+        "richtext_yYKpHf": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>5. Online Reviews</h3><p>Checking liquid chalk reviews online is a good way to get a feel for the product from other users’ perspectives. For us, we can vouch safely for our picks when it comes to weightlifting and strength training. However, if you practice other things that also use chalk, such as rock climbing or outdoor calisthenics, you should look for trusted reviews for your specific sport or discipline.</p><h3>6. Value for Money</h3><p>Although more expensive than powdered chalk on average, generally speaking, liquid chalk won’t be a budget-breaking purchase. Price differences between brands are not more than a few dollars. That said, shopping around isn’t a bad idea either. Depending on your needs and frequency of use, you might find a certain brand’s bottle size, shelf life, ease and cost of shipment, etc. more attractive.</p><h2>Step-by-Step Application of Liquid Chalk</h2><p>Applying liquid hand chalk may seem straightforward, but there’s a proper way of doing it. Here’s a step-by-step checklist:</p><h3>1. How to Apply Liquid Chalk?</h3><ol><li>Wash your hands then dry them down with your gym towel.</li><li>Shake the bottle to even out the contents.</li><li>Unseal the cap and squeeze out a small pebble-sized amount.</li><li>Before you start spreading, close the cap to seal off the air and avoid accidental spillage.</li><li>Spread evenly across your hands, making sure to rub in between the fingers as well.</li><li>Let it dry for however long the package or user manual says.</li><li>Give it a test run and see how it feels to grip. Apply some more if you’re unhappy with the stick, otherwise, you’re all set.</li></ol><h3>Pro Tip:</h3><p><em>\"Most people do one big squeeze and then spread it over their hands.</em></p><p><em>As a result, they often end up with more chalk on one hand than the other. Instead, do two smaller squeezes per hand — it spreads more evenly that way.\"</em></p><h3>2. How to Remove Liquid Chalk?</h3><ol><li>Wash your hands with water, the chalk residue will start to dissolve fairly easily.</li><li>Use liquid soap to get a deeper clean.</li><li>Check and scrub your knuckles and fingerprints.</li><li>Rinse and towel dry.</li></ol>",
+            "rich_text_image_alt": "WBCM Liquid Chalk",
             "half_width_main_image": false
           }
         },
@@ -438,6 +460,9 @@
         "richtext_zhFUQj",
         "richtext_zTndif",
         "richtext_xqRh3T",
+        "richtext_eQjyQt",
+        "video_fEG4dt",
+        "richtext_yYKpHf",
         "richtext_DVK6PT",
         "why_trust_us_EbVgbF",
         "meta",
