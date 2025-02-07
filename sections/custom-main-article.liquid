@@ -54,9 +54,9 @@
                       </div>
   
                   {%- when 'date'-%}
-                      <div class="article__block article__block--{{ block.type }}" {{ block.shopify_attributes }}>
+                      <div class="article__block article-header article__block--{{ block.type }}" {{ block.shopify_attributes }}>
                           <div class="article__date">
-                              <p class="article__date-text">{{ article.updated_at | date: "%b %d, %Y" }}</p>
+                              <p class="article__date-text">Updated on {{ article.updated_at | date: "%b %d, %Y" }}</p>
                           </div>
                           <div>
                             <img src="{{ author.avatar | image_url: width: 300, height: 300 }}" width="" height="" style="border-radius: 50%" alt="{{ author.name }}" class="article-header-avatar">
