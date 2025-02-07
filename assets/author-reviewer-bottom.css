@@ -100,7 +100,8 @@
   font-family: 'FontAwesome';
   font-size: 14px;
   color: #ED1B24;
-  margin: 0;
+  margin: 0 4px 0 0;
+  background: #ffffff;
 }
 
 @media screen and (max-width: 768px) {
