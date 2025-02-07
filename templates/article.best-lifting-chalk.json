@@ -253,6 +253,39 @@
             "product_cons": "<ul><li>Doesn’t last long</li><li>Messy; too much product comes out of the bottle</li></ul>"
           }
         },
+        "product_NrQCr7": {
+          "type": "product",
+          "settings": {
+            "product_title": "Friction Labs Quick Grip Secret Stuff Liquid Chalk",
+            "short_product_title": "Friction Labs",
+            "product_position": "6",
+            "product_award": "CHEAPEST OPTION",
+            "product_url": "https://www.amazon.com/Friction-Labs-Secret-Liquid-Alcohol/dp/B07S2TK63Y/?tag=wbcmb-20",
+            "product_main_image": "shopify://shop_images/fiction-labs-chalk.jpg",
+            "product_rating_description": "<p>Friction Labs Quick Grip Secret Stuff Liquid Chalk offers an affordable, skin-friendly, and easy-to-use option for improved grip, but it may not provide the same level of performance as some other high-end chalk products, particularly in more intense workout scenarios.</p><ul><li><strong>Grip Enhancement:</strong> Good</li><li><strong>Texture and Consistency:</strong> Gel</li><li><strong>Dustiness: </strong>None</li><li><strong>Longevity: </strong>Not very long-lasting</li><li><strong>Packaging: </strong>2.54 fl oz squeeze tube</li><li><strong>Drying Time:</strong> 5 seconds</li><li><strong>Price:</strong> $$$$$</li></ul>",
+            "product_rating_1": "4.2",
+            "product_rating_2": "5",
+            "product_rating_3": "4.3",
+            "product_rating_4": "4.6",
+            "product_rating_5": "4.5",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.5",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p>When you take a look at what <a href=\"https://www.amazon.com/Friction-Labs-Secret-Liquid-Alcohol/dp/B07S2TK63Y/?tag=wbcmb-20\" target=\"_blank\" title=\"https://www.amazon.com/Friction-Labs-Secret-Liquid-Alcohol/dp/B07S2TK63Y/?tag=wbcmb-20\">Friction Labs</a> says about this product, you’ll probably think this is the absolute best gym chalk in the whole world. It’s good, but it’s not THAT good. This is a great option if price is your priority because it will help your grip, but that’s about it.</p><p>First of all, kudos to Friction Labs for making gym chalk suitable for sensitive skin. They made an alcohol-free version of the traditional liquid chalk that won’t irritate or dry out your skin.</p><p>The price is affordable, but the packaging is small, so keep that in mind. It also doesn’t last very long and, as your hands start getting sweaty, the chalk gets sticky and slimy, which can be very distracting and uncomfortable. Until your hands start sweating like crazy, however, it provides a good grip, and it does what it’s supposed to do. </p>",
+            "product_review_image": "shopify://shop_images/friction-labs-instagram.jpg",
+            "half_width_review_image": true,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/B-8yU6dBu8u/\" target=\"_blank\" title=\"https://www.instagram.com/p/B-8yU6dBu8u/\">@ittybittyclimbingkitty</a></p>",
+            "product_text_content_2": "<p>It supposedly dries in 5 seconds, but that’s not really the case. It takes quite a while to dry, which makes sense since it has no alcohol. The good thing about it is that it leaves almost no residue anywhere once it dries. It doesn’t make a mess upon application or afterwards, which is a huge deal for a lot of people. Washing it off is very easy and it comes off from your skin in seconds. Even if you have a few dry patches on your palms, the chalk will come right off, and it won’t stick to any dryness. </p><p>All things considered, this is a decent chalk – very affordable, easy to apply and wash off, and does what it’s supposed to do. There’s definitely room for improvement, but if your workouts aren’t super intense or if you have sensitive skin, this is a good choice.</p>",
+            "product_pros": "<ul><li>Very affordable</li><li>Good for sensitive skin</li><li>Pleasant, gel-like consistency that spreads easily and evenly</li></ul>",
+            "product_cons": "<ul><li>Takes a bit longer to dry</li><li>Doesn’t last very long</li></ul>"
+          }
+        },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
           "settings": {}
@@ -286,6 +319,7 @@
         "product_BY36m4",
         "product_4Leiai",
         "product_rfDiKd",
+        "product_NrQCr7",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
