@@ -27,6 +27,7 @@
   line-height: 30px;
   font-size: 16px;
   font-weight: bold;
+  text-transform: uppercase;
   display: block;
 }
 .custom-article-container .button-main {
