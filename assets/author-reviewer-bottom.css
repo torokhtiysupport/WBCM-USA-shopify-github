@@ -92,6 +92,12 @@
 .author-block-header__subtitle {
   max-width: 650px;
 }
+.contact-us:before {
+  content: '\f05a';
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
 
 @media screen and (max-width: 768px) {
   .author-block-header {
