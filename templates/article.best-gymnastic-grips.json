@@ -459,8 +459,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/training-weightlifting-hand-grips-wbcm.png",
+            "sidebar_product_url": "https://warmbody-coldmind.com/products/leather-hand-grips-basic?sca_ref=5120971.qSPHd7ePgJ",
+            "sidebar_product_name": "WBCM Leather Hand Grips Basic"
           }
         }
       },
