@@ -546,8 +546,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/training-best-barbell-collars-wbcm.png",
+            "sidebar_product_url": "https://warmbody-coldmind.com/blogs/news/best-barbell-collars",
+            "sidebar_product_name": "Warm Body Cold Mind Barbell Collars Pro"
           }
         }
       },
