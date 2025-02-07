@@ -407,6 +407,10 @@
 .article-header p, .article-header span {
   font-size: 14px;
 }
+.article-header a {
+  color: #d7230a;
+  text-decoration: underline;
+}
 .in-a-hurry {
   border: 5px solid #d7230a;
   display: flex;
