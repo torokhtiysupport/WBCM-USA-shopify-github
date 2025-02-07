@@ -412,6 +412,11 @@
   color: #d7230a;
   text-decoration: underline;
 }
+.article-header__author-reviewer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .in-a-hurry {
   border: 5px solid #d7230a;
   display: flex;
@@ -508,6 +513,9 @@
 @media screen and (max-width: 768px) {
   .custom-article-container img.half-width-destop-image {
     width: 100%;
+  }
+  .article-header__author-reviewer {
+    flex-direction: column;
   }
 }
 .best-product-section a.button {
