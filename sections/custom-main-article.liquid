@@ -329,7 +329,7 @@
                       {{ block.settings.product_text_content_1 }}
                       {% if block.settings.product_review_image %}
                         <figure>
-                          <img src="{{ block.settings.product_review_image | img_url: 'original' }}" alt="{{ block.settings.product_title }} in use" width="" height="" {% if block.settings.half_width_review_image %}class="half-width-destop-image"{% endif %}>
+                          <img src="{{ block.settings.product_review_image | img_url: 'original' }}" alt="{{ block.settings.product_title }} in use" width="" height="" class="review-image {% if block.settings.half_width_review_image %}half-width-destop-image{% endif %}">
                           {% if block.settings.product_review_image_caption %}
                             <figcaption>{{ block.settings.product_review_image_caption }}</figcaption>
                           {% endif %}
