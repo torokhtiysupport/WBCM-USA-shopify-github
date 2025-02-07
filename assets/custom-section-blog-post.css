@@ -5,6 +5,9 @@
 .custom-article-container h1, .custom-article-container h2, .custom-article-container h3, .custom-article-container h4, .custom-article-container h5 {
   text-transform: capitalize!important;
 }
+.custom-article-container h1 {
+  font-size: 36px;
+}
 .custom-article-container p a {
   color: #ED1B24;
   text-decoration: underline;
