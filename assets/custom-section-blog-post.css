@@ -535,9 +535,6 @@
 .custom-article-container .review-image {
   display: block;
 }
-.custom-article-container figure p {
-  margin: 0;
-}
 
 @media screen and (min-width: 769px) {
   .custom-article-container img.half-width-destop-image {
@@ -566,7 +563,7 @@
 }
 .best-product-section figcaption p {
   font-size: 16px!important;
-  margin: 10px 0 0;
+  margin: 0;
 }
 
 .article-template {
