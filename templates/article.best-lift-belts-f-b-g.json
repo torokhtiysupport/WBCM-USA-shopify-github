@@ -54,13 +54,22 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_VHQ8Dg": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Strength training and big guys are a deadly combination. However, people with above-average height and weight have a hard time finding things that fit them right. Be it a weight bench or a lifting belt, gyms are no different! </p><p>This article shortlists the best weight lifting belts for big guys to relieve you of some of this hassle. After a certain stage, buckling up is crucial to the success and safety of your lifting routines. Our team of professional athletes has spent many hours researching and testing hundreds of products based on the given five-point criteria.</p><p>We keep updating the list regularly, so feel free to drop your suggestions.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
-            "in_a_hurry_image_alt": "",
-            "in_a_hurry_title": "",
-            "in_a_hurry_text": "",
-            "in_a_hurry_url": ""
+            "in_a_hurry_image": "shopify://shop_images/warm-body-cold-mind-leather-weightlifting-belt-6mm.jpg",
+            "in_a_hurry_image_alt": "Warm Body Cold Mind leather weightlifting belt 6mm close view",
+            "in_a_hurry_title": "Our Best Choice!",
+            "in_a_hurry_text": "<p><a href=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\">WBCM weight lifting belt</a> is built with big guys in mind. A rare XXXL size measuring up to 52″ (131 cm) is a testament to this philosophy. Two layers of premium black leather ensure long-lasting sturdiness, while a dual-prong clip is reinforced with four stainless steel bolts.</p>",
+            "in_a_hurry_url": "https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ"
           }
         },
         "rating_table_VFkHUY": {
@@ -70,6 +79,234 @@
         "anchor_list_Unty8k": {
           "type": "anchor_list",
           "settings": {}
+        },
+        "product_xUfr7F": {
+          "type": "product",
+          "settings": {
+            "product_title": "WARM BODY COLD MIND Leather Weight Lifting Belt",
+            "short_product_title": "WBCM",
+            "product_position": "1",
+            "product_award": "TOP PICK",
+            "product_url": "https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ",
+            "product_main_image": "shopify://shop_images/warm-body-cold-mind-leather-weightlifting-belt-6mm.jpg",
+            "product_rating_description": "<p>WBCM is our very own strength training accessory brand, created and prospered in the backyard of Olympic champions.</p><ul><li><strong>Fastening Mechanism:</strong> Double-prong roller buckle</li><li><strong>Material: </strong>Multi-layered genuine leather</li><li><strong>Sizes: </strong>S-3XL (true to size)</li><li><strong>Waist Measurement Range:</strong> 28”-52”</li><li><strong>Width: </strong>4” (tapered)</li><li><strong>Thickness:</strong> 6 mm</li><li><strong>Approved by: </strong>IWF</li><li><strong>Colors:</strong> Black, Green</li></ul>",
+            "product_rating_1": "5",
+            "product_rating_2": "5",
+            "product_rating_3": "4",
+            "product_rating_4": "5",
+            "product_rating_5": "5",
+            "product_rating_6": "5",
+            "product_rating_7": "5",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.9",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "CHECK PRICE ON AMAZON",
+            "second_button_url": "https://www.amazon.com/WARM-BODY-COLD-MIND-Weightlifting/dp/B093LWBPLW?tag=wbcmb-20",
+            "product_text_content_1": "<p><a href=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\">WBCM weight lifting belt</a> is built with big guys in mind. A rare XXXL size measuring up to 52\" (131 cm) is a testament to this philosophy. Two layers of premium black leather ensure long-lasting sturdiness, while a dual-prong clip is reinforced with four stainless steel bolts.</p><p>One layer covers the buckle from behind to prevent skin contact and discomfort. The belt's inside is lightly padded to amp up your lengthy hypertrophy sessions.</p>",
+            "product_review_image": "shopify://shop_images/wbcm_leather_weight_lifting_belt.jpg",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
+            "product_text_content_2": "<p>IWF approves this plus size weight lifting belt for Olympic contests, as it follows guidelines regarding dimensions. The tapered front and 6mm of balanced thickness maintain core and lower back support without disturbing your deep snatches or overhead jerks.</p><p>You can use this belt for all sorts of lifting. However, 10mm or 13mm variants may be more appropriate for extreme powerlifting. Imagine a 250-lb guy squatting twice his body weight (yes, that extreme)! In most cases, the WBCM leather belt is ideal for supercharging your weight training, regardless of gender and fitness level.</p>",
+            "product_pros": "<ul><li>A great range of sizes, suitable for all athletes</li><li>Layered, softened leather blends rigidity and flexibility</li><li>Double-prong system for a reliable and adjustable lockdown</li></ul>",
+            "product_cons": "<ul><li>Lacks in support compared to 10mm or 13mm belts</li></ul>"
+          }
+        },
+        "product_xbUbVY": {
+          "type": "product",
+          "settings": {
+            "product_title": "ROGUE Black Leather 13mm Lever Belt",
+            "short_product_title": "Rogue",
+            "product_position": "2",
+            "product_award": "RUNNER-UP",
+            "product_url": "https://www.roguefitness.com/rogue-branded-black-leather-13mm-4-inch-lever-belt/?a_aid=62ff8b7e519eb",
+            "product_main_image": "shopify://shop_images/black-leather-belt.jpg",
+            "product_rating_description": "<p>Rogue is the leading manufacturer of made-in-USA fitness equipment and accessories. Fill a whole garage or commercial gym with one visit to its store.</p><ul><li><strong>Fastening Mechanism:</strong> Lock-in lever</li><li><strong>Material: </strong>Vegetable-tanned genuine leather</li><li><strong>Sizes:</strong> XS-XL (run one size larger)</li><li><strong>Waist Measurement Range: </strong>22”-48”</li><li><strong>Width: </strong>4” (straight cut)</li><li><strong>Thickness: </strong>13 mm</li><li><strong>Approved by: </strong>IPF, USAPL</li><li><strong>Colors: </strong>Black</li></ul>",
+            "product_rating_1": "4.5",
+            "product_rating_2": "5",
+            "product_rating_3": "5",
+            "product_rating_4": "4",
+            "product_rating_5": "5",
+            "product_rating_6": "4",
+            "product_rating_7": "4.5",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.6",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p>A variant of <a href=\"https://www.roguefitness.com/rogue-branded-black-leather-13mm-4-inch-lever-belt/?a_aid=62ff8b7e519eb\" target=\"_blank\" title=\"https://www.roguefitness.com/rogue-branded-black-leather-13mm-4-inch-lever-belt/?a_aid=62ff8b7e519eb\">Rogue's original powerlifting belt</a>, it replaces the traditional prong-styled buckle with a lever clamp. The same old consistent support with added security! This patented lock-in, nickel-plated steel lever is the most secure fastening system on the market, although it sacrifices adjustability.</p><p>The best part is its matte black finish, which innocuously blends with the fabric. The embossed company logo at the back also enhances the appeal. As far as the material quality goes, the pure American vegetable-tanned leather leaves not much to doubt. Belts with 13mm thickness are notorious for being uncomfortable.</p>",
+            "product_review_image": "shopify://shop_images/rogue-leather-belt-by-roguefitness.jpg",
+            "half_width_review_image": false,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/CLXnQoag1ux/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\" title=\"https://www.instagram.com/p/CLXnQoag1ux/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">@roguefitness</a></p>",
+            "product_text_content_2": "<p>IPF doesn’t allow any padding. However, Rogue has slanted the edges and lined the interior with soft suede to mitigate this issue. The suede lining also helps the belt stay in place. The extra small to extra large weight lifting belt sizing is good enough for most people, but a XXL size (above 50”) must be added later on to facilitate more big guys. Lastly, it’s a pricey belt!</p>",
+            "product_pros": "<ul><li>13mm thickness and 4” non-tapered width offer max support</li><li>Suede lining increases comfort and stability</li><li>The lever clamp is quick to get on/off but doesn’t come loose on its own</li></ul>",
+            "product_cons": "<ul><li>The size range doesn't top out the 50-inch mark</li></ul>"
+          }
+        },
+        "product_HpkQgF": {
+          "type": "product",
+          "settings": {
+            "product_title": "GYMREAPERS Black 13mm Lever Belt",
+            "short_product_title": "Gymreapers",
+            "product_position": "3",
+            "product_award": "",
+            "product_url": "https://www.gymreapers.com/products/gymreapers-13mm-lever-belt?aff=172",
+            "product_main_image": "shopify://shop_images/gymreapers-black-belt.jpg",
+            "product_rating_description": "<p>From sleeves and wraps to belts and straps, Gymreapers has made a name in the weightlifting accessory industry. The brand looks to maximize value.</p><ul><li><strong>Fastening Mechanism: </strong>Lock-in lever</li><li><strong>Material:</strong> Double-stitched genuine leather</li><li><strong>Sizes:</strong> S-2XL (true to size)</li><li><strong>Waist Measurement Range: </strong>25”-50”</li><li><strong>Width: </strong>4” (straight cut)</li><li><strong>Thickness: </strong>13 mm</li><li><strong>Approved by:</strong> IPF, USAPL</li><li><strong>Colors: </strong>Black</li></ul>",
+            "product_rating_1": "4.5",
+            "product_rating_2": "5",
+            "product_rating_3": "5",
+            "product_rating_4": "3.5",
+            "product_rating_5": "5",
+            "product_rating_6": "4",
+            "product_rating_7": "5",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.6",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p>If Rogue's sizing lets your large waistline down, check out <a href=\"https://www.gymreapers.com/products/gymreapers-13mm-lever-belt?aff=172\" target=\"_blank\" title=\"https://www.gymreapers.com/products/gymreapers-13mm-lever-belt?aff=172\">Gymreaper’s weight lifting belt</a> for fat guys, as its XXL reaches up to 50”. The hardware finish and functionality are similar. You’ll get a quick-locking lever buckle, programmable to a particular setting atop 13mm thick and 4” wide leather belt. Two surprising features are double-stitching, easily ascertaining a decade-long lifespan, and a lifetime warranty on its back.</p><p>It has a moisture-wicking suede interior, although not as soft and stable as Rogue’s one. Additionally, the manufacturer hasn't done enough rounding of the edges. The break-in period is also longer. Nevertheless, although this belt is slightly low on comfort, it does not concern sturdiness, support, or security!</p>",
+            "product_review_image": "shopify://shop_images/gymreapers-belt-kit-instagram.jpg",
+            "half_width_review_image": false,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/CsrbqcTPF5I/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\" title=\"https://www.instagram.com/p/CsrbqcTPF5I/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">@gymreapers</a></p>",
+            "product_text_content_2": "<p>It won’t allow the level of mobility required to do dynamic movements like snatches and cleans-&-jerks, but you’ll find its unparalleled support helpful during static motions across a single plane and shorter range, such as <a href=\"https://blog.warmbody-coldmind.com/guides/squatting-with-a-belt/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/squatting-with-a-belt/\">squats</a> and <a href=\"https://blog.warmbody-coldmind.com/guides/do-you-need-a-belt-to-deadlift/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/do-you-need-a-belt-to-deadlift/\">deadlifts</a>. It’s approved by IPF, IPL, USPA, and USAPL to be used in powerlifting competitions.</p>",
+            "product_pros": "<ul><li>Double-stitching around the edges increases durability and longevity</li><li>An incredible lifetime replacement warranty</li><li>Officially sanctioned by all powerlifting sports governing bodies</li></ul>",
+            "product_cons": "<ul><li>Highly rigid; doesn’t focus on comfort and versatility</li></ul>"
+          }
+        },
+        "product_iT47WE": {
+          "type": "product",
+          "settings": {
+            "product_title": "IRONBULL STRENGTH Pro 10mm Belt",
+            "short_product_title": "Ironbull",
+            "product_position": "4",
+            "product_award": "",
+            "product_url": "https://ironbullstrength.com/collections/prong-belts/products/pro-10mm-4in-double-prong-belt?sca_ref=3884196.eg5jxEttuv",
+            "product_main_image": "shopify://shop_images/ironbull-strength-belt.jpg",
+            "product_rating_description": "<p>Ironbull manages two lines of the best lifting belt for overweight man: Unleash and Pro. The former boasts a lever design, while Pro belts have prong buckles.</p><ul><li><strong>Fastening Mechanism:</strong> Double-prong roller buckle</li><li><strong>Material: </strong>Double-stitched genuine leather</li><li><strong>Sizes:</strong> S-3XL (true to size)</li><li><strong>Waist Measurement Range: </strong>25”-55”</li><li><strong>Width: </strong>4” (straight cut)</li><li><strong>Thickness:</strong> 10 mm</li><li><strong>Approved by: </strong>IPF, USAPL</li><li><strong>Colors:</strong> Black/Red</li></ul>",
+            "product_rating_1": "5",
+            "product_rating_2": "4",
+            "product_rating_3": "4.5",
+            "product_rating_4": "4.5",
+            "product_rating_5": "4.5",
+            "product_rating_6": "5",
+            "product_rating_7": "4",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.5",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p>If you’re in search of an <a href=\"https://ironbullstrength.com/collections/prong-belts/products/pro-10mm-4in-double-prong-belt?sca_ref=3884196.eg5jxEttuv\" target=\"_blank\" title=\"https://ironbullstrength.com/collections/prong-belts/products/pro-10mm-4in-double-prong-belt?sca_ref=3884196.eg5jxEttuv\">oversized belt</a>, look no further! The Pro is available in S-3XL (25”-55”) size range. It strikes a tricky compromise between comfort and core support. Some lifters feel 13mm belts jabbing into their ribs or hip bones as they bend to pick up the barbell. Going for thin leather or vinyl doesn’t assist with breaking PRs.</p><p>Therefore, 10mm solid leather cuts with 10cm of uniform width are ideal for doing power moves comfortably. A roller prong system continues this versatility. Ironbull has missed the trick of overriding the backside of steel buckles with leather, as exquisitely done by WBCM. Nonetheless, you can quickly slide twin pins up and down its ten sets of closely packed prong holes.</p>",
+            "product_review_image": "shopify://shop_images/ironbull-belt-insta-by-ironbullstrength.jpg",
+            "half_width_review_image": false,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/CeLm8xNq27s/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\" title=\"https://www.instagram.com/p/CeLm8xNq27s/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">@ironbullstrength</a></p>",
+            "product_text_content_2": "<p>The sizing and fitting are on point, to say the least. Due to a single-layer construction, it's more susceptible to wear and tear. Despite apparent shortcomings in build quality, Ironbull charges a premium closer to lever belts than other prong-fastened systems.</p>",
+            "product_pros": "<ul><li>Up to 55 inch weight lifting belt sizing for big guys</li><li>10mm belts are suitable for versatile and comfortable strength training</li><li>Ten rows of holes enable micro-adjustable fit</li></ul>",
+            "product_cons": "<ul><li>Not as durable and affordable as alternative options</li></ul>"
+          }
+        },
+        "product_JntJ6m": {
+          "type": "product",
+          "settings": {
+            "product_title": "ROGUE USA Nylon Lifting Belt",
+            "short_product_title": "Rogue USA Nylon",
+            "product_position": "5",
+            "product_award": "BEST NYLON",
+            "product_url": "https://www.roguefitness.com/rogue-usa-nylon-lifting-belt/?a_aid=62ff8b7e519eb",
+            "product_main_image": "shopify://shop_images/rogue-nylon-belt.jpg",
+            "product_rating_description": "<p>Rogue’s offer is worth checking out. Although nylon doesn’t impress big guys as a strong and supportive material, it can do wonders for your lifting regime.</p><ul><li><strong>Fastening Mechanism:</strong> Velcro with a roller buckle</li><li><strong>Material: </strong>Nylon, Foam</li><li><strong>Sizes: </strong>XS-3XL (true to size)</li><li><strong>Waist Measurement Range:</strong> 26”-47”</li><li><strong>Width: </strong>5” (tapered)</li><li><strong>Thickness: </strong>6 mm</li><li><strong>Approved by:</strong> None</li><li><strong>Colors: </strong>Black, Camo, Pink, Gray/Red, Gray/Blue</li></ul>",
+            "product_rating_1": "4.5",
+            "product_rating_2": "4",
+            "product_rating_3": "3.5",
+            "product_rating_4": "5",
+            "product_rating_5": "4",
+            "product_rating_6": "5",
+            "product_rating_7": "4.5",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.4",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p><a href=\"https://www.roguefitness.com/rogue-usa-nylon-lifting-belt/?a_aid=62ff8b7e519eb\" target=\"_blank\" title=\"https://www.roguefitness.com/rogue-usa-nylon-lifting-belt/?a_aid=62ff8b7e519eb\">Nylon belts</a> have their perks and downsides. They are obviously not as tough as leather ones, so you won’t get enough back and abdominal support to max out compound lifts. On the other hand, nylon is comfortable and flexible: it's easier to move into, break into, and put it on and off thanks to a Velcro closure.</p><p>Rogue has also added a buckle and roller for seamless adjustments. The new USA belts showcase 6mm-thick foam panels with a shiny ripstop exterior that remains as good as new for years. These belts are 5” wide in the back, tapering down to 4” in front. The curve quickly contours to your body shape, staying out of the way of your dynamic movements.</p>",
+            "product_review_image": "shopify://shop_images/rogue-nylon-belt-insta.jpg",
+            "half_width_review_image": false,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/Csjv3dCOIzX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\" title=\"https://www.instagram.com/p/Csjv3dCOIzX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">@roguefitness</a></p>",
+            "product_text_content_2": "<p>A nylon webbing strap of uniform width lies in the center, along with an antimicrobial inner. As for gimmicks, a rectangular hook-and-loop portion lets you attach custom patches next to the buckle. Lastly, there are seven sizes and five color schemes to choose from!</p>",
+            "product_pros": "<ul><li>Excellent choice for minor, comfortable, and versatile support</li><li>Hassle-free adjustment with a Velcro fastener and roller buckle</li><li>Antimicrobial liner prevents the growth of bacteria and diseases</li></ul>",
+            "product_cons": "<ul><li>Not suitable for heavier loads</li><li>Width exceeding 4.75” mark, not IWF-compliant</li></ul>"
+          }
+        },
+        "richtext_3PNNgi": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>Do Bigger Guys Need a Weight Lifting Belt?</h2><p>A lifting belt supplements your natural ability to keep core muscles braced and spine neutral throughout the movement. That’s why lifters instantly add about 10%-15% to their PRs. Remember, a belt is an intermediate-to-advanced level tool to plunge across strength barriers and continue making gains.</p><p>When the time is right, everyone benefits from <a href=\"https://blog.warmbody-coldmind.com/guides/weight-lifting-belt-vs-back-brace/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/weight-lifting-belt-vs-back-brace/\">a lifting belt</a>. The right question to ask is not who needs it but when and why they need it.</p><p>You should consider wearing a belt once you’ve started lifting “heavy,” and it’s relative to the body weight. A rough baseline for compound exercises is around 1.5x of one’s body weight.</p><p>Accordingly, a 220-pound person must get past 300 lbs beltless, whereas a 130-pound elite female athlete can buckle up for a 200 lb lift. Whether you need a 25 inch or a 60 inch weight lifting belt is irrelevant.</p><h3>Pro Tip:</h3><p><em>Exercises that hugely benefit from belt usage are the ones that challenge your core or involve overhead movements. Conventional examples are back and front squats, deadlifts, rows, cleans-&-jerks, and military presses.</em></p><h2>What Are the Benefits of Wearing a Weight Lifting Belt?</h2><p>A weight lifting belt can bring a bunch of benefits to your training, regardless of your body size and frame. An observational study recounts the increase in intra-abdominal pressure (IAP), spinal stability, and the reduction of back compressive forces and injury risks as <a href=\"https://journals.lww.com/md-journal/Fulltext/2022/02180/The_influence_of_weightlifting_belts_and_wrist.57.aspx#:~:text=It%20is%20widely%20acknowledged%20that,spinal%20injuries%20during%20weightlifting%20training\" target=\"_blank\" title=\"https://journals.lww.com/md-journal/Fulltext/2022/02180/The_influence_of_weightlifting_belts_and_wrist.57.aspx#:~:text=It%20is%20widely%20acknowledged%20that,spinal%20injuries%20during%20weightlifting%20training\">widely acknowledged benefits of belt usage</a>.</p><p>Drawing upon it, we can expect a certain boost in the following two aspects:</p><h3>1. Performance</h3><p>Core muscles are critical in heavy barbell training, from spinal stabilization to force transfer. You have to take a deep breath and brace your abdominal cavities, a technique called the <a href=\"https://pubmed.ncbi.nlm.nih.gov/23222073/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/23222073/\">Valsalva maneuver</a>. It stiffens your torso and dials up IAP. Wearing a belt creates a wall to push your belly against, helping control breaths and breaking records. Both the <a href=\"https://pubmed.ncbi.nlm.nih.gov/17047531/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/17047531/\">belt usage and inhaling generate IAP</a>. The exact increase may vary with each individual, exercise, and belt type.</p><p>One study pitched <a href=\"https://pubmed.ncbi.nlm.nih.gov/1533266/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/1533266/\">beltless vs. belted squats over multiple reps</a>. A continuous 25%-40% boost in IAP was recorded with the switch. Furthermore, the activity of the involved core and paraspinal muscles remained unchanged. Another research concluded that <a href=\"https://pubmed.ncbi.nlm.nih.gov/11710410/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/11710410/\">belt usage accelerates barbell velocity and movement speed</a> during squats without alerting the joint range of motion. While deadlifting, <a href=\"https://pubmed.ncbi.nlm.nih.gov/35363215/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/35363215/\">total time and perceived exertion</a> decrease by using a belt.  </p>",
+            "rich_text_image": "shopify://shop_images/weight-lifting-with-nylon-belt-wbcm.jpg",
+            "rich_text_image_alt": "Weight lifting with nylon belt WBCM in use",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_DTH6Ey": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>2. Safety</h3><p>A rigid torso keeps the spine in a neutral and stress-free position. The intra-abdominal pressure and spinal safety go hand in hand. If IAP fails to rise sufficiently, the <a href=\"https://www.tandfonline.com/doi/abs/10.1080/00140138108559233\" target=\"_blank\" title=\"https://www.tandfonline.com/doi/abs/10.1080/00140138108559233\">lower back is at a greater risk of injury</a>. A belt maintains trunk tension while preventing hyperextension of the back. That’s why you should erect thicker walls for heavier spinal loading. <a href=\"https://blog.warmbody-coldmind.com/guides/nylon-vs-leather-lifting-belt/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/nylon-vs-leather-lifting-belt/\">Nylon belts</a> are great for recreational, beginner-level exercises, but they tend to flex and give in.</p><p>There is also the case of weight-induced back pain due to lifting. If you’re a big, tall, bulky guy – think more about it. Weight lifting <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1479027/\" target=\"_blank\" title=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1479027/\">belts can take away some of that spinal stress and shrinkage</a>. Note that lifting belts are a preventive, not a corrective, measure against weight-induced back pain, injuries, and fractures.</p><p><strong>The literature review hints that a possible facet of mental strength and confidence is involved as well. Most studies present participants’ opinions about feeling less discomfort and an inherent boost in willpower and self-belief. A 1996 pioneering study concluded that back belts give users a </strong><a href=\"https://pubmed.ncbi.nlm.nih.gov/15677061/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/15677061/\"><strong>subjective impression of increased support and lifting capacity</strong></a><strong>.</strong></p><p>Overall, using a weight lifting belt will strengthen your breathing and bracing patterns, improving overall lifting performance and safety. The technique, muscle engagement, and range of motion don’t seem to deteriorate.</p><p>Along with physical benefits, mental toughness is sharpened to tackle challenges. You should only strap up for max-effort attempts (over 80% of 1RM) in order to realize actual gains. Otherwise, it may end up turning into a crutch.</p><h2>What Should Bigger Guys Look for When Buying a Weight Lifting Belt?</h2><p>When you don’t fall in that average category, purchasing anything demands a bit of extra attention. The following is the set of specifications and features for big and tall weight lifting belts.</p><h3>1. Materials</h3><p>The material choice ultimately determines the support, flexibility, and durability of the belt.</p><p>A top-grade leather belt provides massive support and a lifelong company. It’s your best bet if you’re planning to smash compounded exercises regularly with tons of weights. It can be rigid, restrictive, and take some time to break in. Nylon is an alternative choice, a tough synthetic fabric that promises a mix of support and flexibility. It doesn't aid with heavy lifting as much as its leather-made counterparts.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "video_cCmDdU": {
+          "type": "video",
+          "settings": {
+            "youtube_video_url": "https://www.youtube.com/watch?v=pYTSu4ztUxM"
+          }
+        },
+        "richtext_FMFXe3": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>2. Sizing and Fit</h3><p>Once you’ve measured yourself up (can’t use the pant size), see the size chart of your shortlisted products. Make sure whether they’re regular fit or need sizing up/down. Mostly, you'll be looking at plus-sized variants like these:</p><ul><li><strong>XL weight lifting belts:</strong> 35”-40”/90-114 cm waist</li><li><strong>XXL weight lifting belts:</strong> 38”-48”/97-121 cm waist</li><li><strong>XXXL weight lifting belts:</strong> 41”-52”/105-131 cm waist</li></ul><p>The sample is taken from WBCM belts and may vary with each manufacturer and model. Use your primary fitness goal (bulking or losing weight) to guide this decision. Don’t hesitate to contact the seller in case you have any doubts.</p><h3>3. Dimensions of the Belt</h3><p>The width is most likely not an issue for big and bulky guys. A minimum of 4” back coverage will do fantastic. If you’re preparing for a competition, always check out dimension-related rules mandated by the relevant governing federations.</p><p>Figuring out optimal thickness is a rather puzzling matter. Chunky belts are highly supportive but less flexible. Since a heavy person uses a belt for pulling serious weight, choosing high-quality thick leather ensures sufficient support and stabilization.</p><p>However, if you’re solely interested in powerlifting, go for a 13mm hardy, while 6-10mm belts will round up dynamic weightlifting and cross-training movements as well. The <a href=\"https://www.researchgate.net/publication/325471418_Starting_at_the_Ground_up_-_Range_of_Motion_Requirements_and_Screening_tests_for_an_Olympic_Weightlifting_Program\" target=\"_blank\" title=\"https://www.researchgate.net/publication/325471418_Starting_at_the_Ground_up_-_Range_of_Motion_Requirements_and_Screening_tests_for_an_Olympic_Weightlifting_Program\">joint mobility prerequisites for weightlifting</a> are abundant. Not that powerlifters are inflexible — they simply don’t need that much flexibility to execute squats, deadlifts, and benches. You may have to separate your power and Oly lifting belt at some point.</p>",
+            "rich_text_image": "shopify://shop_images/how-use-lifting-belt.jpg",
+            "rich_text_image_alt": "How to use lifting belt for squats",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_79jrbg": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>4. Closure Type</h3><p>The last but not the least thing to look for in a weight lifting belt for fat guys is its fastening mechanism. It determines two key factors: security and adjustability. A reliable lockdown stays done up even under great stress, maintaining abdominal pressure and support. The adjustability refers to how quickly and smoothly you can switch the belt’s tightness. Athletes may have to adjust the fit for each session based on the exercise and bloating.</p><h4>Velcro Closure Type</h4><ul><li><strong>Security:</strong> Low</li><li><strong>Adjustability:</strong> High</li></ul><h4>Single Prong Closure Type</h4><ul><li><strong>Security:</strong> Medium</li><li><strong>Adjustability:</strong> Medium</li></ul><h4>Lever Closure Type</h4><ul><li><strong>Security:</strong> High</li><li><strong>Adjustability:</strong> Low</li></ul><p>As you can see, security and adjustability are in an inverse relationship. Velcro tabs are the most adjustable but least secure closure type, while a lever buckle offers maximum security but low adjustability. However, keep in mind that with a lever buckle you’ll need a screwdriver to change its position. Prong buckles, on the other hand, is a win-win option that provides decent security and adjustability.</p><h2>How to Properly Wear a Lifting Belt When You’re a Bigger Guy?</h2><p>If you’re moving before a mirror like a contortionist with your brand-new plus size weight lifting belt in hand, you’re not alone. Figuring out the proper use may be trickier than your little shopping errand, although you’d gradually get the hang of it. Follow these tips to smash your first belted round:</p><h3>1. Placement</h3><p>Find an ideal spot to clamp the belt. The navel usually serves as a pointer. However, you may like it better a little higher, especially if you’re packing a large belly.</p><p>The bottom line is to secure the belt in place, providing consistent core and lower back support.</p>",
+            "rich_text_image": "shopify://shop_images/back-squat-with-wbcm-lifting-belt.jpg",
+            "rich_text_image_alt": "Back squat with WBCM lifting belt in use",
+            "half_width_main_image": false
+          }
+        },
+        "richtext_UeDJgV": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h3>2. Tightness</h3><p>It's a real brain teaser and trial-and-error for belt newbies in a gym. You should leave a little wiggle between the belt and the skin to allow core expansion. However, it must not be too far to press your braced abdomen.</p><p>Prong belts should have a closer hole spacing to achieve custom fitting.</p><h3>3. Maintenance</h3><p>The best weight lifting belt for big guys can withstand a regular beating for over a decade. Consult manufacturer's guidelines and care tips.</p><p>Using a leather conditioner and polish can significantly increase its lifetime, while avoiding direct sunlight prevents cracks.</p><h3>Pro Tip:</h3><p><em>Wiping the sweat off the belt is necessary to preserve the integrity of the material. Moving metal parts are vulnerable. Occasional tightening and greasing should keep them in tip-top condition.</em></p><h2>FAQ</h2><h3>Can Overweight People Wear Weight Lifting Belts?</h3><p>Sure, anyone who needs additive support to lift heavier can use a weight lifting belt. There is no BMI limitation as such.</p><h3>Can You Be Too Fat for a Lifting Belt?</h3><p>The belt works even if a two-inch-thick layer of fat lies between it and core muscles. If you've got <a href=\"https://blog.warmbody-coldmind.com/guides/what-size-lifting-belt-should-i-get/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/what-size-lifting-belt-should-i-get/\">the size that fits</a>, there's nothing to fear.</p><h3>How Wide Should a Lifting Belt Be for a Big Guy?</h3><p>Your waist circumference decides the size of a belt. Big guys buy plus-size variants, ranging from forty-ish to fifty-ish inches.</p><h3>What Is the Largest Weight Lifting Belt Size?</h3><p>The largest size most manufacturers offer for a weight lifting belt for fat guys is 50-55\".</p><h3>How Big Is an XL Lifting Belt?</h3><p>The range of waist circumference a size covers differs with each belt. Generally, you'll see extra large weight lifting belts covering 40”, tops.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
+        "video_gdLf3Y": {
+          "type": "video",
+          "settings": {
+            "youtube_video_url": "https://www.youtube.com/watch?v=pbUIAgRAb3M"
+          }
+        },
+        "richtext_hzxQKM": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>Conclusion</h2><p>Lifting belts come in various shapes and designs, focusing differently on characteristics like security, ease of use, support, and versatility. It's your task to prioritize criteria according to your specific needs and goals. Regardless, the product you choose must be built, sized, and priced right.</p><p>Rest assured, the suggestions in this article check all the boxes. <a href=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\">WBCM Leather Belt</a> is the best weight lifting belt for big guys looking to do various lifting tasks. It has a leather construction, 6mm neutral thickness, tapered front, and double-prong roller buckle – the best of all worlds!</p><p>What do you think is the right combination of material, thickness, and fastening mechanism for a lifting belt? Let us know in the comment section.</p><p>Also read:</p><ul><li><a href=\"https://blog.warmbody-coldmind.com/guides/weighted-dips/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/weighted-dips/\">Benefits of Weighted Dips</a></li><li><a href=\"https://blog.warmbody-coldmind.com/guides/barbell-vs-dumbbell-shoulder-press/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/barbell-vs-dumbbell-shoulder-press/\">Barbell or Dumbbell Shoulder Press</a></li><li><a href=\"https://blog.warmbody-coldmind.com/guides/what-does-a-weightlifting-belt-do/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/what-does-a-weightlifting-belt-do/\">Benefits of Weightlifting Belt</a></li><li><a href=\"https://blog.warmbody-coldmind.com/guides/how-to-wear-a-lifting-belt/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/how-to-wear-a-lifting-belt/\">How to Wear a Lifting Belt</a></li><li><a href=\"https://blog.warmbody-coldmind.com/guides/types-of-weightlifting-belts/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/types-of-weightlifting-belts/\">Types of Weightlifting Belts</a></li></ul><p>References:</p><ol><li>A. J. Zink, W. C. Whiting, W. J. Vincent, A. J. McLaine, “The Effects of a Weight Belt on Trunk and Leg Muscle Activity and Joint Kinematics during the Squat Exercise,” Journal of Strength & Conditioning Research 15, no. 2 (2001): 235-240.</li><li>Brett Bousquet, Thomas Olson, “Starting at the Ground up - Range of Motion Requirements and Screening tests for an Olympic Weightlifting Program,” Strength & Conditioning Journal 40, no. 6 (2018): 56-67.</li><li>Daniel A. Hackett, Chin-Moi Chow, “The Valsalva Maneuver: Its Effect on Intra-Abdominal Pressure and Safety Issues during Resistance Exercise,” Journal of Strength & Conditioning Research 27, no. 8 (2013): 2338-2345.</li><li>J. E. Lander, J. R. Hundley, R. L. Simonton, “The Effectiveness of Weight-Belts during Multiple Repetitions of the Squat Exercise,” Medicine & Science in Sports & Exercise 24, no. 5 (1992): 603-609.</li><li>Idsart Kingma, Gert S. Faber, Edin K. Suwarganda, Tom B. M. Bruijnen, Rob J. A. Peters, Jaap H. van Dieën, “Effect of a Stiff Lifting Belt on Spine Compression during Lifting,” Spine (Phila Pa 1976) 31, no. 22 (2006): 833-839.</li><li>M. Magnusson, M. H. Pope, T. Hansson, “Does a Back Support Have a Positive Biomechanical Effect?” Applied Ergonomics 27, no. 3 (1996): 201-205.</li><li>N. D. Bourne, T. Reilly, “Effect of a Weightlifting Belt on Spinal Shrinkage,” British Journal of Sports Medicine 25, no. 4 (1991): 209-212.</li><li>S. J. Legg, “The Effect of Abdominal Muscle Fatigue and Training on the Intra-Abdominal Pressure Developed during Lifting,” Ergonomics 24, no. 3 (1981): 191-195.</li><li>Shirley S. M. Fong, Louisa M. Y. Chung, Yang Gao, Jeff Chak Wai Lee, Tak Ching Chang, Ada W. W. Ma, “The Influence of Weightlifting Belts and Wrist Straps on Deadlift Kinematics, Time to Complete a Deadlift and Rating of Perceived Exertion in Male Recreational Weightlifters: An Observational Study,” Medicine (Baltimore) 101, no. 7 (2022): e28918.</li></ol>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
         },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
@@ -94,21 +331,35 @@
         "tags",
         "title",
         "date",
+        "richtext_VHQ8Dg",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
+        "product_xUfr7F",
+        "product_xbUbVY",
+        "product_HpkQgF",
+        "product_iT47WE",
+        "product_JntJ6m",
+        "richtext_3PNNgi",
+        "richtext_DTH6Ey",
+        "video_cCmDdU",
+        "richtext_FMFXe3",
+        "richtext_79jrbg",
+        "richtext_UeDJgV",
+        "video_gdLf3Y",
+        "richtext_hzxQKM",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
       ],
       "settings": {
-        "criteria_1": "",
-        "criteria_2": "",
-        "criteria_3": "",
-        "criteria_4": "",
-        "criteria_5": "",
-        "criteria_6": "",
-        "criteria_7": "",
+        "criteria_1": "Sizing & Fit",
+        "criteria_2": "Durability",
+        "criteria_3": "Support",
+        "criteria_4": "Flexibility",
+        "criteria_5": "Security",
+        "criteria_6": "Adjustability",
+        "criteria_7": "Price/Quality",
         "criteria_8": "",
         "criteria_9": "",
         "criteria_10": "",
