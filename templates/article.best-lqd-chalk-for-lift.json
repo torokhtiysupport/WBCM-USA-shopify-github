@@ -483,6 +483,7 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
+            "sidebar_product_image": "shopify://shop_images/wbcm-liquid-chalk.jpg",
             "sidebar_product_url": "https://warmbody-coldmind.com/products/liquid-chalk?sca_ref=5120971.qSPHd7ePgJ",
             "sidebar_product_name": "WARM BODY COLD MIND LIQUID CHALK"
           }
