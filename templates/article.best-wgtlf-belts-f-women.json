@@ -54,13 +54,22 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_MLzRfx": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Weightlifting belts reduce lower back stress and injuries when lifting heavy. Speaking of heavier loads, the threshold isn’t absolute but relative to one’s body weight. At a certain stage, everyone must buckle up to maintain the progress and protection of their power training. </p><p>That’s why we’ve rounded up the best weightlifting belts for women.</p><p>More and more women have taken up weight training, and this diversity is also reflected in weightlifting gear. However, belts aren’t categorized similarly, which makes finding a correct fit all the more daunting. Women, on average, have smaller stature than men with lighter spinal loading compared to their male counterparts.</p><p>But worry not! Our team of elite female athletes and coaches has got you covered after running 23 different products through a gauntlet of tests. We keep updating the list regularly, so feel free to drop your suggestions. Let’s go!</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
+            "in_a_hurry_image": "shopify://shop_images/WARM-BODY-COLD-MIND-Nylon-Weightlifting-Belt.jpg",
             "in_a_hurry_image_alt": "",
-            "in_a_hurry_title": "",
-            "in_a_hurry_text": "",
-            "in_a_hurry_url": ""
+            "in_a_hurry_title": "Our Best Choice!",
+            "in_a_hurry_text": "<p><a href=\"https://warmbody-coldmind.com/products/nylon-weightlifting-belt-1?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\">WBCM Nylon Weightlifting Belt</a> is our top pick due to its reliability, versatility, and convenience in use. It’s made of premium-grade nylon, a highly adaptable material used in flexible swimsuits as well as firm hoses.</p>",
+            "in_a_hurry_url": "https://www.amazon.com/dp/B0B6FZ4ZBJ?tag=wbcmtor-20"
           }
         },
         "rating_table_VFkHUY": {
@@ -70,6 +79,104 @@
         "anchor_list_Unty8k": {
           "type": "anchor_list",
           "settings": {}
+        },
+        "product_79fUgz": {
+          "type": "product",
+          "settings": {
+            "product_title": "WARM BODY COLD MIND Nylon Weightlifting Belt",
+            "short_product_title": "WBCM Nylon",
+            "product_position": "1",
+            "product_award": "Gold Medal",
+            "product_url": "https://warmbody-coldmind.com/products/nylon-weightlifting-belt-1?sca_ref=5120971.qSPHd7ePgJ",
+            "product_main_image": "shopify://shop_images/WARM-BODY-COLD-MIND-Nylon-Weightlifting-Belt.jpg",
+            "product_rating_description": "<p>Warm Body Cold Mind (WBCM) is our very own strength training accessory brand, with each product designed and trusted by champion athletes.</p><ul><li><strong>Material:</strong> Nylon</li><li><strong>Sizes:</strong> 5 (S, M, L, XL, 2XL)</li><li><strong>Waist Measurement Range</strong>: 27”-40+”</li><li><strong>Closure Type:</strong> Velcro with a roller buckle</li><li><strong>Width:</strong> 4” (straight)</li><li><strong>Thickness:</strong> 3 mm</li><li><strong>Certification:</strong> IWF</li><li><strong>Colors:</strong> Black, Blue, Green, Pink</li><li><strong>Price:</strong> $$</li></ul>",
+            "product_rating_1": "5",
+            "product_rating_2": "4.5",
+            "product_rating_3": "4.5",
+            "product_rating_4": "4.5",
+            "product_rating_5": "5",
+            "product_rating_6": "5",
+            "product_rating_7": "5",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.8",
+            "first_button_text": "CHECK PRICE ON WBCM",
+            "second_button_text": "CHECK PRICE ON AMAZON",
+            "second_button_url": "https://www.amazon.com/dp/B0B6G22MBY?tag=wbcmb-20",
+            "product_text_content_1": "<p><a href=\"https://warmbody-coldmind.com/products/nylon-weightlifting-belt-1?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\">WBCM Nylon Weightlifting Belt</a> is our top pick due to its reliability, versatility, and convenience in use. It’s made of premium-grade nylon, a highly adaptable material used in flexible swimsuits as well as firm hoses. </p><p>You can expect moderate yet consistent support around your core muscles, thanks to a uniform 4\" width. Given the high-quality stitching and fastening mechanism, this best lifting belt for women will surely last a long time.</p>",
+            "product_review_image": "shopify://shop_images/training-best-weightlifting-belts-women-nylon-wbcm-insta-819x1024.jpg",
+            "half_width_review_image": true,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/CpK4q3GtWAq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\">@warmbody_coldmind</a></p>",
+            "product_text_content_2": "<p>Regardless of the stress applied by heavy weights or dynamic movements, the Velcro at WBCM belts doesn’t come loose or off. The auto-locking system with a stainless steel buckle and two-way rollers enables an adjustable and secure fit.</p><p>Color options are all solid with chic black undertones – high on style, high on substance! The sizing will be suitable for the most part, although a smaller variant  (below 27”) must be up there for women with tiny waists.</p>",
+            "product_pros": "<ul><li>Suitable for a variety of strength and WOD functional training</li><li>Lightweight, straight-cut design balances comfort and support </li><li>A roller buckle hook-and-loop pad allows quick tightening and removal</li></ul>",
+            "product_cons": "<ul><li>The smallest waist size available is 27”</li></ul>"
+          }
+        },
+        "product_xmrwmJ": {
+          "type": "product",
+          "settings": {
+            "product_title": "WARM BODY COLD MIND Leather Weightlifting Belt",
+            "short_product_title": "WBCM Leather",
+            "product_position": "2",
+            "product_award": "Silver Medal",
+            "product_url": "https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ",
+            "product_main_image": "shopify://shop_images/warm-body-cold-mind-leather-weightlifting-belt-6mm.png",
+            "product_rating_description": "<p>WBCM also offers a competition-approved leather workout belt for women if they are disappointed with the support of softer fabric belts.</p><ul><li><strong>Material:</strong> Leather</li><li><strong>Sizes:</strong> 6 (S, M, L, XL, 2XL, 3XL)</li><li><strong>Waist Measurement Range</strong>: 28”-52”</li><li><strong>Closure Type:</strong> Double-prong roller buckle</li><li><strong>Width:</strong> 4” (tapered)</li><li><strong>Thickness:</strong> 6 mm</li><li><strong>Certification:</strong> IWF</li><li><strong>Colors:</strong> Black</li><li><strong>Price:</strong> $$</li></ul>",
+            "product_rating_1": "5",
+            "product_rating_2": "4.5",
+            "product_rating_3": "5",
+            "product_rating_4": "5",
+            "product_rating_5": "4",
+            "product_rating_6": "4.5",
+            "product_rating_7": "5",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.7",
+            "first_button_text": "CHECK PRICE ON WBCM",
+            "second_button_text": "CHECK PRICE ON AMAZON",
+            "second_button_url": "https://www.amazon.com/WARM-BODY-COLD-MIND-Weightlifting/dp/B088NM97B1?tag=wbcmb-20",
+            "product_text_content_1": "<p>Genuine leather is hard to beat if you're seeking all-out support and stability. It’s a lot stronger than nylon, enhancing the belt's durability, longevity, and rigidity. As a compromise, it reduces ventilation and range of motion. However, 6mm belts reserve much of these comfort factors, as opposed to thicker 10mm or 13mm powerlifting variants.</p><p><a href=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\">The belt</a> comprises two layers of black leather glued together. One of them covers the dual-prong metal buckle to prevent skin contact. It's also padded, since padding isn’t prohibited by IWF rules. </p>",
+            "product_review_image": "shopify://shop_images/training-best-weightlifting-belts-women-leather-wbcm-insta-819x1024.jpg",
+            "half_width_review_image": true,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/CXMiK5QNswK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\">@warmbody_coldmind</a></p>",
+            "product_text_content_2": "<p>Furthermore, the 4” back support tapers off to the half in front. It avoids digging into ribs or hips, which is the biggest issue for people with smaller torsos. Such details make it an excellent choice for women's leather weightlifting belts.  </p><p>There aren’t many drawbacks as long as you’ve got <a href=\"https://blog.warmbody-coldmind.com/guides/what-size-lifting-belt-should-i-get/\" target=\"_blank\">the correct size</a>. There is also no color variety, so you’ll have to go with the laser-printed black, which fortunately goes with everything.</p>",
+            "product_pros": "<ul><li>Multi-layered, softened leather is not uncomfortably firm</li><li>Double-prong systems are more secure than single-prong or Velcro</li><li>One of the most affordable and dependable leather belts</li></ul>",
+            "product_cons": "<ul><li>The range of smaller sizes can be improved</li><li>Only one color option</li></ul>"
+          }
+        },
+        "product_pF7C4r": {
+          "type": "product",
+          "settings": {
+            "product_title": "ROGUE Toomey USA Nylon Lifting Belt",
+            "short_product_title": "Rogue",
+            "product_position": "3",
+            "product_award": "Bronze Medal",
+            "product_url": "https://www.roguefitness.com/toomey-usa-nylon-lifting-belt/?a_aid=62ff8b7e519eb",
+            "product_main_image": "shopify://shop_images/ROGUE-Toomey-USA-Nylon-Lifting-Belt.jpg",
+            "product_rating_description": "<p>It’s a special edition of Rogue’s famous made-in-USA Nylon belts, co-developed by Tia-Claire Toomey, the Australian weightlifting legend.</p><ul><li><strong>Material:</strong> Nylon</li><li><strong>Sizes:</strong> 7 (XS, S, M, L, XL, 2XL, 3XL)</li><li><strong>Waist Measurement Range</strong>: 26”-47”</li><li><strong>Closure Type:</strong> Velcro with a roller buckle</li><li><strong>Width:</strong> 4.5” (tapered)</li><li><strong>Thickness:</strong> 6 mm</li><li><strong>Certification:</strong> None</li><li><strong>Colors:</strong> Black</li><li><strong>Price:</strong> $$$$</li></ul>",
+            "product_rating_1": "4.5",
+            "product_rating_2": "5",
+            "product_rating_3": "4.5",
+            "product_rating_4": "4.5",
+            "product_rating_5": "5",
+            "product_rating_6": "5",
+            "product_rating_7": "4",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.6",
+            "first_button_text": "CHECK PRICE ON ROGUE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p>Besides a jacked-up price tag, there are several design differences from a typical nylon belt. You’ll immediately notice a thick and textured cloth. Additionally, the tapering isn’t linear, and only the sides have been trimmed to 2.75\". They form around body contours without risking stability since the front and back panels boast fuller width. </p><p>The matching matte-black buckle that loops and cinches the strap stays off-center, not snagging the barbell.</p><p>Toomey’s brainchild has this remarkable capacity to keep your trunk upright. Do deep snatches, cleans, low-bar squats, and deadlifts without seeing its edges flexing or sinking along the movement. However, all non-leather belts blend support with flexibility. They show limitations at max-effort attempts.</p><p><a href=\"https://www.roguefitness.com/toomey-usa-nylon-lifting-belt/?a_aid=62ff8b7e519eb\" target=\"_blank\">Rogue</a> has constructed a comfy foam frame with an antimicrobial inner and extended flaps. Even after a year of regular use, the ripstop exterior shines as good as new, although it only comes in black. One can bear a monochromatic leather female lifting belt, but nylon versions must be available in ample shades and schemes. The original USA Nylon still has five different colors.</p>",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
+            "product_text_content_2": "",
+            "product_pros": "<ul><li>4.5” exceptional back and abdominal support with tapered sides</li><li>A wider size range that fits true</li><li>End flaps have built-in pockets to avoid dangling free</li></ul>",
+            "product_cons": "<ul><li>Bulkier and pricier than most nylon belts</li><li>Limited color variety</li></ul>"
+          }
         },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
@@ -85,8 +192,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/WARM-BODY-COLD-MIND-Nylon-Weightlifting-Belt.jpg",
+            "sidebar_product_url": "https://www.amazon.com/dp/B0B6FZ4ZBJ?tag=wbcmtor-20",
+            "sidebar_product_name": "WBCM Nylon Weightlifting Belt"
           }
         }
       },
@@ -94,21 +202,25 @@
         "tags",
         "title",
         "date",
+        "richtext_MLzRfx",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
+        "product_79fUgz",
+        "product_xmrwmJ",
+        "product_pF7C4r",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
       ],
       "settings": {
-        "criteria_1": "",
-        "criteria_2": "",
-        "criteria_3": "",
-        "criteria_4": "",
-        "criteria_5": "",
-        "criteria_6": "",
-        "criteria_7": "",
+        "criteria_1": "Design",
+        "criteria_2": "Sizing",
+        "criteria_3": "Durability",
+        "criteria_4": "Support",
+        "criteria_5": "Comfort",
+        "criteria_6": "Adjustability",
+        "criteria_7": "Price/Quality",
         "criteria_8": "",
         "criteria_9": "",
         "criteria_10": "",
