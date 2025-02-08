@@ -322,8 +322,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/warm-body-cold-mind-leather-weightlifting-belt-6mm.jpg",
+            "sidebar_product_url": "https://www.amazon.com/dp/B093LPYPJL?tag=wbcmtor-20",
+            "sidebar_product_name": "WBCM Leather Weightlifting Belt"
           }
         }
       },
