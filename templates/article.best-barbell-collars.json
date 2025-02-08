@@ -417,6 +417,7 @@
         "image_a9tEMz": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Black-Barbell-Collars.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -446,6 +447,7 @@
         "image_dwjJCe": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Barbell-Collars-Front-Ssquat.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -461,6 +463,7 @@
         "image_HLjzPc": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Red-Barbell-Collars.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -476,6 +479,7 @@
         "image_byxixE": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Barbell-Collars.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -491,6 +495,7 @@
         "image_ytxmQN": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Barbell-Collars-on-Bar.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -506,6 +511,7 @@
         "image_mGTPF6": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Barbell-Collars-Maintaining.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
