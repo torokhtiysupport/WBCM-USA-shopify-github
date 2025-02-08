@@ -65,7 +65,8 @@
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
-            "in_a_hurry_image_alt": "",
+            "in_a_hurry_image": "shopify://shop_images/wbcm-liquid-chalk.webp",
+            "in_a_hurry_image_alt": "WBKM Liquid Chalk",
             "in_a_hurry_title": "Our Best Choice!",
             "in_a_hurry_text": "<p>The gold medal for the best gym chalk goes to the <a href=\"https://warmbody-coldmind.com/products/liquid-chalk?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/liquid-chalk?sca_ref=5120971.qSPHd7ePgJ\">Warm Body Cold Mind Liquid Chalk</a>. As with all WBCM products, the mastermind behind this chalk is none other than former Olympic weightlifter Oleksiy Torokhtiy.</p>",
             "in_a_hurry_url": "https://warmbody-coldmind.com/products/liquid-chalk?sca_ref=5120971.qSPHd7ePgJ"
