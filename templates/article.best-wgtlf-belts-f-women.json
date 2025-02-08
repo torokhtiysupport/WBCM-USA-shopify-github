@@ -352,6 +352,7 @@
         "image_zTUyNA": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Weightlifting-Belt-Back-Squat.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -381,6 +382,7 @@
         "image_jzaMtX": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Weightlifting-Belt.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -396,6 +398,7 @@
         "image_jwLxte": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Weightlifting-Belt-Workout.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -411,6 +414,7 @@
         "image_GA7BUD": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Weightlifting-Belt-Maintaining.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
@@ -426,6 +430,7 @@
         "image_7jmWYc": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WBCM-Weightlifting-Belt-Stability.jpg",
             "image_alt": "",
             "half_width_main_image": false
           }
