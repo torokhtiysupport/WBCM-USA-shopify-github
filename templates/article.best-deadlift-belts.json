@@ -54,13 +54,22 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_RPGrAx": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Deadlifts are popular yet complex exercises with many benefits but also risks. Core and back stability are crucial for a successful and safe deadlift. Therefore, experienced weightlifters often use a <a href=\"https://blog.warmbody-coldmind.com/guides/do-you-need-a-belt-to-deadlift/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/do-you-need-a-belt-to-deadlift/\">lifting belt for deadlifts</a> to achieve said stability.</p><p>To choose the best deadlift belt, our team of experts, including certified personal trainers, professional athletes, and ex-Olympic level weightlifters, pooled decades of first-hand experience.</p><p>Our picks were tried dozens of times, and the findings were compared to other deadlift belt reviews from our industry colleagues to reach a consensus. The lists are regularly updated to ensure all information is up-to-date, and products are available.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
-            "in_a_hurry_image_alt": "",
-            "in_a_hurry_title": "",
-            "in_a_hurry_text": "",
-            "in_a_hurry_url": ""
+            "in_a_hurry_image": "shopify://shop_images/warm-body-cold-mind-leather-weightlifting-belt-6mm_fa9cf639-5928-4d72-be11-327e850e890d.png",
+            "in_a_hurry_image_alt": "wbcm leather lifting belt",
+            "in_a_hurry_title": "Our Best Choice!",
+            "in_a_hurry_text": "<p>The <a href=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\" target=\"_blank\" title=\"https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ\">Warm Body Cold Mind leather lifting belt</a> has made an irrefutable case as the best belt for deadlifting. It combines a classic design with high-quality materials, while also minding the price.</p>",
+            "in_a_hurry_url": "https://warmbody-coldmind.com/products/weightlifting-lether-belt?sca_ref=5120971.qSPHd7ePgJ"
           }
         },
         "rating_table_VFkHUY": {
@@ -94,6 +103,7 @@
         "tags",
         "title",
         "date",
+        "richtext_RPGrAx",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
