@@ -242,6 +242,14 @@
             "product_cons": "<ul><li>The nylon can give out faster than the leather</li><li>Maximal waist size is not that high compared to other picks</li></ul>"
           }
         },
+        "richtext_VDbx6b": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<h2>Who Should Wear a Belt For Deadlifts?</h2><p>Deadlifts are a compound exercise targeting the posterior chain, which includes the calves, hamstrings, glutes, lats, and spinal muscles. Lower back injuries are especially common during deadlifts due to the possibility of misplacement and overstressing of the Lumbar Vertebrae (lower spine).</p><p>When we brace for a lifting exercise, our core expands outwards. The purpose of a weightlifting belt is to catch this expansion and act as a wall for the muscles to push against, increasing intra-abdominal pressure (IAP). IAP, among other things, provides stability to the lower spine. For this reason, many lifters turn to belts as their back brace for deadlifts.</p><p>However, that doesn’t mean a belt is always necessary when deadlifting. A belt is only really effective when we lift our maximums (over 75% of our max weight) or perform higher repetition numbers.</p><p>For beginners especially, it’s more important to focus on proper exercise technique and posture, saving weight belts for deadlift personal record attempts. Similarly, while the belt can enhance core stability, it’s not a substitution for core strength — if your core is not strong enough to support the weight, a belt won’t fix that.<br/><br/>Benefits of Using a Belt For Deadlifting<br/>We already briefly touched on the effects of using a lifting belt for deadlifts. Now let’s go a bit more in-depth on the proven benefits:<br/><br/>✅ Core Stability<br/>The main purpose of using weightlifting belts is to provide core stability to the wearer. Our core consists of multiple muscle groups surrounding our hips and spine in a full 360 degrees. When we attempt to lift a heavy object off the ground, such as when deadlifting, these muscles activate to stabilize our spine and hips.<br/><br/>As mentioned earlier, wearing a belt creates intra-abdominal pressure, which prevents excessive movement and flexion of our core muscles. This helps us keep the core muscles in place, providing structure to the spine and pelvis and preventing unwanted movement that can cause us to lose lifting power and balance, lowering the chance of spinal injury.<br/><br/></p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
           "settings": {}
@@ -274,6 +282,7 @@
         "product_NjJBxp",
         "product_gkJGrT",
         "product_mrRBUq",
+        "richtext_VDbx6b",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
