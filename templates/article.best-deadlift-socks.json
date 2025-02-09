@@ -406,8 +406,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/WBCM_Long_Weightlifting_Socks_2326f729-9c2d-4b7a-8592-0141baad767e.jpg",
+            "sidebar_product_url": "https://warmbody-coldmind.com/products/long-weightlifting-socks?sca_ref=5120971.qSPHd7ePgJ",
+            "sidebar_product_name": "WBCM Long Weightlifting Socks"
           }
         }
       },
