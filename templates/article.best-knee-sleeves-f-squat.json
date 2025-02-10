@@ -274,6 +274,39 @@
             "product_cons": "<ul><li>At full price, they’re quite expensive</li></ul>"
           }
         },
+        "product_wapV3F": {
+          "type": "product",
+          "settings": {
+            "product_title": "RDX K4 Weightlifting Knee Wraps",
+            "short_product_title": "RDX",
+            "product_position": "7",
+            "product_award": "BEST KNEE WRAPS",
+            "product_url": "https://rdxsports.com/k4-knee-wraps?acc=15277",
+            "product_main_image": "shopify://shop_images/rdx-knee-sleeves.jpg",
+            "product_rating_description": "<p>So far we’ve talked about knee sleeves, and now we’d like to mention our favorite knee wraps. Knee wraps are best suited for heavy lifts. If you’re looking for maximal support and assistance for your next personal record (PR) attempt, choose the RDS K4 Knee Wraps for weightlifting.</p><ul><li><strong>Material:</strong> Cotton</li><li><strong>Sizing:</strong> S, M, L, XL</li><li><strong>Circumference:</strong> 16.5” to 19.5” </li><li><strong>Length:</strong> 2m (roughly 78 inches)</li><li><strong>Thickness:</strong> Not specified</li><li><strong>Design:</strong> Unisex</li><li><strong>Color:</strong> Red, Blue, Pink, Sky Blue</li><li><strong>Best For:</strong> Powerlifting</li></ul>",
+            "product_rating_1": "4.5",
+            "product_rating_2": "4.5",
+            "product_rating_3": "4",
+            "product_rating_4": "5",
+            "product_rating_5": "4",
+            "product_rating_6": "4.5",
+            "product_rating_7": "5",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.5",
+            "first_button_text": "CHECK PRICE ON RDX",
+            "second_button_text": "CHECK PRICE ON AMAZON",
+            "second_button_url": "https://www.amazon.com/RDX-Elasticated-Compression-Powerlifting-Bodybuilding/dp/B09T77H2JT?tag=wbcmb-20",
+            "product_text_content_1": "<p>The <a href=\"https://rdxsports.com/k4-knee-wraps?acc=15277\" target=\"_blank\" title=\"https://rdxsports.com/k4-knee-wraps?acc=15277\">RDX K4 lifting wraps</a> are constructed from highly stretchable and breathable cotton material, ensuring that your knees remain comfortable during your workouts. With a generous length of 2 meters, they’re easy to wrap, and their secure hook & loop velcro closure keeps them firmly in place.</p><p>What sets these knee wraps apart is their certification by <a href=\"https://www.oeko-tex.com/en/apply-here/oeko-tex-standard-100\" target=\"_blank\" title=\"https://www.oeko-tex.com/en/apply-here/oeko-tex-standard-100\">OEKO-TEX® Standard 100</a>, which guarantees that they are made from high-quality, non-hazardous, and sustainable materials. Furthermore, they’re approved for use in competitions governed by the World Powerlifting Congress.</p>",
+            "product_review_image": "shopify://shop_images/rdx-knee-sleeves-insta.jpg",
+            "half_width_review_image": true,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/CLW1yZlBJfI/?utm_source=ig_web_copy_link\" target=\"_blank\" title=\"https://www.instagram.com/p/CLW1yZlBJfI/?utm_source=ig_web_copy_link\">@msnadeangetsfit</a></p>",
+            "product_text_content_2": "<p>It's worth noting, however, that knee wraps are not intended for prolonged, extended workouts the same as knee sleeves. The snug fit that makes them effective in supporting your knees during heavy lifts may also exert additional pressure on your joints if used for extended periods.</p>",
+            "product_pros": "<ul><li>Highly breathable material</li><li>Easy to wrap</li><li>Strong hook & loop closure</li><li>Best for single attempt heavy lifts (PR’s)</li></ul>",
+            "product_cons": "<ul><li>Knee wraps are not suitable for extended periods of use</li></ul>"
+          }
+        },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
           "settings": {}
@@ -307,6 +340,7 @@
         "product_kR8gMm",
         "product_m87QgV",
         "product_NppFig",
+        "product_wapV3F",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
