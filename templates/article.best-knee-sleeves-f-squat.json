@@ -54,13 +54,22 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_6yVzYm": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Squats are a compound exercise popular among athlete levels, from seasoned weightlifters to recreational gym goers. However, this exercise and its variations can be tough on your joints, which is why many pros turn to weightlifting knee sleeves for extra support. These are the 9 best knee sleeves for squats to get in 2025 and the benefits of using them.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
-            "in_a_hurry_image_alt": "",
-            "in_a_hurry_title": "",
-            "in_a_hurry_text": "",
-            "in_a_hurry_url": ""
+            "in_a_hurry_image": "shopify://shop_images/wbcm-knee-sleeves.jpg",
+            "in_a_hurry_image_alt": "wbcm knee sleeves",
+            "in_a_hurry_title": "Our Best Choice!",
+            "in_a_hurry_text": "<p>The Warm Body Cold Mind Weightlifting Sleeves are designed by champions for champions. As a former Olympic athlete with decades of experience, I know exactly how knee sleeves should fit and feel. I’m confident to call them the best knee sleeves for weightlifting currently on the market.</p>",
+            "in_a_hurry_url": "https://warmbody-coldmind.com/products/weightlifting-knee-sleeves?sca_ref=5120971.qSPHd7ePgJ"
           }
         },
         "rating_table_VFkHUY": {
@@ -94,6 +103,7 @@
         "tags",
         "title",
         "date",
+        "richtext_6yVzYm",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
@@ -102,13 +112,13 @@
         "sidebar_aUbMMd"
       ],
       "settings": {
-        "criteria_1": "",
-        "criteria_2": "",
-        "criteria_3": "",
-        "criteria_4": "",
-        "criteria_5": "",
-        "criteria_6": "",
-        "criteria_7": "",
+        "criteria_1": "Material Quality",
+        "criteria_2": "Compression",
+        "criteria_3": "Easy of Use",
+        "criteria_4": "Longevity",
+        "criteria_5": "Comfort",
+        "criteria_6": "Support",
+        "criteria_7": "Value for Money",
         "criteria_8": "",
         "criteria_9": "",
         "criteria_10": "",
