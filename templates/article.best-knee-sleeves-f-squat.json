@@ -145,6 +145,39 @@
             "product_cons": "<ul><li>Lacks larger sizes</li></ul>"
           }
         },
+        "product_UmYqXy": {
+          "type": "product",
+          "settings": {
+            "product_title": "Iron Bull Strength 7mm Knee Sleeves",
+            "short_product_title": "Iron Bull",
+            "product_position": "3",
+            "product_award": "BEST SLEEVES",
+            "product_url": "https://ironbullstrength.com/products/7mm-knee-sleeves?sca_ref=3884196.eg5jxEttuv",
+            "product_main_image": "shopify://shop_images/iron-bull-knee-sleeves.jpg",
+            "product_rating_description": "<p>Iron Bull Strength is a Canadian-based brand of fitness accessories. Their focus is on high-level athletes and top-tier competitions, with a wide range of products approved in all sorts of competitive lifting circuits. If you’re an experienced lifter familiar with using weightlifting knee sleeves and want the best 7mm sleeves, these made for an easy recommendation</p><ul><li><strong>Material:</strong> SCR Neoprene</li><li><strong>Sizing:</strong> S, M, L, XL, 2XL</li><li><strong>Circumference: </strong>&lt; 11.8 to 18.3</li><li><strong>Length: </strong>11.8”</li><li><strong>Thickness:</strong> 7mm</li><li><strong>Design:</strong> Unisex</li><li><strong>Color:</strong> Black (+ Blue, Gray, Green, Pink, Purple, or Red details)</li><li><strong>Best For:</strong> Powerlifting</li></ul>",
+            "product_rating_1": "5",
+            "product_rating_2": "5",
+            "product_rating_3": "5",
+            "product_rating_4": "4.5",
+            "product_rating_5": "4.5",
+            "product_rating_6": "5",
+            "product_rating_7": "4.5",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.8",
+            "first_button_text": "CHECK PRICE ON IRONBULL",
+            "second_button_text": "CHECK PRICE ON AMAZON",
+            "second_button_url": "https://www.amazon.com/Weightlifting-Powerlifting-Approved-High-Performance-Compression/dp/B07B46LZ3Z?tag=wbcmb-20",
+            "product_text_content_1": "<p>These <a href=\"https://ironbullstrength.com/products/7mm-knee-sleeves?sca_ref=3884196.eg5jxEttuv\" target=\"_blank\" title=\"https://ironbullstrength.com/products/7mm-knee-sleeves?sca_ref=3884196.eg5jxEttuv\">knee sleeves</a> are primarily made of SCR Neoprene, a medium-grade Neoprene composite often seen in protective sports gear. Connected with doubly-stitched welded seams, they can withstand high levels of pressure, making these some of the best squatting knee sleeves.</p><p>The design is unisex and minimalist, with a black base and a few color options that highlight the details like the logo and contours. Compared to other knee sleeves, they offer decent size and design variety and come at a slightly above-average price.</p>",
+            "product_review_image": "shopify://shop_images/iron-bull-knee_sleeves-insta.jpg",
+            "half_width_review_image": true,
+            "product_review_image_caption": "<p>Photo by <a href=\"https://www.instagram.com/p/CoCkwVlr8W6/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==\" target=\"_blank\" title=\"https://www.instagram.com/p/CoCkwVlr8W6/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==\">@ironbullstrength</a></p>",
+            "product_text_content_2": "<p>Iron Bull Strength went out of its way to secure approval in all powerlifting federations, including IWF, IPF, USAPL, USPA, and IPL. Boasting a standardized 7mm thickness and what they call “Level 2” compression levels, they provide hefty support and stability. They’re 30cm in length, which is the maximum allowed by the International Weightlifting Federation (IWF) — the governing body of the Summer Olympic Games.</p>",
+            "product_pros": "<ul><li>Approved in all powerlifting circuits</li><li>Doubly stitched for extra durability</li><li>Minimalist, eye-catching design</li></ul>",
+            "product_cons": "<ul><li>One-size-fits-all length is not ideal for all athletes</li></ul>"
+          }
+        },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
           "settings": {}
@@ -174,6 +207,7 @@
         "anchor_list_Unty8k",
         "product_QFzHbh",
         "product_qmG4Vh",
+        "product_UmYqXy",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
