@@ -53,13 +53,22 @@
           "type": "date",
           "settings": {}
         },
+        "richtext_QAQHKH": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Adding knee support for squats is always a good idea, as the exercise can be quite stressful on the joints, especially at higher weights. If you want more power output specifically, weightlifting knee wraps are the way to go.</p><p>In this article, we will cover the 9 best knee wraps for squats and explain how to use them. Weightlifters, powerlifters, and personal record squatters should especially pay attention to this simple and effective tool but also be wary of its overuse.</p><p>Our expert team of both current and ex-professional weightlifters, certified coaches, and squat enthusiasts has tried over 50 similar commercially available products. After sharing personal experiences and comparing our findings with those of industry colleagues and online reviews, we have selected 9 products that stood out. Our lists are also regularly updated to make sure the information is up to date.</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
+        },
         "in_a_hurry_w6MGQW": {
           "type": "in_a_hurry",
           "settings": {
-            "in_a_hurry_image_alt": "",
-            "in_a_hurry_title": "",
-            "in_a_hurry_text": "",
-            "in_a_hurry_url": ""
+            "in_a_hurry_image": "shopify://shop_images/rogue-knee-wraps.jpg",
+            "in_a_hurry_image_alt": "Rogue Knee Wraps",
+            "in_a_hurry_title": "Our Best Choice!",
+            "in_a_hurry_text": "<p>The <a href=\"https://www.roguefitness.com/rogue-knee-wraps/?a_aid=62ff8b7e519eb\" target=\"_blank\" title=\"https://www.roguefitness.com/rogue-knee-wraps/?a_aid=62ff8b7e519eb\">Rogue Knee Wraps</a> are made with a commercial elastic material mixed with soft cotton. They come in two sizes: 6.5 feet and 9 feet. Once wrapped, they are locked in place with an industrial-grade velcro strap — nothing groundbreaking but good enough.</p>",
+            "in_a_hurry_url": "https://www.roguefitness.com/rogue-knee-wraps/?a_aid=62ff8b7e519eb"
           }
         },
         "rating_table_VFkHUY": {
@@ -93,6 +102,7 @@
         "tags",
         "title",
         "date",
+        "richtext_QAQHKH",
         "in_a_hurry_w6MGQW",
         "rating_table_VFkHUY",
         "anchor_list_Unty8k",
