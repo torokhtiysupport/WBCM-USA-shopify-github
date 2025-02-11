@@ -71,12 +71,20 @@
             "in_a_hurry_url": "https://www.roguefitness.com/rogue-knee-wraps/?a_aid=62ff8b7e519eb"
           }
         },
-        "rating_table_VFkHUY": {
-          "type": "rating_table",
-          "settings": {}
+        "richtext_RekzH7": {
+          "type": "richtext",
+          "settings": {
+            "rich_text_content": "<p>Knee wraps are straightforward products with essentially a single use. Most are made according to standardized sizing, dictated by relevant weightlifting competition standards. As such, you’ll find many of these have more similarities than differences. Here’s a quick overview of our picks:</p>",
+            "rich_text_image_alt": "",
+            "half_width_main_image": false
+          }
         },
         "anchor_list_Unty8k": {
           "type": "anchor_list",
+          "settings": {}
+        },
+        "rating_table_VFkHUY": {
+          "type": "rating_table",
           "settings": {}
         },
         "why_trust_us_EbVgbF": {
@@ -104,8 +112,9 @@
         "date",
         "richtext_QAQHKH",
         "in_a_hurry_w6MGQW",
-        "rating_table_VFkHUY",
+        "richtext_RekzH7",
         "anchor_list_Unty8k",
+        "rating_table_VFkHUY",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
