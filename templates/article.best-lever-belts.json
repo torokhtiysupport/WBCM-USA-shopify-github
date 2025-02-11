@@ -425,8 +425,9 @@
         "sidebar_aUbMMd": {
           "type": "sidebar",
           "settings": {
-            "sidebar_product_url": "",
-            "sidebar_product_name": ""
+            "sidebar_product_image": "shopify://shop_images/Rogue_Leather_4in_Lever_Belt.jpg",
+            "sidebar_product_url": "https://www.roguefitness.com/rogue-branded-black-leather-13mm-4-inch-lever-belt/?a_aid=62ff8b7e519eb",
+            "sidebar_product_name": "Rogue Leather 4″ Lever Belt"
           }
         }
       },
