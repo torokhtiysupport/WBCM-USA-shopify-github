@@ -1,0 +1,122 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "17007351490292b520": {
+      "type": "apps",
+      "blocks": {
+        "86c9c15f-872a-48bd-ae2e-92824e88a96c": {
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/article-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "bb_capitalize": true,
+            "bb_font_size": 13,
+            "bb_padding": 55,
+            "bb_top_padding": 55,
+            "bb_margin": 0,
+            "bb_align": "center",
+            "bb_color": "#c0c0c0"
+          }
+        }
+      },
+      "block_order": [
+        "86c9c15f-872a-48bd-ae2e-92824e88a96c"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "custom-main-article",
+      "blocks": {
+        "tags": {
+          "type": "tags",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "date": {
+          "type": "date",
+          "settings": {}
+        },
+        "in_a_hurry_w6MGQW": {
+          "type": "in_a_hurry",
+          "settings": {
+            "in_a_hurry_image_alt": "",
+            "in_a_hurry_title": "",
+            "in_a_hurry_text": "",
+            "in_a_hurry_url": ""
+          }
+        },
+        "rating_table_VFkHUY": {
+          "type": "rating_table",
+          "settings": {}
+        },
+        "anchor_list_Unty8k": {
+          "type": "anchor_list",
+          "settings": {}
+        },
+        "why_trust_us_EbVgbF": {
+          "type": "why_trust_us",
+          "settings": {}
+        },
+        "meta": {
+          "type": "meta",
+          "settings": {
+            "show_author": true,
+            "show_sharing": false
+          }
+        },
+        "sidebar_aUbMMd": {
+          "type": "sidebar",
+          "settings": {
+            "sidebar_product_url": "",
+            "sidebar_product_name": ""
+          }
+        }
+      },
+      "block_order": [
+        "tags",
+        "title",
+        "date",
+        "in_a_hurry_w6MGQW",
+        "rating_table_VFkHUY",
+        "anchor_list_Unty8k",
+        "why_trust_us_EbVgbF",
+        "meta",
+        "sidebar_aUbMMd"
+      ],
+      "settings": {
+        "criteria_1": "",
+        "criteria_2": "",
+        "criteria_3": "",
+        "criteria_4": "",
+        "criteria_5": "",
+        "criteria_6": "",
+        "criteria_7": "",
+        "criteria_8": "",
+        "criteria_9": "",
+        "criteria_10": "",
+        "show_img": true
+      }
+    }
+  },
+  "order": [
+    "17007351490292b520",
+    "main"
+  ]
+}
