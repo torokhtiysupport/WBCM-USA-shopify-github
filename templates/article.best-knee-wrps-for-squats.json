@@ -212,7 +212,7 @@
             "second_button_url": "https://www.amazon.com/Gymreapers-Squats-Weightlifting-Powerlifting-Training/dp/B01N5PGK1W/?tag=wbcmb-20",
             "product_text_content_1": "<p>These <a href=\"https://www.gymreapers.com/products/gymreapers-knee-wraps?aff=172\" target=\"_blank\" title=\"https://www.gymreapers.com/products/gymreapers-knee-wraps?aff=172\">knee wraps</a> are made from raw elastic. On the one hand, they’re highly stretchable and snappy. On the other hand, the lack of a soft fabric such as cotton in the mix makes them a bit abrasive to the skin. This isn’t the end of the world, but it’s definitely not as comfortable to wear as our top pics.</p><p>A big positive about these knee wraps is the incorporation of a longer velcro strap, which helps with setting up your ideal tightness and fastening. Furthermore, reinforced stitching on the outline gives this better-than-average durability.</p>",
             "product_review_image": "shopify://shop_images/gymreapers-knee-wraps-in-use-instagram.jpg",
-            "half_width_review_image": false,
+            "half_width_review_image": true,
             "product_review_image_caption": "<p><em>Photo by </em><a href=\"https://www.instagram.com/p/CGaGSHbgciH/\" target=\"_blank\" title=\"https://www.instagram.com/p/CGaGSHbgciH/\"><em>@gymreapers</em></a></p>",
             "product_text_content_2": "<p>Gymreapers always come out with a variety of color choices, helping you customize your gym look. The white skull logo has always been a bold choice, although it may not be to everyone’s liking.</p><p>The price is a bit higher than average, but Gymreapers compensates for it with a 1-year replacement warranty should something go wrong with your purchase. This isn’t typically found on expendable and inexpensive items like knee wraps, and it’s a friendly reminder of the great customer service from the brand.</p>",
             "product_pros": "<ul><li>Reinforced stitching throughout the lining</li><li>A long velcro strap helps with fastening</li><li>Lots of color options</li><li>1-year replacement warranty</li></ul>",
@@ -222,9 +222,9 @@
         "product_7yBTQn": {
           "type": "product",
           "settings": {
-            "product_title": "",
-            "short_product_title": "",
-            "product_position": "",
+            "product_title": "Element26 Knee Wraps",
+            "short_product_title": "Element26",
+            "product_position": "5",
             "product_award": "",
             "product_url": "",
             "product_rating_description": "",
