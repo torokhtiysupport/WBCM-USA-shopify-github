@@ -71,6 +71,10 @@
             "in_a_hurry_url": "https://www.roguefitness.com/rogue-knee-wraps/?a_aid=62ff8b7e519eb"
           }
         },
+        "anchor_list_Unty8k": {
+          "type": "anchor_list",
+          "settings": {}
+        },
         "richtext_RekzH7": {
           "type": "richtext",
           "settings": {
@@ -79,13 +83,73 @@
             "half_width_main_image": false
           }
         },
-        "anchor_list_Unty8k": {
-          "type": "anchor_list",
-          "settings": {}
-        },
         "rating_table_VFkHUY": {
           "type": "rating_table",
           "settings": {}
+        },
+        "product_R6pLpp": {
+          "type": "product",
+          "settings": {
+            "product_title": "Rogue Knee Wraps",
+            "short_product_title": "Rogue",
+            "product_position": "1",
+            "product_award": "Gold Medal",
+            "product_url": "https://www.roguefitness.com/rogue-knee-wraps/?a_aid=62ff8b7e519eb",
+            "product_main_image": "shopify://shop_images/rogue-knee-wraps.jpg",
+            "product_rating_description": "<p>Rogue Fitness is a well-known and respected brand in the world of weightlifting. Their gear is used everywhere, from commercial gyms to the highest-tier weightlifting competitions. If you want to get the best knee wraps for squats but don’t want to think too much about it, these are a proven choice.</p><ul><li><strong>Length:</strong> 6.5 ft or 9 ft</li><li><strong>Width:</strong> 3”</li><li><strong>Material:</strong> Elastic, cotton, polyester</li><li><strong>Fastening Style:</strong> Velcro strap</li><li><strong>Used For:</strong> Weightlifting, powerlifting</li><li><strong>Color:</strong> Black (with red stripes)</li><li><strong>Price:</strong> $$</li></ul>",
+            "product_rating_1": "5",
+            "product_rating_2": "5",
+            "product_rating_3": "5",
+            "product_rating_4": "5",
+            "product_rating_5": "4.75",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "4.95",
+            "first_button_text": "CHECK PRICE ON ROGUE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "<p>The <a href=\"https://www.roguefitness.com/rogue-knee-wraps/?a_aid=62ff8b7e519eb\" target=\"_blank\" title=\"https://www.roguefitness.com/rogue-knee-wraps/?a_aid=62ff8b7e519eb\">Rogue Knee Wraps</a> are made with a commercial elastic material mixed with soft cotton. They come in two sizes: 6.5 feet and 9 feet. Once wrapped, they are locked in place with an industrial-grade velcro strap — nothing groundbreaking but good enough.</p><p>Both versions are 3-inch thick, which is standard across knee wraps. The shorter one is in line with most powerlifting competition standards, making it competitively viable across various divisions. Meanwhile, bodybuilders, strongmen, or just generally bigger athletes might find more value in the 9-foot variant.</p>",
+            "product_review_image": "shopify://shop_images/knee-wraps-in-use-wbcm.jpg",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
+            "product_text_content_2": "<p>Right now, they’re available only in one color scheme, which is black with red stripes. Nothing wrong with it per se, but it means not much versatility in the looks department. This does limit the appeal for some, but it’s an easy fix to introduce more colors. Despite the brand name, they still managed to keep them at a fairly low price, meaning you get great value for your money.</p>",
+            "product_pros": "<ul><li>Made by a trusted brand</li><li>Available in two sizes</li><li>Excellent value for money</li></ul>",
+            "product_cons": "<ul><li>We’d like to see more color options</li></ul>"
+          }
+        },
+        "product_Gpqnpc": {
+          "type": "product",
+          "settings": {
+            "product_title": "RDX K2 Compression Knee Wraps",
+            "short_product_title": "RDX",
+            "product_position": "2",
+            "product_award": "Silver Medal",
+            "product_url": "https://rdxsports.com/products/rdx-power-lifting-knee-wraps-bandages-support-training?acc=15277",
+            "product_rating_description": "",
+            "product_rating_1": "",
+            "product_rating_2": "",
+            "product_rating_3": "",
+            "product_rating_4": "",
+            "product_rating_5": "",
+            "product_rating_6": "",
+            "product_rating_7": "",
+            "product_rating_8": "",
+            "product_rating_9": "",
+            "product_rating_10": "",
+            "total_rating": "",
+            "first_button_text": "CHECK LATEST PRICE",
+            "second_button_text": "",
+            "second_button_url": "",
+            "product_text_content_1": "",
+            "half_width_review_image": false,
+            "product_review_image_caption": "",
+            "product_text_content_2": "",
+            "product_pros": "",
+            "product_cons": ""
+          }
         },
         "why_trust_us_EbVgbF": {
           "type": "why_trust_us",
@@ -112,19 +176,21 @@
         "date",
         "richtext_QAQHKH",
         "in_a_hurry_w6MGQW",
-        "richtext_RekzH7",
         "anchor_list_Unty8k",
+        "richtext_RekzH7",
         "rating_table_VFkHUY",
+        "product_R6pLpp",
+        "product_Gpqnpc",
         "why_trust_us_EbVgbF",
         "meta",
         "sidebar_aUbMMd"
       ],
       "settings": {
-        "criteria_1": "",
-        "criteria_2": "",
-        "criteria_3": "",
-        "criteria_4": "",
-        "criteria_5": "",
+        "criteria_1": "Compression",
+        "criteria_2": "Material",
+        "criteria_3": "Elasticity",
+        "criteria_4": "Durability",
+        "criteria_5": "Fastening",
         "criteria_6": "",
         "criteria_7": "",
         "criteria_8": "",
