@@ -21,6 +21,7 @@
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
+            "enable_custom_feature": false,
             "bb_capitalize": true,
             "bb_font_size": 13,
             "bb_padding": 55,
@@ -334,7 +335,8 @@
           "type": "richtext",
           "settings": {
             "rich_text_content": "<h3>4. Functionality</h3><p>Prong belts, both single- and double-prong ones, are manually adjusted through buckle holes and have a more traditional fit. Conversely, you can adjust a lever belt quickly to get a more consistent fit. Double-prong belts can provide additional security but can sometimes be quite difficult to adjust quickly.</p><h3>5. Precautions</h3><p>However, keep in mind that lever belts are more expensive than traditional prong belts, as they are made of high-quality leather. Another point is that a lever belt is personalized, meaning it won't fit multiple people because of the tightness setting and difference in waist size. To ensure a proper fit and maximum benefit during training, each lifter needs to buy their own belt.</p><p>The last precaution is that some lifters become too reliant on the lever belt, which may lead to reducing the strength and stability of the core over time. Therefore, it's better to wear this accessory to aid yourself when dealing with heavy weights.</p><h2>3 Benefits of Prong Belts</h2><p>With prong weightlifting belts, a lifter can adjust the tightness easily, as there are more options with single or double straps. All you need to do is to pull the strap to tighten or loosen the belt. Some can keep the belt looser to engage the core better during the lifts. Unlike with a lever belt, once you set its tightness, in order to reset it you need to unscrew the lever with a screwdriver and adjust it to the right fit.</p><p>Prong belts come with a more traditional buckle system and have a single or double-prong design. The key advantages of prong belts are the following:</p><h3>1. Adjustability</h3><p>Prong belts are easy to tighten or loosen for a perfect fit, accommodating changes in waist size or clothing without a screwdriver. This feature makes prong belts more versatile; however, fastening and unfastening can be more time-consuming.</p>",
-            "rich_text_image_alt": "",
+            "rich_text_image": "shopify://shop_images/Using_adjustable_lever_belt_for_lifting.jpg",
+            "rich_text_image_alt": "Using adjustable lever belt for lifting weights",
             "half_width_main_image": false
           }
         },
