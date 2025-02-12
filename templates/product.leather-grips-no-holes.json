@@ -297,32 +297,13 @@
         "section-bottom-margin": false
       }
     },
-    "284a4ec1-be05-4fed-a8bd-782b214f21e9": {
-      "type": "section-custom",
-      "blocks": {
-        "template--21720484217142__284a4ec1-be05-4fed-a8bd-782b214f21e9-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Hand_Grips_Pro_Features.jpg",
-            "link": "",
-            "width": "2/3"
-          }
-        }
-      },
-      "block_order": [
-        "template--21720484217142__284a4ec1-be05-4fed-a8bd-782b214f21e9-image-1"
-      ],
-      "settings": {
-        "section-bottom-margin": false
-      }
-    },
     "f47e7c52-8d76-4826-80a7-073e15a0842e": {
       "type": "section-multi-column-images",
       "blocks": {
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/HOW_TO_USE_LEATHER_HAND_GRIPS_STEP_2.jpg",
+            "image": "shopify://shop_images/leather-grips-no-holes-how-to-use-1.jpg",
             "title": "Step 1",
             "sub_title": "",
             "desc": "<p><br/></p>",
@@ -333,7 +314,7 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/HOW_TO_USE_LEATHER_HAND_GRIPS_STEP_1.jpg",
+            "image": "shopify://shop_images/leather-grips-no-holes-how-to-use-2.jpg",
             "title": "Step 2",
             "sub_title": "",
             "desc": "<p><br/><br/></p>",
@@ -344,7 +325,7 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/HOW_TO_USE_LEATHER_HAND_GRIPS_STEP_3.jpg",
+            "image": "shopify://shop_images/leather-grips-no-holes-how-to-use-3.jpg",
             "title": "Step 3",
             "sub_title": "",
             "desc": "",
@@ -400,7 +381,7 @@
         "template--21720484217142__be21ee4a-febf-48ce-a6fb-1ae6d8b13a7f-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Hand_Grips_Pro_Sizes.jpg",
+            "image": "shopify://shop_images/leather-grips-no-holes-size-guide.jpg",
             "link": "",
             "width": "2/3"
           }
@@ -487,7 +468,6 @@
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "a735ea2d-2943-4430-99e1-06e648e32a7c",
     "3104ee5b-069c-44dc-b190-202760d4da06",
-    "284a4ec1-be05-4fed-a8bd-782b214f21e9",
     "f47e7c52-8d76-4826-80a7-073e15a0842e",
     "be21ee4a-febf-48ce-a6fb-1ae6d8b13a7f",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
