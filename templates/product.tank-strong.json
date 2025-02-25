@@ -166,8 +166,8 @@
         "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mens-t-shirts-sizes.jpg",
-            "title": "Product details:",
+            "image": "shopify://shop_images/tank-strong-3.jpg",
+            "title": "",
             "desc": "<ul><li>Athletic design with attitude – Inspired by weightlifting culture.</li><li>Premium heavyweight cotton – Retains warmth while staying soft and durable.</li><li>Oversized fit – Maximum comfort and freedom of movement.</li><li>Versatile for training or casual wear – Whether in the gym or on the streets.</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
@@ -181,6 +181,40 @@
       },
       "block_order": [
         "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "section_image_with_text_jpirX8": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_XDYrmC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/tank-strong-3.jpg",
+            "title": "Product Information:",
+            "desc": "<ul><li>100% Certified Organic Cotton</li><li>PCTA Approved Vagan</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_XDYrmC"
       ],
       "settings": {
         "container": "large",
@@ -265,6 +299,7 @@
     "main",
     "203d1340-3a17-4e4f-bb2a-d09fc99c356b",
     "83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6",
+    "section_image_with_text_jpirX8",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "1690977685ca3c1a41",
     "product-recommendations"
