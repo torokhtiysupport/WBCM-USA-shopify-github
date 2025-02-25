@@ -21,6 +21,7 @@
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -165,9 +166,9 @@
         "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mens-t-shirts-sizes.jpg",
+            "image": "shopify://shop_images/womens-t-shirt-strong-oversize-A-content.jpg",
             "title": "Product details:",
-            "desc": "<ul><li>Composition: 95% Cotton/ 5% Elastane</li><li>Material wicks sweat & dries really fast</li><li>Machine wash: 30°C with similar colors</li><li>Made in Ukraine</li></ul>",
+            "desc": "<ul><li>Athletic design with attitude – Inspired by weightlifting culture.</li><li>Premium heavyweight cotton – Retains warmth while staying soft and durable.</li><li>Oversized fit – Maximum comfort and freedom of movement.</li><li>Versatile for training or casual wear – Whether in the gym or on the streets.</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -187,7 +188,7 @@
         "section-bottom-margin": false,
         "image_ratio": "natural",
         "block_layout": "1/2",
-        "block_align": "left",
+        "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
