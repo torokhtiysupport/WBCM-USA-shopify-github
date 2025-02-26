@@ -216,6 +216,9 @@
       "block_order": [
         "image_XDYrmC"
       ],
+      "custom_css": [
+        ".image-with-text__media-img {animation: none!important; -webkit-animation: none!important;}"
+      ],
       "settings": {
         "container": "large",
         "block_spacing": 2,
