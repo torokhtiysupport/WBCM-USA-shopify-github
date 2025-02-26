@@ -216,6 +216,7 @@
       "block_order": [
         "image_4hHjCK"
       ],
+      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
