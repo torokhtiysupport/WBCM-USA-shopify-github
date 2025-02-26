@@ -146,14 +146,14 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<p><strong>Specs:</strong> </p><ul><li><strong>Length</strong>: 13” (33cm)</li><li><strong>Height</strong>: 17,32” (44cm) </li><li><strong>Material</strong>: Premium thick fabric and cords</li><li><strong>Printed Logo</strong>: Strong</li><li><strong>Color</strong>: Black</li></ul>"
+            "text": "<p><strong>Specs:</strong></p><ul><li>Hook Backing</li><li>3,15” x 2,36” (8cm x 6cm) </li><li>Rectangular Design</li><li>Color: Black / White</li></ul>"
           }
         },
         "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>This gym sack is perfect for carrying your workout essentials, whether you're heading to the gym, sports practice, or on the go.</p>"
+            "text": "<p>This patch is designed to be easily attached to bags and/or weighted vests, adding a motivational touch to your training gear.</p>"
           }
         },
         "template--20972191547702__fab6a9b6-613d-487e-a95e-9dcb54926f1c-article-3": {
@@ -167,7 +167,7 @@
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>To keep your gym sack looking its best, spot clean with a damp cloth and mild detergent. Avoid machine washing or drying, and allow the bag to air dry to preserve the print and fabric. Store in a cool, dry place when not in use.</p>"
+            "text": "<p>Avoid excessive washing or submerging it in water. Spot clean with a damp cloth and mild detergent when needed. Keep it away from direct heat sources to prevent any damage to the adhesive backing.</p>"
           }
         }
       },
