@@ -168,7 +168,7 @@
           "settings": {
             "image": "shopify://shop_images/tank-strong-3.jpg",
             "title": "",
-            "desc": "<ul><li>Athletic design with attitude – Inspired by weightlifting culture.</li><li>Premium heavyweight cotton – Retains warmth while staying soft and durable.</li><li>Oversized fit – Maximum comfort and freedom of movement.</li><li>Versatile for training or casual wear – Whether in the gym or on the streets.</li></ul>",
+            "desc": "<ul><li><strong>Athletic design with attitude</strong> – Inspired by weightlifting culture.</li><li><strong>Premium heavyweight cotton</strong> – Retains warmth while staying soft and durable.</li><li><strong>Oversized fit</strong> – Maximum comfort and freedom of movement.</li><li><strong>Versatile for training or casual wear</strong> – Whether in the gym or on the streets.</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
