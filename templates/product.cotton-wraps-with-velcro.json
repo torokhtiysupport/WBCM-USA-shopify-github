@@ -185,7 +185,7 @@
         "template--18064480993544__339ec281-35af-41ad-90db-e33c4cbf0115-1689689156f98b561c-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MAIN.jpg",
+            "image": "shopify://shop_images/cotton-wrist-wraps-velcro-a-content.jpg",
             "title": "",
             "desc": "<p><strong>Durable cotton fabric</strong> – Provides the right balance of support and flexibility.</p><p><strong>Thumb loop for easy wrapping</strong> – Ensures proper positioning from the start.</p><p><strong>Velcro closure</strong> – Replaces the drawstring for a more secure and comfortable fit.</p><p><strong>Versatile for all training styles</strong> – Ideal for weightlifting and functional training.</p>",
             "horizontal_align": "left",
@@ -219,7 +219,7 @@
         "5dbcd340-893a-4f70-9f56-a018428de5d6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/photo-lockk.png",
+            "image": "shopify://shop_images/cotton-wrist-wraps-velcro-a-content-2.jpg",
             "title": "BEST WRAPS FOR:",
             "desc": "<p>• WEIGHTLIFTING<br/>• POWERLIFTING<br/>• BODYBUILDING<br/>• KETTLEBELL<br/>• DUMBBELL<br/>• FUNCTIONAL FITNESS</p>",
             "horizontal_align": "left",
@@ -240,7 +240,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "2/3",
+        "block_layout": "1/2",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -261,6 +261,7 @@
       "block_order": [
         "template--18064480993544__28855942-3267-47a6-ab4e-f1ea83c06142-1689689207acf7aed9-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "desc": "",
@@ -311,6 +312,7 @@
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-1",
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "container": "large",
