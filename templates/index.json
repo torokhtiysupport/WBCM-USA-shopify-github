@@ -21,6 +21,22 @@
     "section-slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "section-slideshow-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/New-collection-strong-desktop-new.gif",
+            "image_mobile": "shopify://shop_images/New-collection-strong-mob-new-1.gif",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "",
+            "link_style": "c-btn c-btn--hollow",
+            "link_title": "SHOP NOW",
+            "link": "shopify://collections/new-arrivals",
+            "link_style_2": "c-btn c-btn--primary",
+            "link_title_2": "",
+            "link_2": ""
+          }
+        },
         "9bf15e77-545b-4d61-8855-5dfad503a3f3": {
           "type": "video",
           "settings": {
@@ -51,22 +67,6 @@
             "link_style_2": "c-btn c-btn--hollow",
             "link_title_2": "",
             "link_2": "shopify://collections/sale"
-          }
-        },
-        "section-slideshow-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/new-arrivals-banner1920_1080-2.jpg",
-            "image_mobile": "shopify://shop_images/new-arrivals-banner900_1465.jpg",
-            "alignment": "bottom-center",
-            "title": "",
-            "text": "",
-            "link_style": "c-btn c-btn--hollow",
-            "link_title": "SHOP NOW",
-            "link": "shopify://collections/new-arrivals",
-            "link_style_2": "c-btn c-btn--primary",
-            "link_title_2": "",
-            "link_2": ""
           }
         },
         "section-slideshow-0": {
@@ -103,9 +103,9 @@
         }
       },
       "block_order": [
+        "section-slideshow-1",
         "9bf15e77-545b-4d61-8855-5dfad503a3f3",
         "dfb679ab-d00c-4fbc-af39-386f412074d1",
-        "section-slideshow-1",
         "section-slideshow-0",
         "e5c5a46b-3efb-442f-9539-5ea086b271d7"
       ],
