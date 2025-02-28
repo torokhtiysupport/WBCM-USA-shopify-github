@@ -1,18 +1,27 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1700668809f1443c8e": {
       "type": "apps",
       "blocks": {
         "217744af-fcb3-4c60-9294-0926a6f2e2a4": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -26,6 +35,8 @@
             "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -56,9 +67,8 @@
           }
         },
         "76f4a560-5d7a-4576-b3cb-80e42400f246": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -88,8 +98,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -114,8 +123,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb": {
           "type": "image",
@@ -152,13 +160,60 @@
         "thumbnails_show_border": false
       }
     },
+    "product_accordion_WRUN6A": {
+      "type": "product_accordion",
+      "blocks": {
+        "article_MKTXqg": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<p><strong>Material:</strong> 100% Magnesium Carbonate<br/><strong>Color:</strong> White</p><ol><li><strong>1 Block</strong><br/>1 Block weight - ‎0.05 kg / ‎2 oz. <br/>Package Dimensions - ‎3.98” x 3.62” x 1.85” (10,11 cm x 9,19 cm x 4,7 cm)</li><li><strong>8 blocks</strong><br/>8 Blocks weight - ‎0.6 kg / 21,16 oz.<br/>Package Dimensions - ‌‎7.4” x 7.36” x 3.86” (18,74 cm x 18,66 cm x 9,8 cm)</li></ol>"
+          }
+        },
+        "article_afrer6": {
+          "type": "article",
+          "disabled": true,
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>Use these articles to answer questions that customers have about your products and services. You can use text, links and images and also group articles into categories.</p>"
+          }
+        },
+        "article_CeTw3r": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
+          }
+        },
+        "article_QrDG8G": {
+          "type": "article",
+          "disabled": true,
+          "settings": {
+            "title": "Care",
+            "text": "<p>Use these articles to answer questions that customers have about your products and services. You can use text, links and images and also group articles into categories.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "article_MKTXqg",
+        "article_afrer6",
+        "article_CeTw3r",
+        "article_QrDG8G"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
     "86592148-55c3-4390-bbdd-857621e04955": {
       "type": "section-image-slideshow",
       "blocks": {
         "template--17877542043912__86592148-55c3-4390-bbdd-857621e04955-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/44c7b19d-ff35-459e-9a19-3f3b1e1a95c7.jpg",
+            "image": "shopify://shop_images/44c7b19d-ff35-459e-9a19-3f3b1e1a95c7.jpg",
             "link": ""
           }
         }
@@ -182,9 +237,9 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photos.png",
+            "image": "shopify://shop_images/photos.png",
             "title": "BEST gym chalk blocks FOR:",
-            "desc": "<ul><li>WEIGHTLIFTING<\/li><li>POWERLIFTING<\/li><li>KETTLEBELL<\/li><li>BODYBUILDING<\/li><li>DUMBBELL<\/li><li>FUNCTIONAL TRAINING<\/li><li>BOULDERING<\/li><li>GYMNASTICS<\/li><\/ul>",
+            "desc": "<ul><li>WEIGHTLIFTING</li><li>POWERLIFTING</li><li>KETTLEBELL</li><li>BODYBUILDING</li><li>DUMBBELL</li><li>FUNCTIONAL TRAINING</li><li>BOULDERING</li><li>GYMNASTICS</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -203,7 +258,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "1:1",
-        "block_layout": "2\/3",
+        "block_layout": "2/3",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 2,
@@ -216,7 +271,7 @@
         "template--17877542043912__3d13f6f8-1da6-434e-b931-c7cd6227574e-1688733442073661d6-0": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=E8bM3rGq_aQ&t=1s",
+            "video_url": "https://www.youtube.com/watch?v=E8bM3rGq_aQ&t=1s",
             "video_title": ""
           }
         }
@@ -239,10 +294,10 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_3_dac06497-14e7-44d6-9cbb-899441fcd836.png",
+            "image": "shopify://shop_images/1_3_dac06497-14e7-44d6-9cbb-899441fcd836.png",
             "title": "",
             "sub_title": "",
-            "desc": "<p>Our gym chalk block provides reliable protection while you are doing pull-ups, muscle-ups, snatches, squats, pole vaults, etc.<\/p>",
+            "desc": "<p>Our gym chalk block provides reliable protection while you are doing pull-ups, muscle-ups, snatches, squats, pole vaults, etc.</p>",
             "link_title": "",
             "link": ""
           }
@@ -250,10 +305,10 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_3_eed9a4f0-f0d8-4335-af7a-0c7a2198273c.png",
+            "image": "shopify://shop_images/2_3_eed9a4f0-f0d8-4335-af7a-0c7a2198273c.png",
             "title": "",
             "sub_title": "",
-            "desc": "<p>WBCM chalk block does not rub off easily, helps to absorb moisture and lowers slippage during your workouts.<\/p>",
+            "desc": "<p>WBCM chalk block does not rub off easily, helps to absorb moisture and lowers slippage during your workouts.</p>",
             "link_title": "",
             "link": ""
           }
@@ -261,10 +316,10 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_3_93287b53-e7b8-424b-968a-00be39d3f99a.png",
+            "image": "shopify://shop_images/3_3_93287b53-e7b8-424b-968a-00be39d3f99a.png",
             "title": "",
             "sub_title": "",
-            "desc": "<p>Overcome grip problems caused by sweat, rain, humidity, and oils or sunscreen.<\/p>",
+            "desc": "<p>Overcome grip problems caused by sweat, rain, humidity, and oils or sunscreen.</p>",
             "link_title": "",
             "link": ""
           }
@@ -313,14 +368,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -343,9 +398,8 @@
       "type": "apps",
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -370,6 +424,7 @@
   "order": [
     "1700668809f1443c8e",
     "main",
+    "product_accordion_WRUN6A",
     "86592148-55c3-4390-bbdd-857621e04955",
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "3d13f6f8-1da6-434e-b931-c7cd6227574e",
