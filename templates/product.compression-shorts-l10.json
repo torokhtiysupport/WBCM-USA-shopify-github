@@ -135,7 +135,6 @@
         },
         "popup_bYBV9h": {
           "type": "popup",
-          "disabled": true,
           "settings": {
             "link_title": "Size chart",
             "link_style": "body",
@@ -350,7 +349,6 @@
       "block_order": [
         "text_YrYCki"
       ],
-      "disabled": true,
       "custom_css": [
         "img {max-width: 600px;}",
         ".home-custom__img--cover {background-image: none !important;}"
@@ -381,7 +379,6 @@
       "block_order": [
         "image_gQbtbe"
       ],
-      "disabled": true,
       "custom_css": [
         ".o-layout {justify-content: center;}",
         ".o-layout .o-layout__item:last-of-type {display: none;}"
