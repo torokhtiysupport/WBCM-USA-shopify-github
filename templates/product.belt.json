@@ -284,7 +284,7 @@
           "settings": {
             "image": "shopify://shop_images/Weightlifting-Leather-Belt-Blue-Chili.jpg",
             "title": "",
-            "desc": "<p><strong>HEAVY-DUTY:<br/></strong>The Double Roller Stainless Steel Buckle with 4 Strengthened Bol.<br/><strong>TOP QUALITY:</strong><br/>Genuine A-Grade Leather with 6mm Thickness Maximum Support<br/><strong>MAXIMUM SUPPORT:</strong><br/>4\" Wide for Confident & Comfortable Back Support<br/><strong>UNIQUE DESIGN:</strong><br/>Tough and Durable Belt with laser printing for men and women.</p>",
+            "desc": "<p><strong>HEAVY-DUTY:<br/></strong>The Double Roller Stainless Steel Buckle with 4 Strengthened Bol.<br/><strong>TOP QUALITY:</strong><br/>Genuine A-Grade Leather with 6mm Thickness Maximum Support<br/><strong>MAXIMUM SUPPORT:</strong><br/>4\" (10 cm) Wide for Confident & Comfortable Back Support<br/><strong>UNIQUE DESIGN:</strong><br/>Tough and Durable Belt with laser printing for men and women.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -369,7 +369,7 @@
     "979a19a5-4247-474a-bf08-7ca5faaac1c6": {
       "type": "section-rich-text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "section_title": "Sizing",
         "text": "<p>Pay Attention to Take Your Measurements from <strong>True Waist Size</strong>. Do Not Use Pants Size.<br/>If your Measurements are between two sizes, we Recommend Choosing the Upper Size.</p><p>If you don't know how to choose a size, read our tips <a href=\"https://blog.warmbody-coldmind.com/size-guides/lifting-belt-size-chart/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/size-guides/lifting-belt-size-chart/\">here</a>.</p>",
         "section-bottom-margin": true
