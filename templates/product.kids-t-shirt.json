@@ -16,18 +16,27 @@
           "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
+            "custom_class": "",
             "bb_show_hide": true,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": false,
+            "bb_custom_inheritance": true,
             "bb_capitalize": false,
             "bb_font_size": 13,
             "bb_padding": 0,
+            "bb_mobile_padding": 55,
             "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
             "bb_margin": 0,
+            "bb_mobile_margin": 0,
             "bb_align": "left",
             "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
             "truncator": 20
           }
         }
@@ -100,6 +109,21 @@
         "description": {
           "type": "description",
           "settings": {}
+        },
+        "popup_mahDjV": {
+          "type": "popup",
+          "settings": {
+            "link_title": "Size chart",
+            "link_style": "body",
+            "align": "left",
+            "popup_heading": "label",
+            "popup_content": "",
+            "image": "shopify://shop_images/2023-07-14_16.11.37_a5334b73-1d68-4b37-b351-2d808266721d.png",
+            "text": "",
+            "icon": "icon-clothes-design-tape-measure",
+            "icon_size": 1,
+            "color_icon": "#212121"
+          }
         }
       },
       "block_order": [
@@ -111,7 +135,8 @@
         "quantity_selector",
         "buy_buttons",
         "db48bf56-e904-4604-9f21-89d04e9bf241",
-        "description"
+        "description",
+        "popup_mahDjV"
       ],
       "settings": {
         "container": "large",
@@ -123,6 +148,52 @@
         "thumbnails_position": "bottom",
         "thumbnails_ratio": "1:1",
         "thumbnails_show_border": false
+      }
+    },
+    "product_accordion_TbRi7e": {
+      "type": "product_accordion",
+      "blocks": {
+        "article_CPyqqa": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<p><strong>Age               Height</strong><br/>4 years - 104 cm / 40,9 in<br/>5 years - 110 cm / 43,3 in<br/>6 years - 116 cm / 45,6 in<br/>7 years - 122 cm / 48 in<br/>8 years - 128 cm / 50,3 in</p><p><strong>Product details:</strong><br/>Composition: 95% Cotton/ 5% Elastane<br/>Material wicks sweat & dries really fast</p>"
+          }
+        },
+        "article_6DLaeN": {
+          "type": "article",
+          "disabled": true,
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>Use these articles to answer questions that customers have about your products and services. You can use text, links and images and also group articles into categories.</p>"
+          }
+        },
+        "article_amaxUN": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
+          }
+        },
+        "article_HtEYyx": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>Machine wash: 30°C with similar colors</p>"
+          }
+        }
+      },
+      "block_order": [
+        "article_CPyqqa",
+        "article_6DLaeN",
+        "article_amaxUN",
+        "article_HtEYyx"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
       }
     },
     "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
@@ -194,6 +265,7 @@
   "order": [
     "170056575343263d0f",
     "main",
+    "product_accordion_TbRi7e",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "1691087074b17a7ec7",
     "product-recommendations"
