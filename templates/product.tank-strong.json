@@ -201,7 +201,7 @@
         "image_XDYrmC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/tank-strong-3.jpg",
+            "image": "shopify://shop_images/MENS-STRONG-OVERSIZE-T-SHIRT-SIZEGUIDE.jpg",
             "title": "Product Information:",
             "desc": "<ul><li>100% Certified Organic Cotton</li><li>PCTA Approved Vagan</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
@@ -217,7 +217,6 @@
       "block_order": [
         "image_XDYrmC"
       ],
-      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
