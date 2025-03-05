@@ -112,14 +112,13 @@
         },
         "popup_YQ6YB9": {
           "type": "popup",
-          "disabled": true,
           "settings": {
             "link_title": "Size chart",
             "link_style": "body",
             "align": "left",
             "popup_heading": "label",
             "popup_content": "",
-            "image": "shopify://shop_images/Mens-t-shirts-sizes.jpg",
+            "image": "shopify://shop_images/oversized-t-shirt-strong-women.jpg",
             "text": "",
             "icon": "icon-clothes-design-tape-measure",
             "icon_size": 1,
@@ -201,7 +200,7 @@
         "image_4hHjCK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/womens-t-shirt-strong-oversize-4.jpg",
+            "image": "shopify://shop_images/oversized-t-shirt-strong-women.jpg",
             "title": "Product Information:",
             "desc": "<ul><li>100% Certified Organic Cotton</li><li>PCTA Approved Vagan</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
@@ -217,7 +216,6 @@
       "block_order": [
         "image_4hHjCK"
       ],
-      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
