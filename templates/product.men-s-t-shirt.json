@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "170066927677089239": {
@@ -21,7 +21,7 @@
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -60,8 +60,7 @@
         },
         "106529e2-51eb-4e60-b46e-da369900c001": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -91,8 +90,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -110,8 +108,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "popup_YQ6YB9": {
           "type": "popup",
@@ -121,7 +118,7 @@
             "align": "left",
             "popup_heading": "label",
             "popup_content": "",
-            "image": "shopify://shop_images/Mens-t-shirts-sizes.jpg",
+            "image": "shopify://shop_images/mens-t-shirt-sizes-upd.jpg",
             "text": "",
             "icon": "icon-clothes-design-tape-measure",
             "icon_size": 1,
@@ -169,7 +166,7 @@
         "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Mens-t-shirts-sizes.jpg",
+            "image": "shopify://shop_images/mens-t-shirt-sizes-upd.jpg",
             "title": "Product details:",
             "desc": "<ul><li>Composition: 95% Cotton/ 5% Elastane</li><li>Material wicks sweat & dries really fast</li><li>Machine wash: 30°C with similar colors</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
@@ -241,8 +238,7 @@
       "blocks": {
         "0d186a7d-03b8-45f1-8bb8-0daa802a0750": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
