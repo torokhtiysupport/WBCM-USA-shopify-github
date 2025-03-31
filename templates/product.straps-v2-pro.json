@@ -383,7 +383,7 @@
             "image": "shopify://shop_images/Pro-2.1.jpg",
             "title": "GRIP TYPES",
             "sub_title": "",
-            "desc": "<ol><li>✔ Deadlift ✔ Weightlifting</li><li>✔ Deadlift <strong>X</strong> Weightlifting</li></ol>",
+            "desc": "<ol><li>✔ Deadlift <strong>X</strong> Weightlifting</li><li>✔ Deadlift ✔ Weightlifting</li></ol>",
             "link_title": "",
             "link": ""
           }
