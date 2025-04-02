@@ -448,7 +448,13 @@
                                                 </div>
 
                                             {%- when 'variant_picker' -%}
-                                                <div class="product-single__box__block product-single__box__block--{{ block.type }}" {{ block.shopify_attributes }}>
+                                                {%- assign has_image_swatches = false -%}
+                                                  {%- for block in section.blocks -%}
+                                                      {%- if block.type == "image_swatches" -%}
+                                                          {%- assign has_image_swatches = true -%}
+                                                      {%- endif -%}
+                                                  {%- endfor -%}
+                                                <div class="product-single__box__block product-single__box__block--{{ block.type }} {% if has_image_swatches %}product-has-image-swatches{% endif %}" {{ block.shopify_attributes }}>
                                                     {%- unless product.has_only_default_variant -%}
                                                         {% render 'product-options',
                                                             product: product,
