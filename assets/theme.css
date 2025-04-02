@@ -9602,7 +9602,7 @@ section.description .container--tiny {
 
 /* Hide Default Swatches when Custom Swatches are enable */
 
-.js-product-single-actions:has(div.image-swatches_container p) div.product-single__box__block--variant_picker product-interactive-options > variant-swatches {
+.product-has-image-swatches variant-swatches {
   display: none;
 }
 
