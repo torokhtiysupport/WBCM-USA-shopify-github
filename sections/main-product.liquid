@@ -450,11 +450,17 @@
                                             {%- when 'variant_picker' -%}
                                                 {%- assign has_image_swatches = false -%}
                                                   {%- for block in section.blocks -%}
-                                                      {%- if block.type == "image_swatches" or block.type == "size_swatches" -%}
+                                                      {%- if block.type == "image_swatches" and product.metafields.product.related_color_swatch_products != blank -%}
                                                           {%- assign has_image_swatches = true -%}
                                                       {%- endif -%}
                                                   {%- endfor -%}
-                                                <div class="product-single__box__block product-single__box__block--{{ block.type }} {% if has_image_swatches %}product-has-image-swatches{% endif %}" {{ block.shopify_attributes }}>
+                                                {%- assign has_size_swatches = false -%}
+                                                  {%- for block in section.blocks -%}
+                                                      {%- if block.type == "size_swatches" and product.metafields.product.related_size_swatch_products != blank -%}
+                                                          {%- assign has_size_swatches = true -%}
+                                                      {%- endif -%}
+                                                  {%- endfor -%}
+                                                <div class="product-single__box__block product-single__box__block--{{ block.type }} {% if has_image_swatches == true %}product-has-image-swatches{% endif %}{% if has_size_swatches == true %} product-has-size-swatches{% endif %}" {{ block.shopify_attributes }}>
                                                     {%- unless product.has_only_default_variant -%}
                                                         {% render 'product-options',
                                                             product: product,
