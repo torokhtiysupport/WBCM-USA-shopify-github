@@ -141,7 +141,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Length: 19 ft (5.8 meters)</li><li>Width: 2\" (5 cm)</li><li>Material: cotton</li></ul>"
+            "text": "<ul><li>Length: 20,7 ft (6,3 meters)</li><li>Width: 1,5’’ (3,8 cm)</li><li>Material: cotton</li></ul>"
           }
         },
         "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-2": {
@@ -217,6 +217,7 @@
         "template--17775597322504__3e499de0-72f4-43fc-a17f-bab246eab652-1688993923cc7d1bb8-0",
         "ace69dc9-9b17-4ce2-9eb0-8541279a250c"
       ],
+      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -243,6 +244,7 @@
       "block_order": [
         "template--17775597322504__e65ea801-a136-48f0-9c87-5ca23b3dcb4c-168899706167833dbd-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "desc": "",
@@ -293,6 +295,7 @@
         "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-1",
         "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "HOW TO USE HOOK GRIP TAPE",
         "container": "large",
@@ -360,6 +363,7 @@
         "44040c05-5002-4629-a772-44df29b6c020",
         "69fcf440-2830-4e6c-9b0d-5aac3564dfd9"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "container": "large",
