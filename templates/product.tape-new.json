@@ -1,0 +1,466 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1700669643c4bd16fe": {
+      "type": "apps",
+      "blocks": {
+        "29239879-d7e5-4319-991e-6f594840584f": {
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "hide_product": false,
+            "bb_show_more": true,
+            "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_mobile_padding": 55,
+            "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
+            "bb_margin": 0,
+            "bb_mobile_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
+            "truncator": 20
+          }
+        }
+      },
+      "block_order": [
+        "29239879-d7e5-4319-991e-6f594840584f"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "d8da3255-5a45-41f8-9caf-cc7a25e1af5b": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf241": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "d8da3255-5a45-41f8-9caf-cc7a25e1af5b",
+        "price",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "db48bf56-e904-4604-9f21-89d04e9bf241",
+        "description"
+      ],
+      "settings": {
+        "container": "large",
+        "show_breadcrumbs": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_product_image_rounded_corners": false,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "e9bbc801-9c26-4b47-933b-13ba7df1cf79": {
+      "type": "product_accordion",
+      "blocks": {
+        "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-1": {
+          "type": "article",
+          "settings": {
+            "title": "Specs",
+            "text": "<ul><li>Length: 19 ft (5.8 meters)</li><li>Width: 2\" (5 cm)</li><li>Material: cotton</li></ul>"
+          }
+        },
+        "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-2": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>The WBCM weightlifting tape is a perfect fit for Olympic weightlifting, powerlifting, functional fitness, gymnastics, and other strength-oriented workouts.</p>"
+          }
+        },
+        "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-3": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
+          }
+        },
+        "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-4": {
+          "type": "article",
+          "settings": {
+            "title": "Care",
+            "text": "<p>Remove finger tape when it shows signs of wear and tear that can influence its effectiveness. It's not designed to be washed, so it should be replaced after each use.<br/>Carefully peel off the thumb tape, starting from the top and moving downward, to avoid pulling on the skin. You can use coconut oil to rub into the tape to soften the adhesive, making it slide off.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-1",
+        "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-2",
+        "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-3",
+        "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-4"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "3e499de0-72f4-43fc-a17f-bab246eab652": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--17775597322504__3e499de0-72f4-43fc-a17f-bab246eab652-1688993923cc7d1bb8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/photo.png",
+            "title": "",
+            "desc": "<p><strong>Extra Adhesive:</strong><br/>Our sticky weightlifting thumb tape provides a great amount of flexibility for your thumbs and stays on even during the most intense workout routines.       <br/><strong>Tearable & Stretchy:</strong><br/>Tear grip tape by hand and wrap around thumbs, palms, wrists for excellent protection during hook grip.<br/><strong>Safe & Natural:</strong><br/>100% cotton for ultimate thumb comfort. This elastic lifting tape absorbs chalk and sweat. Non-allergenic. No residue left.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "ace69dc9-9b17-4ce2-9eb0-8541279a250c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/photo-2.png",
+            "title": "BEST TAPE FOR:",
+            "desc": "<p>OLYMPIC WEIGHTLIFTING<br/>POWERLIFTING<br/>DUMBBELLS<br/>FUNCTIONAL FITNESS<br/>GYMNASTICS</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17775597322504__3e499de0-72f4-43fc-a17f-bab246eab652-1688993923cc7d1bb8-0",
+        "ace69dc9-9b17-4ce2-9eb0-8541279a250c"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "4:3",
+        "block_layout": "1/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "e65ea801-a136-48f0-9c87-5ca23b3dcb4c": {
+      "type": "section-video",
+      "blocks": {
+        "template--17775597322504__e65ea801-a136-48f0-9c87-5ca23b3dcb4c-168899706167833dbd-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=k24SkZj_778",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17775597322504__e65ea801-a136-48f0-9c87-5ca23b3dcb4c-168899706167833dbd-0"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
+    "42f88667-a0c3-4042-96ca-5304ce4d9e0e": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/step-1.png",
+            "title": "Step 1:",
+            "sub_title": "",
+            "desc": "<p>Apply the tape <br/>beginning from your fingertip.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/step-2.png",
+            "title": "Step 2:",
+            "sub_title": "",
+            "desc": "<p>Loosely wrap<br/>your thumb 2-3 times.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/step-3.png",
+            "title": "Step 3:",
+            "sub_title": "",
+            "desc": "<p>Tear the tape and<br/>then squeeze with your hand to mold around your thumb.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-0",
+        "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-1",
+        "template--17775597322504__42f88667-a0c3-4042-96ca-5304ce4d9e0e-1689001477e3b8286b-2"
+      ],
+      "settings": {
+        "title": "HOW TO USE HOOK GRIP TAPE",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "circle",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "eec5d8cd-5402-4236-ab9c-650e091330dd": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "62e4543e-09c3-49ed-beaa-0ebec96c6190": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/1_3.png",
+            "title": "SWEAT & CHALK FRIENDLY",
+            "sub_title": "",
+            "desc": "<p>Protect your hands from skin injuries. WARM BODY COLD MIND Premium thumb tape won't slip or slide due to sweat. Use the tape with WBCM chalk to get a perfect grip.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "44040c05-5002-4629-a772-44df29b6c020": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/2_3.png",
+            "title": "FEEL THE MEASURE DIFFERENCE",
+            "sub_title": "",
+            "desc": "<p>Every roll in your pack is 2 inches wide and 19 feet long. With WBCM tape you can wrap a maximum of the thumb area for a solid number of your workouts.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "69fcf440-2830-4e6c-9b0d-5aac3564dfd9": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/3_3.png",
+            "title": "DESIGNED BY the Olympian",
+            "sub_title": "",
+            "desc": "<p>Completely designed by <a href=\"https://www.instagram.com/torokhtiy/\"><span style=\"text-decoration:underline\">Oleksiy Torokhtiy</span></a>, the Olympian, the Lifting Thumb Tape represents the essence of WARM BODY COLD MIND. Dive into a realm where elite sport meets a winning spirit.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "62e4543e-09c3-49ed-beaa-0ebec96c6190",
+        "44040c05-5002-4629-a772-44df29b6c020",
+        "69fcf440-2830-4e6c-9b0d-5aac3564dfd9"
+      ],
+      "settings": {
+        "title": "",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "1:1",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
+      "type": "section-faq",
+      "blocks": {
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0": {
+          "type": "category",
+          "settings": {
+            "title": "FAQs"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1": {
+          "type": "article",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
+          "type": "article",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"
+      ],
+      "custom_css": [
+        "{background-color: #eeeeee;}"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "16896123585e336543": {
+      "type": "apps",
+      "blocks": {
+        "82b79fe6-2453-4c4c-adef-1890707a7646": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "82b79fe6-2453-4c4c-adef-1890707a7646"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "wide",
+        "related_mobile_layout": "carousel",
+        "related_grid_num": 4,
+        "grid_mobile": "2",
+        "related_grid_row": 1
+      }
+    }
+  },
+  "order": [
+    "1700669643c4bd16fe",
+    "main",
+    "e9bbc801-9c26-4b47-933b-13ba7df1cf79",
+    "3e499de0-72f4-43fc-a17f-bab246eab652",
+    "e65ea801-a136-48f0-9c87-5ca23b3dcb4c",
+    "42f88667-a0c3-4042-96ca-5304ce4d9e0e",
+    "eec5d8cd-5402-4236-ab9c-650e091330dd",
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca",
+    "16896123585e336543",
+    "product-recommendations"
+  ]
+}
