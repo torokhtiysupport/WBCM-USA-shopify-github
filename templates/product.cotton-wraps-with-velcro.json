@@ -270,6 +270,85 @@
         "overlay_strength": 50
       }
     },
+    "section_multi_column_images_MhMtaT": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_HCT4DW": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/cotton-velcro-wrist-wraps-how-to-use-1.jpg",
+            "title": "Step 1:",
+            "sub_title": "",
+            "desc": "<p>Hook the wrap onto your thumb using the thumb loop</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_c6yc6M": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/cotton-velcro-wrist-wraps-how-to-use-2.jpg",
+            "title": "Step 2:",
+            "sub_title": "",
+            "desc": "<p>Wrap around your wrist</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_VNhiJz": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/cotton-velcro-wrist-wraps-how-to-use-3.jpg",
+            "title": "Step 3:",
+            "sub_title": "",
+            "desc": "<p>Use the velcro to fixate the wraps on your wrist</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_xCPWd6": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/cotton-velcro-wrist-wraps-how-to-use-4.jpg",
+            "title": "Step 4:",
+            "sub_title": "",
+            "desc": "<p>Adjust tightness</p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_HCT4DW",
+        "text_c6yc6M",
+        "text_VNhiJz",
+        "text_xCPWd6"
+      ],
+      "settings": {
+        "title": "HOW TO USE:",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": false,
+        "grid": 4,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "circle",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
     "d2106b87-8601-4602-93dc-683b218b6682": {
       "type": "section-multi-column-images",
       "blocks": {
@@ -411,6 +490,7 @@
     "339ec281-35af-41ad-90db-e33c4cbf0115",
     "860eb607-7f2a-4eea-b1b9-b0b5b8fb174c",
     "28855942-3267-47a6-ab4e-f1ea83c06142",
+    "section_multi_column_images_MhMtaT",
     "d2106b87-8601-4602-93dc-683b218b6682",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "1690899984ef428a6e",
