@@ -366,10 +366,10 @@
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-1": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/about-2_73a04e92-9ff0-49ab-9451-1425afc660c4.png",
+            "image": "shopify://shop_images/cotton-velcro-wrist-wraps-sizes.jpg",
             "title": "RIGHT SIZE - INCREASED WEIGHTS",
             "sub_title": "",
-            "desc": "<p>100% heavy-duty cotton and<br/>canvas webbing with reinforced stitching. 12\" (30.4 cm) or 18\" (45.7 cm) long and 3” (7,62 cm) wide. Left/Right hand labels. One pair of wrist wraps per package (2 pcs).</p>",
+            "desc": "<p>100% heavy-duty cotton (canvas webbing with reinforced stitching) 30,91” (78,5cm) long and 2,68” (6,8cm) wide, One size fits all Left/Right Hand Labels<br/>1 pair Wrist Wraps in a package (2 pcs)</p>",
             "link_title": "",
             "link": ""
           }
@@ -391,7 +391,6 @@
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-1",
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-2"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "container": "large",
