@@ -21,6 +21,22 @@
     "section-slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "image_edNj4w": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20_-off-banner.png",
+            "image_mobile": "shopify://shop_images/Mobile-banner.png",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "",
+            "link": "",
+            "link_style_2": "c-btn c-btn--hollow",
+            "link_title_2": "SHOP NOW",
+            "link_2": "shopify://collections/sale"
+          }
+        },
         "image_HQTKhk": {
           "type": "image",
           "settings": {
@@ -119,6 +135,7 @@
         }
       },
       "block_order": [
+        "image_edNj4w",
         "image_HQTKhk",
         "section-slideshow-1",
         "9bf15e77-545b-4d61-8855-5dfad503a3f3",
@@ -397,7 +414,14 @@
           "settings": {
             "title": "",
             "title_color": "",
+            "title_size_v2": 0,
             "alignment": "center",
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
             "background_color": "",
             "feed_id": "",
             "html_area": ""
