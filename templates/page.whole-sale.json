@@ -1,1 +1,748 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"3dbbe50b-f75f-49f1-b8a7-f28b4095867d":{"type":"section-rich-text","custom_css":["h2 {margin-bottom: 20px; margin-top: 20px;}"],"settings":{"full_width":false,"section_title":"GYM COLLAB OFFER","text":"","section-bottom-margin":true}},"5bd0f318-fea3-41ae-861b-8b1a9920c2d0":{"type":"section-liquid","custom_css":[".main-container {display: flex; align-items: center; justify-content: center; padding: 30px 27px 0; width: 100%; margin-bottom: 60px;}",".container-with-text {max-width: 556px;}",".container-with-image img {object-fit: cover; width: 100%;}","@media screen and (max-width: 767px) {.main-container {flex-direction: column-reverse; margin-bottom: 0; padding: 10px 24px 0; } .container-with-image img {margin-bottom: 20px; }}"],"settings":{"custom_liquid":"<div class=\"main-container\">\n    <div class=\"container-with-text\">\n        <h2>WHO WE ARE<\/h2>\n        <p>Our brandfather, <strong>Oleksiy Torokhtiy<\/strong>, has been in the weightlifting training industry for years, as an athlete and as coach now.<br>In 2016, he <strong>founded Warm Body Cold Mind<\/strong>,<br>a company that makes strength sports training equipment and accessories.<br><em>\"I'm putting my reputation on the line for the<br>quality of my products.\"<\/em><\/p><p><strong>Oleksiy Tortokhtiy, CEO<\/strong><\/p><p><a href=\"https:\/\/www.instagram.com\/torokhtiy\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/torokhtiy\/\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\"  viewBox=\"0 0 50 50\" width=\"40px\" height=\"40px\" style=\"margin-right: 10px\"><path d=\"M 16 3 C 8.8324839 3 3 8.8324839 3 16 L 3 34 C 3 41.167516 8.8324839 47 16 47 L 34 47 C 41.167516 47 47 41.167516 47 34 L 47 16 C 47 8.8324839 41.167516 3 34 3 L 16 3 z M 16 5 L 34 5 C 40.086484 5 45 9.9135161 45 16 L 45 34 C 45 40.086484 40.086484 45 34 45 L 16 45 C 9.9135161 45 5 40.086484 5 34 L 5 16 C 5 9.9135161 9.9135161 5 16 5 z M 37 11 A 2 2 0 0 0 35 13 A 2 2 0 0 0 37 15 A 2 2 0 0 0 39 13 A 2 2 0 0 0 37 11 z M 25 14 C 18.936712 14 14 18.936712 14 25 C 14 31.063288 18.936712 36 25 36 C 31.063288 36 36 31.063288 36 25 C 36 18.936712 31.063288 14 25 14 z M 25 16 C 29.982407 16 34 20.017593 34 25 C 34 29.982407 29.982407 34 25 34 C 20.017593 34 16 29.982407 16 25 C 16 20.017593 20.017593 16 25 16 z\"\/><\/svg><a href=\"https:\/\/en.wikipedia.org\/wiki\/Oleksiy_Torokhtiy\" target=\"_blank\" title=\"https:\/\/en.wikipedia.org\/wiki\/Oleksiy_Torokhtiy\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\"  viewBox=\"0 0 50 50\" width=\"40px\" height=\"40px\"><path d=\"M 9 4 C 6.2504839 4 4 6.2504839 4 9 L 4 41 C 4 43.749516 6.2504839 46 9 46 L 41 46 C 43.749516 46 46 43.749516 46 41 L 46 9 C 46 6.2504839 43.749516 4 41 4 L 9 4 z M 9 6 L 41 6 C 42.668484 6 44 7.3315161 44 9 L 44 41 C 44 42.668484 42.668484 44 41 44 L 9 44 C 7.3315161 44 6 42.668484 6 41 L 6 9 C 6 7.3315161 7.3315161 6 9 6 z M 18.375 15.998047 C 18.196 15.998047 18.017578 16.173656 18.017578 16.347656 L 18.017578 17.650391 C 18.017578 17.825391 18.196 18 18.375 18 L 19.810547 18 L 24.105469 26.019531 L 20.705078 32.119141 L 14.263672 18 L 15.642578 18 C 15.821578 18 16 17.826344 16 17.652344 L 16 16.349609 C 16 16.174609 15.821578 16 15.642578 16 L 8.3574219 16 C 8.1784219 16 8 16.173656 8 16.347656 L 8 17.650391 C 8 17.825391 8.1784219 18 8.3574219 18 L 10.505859 18 L 19.810547 36.826172 C 19.900547 36.913172 19.988969 37 20.167969 37 C 20.346969 37 20.437344 36.913172 20.527344 36.826172 L 25.269531 28.287109 L 29.652344 36.826172 C 29.742344 36.913172 29.832719 37 30.011719 37 C 30.189719 37 30.278187 36.913172 30.367188 36.826172 L 39.583984 17.912109 L 41.642578 17.912109 C 41.821578 17.912109 42 17.738453 42 17.564453 L 42 16.349609 C 42 16.174609 41.821578 16 41.642578 16 L 35.357422 16 C 35.178422 16 35 16.173656 35 16.347656 L 35 17.650391 C 35 17.825391 35.179422 18 35.357422 18 L 37.167969 18 L 30.457031 32.119141 L 26.96875 25.148438 L 31.263672 18 L 32.642578 18 C 32.821578 18 33 17.826344 33 17.652344 L 33 16.349609 C 33 16.174609 32.821578 16 32.642578 16 L 27.357422 16 C 27.178422 16 27 16.173656 27 16.347656 L 27 17.650391 C 27 17.825391 27.178422 18 27.357422 18 L 28.757812 18 L 25.804688 22.884766 L 23.388672 18 L 24.642578 18 C 24.821578 18 25 17.826344 25 17.652344 L 25 16.349609 C 25 16.174609 24.821578 15.999047 24.642578 15.998047 L 18.375 15.998047 z\"\/><\/svg><\/a><\/p><p><\/p>\n    <\/div>\n    <div class=\"container-with-image\">\n        <img \n src=\"\/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_300x.jpg?v=1694097379\" srcset=\"\n                                                        \/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_180x.jpg?v=1694097379 180w 205h,\n                                                        \/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_360x.jpg?v=1694097379 360w 411h,\n                                                        \/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_540x.jpg?v=1694097379 540w 616h,\n                                                        \/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_720x.jpg?v=1694097379 720w 821h,\n                                                        \/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_900x.jpg?v=1694097379 900w 1027h,\n                                                        \/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_1080x.jpg?v=1694097379 1080w 1232h,\n                                                        \/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_1296x.jpg?v=1694097379 1296w 1478h,\n                                                        \/\/warmbody-coldmind.com\/cdn\/shop\/files\/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_1512x.jpg?v=1694097379 1512w 1725h\n                                                    \" sizes=\"(min-width: 981px) 50vw, 100vw\" width=\"300\" height=\"342\" alt=\"\" loading=\"lazy\" style=\"object-position:50.0% 50.0%\">\n    <\/div>\n<\/div>"}},"45714ea2-7bc4-4a18-9058-8aa2397f8c17":{"type":"section-custom","blocks":{"template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-button-1":{"type":"button","settings":{"title":"Send us an email","link":"https:\/\/warmbody-coldmind.com\/pages\/whole-sale#ContactFormName","color":"primary","size":"big","width":"1\/3"}},"template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-text-1":{"type":"text","disabled":true,"settings":{"title":"Text","text":"<p>Promote your brand by using a powerful combination of buttons, custom text, page content and images.<\/p>","link_title":"Learn more","link":"","align":"center","width":"1\/2"}},"template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-image-1":{"type":"image","disabled":true,"settings":{"link":"","width":"2\/3"}},"template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-spacer-1":{"type":"spacer","disabled":true,"settings":{"space":"none"}}},"block_order":["template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-button-1","template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-text-1","template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-image-1","template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-spacer-1"],"settings":{"section-bottom-margin":false}},"09a3a9fa-9b69-4d3d-acbd-882680d2fa3d":{"type":"section-multi-column-images","blocks":{"template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-0":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/usik.jpg","title":"Oleksandr Usyk","sub_title":"","desc":"<p>boxer, IBF, WBO, IBO champion<br\/><\/p>","link_title":"","link":""}},"template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-1":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/lewon.jpg","title":"Levan Saginashvili","sub_title":"","desc":"<p>arm-wrestler, 7x WAF champion<\/p>","link_title":"","link":""}},"template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-2":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/jean.jpg","title":"Zhan Beleniuk","sub_title":"","desc":"<p>Greco-Roman wrestler, Olympic champion<\/p>","link_title":"","link":""}},"e7a7534c-a27e-49f1-b75c-74a32f06139a":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/novikov.jpg","title":"Oleksiy Novikov","sub_title":"","desc":"<p>strongman, World's Strongest Man<\/p>","link_title":"","link":""}},"355f6783-663c-4ed2-a6eb-5107fe1a3e7c":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/lasha1.jpg","title":"Lasha Talakhadze","sub_title":"","desc":"<p>weightlifter, Olympic champion<\/p>","link_title":"","link":""}},"034266a1-44fa-405c-bda4-383b4ac44849":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/pliesnoy.jpg","title":"Anton Plesnoi","sub_title":"","desc":"<p>weightlifter, European champion<\/p>","link_title":"","link":""}}},"block_order":["template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-0","template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-1","template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-2","e7a7534c-a27e-49f1-b75c-74a32f06139a","355f6783-663c-4ed2-a6eb-5107fe1a3e7c","034266a1-44fa-405c-bda4-383b4ac44849"],"custom_css":["h2 {margin-bottom: 20px;}"],"settings":{"title":"TALK ABOUT YOUR BRAND","container":"large","link_title":"Learn more","link":"","divider":false,"section-bottom-margin":false,"grid":3,"spacing":1,"alignment":"center","link_style":"hollow","heading_size":3,"image_toggle":true,"image_size":100,"image_padding":0,"image_ratio":"circle","image_fit":false,"bg_color":"rgba(0,0,0,0)","color_image":"rgba(0,0,0,0)","color_text":"#212121","text_heading_color":false,"grid_mobile":"1","mobile_layout":"carousel"}},"13882d80-95da-4413-b5c2-9339c7d56ece":{"type":"section-rich-text","custom_css":["h2 {margin-bottom: 20px;}"],"settings":{"full_width":false,"section_title":"CLIENTS FROM 70+ COUNTRIES","text":"","section-bottom-margin":true}},"3f9f810e-0b7f-40ec-bb1d-c402458afd4e":{"type":"section-image-with-text","blocks":{"template--18063005483272__3f9f810e-0b7f-40ec-bb1d-c402458afd4e-1689670520e866de5e-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/444Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-4.jpg","title":"Our marketplaces:","desc":"<p>- 2 own websites and warehouses,<br\/>in North America and the EU<br\/>- Amazon (12 marketplaces, including the US, Canada, Mexico, the UK, Germany) and eBay<br\/>- 15 affiliate gyms<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["template--18063005483272__3f9f810e-0b7f-40ec-bb1d-c402458afd4e-1689670520e866de5e-0"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"2\/3","block_align":"right","vertical_align":"middle","heading_size":2,"link_style":"hollow"}},"c86368c0-40a3-44c8-bfed-02c52544eed7":{"type":"section-rich-text","custom_css":["h2 {margin-bottom: 20px;}"],"settings":{"full_width":false,"section_title":"EUROPEAN QUALITY","text":"","section-bottom-margin":true}},"e0ab7b7b-28b7-4c5f-b82c-5c602a603f6d":{"type":"section-image-with-text","blocks":{"d86680fb-ecd2-4d44-b6da-a982e6f68a96":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/555Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-5.jpg","title":"","desc":"<p>- We're a team of dedicated professionals with experience in sports science and training.<br\/>- 90% of products are produced at our European factory (in Ukraine 1) using European-quality materials<br\/>- This allows us to independently develop and test our goods, and promptly react to customer feedback.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["d86680fb-ecd2-4d44-b6da-a982e6f68a96"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"1\/2","block_align":"right","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"1245434f-3057-4a2b-91a7-5e78f12546a6":{"type":"section-multi-column-images","blocks":{"template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-0":{"type":"text","settings":{"title":"STEP 1","sub_title":"","desc":"<p>A development process for each new product can take up to 12 months<br\/><\/p>","link_title":"","link":""}},"template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-1":{"type":"text","settings":{"title":"STEP 2","sub_title":"","desc":"<p>We create up to 5 versions of the product and select one that's best for release.<br\/><\/p>","link_title":"","link":""}},"template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-2":{"type":"text","settings":{"title":"STEP 3","sub_title":"","desc":"<p>We test new products before they're officially available so that athletes can give feedback.<br\/><\/p>","link_title":"","link":""}},"a9ed297a-39c9-473b-8cfc-a7e6c53ee4ef":{"type":"text","settings":{"title":"STEP 4","sub_title":"","desc":"<p>After 2-3 months of testing, we make final edits based on feedback and launch mass production.<br\/><\/p>","link_title":"","link":""}}},"block_order":["template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-0","template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-1","template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-2","a9ed297a-39c9-473b-8cfc-a7e6c53ee4ef"],"settings":{"title":"WE STAKE OUR NAME ON WHAT WE PRODUCE","container":"large","link_title":"Learn more","link":"","divider":false,"section-bottom-margin":true,"grid":4,"spacing":3,"alignment":"center","link_style":"hollow","heading_size":3,"image_toggle":false,"image_size":100,"image_padding":0,"image_ratio":"4:3","image_fit":false,"bg_color":"#f2f2f2","color_image":"rgba(0,0,0,0)","color_text":"#212121","text_heading_color":false,"grid_mobile":"1","mobile_layout":"carousel"}},"5db4e5c6-04e7-4019-bc6e-c1c474437a9a":{"type":"section-multi-column-images","blocks":{"template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-0":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/2023-07-18_13.02.46.png","title":"T-shirts","sub_title":"","desc":"","link_title":"","link":""}},"template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-1":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/2023-07-18_13.02.56.png","title":"Hoodies","sub_title":"","desc":"","link_title":"","link":""}},"template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-2":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/2023-07-18_13.03.11.png","title":"Compression tops","sub_title":"","desc":"","link_title":"","link":""}},"ecfaefc0-2c22-478f-b0e6-cabc15da19c1":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/2023-07-18_13.03.26.png","title":"Weightlifting shorts","sub_title":"","desc":"","link_title":"","link":""}}},"block_order":["template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-0","template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-1","template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-2","ecfaefc0-2c22-478f-b0e6-cabc15da19c1"],"settings":{"title":"OUR PRODUCTS SPORTSWEAR","container":"large","link_title":"Learn more","link":"","divider":false,"section-bottom-margin":false,"grid":4,"spacing":3,"alignment":"center","link_style":"hollow","heading_size":3,"image_toggle":true,"image_size":100,"image_padding":0,"image_ratio":"natural","image_fit":false,"bg_color":"rgba(0,0,0,0)","color_image":"rgba(0,0,0,0)","color_text":"#212121","text_heading_color":false,"grid_mobile":"1","mobile_layout":"carousel"}},"9ba4e2ad-463f-403c-b60d-883518381b33":{"type":"section-image-with-text","blocks":{"9b52e13d-9406-4d85-846d-99b4b80a37af":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/888Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-8.jpg","title":"THUMB TAPE","desc":"<p>- Amazon's TOP-3 in its category<br\/> - 3000+ stock keeping units per month <br\/>- 2500+ reviews<br\/>- ★★★★★ rating<br\/><br\/><strong>VS. COMPETITORS:<\/strong><br\/>- Stretches better<br\/>- Attaches well to the skin<br\/>- The roll is longer<br\/>- No residue left after removal<br\/>- Easily hand-tipped<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["9b52e13d-9406-4d85-846d-99b4b80a37af"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"2\/3","block_align":"right","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"25e6e426-0343-49f7-9703-91e8987ae4dd":{"type":"section-rich-text","custom_css":["h2 {margin-bottom: 20px;}"],"settings":{"full_width":false,"section_title":"STRAPS V1","text":"","section-bottom-margin":true}},"c218f529-939f-4450-be99-5bf939b2e3ba":{"type":"section-image-with-text","blocks":{"f26763d9-e293-4002-96a5-2b9fecd8a0fe":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/999Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-9.jpg","title":"","desc":"<p>- Amazon's TOP-5 in its category <br\/>- 800+ sold items per month<br\/>- 1300+ reviews<br\/>★★★★\/★★★★★ rating<br\/><br\/><strong>VS. COMPETITORS:<\/strong><br\/>- Made of 100% cotton for your comfort.<br\/>- Unique design that will make you stand out.<br\/>- 350kg max load, so you can hold up almost any weight.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["f26763d9-e293-4002-96a5-2b9fecd8a0fe"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"1\/2","block_align":"right","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"e02f2824-6720-4b0a-8478-fc4e449bcb87":{"type":"section-rich-text","custom_css":["h2 {margin-bottom: 20px;}"],"settings":{"full_width":false,"section_title":"STRAPS Lasso","text":"","section-bottom-margin":true}},"1ff65a2e-2552-4bd3-9904-a75b8f24ae00":{"type":"section-image-with-text","blocks":{"85ba0701-3b25-4e84-bc34-22f82700b180":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/10Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-10_e5115cb4-ddbd-4fe8-9e78-cda04f18c707.jpg","title":"","desc":"<p>- Amazon's TOP-5 in its category <br\/>- 500+ sold items per month <br\/>- 650+ reviews<br\/>- ★★★★★  rating<br\/><br\/><strong>VS. COMPETITORS:<br\/><\/strong>- Made of 100% cotton for your comfort.<br\/>- PRO version with neoprene padding.<br\/>- 350kg max load, so you can hold up almost any weight.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["85ba0701-3b25-4e84-bc34-22f82700b180"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"1\/2","block_align":"right","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"0b4c23dc-cc70-4334-8b1a-8b5d2032c6d5":{"type":"section-rich-text","custom_css":["h2 {margin-bottom: 20px;}"],"settings":{"full_width":false,"section_title":"COTTON WRAPS","text":"","section-bottom-margin":true}},"b26b015a-a5cc-49ec-96f0-bcbabb599642":{"type":"section-image-with-text","blocks":{"4446002a-d32c-4f2e-8f5a-0d733db491d1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/11Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-11.jpg","title":"","desc":"<p>- Amazon's TOP-10 in its category<br\/>- 300+ sold items per month <br\/>- 270+ reviews<br\/>- ★★★★★ rating<br\/><br\/>VS. COMPETITORS:<br\/>- Made of 100% cotton for your comfort.<br\/>- Unique design that will make you stand out.<br\/>- Length 30\" (75cm), width - 3\"(7cm) for better wrapping.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["4446002a-d32c-4f2e-8f5a-0d733db491d1"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"1\/2","block_align":"right","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"11ecf860-1836-4140-b793-da96f3c9010a":{"type":"section-rich-text","custom_css":["h2 {margin-bottom: 20px;}"],"settings":{"full_width":false,"section_title":"LEATHER BELT","text":"","section-bottom-margin":true}},"1f82bbac-40f7-4da5-a2bf-73cb06efbad5":{"type":"section-image-with-text","blocks":{"91e9b18e-626e-4a78-834c-a5b3d8b6d17c":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/13Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-12.jpg","title":"","desc":"<p>- NEW! PRODUCT<br\/>- 150+ sold items per month<br\/>- 100+ reviews<br\/>- ★★★★★ rating<br\/><\/p><p><strong>VS. COMPETITORS:<br\/><\/strong>- Premium genuine leather.<br\/>- Double roller stainless steel buckle<br\/>and 4 stainless bolts for improved longevity.<br\/>- IPF & USAPL approved.<br\/>- S-XXXL sizes.<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["91e9b18e-626e-4a78-834c-a5b3d8b6d17c"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":true,"image_ratio":"natural","block_layout":"1\/2","block_align":"right","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"db2ebcdd-7ec1-416b-8e29-6d9756f39f58":{"type":"section-rich-text","custom_css":["h2 {margin-bottom: 20px;}"],"settings":{"full_width":false,"section_title":"PEOPLE ARE READY TO BUY","text":"","section-bottom-margin":true}},"6625645d-5fd8-4400-a305-0391596106de":{"type":"section-image-with-text","blocks":{"be699ed9-5c9c-4dee-88f9-f6ba6da8c50a":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/14Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1__page-0013.jpg","title":"","desc":"<p><strong>We are looking for gym partners who want to offer their customers the best experience possible. <\/strong><\/p><p>With 5,000 monthly orders via Amazon we have an amazing 20% returning customer base that means there's a lot of potential in this market!<\/p>","horizontal_align":"left","link_title":"","link":"","bg_color_block":"rgba(0,0,0,0)","bg_color_content":"#ffffff","color_text":"#212121","text_heading_color":false}}},"block_order":["be699ed9-5c9c-4dee-88f9-f6ba6da8c50a"],"settings":{"container":"large","block_spacing":2,"section-bottom-margin":false,"image_ratio":"natural","block_layout":"1\/2","block_align":"right","vertical_align":"middle","heading_size":3,"link_style":"hollow"}},"e78571fd-f9ed-401a-bf49-13b6b99da417":{"type":"section-multi-column-images","blocks":{"template--18063005483272__e78571fd-f9ed-401a-bf49-13b6b99da417-1689682505b6c43fb3-0":{"type":"text","settings":{"title":"THANK YOU FOR YOUR INTEREST AND ATTENTION","sub_title":"","desc":"<p><a href=\"mailto:sales@warmbody-coldmind.com\" title=\"mailto:sales@warmbody-coldmind.com\">sales@warmbody-coldmind.com<\/a><br\/>warmbody-coldmind.com<\/p>","link_title":"","link":""}}},"block_order":["template--18063005483272__e78571fd-f9ed-401a-bf49-13b6b99da417-1689682505b6c43fb3-0"],"settings":{"title":"","container":"large","link_title":"Learn more","link":"","divider":false,"section-bottom-margin":false,"grid":2,"spacing":1,"alignment":"center","link_style":"hollow","heading_size":3,"image_toggle":false,"image_size":100,"image_padding":0,"image_ratio":"natural","image_fit":false,"bg_color":"rgba(0,0,0,0)","color_image":"rgba(0,0,0,0)","color_text":"#212121","text_heading_color":false,"grid_mobile":"1","mobile_layout":"carousel"}},"77c9b315-6a4c-4e54-b2b6-51784d8f9d03":{"type":"section-contact-form","blocks":{"fdeff13b-cd13-4b67-bdf6-462dd402546e":{"type":"text","settings":{"required":true,"long":false,"label":"Phone"}}},"block_order":["fdeff13b-cd13-4b67-bdf6-462dd402546e"],"custom_css":[],"settings":{"heading":"Send us an email","background":true,"divider":false,"section-bottom-margin":false}}},"order":["main","3dbbe50b-f75f-49f1-b8a7-f28b4095867d","5bd0f318-fea3-41ae-861b-8b1a9920c2d0","45714ea2-7bc4-4a18-9058-8aa2397f8c17","09a3a9fa-9b69-4d3d-acbd-882680d2fa3d","13882d80-95da-4413-b5c2-9339c7d56ece","3f9f810e-0b7f-40ec-bb1d-c402458afd4e","c86368c0-40a3-44c8-bfed-02c52544eed7","e0ab7b7b-28b7-4c5f-b82c-5c602a603f6d","1245434f-3057-4a2b-91a7-5e78f12546a6","5db4e5c6-04e7-4019-bc6e-c1c474437a9a","9ba4e2ad-463f-403c-b60d-883518381b33","25e6e426-0343-49f7-9703-91e8987ae4dd","c218f529-939f-4450-be99-5bf939b2e3ba","e02f2824-6720-4b0a-8478-fc4e449bcb87","1ff65a2e-2552-4bd3-9904-a75b8f24ae00","0b4c23dc-cc70-4334-8b1a-8b5d2032c6d5","b26b015a-a5cc-49ec-96f0-bcbabb599642","11ecf860-1836-4140-b793-da96f3c9010a","1f82bbac-40f7-4da5-a2bf-73cb06efbad5","db2ebcdd-7ec1-416b-8e29-6d9756f39f58","6625645d-5fd8-4400-a305-0391596106de","e78571fd-f9ed-401a-bf49-13b6b99da417","77c9b315-6a4c-4e54-b2b6-51784d8f9d03"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "3dbbe50b-f75f-49f1-b8a7-f28b4095867d": {
+      "type": "section-rich-text",
+      "custom_css": [
+        "h2 {margin-bottom: 20px; margin-top: 20px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_title": "GYM COLLAB OFFER",
+        "text": "",
+        "section-bottom-margin": true
+      }
+    },
+    "5bd0f318-fea3-41ae-861b-8b1a9920c2d0": {
+      "type": "section-liquid",
+      "custom_css": [
+        ".main-container {display: flex; align-items: center; justify-content: center; padding: 30px 27px 0; width: 100%; margin-bottom: 60px;}",
+        ".container-with-text {max-width: 556px;}",
+        ".container-with-image img {object-fit: cover; width: 100%;}",
+        "@media screen and (max-width: 767px) {.main-container {flex-direction: column-reverse; margin-bottom: 0; padding: 10px 24px 0; } .container-with-image img {margin-bottom: 20px; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"main-container\">\n    <div class=\"container-with-text\">\n        <h2>WHO WE ARE</h2>\n        <p>Our brandfather, <strong>Oleksiy Torokhtiy</strong>, has been in the weightlifting training industry for years, as an athlete and as coach now.<br>In 2016, he <strong>founded Warm Body Cold Mind</strong>,<br>a company that makes strength sports training equipment and accessories.<br><em>\"I'm putting my reputation on the line for the<br>quality of my products.\"</em></p><p><strong>Oleksiy Tortokhtiy, CEO</strong></p><p><a href=\"https://www.instagram.com/torokhtiy/\" target=\"_blank\" title=\"https://www.instagram.com/torokhtiy/\"><svg xmlns=\"http://www.w3.org/2000/svg\"  viewBox=\"0 0 50 50\" width=\"40px\" height=\"40px\" style=\"margin-right: 10px\"><path d=\"M 16 3 C 8.8324839 3 3 8.8324839 3 16 L 3 34 C 3 41.167516 8.8324839 47 16 47 L 34 47 C 41.167516 47 47 41.167516 47 34 L 47 16 C 47 8.8324839 41.167516 3 34 3 L 16 3 z M 16 5 L 34 5 C 40.086484 5 45 9.9135161 45 16 L 45 34 C 45 40.086484 40.086484 45 34 45 L 16 45 C 9.9135161 45 5 40.086484 5 34 L 5 16 C 5 9.9135161 9.9135161 5 16 5 z M 37 11 A 2 2 0 0 0 35 13 A 2 2 0 0 0 37 15 A 2 2 0 0 0 39 13 A 2 2 0 0 0 37 11 z M 25 14 C 18.936712 14 14 18.936712 14 25 C 14 31.063288 18.936712 36 25 36 C 31.063288 36 36 31.063288 36 25 C 36 18.936712 31.063288 14 25 14 z M 25 16 C 29.982407 16 34 20.017593 34 25 C 34 29.982407 29.982407 34 25 34 C 20.017593 34 16 29.982407 16 25 C 16 20.017593 20.017593 16 25 16 z\"/></svg><a href=\"https://en.wikipedia.org/wiki/Oleksiy_Torokhtiy\" target=\"_blank\" title=\"https://en.wikipedia.org/wiki/Oleksiy_Torokhtiy\"><svg xmlns=\"http://www.w3.org/2000/svg\"  viewBox=\"0 0 50 50\" width=\"40px\" height=\"40px\"><path d=\"M 9 4 C 6.2504839 4 4 6.2504839 4 9 L 4 41 C 4 43.749516 6.2504839 46 9 46 L 41 46 C 43.749516 46 46 43.749516 46 41 L 46 9 C 46 6.2504839 43.749516 4 41 4 L 9 4 z M 9 6 L 41 6 C 42.668484 6 44 7.3315161 44 9 L 44 41 C 44 42.668484 42.668484 44 41 44 L 9 44 C 7.3315161 44 6 42.668484 6 41 L 6 9 C 6 7.3315161 7.3315161 6 9 6 z M 18.375 15.998047 C 18.196 15.998047 18.017578 16.173656 18.017578 16.347656 L 18.017578 17.650391 C 18.017578 17.825391 18.196 18 18.375 18 L 19.810547 18 L 24.105469 26.019531 L 20.705078 32.119141 L 14.263672 18 L 15.642578 18 C 15.821578 18 16 17.826344 16 17.652344 L 16 16.349609 C 16 16.174609 15.821578 16 15.642578 16 L 8.3574219 16 C 8.1784219 16 8 16.173656 8 16.347656 L 8 17.650391 C 8 17.825391 8.1784219 18 8.3574219 18 L 10.505859 18 L 19.810547 36.826172 C 19.900547 36.913172 19.988969 37 20.167969 37 C 20.346969 37 20.437344 36.913172 20.527344 36.826172 L 25.269531 28.287109 L 29.652344 36.826172 C 29.742344 36.913172 29.832719 37 30.011719 37 C 30.189719 37 30.278187 36.913172 30.367188 36.826172 L 39.583984 17.912109 L 41.642578 17.912109 C 41.821578 17.912109 42 17.738453 42 17.564453 L 42 16.349609 C 42 16.174609 41.821578 16 41.642578 16 L 35.357422 16 C 35.178422 16 35 16.173656 35 16.347656 L 35 17.650391 C 35 17.825391 35.179422 18 35.357422 18 L 37.167969 18 L 30.457031 32.119141 L 26.96875 25.148438 L 31.263672 18 L 32.642578 18 C 32.821578 18 33 17.826344 33 17.652344 L 33 16.349609 C 33 16.174609 32.821578 16 32.642578 16 L 27.357422 16 C 27.178422 16 27 16.173656 27 16.347656 L 27 17.650391 C 27 17.825391 27.178422 18 27.357422 18 L 28.757812 18 L 25.804688 22.884766 L 23.388672 18 L 24.642578 18 C 24.821578 18 25 17.826344 25 17.652344 L 25 16.349609 C 25 16.174609 24.821578 15.999047 24.642578 15.998047 L 18.375 15.998047 z\"/></svg></a></p><p></p>\n    </div>\n    <div class=\"container-with-image\">\n        <img \n src=\"//warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_300x.jpg?v=1694097379\" srcset=\"\n                                                        //warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_180x.jpg?v=1694097379 180w 205h,\n                                                        //warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_360x.jpg?v=1694097379 360w 411h,\n                                                        //warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_540x.jpg?v=1694097379 540w 616h,\n                                                        //warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_720x.jpg?v=1694097379 720w 821h,\n                                                        //warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_900x.jpg?v=1694097379 900w 1027h,\n                                                        //warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_1080x.jpg?v=1694097379 1080w 1232h,\n                                                        //warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_1296x.jpg?v=1694097379 1296w 1478h,\n                                                        //warmbody-coldmind.com/cdn/shop/files/222Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-2_2af49d7a-c5ff-4dba-b48b-ac32856a62c5_1512x.jpg?v=1694097379 1512w 1725h\n                                                    \" sizes=\"(min-width: 981px) 50vw, 100vw\" width=\"300\" height=\"342\" alt=\"\" loading=\"lazy\" style=\"object-position:50.0% 50.0%\">\n    </div>\n</div>"
+      }
+    },
+    "45714ea2-7bc4-4a18-9058-8aa2397f8c17": {
+      "type": "section-custom",
+      "blocks": {
+        "template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-button-1": {
+          "type": "button",
+          "settings": {
+            "title": "Send us an email",
+            "link": "https://warmbody-coldmind.com/pages/whole-sale#ContactFormName",
+            "color": "primary",
+            "size": "big",
+            "width": "1/3"
+          }
+        },
+        "template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Text",
+            "text": "<p>Promote your brand by using a powerful combination of buttons, custom text, page content and images.</p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "center",
+            "width": "1/2"
+          }
+        },
+        "template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-image-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "width": "2/3"
+          }
+        },
+        "template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-spacer-1": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "space": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-button-1",
+        "template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-text-1",
+        "template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-image-1",
+        "template--18063005483272__45714ea2-7bc4-4a18-9058-8aa2397f8c17-spacer-1"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    },
+    "09a3a9fa-9b69-4d3d-acbd-882680d2fa3d": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/usik.jpg",
+            "title": "Oleksandr Usyk",
+            "sub_title": "",
+            "desc": "<p>boxer, IBF, WBO, IBO champion<br/></p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/lewon.jpg",
+            "title": "Levan Saginashvili",
+            "sub_title": "",
+            "desc": "<p>arm-wrestler, 7x WAF champion</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/jean.jpg",
+            "title": "Zhan Beleniuk",
+            "sub_title": "",
+            "desc": "<p>Greco-Roman wrestler, Olympic champion</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "e7a7534c-a27e-49f1-b75c-74a32f06139a": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/novikov.jpg",
+            "title": "Oleksiy Novikov",
+            "sub_title": "",
+            "desc": "<p>strongman, World's Strongest Man</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "355f6783-663c-4ed2-a6eb-5107fe1a3e7c": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/lasha1.jpg",
+            "title": "Lasha Talakhadze",
+            "sub_title": "",
+            "desc": "<p>weightlifter, Olympic champion</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "034266a1-44fa-405c-bda4-383b4ac44849": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/pliesnoy.jpg",
+            "title": "Anton Plesnoi",
+            "sub_title": "",
+            "desc": "<p>weightlifter, European champion</p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-0",
+        "template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-1",
+        "template--18063005483272__09a3a9fa-9b69-4d3d-acbd-882680d2fa3d-1689670494cabc13d3-2",
+        "e7a7534c-a27e-49f1-b75c-74a32f06139a",
+        "355f6783-663c-4ed2-a6eb-5107fe1a3e7c",
+        "034266a1-44fa-405c-bda4-383b4ac44849"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "title": "TALK ABOUT YOUR BRAND",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": false,
+        "grid": 3,
+        "spacing": 1,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "circle",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "13882d80-95da-4413-b5c2-9339c7d56ece": {
+      "type": "section-rich-text",
+      "custom_css": [
+        "h2 {margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_title": "CLIENTS FROM 70+ COUNTRIES",
+        "text": "",
+        "section-bottom-margin": true
+      }
+    },
+    "3f9f810e-0b7f-40ec-bb1d-c402458afd4e": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--18063005483272__3f9f810e-0b7f-40ec-bb1d-c402458afd4e-1689670520e866de5e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/444Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-4.jpg",
+            "title": "Our marketplaces:",
+            "desc": "<ul><li>2 own websites and warehouses,<br/>in North America and the EU</li><li>Amazon (12 marketplaces, including the US, Canada, Mexico, the UK, Germany) and eBay</li><li>15 affiliate gyms</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18063005483272__3f9f810e-0b7f-40ec-bb1d-c402458afd4e-1689670520e866de5e-0"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": true,
+        "image_ratio": "natural",
+        "block_layout": "2/3",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 2,
+        "link_style": "hollow"
+      }
+    },
+    "c86368c0-40a3-44c8-bfed-02c52544eed7": {
+      "type": "section-rich-text",
+      "custom_css": [
+        "h2 {margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_title": "EUROPEAN QUALITY",
+        "text": "",
+        "section-bottom-margin": true
+      }
+    },
+    "e0ab7b7b-28b7-4c5f-b82c-5c602a603f6d": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "d86680fb-ecd2-4d44-b6da-a982e6f68a96": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/555Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-5.jpg",
+            "title": "",
+            "desc": "<ul><li>We're a team of dedicated professionals with experience in sports science and training.</li><li>90% of products are produced in Ukraine using European-quality materials.</li><li>This allows us to independently develop and test our goods, and promptly react to customer feedback.</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "d86680fb-ecd2-4d44-b6da-a982e6f68a96"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": true,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "1245434f-3057-4a2b-91a7-5e78f12546a6": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-0": {
+          "type": "text",
+          "settings": {
+            "title": "STEP 1",
+            "sub_title": "",
+            "desc": "<p>A development process for each new product can take up to 12 months<br/></p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-1": {
+          "type": "text",
+          "settings": {
+            "title": "STEP 2",
+            "sub_title": "",
+            "desc": "<p>We create up to 5 versions of the product and select one that's best for release.<br/></p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-2": {
+          "type": "text",
+          "settings": {
+            "title": "STEP 3",
+            "sub_title": "",
+            "desc": "<p>We test new products before they're officially available so that athletes can give feedback.<br/></p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "a9ed297a-39c9-473b-8cfc-a7e6c53ee4ef": {
+          "type": "text",
+          "settings": {
+            "title": "STEP 4",
+            "sub_title": "",
+            "desc": "<p>After 2-3 months of testing, we make final edits based on feedback and launch mass production.<br/></p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-0",
+        "template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-1",
+        "template--18063005483272__1245434f-3057-4a2b-91a7-5e78f12546a6-1689670494cabc13d3-2",
+        "a9ed297a-39c9-473b-8cfc-a7e6c53ee4ef"
+      ],
+      "settings": {
+        "title": "WE STAKE OUR NAME ON WHAT WE PRODUCE",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": true,
+        "grid": 4,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": false,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "4:3",
+        "image_fit": false,
+        "bg_color": "#f2f2f2",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "5db4e5c6-04e7-4019-bc6e-c1c474437a9a": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-0": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/2023-07-18_13.02.46.png",
+            "title": "T-shirts",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/2023-07-18_13.02.56.png",
+            "title": "Hoodies",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-2": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/2023-07-18_13.03.11.png",
+            "title": "Compression tops",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "ecfaefc0-2c22-478f-b0e6-cabc15da19c1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/2023-07-18_13.03.26.png",
+            "title": "Weightlifting shorts",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-0",
+        "template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-1",
+        "template--18063005483272__5db4e5c6-04e7-4019-bc6e-c1c474437a9a-1689670494cabc13d3-2",
+        "ecfaefc0-2c22-478f-b0e6-cabc15da19c1"
+      ],
+      "settings": {
+        "title": "OUR PRODUCTS SPORTSWEAR",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": false,
+        "grid": 4,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "natural",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "9ba4e2ad-463f-403c-b60d-883518381b33": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "9b52e13d-9406-4d85-846d-99b4b80a37af": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/888Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-8.jpg",
+            "title": "THUMB TAPE",
+            "desc": "<ul><li>Amazon's TOP-3 in its category</li><li>2500+ reviews</li><li>★★★★★ rating 4.6</li></ul><p><strong>VS. COMPETITORS:</strong></p><ul><li>Stretches better</li><li>Attaches well to the skin</li><li>No residue left after removal</li><li>Easily hand-tipped</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "9b52e13d-9406-4d85-846d-99b4b80a37af"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "2/3",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "c218f529-939f-4450-be99-5bf939b2e3ba": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "f26763d9-e293-4002-96a5-2b9fecd8a0fe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/999Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-9.jpg",
+            "title": "STRAPS V1",
+            "desc": "<ul><li>Amazon's TOP-5 in its category</li><li>1300+ reviews</li><li>★★★★★ 4.9 rating</li></ul><p><strong>VS. COMPETITORS:</strong></p><ul><li>Made of 100% cotton for your comfort.</li><li>Unique design that will make you stand out.</li><li>350kg max load, so you can hold up almost any weight.</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "f26763d9-e293-4002-96a5-2b9fecd8a0fe"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "1ff65a2e-2552-4bd3-9904-a75b8f24ae00": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "85ba0701-3b25-4e84-bc34-22f82700b180": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/10Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-10_e5115cb4-ddbd-4fe8-9e78-cda04f18c707.jpg",
+            "title": "STRAPS Lasso",
+            "desc": "<ul><li>Amazon's TOP-5 in its category</li><li>650+ reviews</li><li>★★★★★ 4.7 rating</li></ul><p><strong>VS. COMPETITORS:</strong></p><ul><li>Made of 100% cotton for your comfort.</li><li>PRO version with neoprene padding.</li><li>350kg max load, so you can hold up almost any weight.</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "85ba0701-3b25-4e84-bc34-22f82700b180"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "b26b015a-a5cc-49ec-96f0-bcbabb599642": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "4446002a-d32c-4f2e-8f5a-0d733db491d1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/11Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-11.jpg",
+            "title": "COTTON WRAPS",
+            "desc": "<ul><li>Amazon's TOP-10 in its category</li><li>270+ reviews</li><li>★★★★★ 4.6 rating</li></ul><p><strong>VS. COMPETITORS:</strong></p><ul><li>Made of 100% cotton for your comfort.</li><li>Unique design that will make you stand out.</li><li>Length 30\" (75cm), width - 3\"(7cm) for better wrapping.</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "4446002a-d32c-4f2e-8f5a-0d733db491d1"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "1f82bbac-40f7-4da5-a2bf-73cb06efbad5": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "91e9b18e-626e-4a78-834c-a5b3d8b6d17c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/13Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-12.jpg",
+            "title": "LEATHER BELT",
+            "desc": "<ul><li>215+ reviews</li><li>★★★★★ 4.7 rating</li></ul><p><strong>VS. COMPETITORS:</strong></p><ul><li>Premium genuine leather.</li><li>Double roller stainless steel buckle<br/>and 4 stainless bolts for improved longevity.</li><li>S-XXXL sizes.</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "91e9b18e-626e-4a78-834c-a5b3d8b6d17c"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "db2ebcdd-7ec1-416b-8e29-6d9756f39f58": {
+      "type": "section-rich-text",
+      "custom_css": [
+        "h2 {margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_title": "PEOPLE ARE READY TO BUY",
+        "text": "",
+        "section-bottom-margin": true
+      }
+    },
+    "6625645d-5fd8-4400-a305-0391596106de": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "be699ed9-5c9c-4dee-88f9-f6ba6da8c50a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/14Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1__page-0013.jpg",
+            "title": "",
+            "desc": "<p><strong>We are looking for gym partners who want to offer their customers the best experience possible. </strong></p><p>With 5,000 monthly orders via Amazon we have an amazing 20% returning customer base that means there's a lot of potential in this market!</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "be699ed9-5c9c-4dee-88f9-f6ba6da8c50a"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "e78571fd-f9ed-401a-bf49-13b6b99da417": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "template--18063005483272__e78571fd-f9ed-401a-bf49-13b6b99da417-1689682505b6c43fb3-0": {
+          "type": "text",
+          "settings": {
+            "title": "THANK YOU FOR YOUR INTEREST AND ATTENTION",
+            "sub_title": "",
+            "desc": "<p><a href=\"mailto:sales@warmbody-coldmind.com\" title=\"mailto:sales@warmbody-coldmind.com\">sales@warmbody-coldmind.com</a><br/>warmbody-coldmind.com</p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18063005483272__e78571fd-f9ed-401a-bf49-13b6b99da417-1689682505b6c43fb3-0"
+      ],
+      "settings": {
+        "title": "",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "section-bottom-margin": false,
+        "grid": 2,
+        "spacing": 1,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": false,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "natural",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "#212121",
+        "text_heading_color": false,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel"
+      }
+    },
+    "77c9b315-6a4c-4e54-b2b6-51784d8f9d03": {
+      "type": "section-contact-form",
+      "blocks": {
+        "fdeff13b-cd13-4b67-bdf6-462dd402546e": {
+          "type": "text",
+          "settings": {
+            "required": true,
+            "long": false,
+            "label": "Phone"
+          }
+        }
+      },
+      "block_order": [
+        "fdeff13b-cd13-4b67-bdf6-462dd402546e"
+      ],
+      "custom_css": [],
+      "settings": {
+        "heading": "Send us an email",
+        "background": true,
+        "divider": false,
+        "section-bottom-margin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3dbbe50b-f75f-49f1-b8a7-f28b4095867d",
+    "5bd0f318-fea3-41ae-861b-8b1a9920c2d0",
+    "45714ea2-7bc4-4a18-9058-8aa2397f8c17",
+    "09a3a9fa-9b69-4d3d-acbd-882680d2fa3d",
+    "13882d80-95da-4413-b5c2-9339c7d56ece",
+    "3f9f810e-0b7f-40ec-bb1d-c402458afd4e",
+    "c86368c0-40a3-44c8-bfed-02c52544eed7",
+    "e0ab7b7b-28b7-4c5f-b82c-5c602a603f6d",
+    "1245434f-3057-4a2b-91a7-5e78f12546a6",
+    "5db4e5c6-04e7-4019-bc6e-c1c474437a9a",
+    "9ba4e2ad-463f-403c-b60d-883518381b33",
+    "c218f529-939f-4450-be99-5bf939b2e3ba",
+    "1ff65a2e-2552-4bd3-9904-a75b8f24ae00",
+    "b26b015a-a5cc-49ec-96f0-bcbabb599642",
+    "1f82bbac-40f7-4da5-a2bf-73cb06efbad5",
+    "db2ebcdd-7ec1-416b-8e29-6d9756f39f58",
+    "6625645d-5fd8-4400-a305-0391596106de",
+    "e78571fd-f9ed-401a-bf49-13b6b99da417",
+    "77c9b315-6a4c-4e54-b2b6-51784d8f9d03"
+  ]
+}
