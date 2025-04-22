@@ -9729,3 +9729,8 @@ section.description .container--tiny {
       left: 18px;
     }
   }
+
+/* Hide Home item in Header Nav on Desktop */
+.primary-nav ul li:first-of-type {
+  display: none;
+}
