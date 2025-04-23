@@ -8,7 +8,25 @@ tyle{% comment %}theme-check-disable TemplateLength{% endcomment %}
     <section class="section section--product-single section--{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="product-single">
         <div class="product-single product-single--minimal product-single--{{ product.id }} js-product-{{product.id}} js-product-single" data-product-id="{{product.id}}">
             <div class="product-single__top container container--large"  style="position: relative">
-                
+                <!-- {% if section.settings.show_breadcrumbs %}
+                    <div class="container container--small {% if section.settings.container == 'small' %}container--tiny@tab{% endif %}">
+                        <nav class="breadcrumb breadcrumb--product-single u-text-center js-breadcrumb" role="navigation" aria-label="breadcrumbs">
+                            <ul class="breadcrumb__items o-list-bare o-list-inline">
+                                <li class="breadcrumb__item o-list-inline__item">
+                                    <a href="{{ routes.root_url }}" title="{{ 'layout.navigation.home' | t }}" class="breadcrumb__link u-small">{{ 'layout.navigation.home' | t }}</a>
+                                </li>
+                                {% if collection.url %}
+                                    <li class="breadcrumb__item o-list-inline__item">
+                                        <a href="{{ collection.url }}" class="breadcrumb__link u-small">{{ collection.title }}</a>
+                                    </li>
+                                {% endif %}
+                                <li class="breadcrumb__item o-list-inline__item">
+                                    <span href="{{ routes.root_url }}" class="breadcrumb__link u-small breadcrumb__link--current">{{ product.title | truncate: 35 }}</span>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                {% endif %} -->
 
                 <!-- Badges -->
                 <div class="product-badges">
