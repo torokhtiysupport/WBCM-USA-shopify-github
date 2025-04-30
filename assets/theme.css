@@ -9731,6 +9731,6 @@ section.description .container--tiny {
   }
 
 /* Hide Home item in Header Nav on Desktop */
-.primary-nav ul li:first-of-type {
+.primary-nav > ul > li:first-of-type {
   display: none;
 }
