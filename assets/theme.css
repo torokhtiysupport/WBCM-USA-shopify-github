@@ -9734,3 +9734,9 @@ section.description .container--tiny {
 .primary-nav > ul > li:first-of-type {
   display: none;
 }
+
+/* Stoq styles */
+.preorder-description-text {
+  width: fit-content;
+  margin: 0 auto;
+}
