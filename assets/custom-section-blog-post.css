@@ -1004,5 +1004,8 @@
   .star-rating-container + ul {
     margin-bottom: 10px;
   }
+  .custom-article-container .button.button-amazon, .custom-article-container .button.button-amazon-black {
+    padding: 10px 25px;
+  }
 }
 
