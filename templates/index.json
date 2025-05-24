@@ -24,8 +24,8 @@
         "image_HQTKhk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Happy-Birthday-banner.jpg",
-            "image_mobile": "shopify://shop_images/Happy-Birthday-banner-mobile.jpg",
+            "image": "shopify://shop_images/memorial-day-sale-banner-desktop.jpg",
+            "image_mobile": "shopify://shop_images/memorial-day-sale-banner-mob.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
