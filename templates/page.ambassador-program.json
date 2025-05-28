@@ -1,1 +1,88 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"0d6494e1-21d7-4cef-af3f-e10f8976ef7f":{"type":"section-liquid","custom_css":["h1 {text-align: center; margin-top: 30px;}"],"settings":{"custom_liquid":"<h1>AMBASSADOR PROGRAM<\/h1>"}},"7527dea2-dfd5-4743-a415-ef9deab2063b":{"type":"section-image-slideshow","blocks":{"template--18075906375944__7527dea2-dfd5-4743-a415-ef9deab2063b-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/333Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-3.jpg","link":""}}},"block_order":["template--18075906375944__7527dea2-dfd5-4743-a415-ef9deab2063b-image-1"],"settings":{"autoplay":true,"autoplay_speed":8,"nav_style":"bars","slideshow_width":"contained","overlay_color":"#000000","overlay_strength":0,"section-bottom-margin":true}},"b58f81d4-68de-4ff6-8aa4-2c96528476c9":{"type":"section-rich-text","settings":{"full_width":false,"section_title":"","text":"<p>You have a chance to become a <strong>\"Warm Body Cold Mind\"<\/strong> ambassador!<\/p><p>If you are active in sports, you like <strong>WBCM<\/strong> clothes and want to be a part of <strong>\"Warm Body Cold Mind\"<\/strong> gang - fill the form below.<\/p><p><\/p>","section-bottom-margin":true}},"a6c51a19-35df-48af-83de-450529132b44":{"type":"section-custom","blocks":{"template--18075906375944__a6c51a19-35df-48af-83de-450529132b44-button-1":{"type":"button","settings":{"title":"Go to form now","link":"http:\/\/eepurl.com\/ikOQ9H","color":"primary","size":"big","width":"1\/3"}}},"block_order":["template--18075906375944__a6c51a19-35df-48af-83de-450529132b44-button-1"],"settings":{"section-bottom-margin":false}}},"order":["main","0d6494e1-21d7-4cef-af3f-e10f8976ef7f","7527dea2-dfd5-4743-a415-ef9deab2063b","b58f81d4-68de-4ff6-8aa4-2c96528476c9","a6c51a19-35df-48af-83de-450529132b44"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "0d6494e1-21d7-4cef-af3f-e10f8976ef7f": {
+      "type": "section-liquid",
+      "custom_css": [
+        "h1 {text-align: center; margin-top: 30px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h1>AMBASSADOR PROGRAM</h1>"
+      }
+    },
+    "7527dea2-dfd5-4743-a415-ef9deab2063b": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "template--18075906375944__7527dea2-dfd5-4743-a415-ef9deab2063b-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/333Warm_Body_Cold_Mind_WBCM_offer_for_Gyms_2023_1_-3.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18075906375944__7527dea2-dfd5-4743-a415-ef9deab2063b-image-1"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "bars",
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "b58f81d4-68de-4ff6-8aa4-2c96528476c9": {
+      "type": "section-rich-text",
+      "settings": {
+        "full_width": false,
+        "section_title": "",
+        "text": "<p>You have a chance to become a <strong>\"Warm Body Cold Mind\"</strong> ambassador!</p><p>If you are active in sports, you like <strong>WBCM</strong> clothes and want to be a part of <strong>\"Warm Body Cold Mind\"</strong> gang - fill the form below.</p><p></p>",
+        "section-bottom-margin": true
+      }
+    },
+    "a6c51a19-35df-48af-83de-450529132b44": {
+      "type": "section-custom",
+      "blocks": {
+        "template--18075906375944__a6c51a19-35df-48af-83de-450529132b44-button-1": {
+          "type": "button",
+          "settings": {
+            "title": "Go to form now",
+            "link": "https://forms.gle/cJfGUkDQijpE29ca7",
+            "color": "primary",
+            "size": "big",
+            "width": "1/3"
+          }
+        }
+      },
+      "block_order": [
+        "template--18075906375944__a6c51a19-35df-48af-83de-450529132b44-button-1"
+      ],
+      "settings": {
+        "section-bottom-margin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0d6494e1-21d7-4cef-af3f-e10f8976ef7f",
+    "7527dea2-dfd5-4743-a415-ef9deab2063b",
+    "b58f81d4-68de-4ff6-8aa4-2c96528476c9",
+    "a6c51a19-35df-48af-83de-450529132b44"
+  ]
+}
