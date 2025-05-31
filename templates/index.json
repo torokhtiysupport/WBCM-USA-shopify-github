@@ -21,22 +21,6 @@
     "section-slideshow": {
       "type": "section-slideshow",
       "blocks": {
-        "image_HQTKhk": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/memorial-day-sale-banner-desktop.jpg",
-            "image_mobile": "shopify://shop_images/memorial-day-sale-banner-mob.jpg",
-            "alignment": "bottom-center",
-            "title": "",
-            "text": "",
-            "link_style": "c-btn c-btn--primary",
-            "link_title": "",
-            "link": "",
-            "link_style_2": "c-btn c-btn--hollow",
-            "link_title_2": "SHOP NOW",
-            "link_2": "shopify://collections/sale"
-          }
-        },
         "image_CV44JK": {
           "type": "image",
           "settings": {
@@ -135,7 +119,6 @@
         }
       },
       "block_order": [
-        "image_HQTKhk",
         "image_CV44JK",
         "section-slideshow-1",
         "9bf15e77-545b-4d61-8855-5dfad503a3f3",
