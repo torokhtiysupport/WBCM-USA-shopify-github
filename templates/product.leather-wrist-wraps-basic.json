@@ -1,27 +1,27 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "170056575343263d0f": {
       "type": "apps",
       "blocks": {
         "0a50ad73-45f0-4b5b-aa19-0fb1659e18d2": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": false,
             "bb_custom_inheritance": true,
@@ -59,9 +59,8 @@
           }
         },
         "108243de-456a-47e1-8b42-f68915d5089c": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -81,8 +80,7 @@
         },
         "image_swatches_Q7fdni": {
           "type": "image_swatches",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -96,8 +94,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -115,8 +112,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -150,28 +146,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<p><strong>Sizing:<\/strong> S, M, L<br\/><strong>Width:<\/strong> 1\"<br\/><strong>Material:<\/strong> leather<br\/><strong>Colors:<\/strong> salat, beige, brown, blue, aqua, yellow, red, pink<\/p>"
+            "text": "<p><strong>Sizing:</strong> S, M, L<br/><strong>Width:</strong> 1\"<br/><strong>Material:</strong> leather<br/><strong>Colors:</strong> salat, beige, brown, blue, aqua, yellow, red, pink</p>"
           }
         },
         "article_MQL3Vt": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>Perfect for various fitness activities, i.e., Olympic weightlifting, Powerlifting, bodybuilding, Strongman training, functional fitness, and kettlebell workouts.<\/p>"
+            "text": "<p>Perfect for various fitness activities, i.e., Olympic weightlifting, Powerlifting, bodybuilding, Strongman training, functional fitness, and kettlebell workouts.</p>"
           }
         },
         "article_kKREg7": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "article_hHqHVn": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Wipe the wraps with a wet tissue. Not recommended for machine washing because it influences the lifetime and damages the fabric.<\/p>"
+            "text": "<p>Wipe the wraps with a wet tissue. Not recommended for machine washing because it influences the lifetime and damages the fabric.</p>"
           }
         }
       },
@@ -188,6 +184,29 @@
         "cta_style": "link"
       }
     },
+    "section_video_yc84Xc": {
+      "type": "section-video",
+      "blocks": {
+        "video_qiihEJ": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://youtu.be/d9qYbvUflI4",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_qiihEJ"
+      ],
+      "name": "Video",
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
     "section_custom_zHe3P9": {
       "type": "section-custom",
       "blocks": {
@@ -199,15 +218,15 @@
             "link_title": "Learn more",
             "link": "",
             "align": "center",
-            "width": "1\/2"
+            "width": "1/2"
           }
         },
         "image_iqrVzN": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/leather-wrist-wraps-sizes.webp",
+            "image": "shopify://shop_images/leather-wrist-wraps-sizes.webp",
             "link": "",
-            "width": "2\/3"
+            "width": "2/3"
           }
         }
       },
@@ -232,14 +251,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -262,9 +281,8 @@
       "type": "apps",
       "blocks": {
         "9827f988-21c5-4ea8-b629-f84c75497d8d": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -290,6 +308,7 @@
     "170056575343263d0f",
     "main",
     "product_accordion_fmjrPM",
+    "section_video_yc84Xc",
     "section_custom_zHe3P9",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "1691087074b17a7ec7",
