@@ -184,14 +184,14 @@
           "type": "article",
           "settings": {
             "title": "Specifications",
-            "text": "<ul><li><strong>Sizing:</strong> M-XXL</li><li><strong>Material:</strong> Battle-tested fabric</li><li><strong>Color:</strong> Black</li><li><strong>Closure Type:</strong> Pull-On</li></ul>"
+            "text": "<ul><li><strong>Sizing:</strong> M-XXL</li><li><strong>Material:</strong> Premium European fabric</li><li><strong>Color:</strong> black</li><li><strong>Closure Type:</strong> Pull-On</li></ul>"
           }
         },
         "article_iVGyA9": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>Whether you're lifting, sprinting, or tackling any challenge — L10 Training Shorts keep you ready for the task.</p>"
+            "text": "<p>Built for lifters who demand both performance and durability.</p>"
           }
         },
         "article_6bQi8y": {
@@ -228,7 +228,7 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Compression-Shorts-L9-best-for.webp",
+            "image": "shopify://shop_images/shorts-x-edition-best-for.jpg",
             "title": "BEST SHORTS FOR:",
             "desc": "<ul><li>weightlifting</li><li>powerlifting</li><li>bodybuilding sessions</li></ul>",
             "horizontal_align": "left",
@@ -244,12 +244,11 @@
       "block_order": [
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1"
       ],
-      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
-        "section-bottom-margin": true,
-        "image_ratio": "3:4",
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
         "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "middle",
@@ -263,9 +262,9 @@
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shorts-l9-features.webp",
-            "title": "DESIGNED BY the Olympian OLEKSIY TOROKHTIY",
-            "desc": "<p>Designed to withstand rigorous training sessions, these shorts offers superior comfort and durability, empowering athletes to push their limits. Experience the difference of locally-made excellence in every stitch.</p>",
+            "image": "shopify://shop_images/shorts-x-edition-features.jpg",
+            "title": "",
+            "desc": "<ul><li>Designed and developed by O. Torokhtiy</li><li>Optimized for weightlifters – The unique cut highlights the key body features of weightlifters. If you know, you know.</li><li>Premium European fabric – Developed for maximum durability and resistance to barbell friction.</li><li>Enhanced waistband support – Reinforced elastic for a secure fit during lifts.</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -279,7 +278,6 @@
       "block_order": [
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1"
       ],
-      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -292,15 +290,15 @@
         "link_style": "hollow"
       }
     },
-    "section_image_with_text_Yae6cA": {
+    "section_image_with_text_HrNnFJ": {
       "type": "section-image-with-text",
       "blocks": {
-        "image_HArEdd": {
+        "image_ihRKyw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shorts-l9-technical-features.webp",
+            "image": "shopify://shop_images/shorts-x-edition-features.jpg",
             "title": "",
-            "desc": "",
+            "desc": "<p>In 2025, we celebrate 10 years since our first weightlifting seminar and the launch of the first-ever Warm Body Cold Mind T-shirt and lifting straps.</p><p>That’s why our compression pants featuring the STICKMAN design are named \"X-Edition\" – a tribute to the stickmen I originally drew in 2015 for our first-ever T-shirt.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -312,21 +310,16 @@
         }
       },
       "block_order": [
-        "image_HArEdd"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".o-layout {justify-content: center;}",
-        ".o-layout .o-layout__item:last-of-type {display: none;}"
+        "image_ihRKyw"
       ],
       "settings": {
         "container": "large",
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "3/4",
+        "block_layout": "1/2",
         "block_align": "left",
-        "vertical_align": "top",
+        "vertical_align": "middle",
         "heading_size": 3,
         "link_style": "hollow"
       }
@@ -467,7 +460,7 @@
     "product_accordion_yxLDxL",
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "9222cec0-f847-4989-9afd-055ed05dd976",
-    "section_image_with_text_Yae6cA",
+    "section_image_with_text_HrNnFJ",
     "section_custom_qcmbYA",
     "section_image_with_text_fCDXF3",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
