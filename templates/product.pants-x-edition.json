@@ -264,7 +264,7 @@
           "settings": {
             "image": "shopify://shop_images/pants-x-edition-features.jpg",
             "title": "",
-            "desc": "<ul><li>Designed and developed by O. Torokhtiy</li><li>Optimized for weightlifters – The unique cut highlights the key body features of weightlifters. If you know, you know.</li><li>Premium European fabric – Developed for maximum durability and resistance to barbell friction.</li><li>Enhanced waistband support – Reinforced elastic for a secure fit during lifts.</li></ul>",
+            "desc": "<ul><li><strong>Designed and developed by O. Torokhtiy</strong></li><li><strong>Optimized for weightlifters</strong> – The unique cut highlights the key body features of weightlifters. If you know, you know.</li><li><strong>Premium European fabric</strong> – Developed for maximum durability and resistance to barbell friction.</li><li><strong>Enhanced waistband support</strong> – Reinforced elastic for a secure fit during lifts.</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
