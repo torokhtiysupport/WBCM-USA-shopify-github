@@ -228,8 +228,8 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shorts-x-edition-best-for.jpg",
-            "title": "BEST SHORTS FOR:",
+            "image": "shopify://shop_images/pants-x-edition-best-for.jpg",
+            "title": "BEST PANTS FOR:",
             "desc": "<ul><li>weightlifting</li><li>powerlifting</li><li>bodybuilding sessions</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
@@ -262,7 +262,7 @@
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shorts-x-edition-features.jpg",
+            "image": "shopify://shop_images/pants-x-edition-features.jpg",
             "title": "",
             "desc": "<ul><li>Designed and developed by O. Torokhtiy</li><li>Optimized for weightlifters – The unique cut highlights the key body features of weightlifters. If you know, you know.</li><li>Premium European fabric – Developed for maximum durability and resistance to barbell friction.</li><li>Enhanced waistband support – Reinforced elastic for a secure fit during lifts.</li></ul>",
             "horizontal_align": "left",
@@ -296,7 +296,7 @@
         "image_ihRKyw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shorts-x-edition-features.jpg",
+            "image": "shopify://shop_images/pants-x-edition-a-content.jpg",
             "title": "",
             "desc": "<p>In 2025, we celebrate 10 years since our first weightlifting seminar and the launch of the first-ever Warm Body Cold Mind T-shirt and lifting straps.</p><p>That’s why our compression pants featuring the STICKMAN design are named \"X-Edition\" – a tribute to the stickmen I originally drew in 2015 for our first-ever T-shirt.</p>",
             "horizontal_align": "left",
