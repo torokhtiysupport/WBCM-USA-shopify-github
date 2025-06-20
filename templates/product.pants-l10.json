@@ -1,0 +1,470 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "17006690294fb39c04": {
+      "type": "apps",
+      "blocks": {
+        "68bb6900-0755-4395-86b5-9a43a15aba1c": {
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "settings": {
+            "home": "Home",
+            "home_link": "/",
+            "menu": "main-menu",
+            "separator": "›",
+            "custom_class": "",
+            "bb_show_hide": true,
+            "hide_product": false,
+            "bb_show_more": true,
+            "enable_custom_feature": true,
+            "bb_custom_inheritance": true,
+            "bb_capitalize": false,
+            "bb_font_size": 13,
+            "bb_padding": 0,
+            "bb_mobile_padding": 55,
+            "bb_top_padding": 20,
+            "bb_mobile_top_padding": 55,
+            "bb_margin": 0,
+            "bb_mobile_margin": 0,
+            "bb_align": "left",
+            "bb_color": "#2a2a2a",
+            "bb_hover_color": "",
+            "bb_home_color": "",
+            "truncator": 20
+          }
+        }
+      },
+      "block_order": [
+        "68bb6900-0755-4395-86b5-9a43a15aba1c"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+            "vendor_size": 2,
+            "vendor_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "76f4a560-5d7a-4576-b3cb-80e42400f246": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "align": "center"
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf241": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb": {
+          "type": "image",
+          "settings": {
+            "image_width": 200,
+            "align": "center",
+            "link": ""
+          }
+        },
+        "popup_bYBV9h": {
+          "type": "popup",
+          "settings": {
+            "link_title": "Size chart",
+            "link_style": "body",
+            "align": "left",
+            "popup_heading": "none",
+            "popup_content": "",
+            "image": "shopify://shop_images/Shorts-Sizes-new.jpg",
+            "text": "",
+            "icon": "icon-clothes-design-tape-measure",
+            "icon_size": 1,
+            "color_icon": "#212121"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "76f4a560-5d7a-4576-b3cb-80e42400f246",
+        "price",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "share",
+        "db48bf56-e904-4604-9f21-89d04e9bf241",
+        "description",
+        "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb",
+        "popup_bYBV9h"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "large",
+        "show_breadcrumbs": false,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_product_image_rounded_corners": false,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "product_accordion_yxLDxL": {
+      "type": "product_accordion",
+      "blocks": {
+        "article_GEqM4U": {
+          "type": "article",
+          "settings": {
+            "title": "Specifications",
+            "text": "<ul><li><strong>Sizing:</strong> M-XXL</li><li><strong>Material:</strong> Premium European fabric</li><li><strong>Color:</strong> black</li><li><strong>Closure Type:</strong> Pull-On</li></ul>"
+          }
+        },
+        "article_iVGyA9": {
+          "type": "article",
+          "settings": {
+            "title": "Intended Use",
+            "text": "<p>Built for lifters who demand both performance and durability.</p>"
+          }
+        },
+        "article_6bQi8y": {
+          "type": "article",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>You can return or exchange the item within 14 days of receiving it, as long as it's unwashed, unworn, and has all the barcodes intact. If you're not happy with the product, you can return it within 14 days of receipt, or exchange it for another item.</p>"
+          }
+        },
+        "article_GtpfhX": {
+          "type": "article",
+          "settings": {
+            "title": "Product Care Instructions",
+            "text": "<ul><li>Machine wash cold with like colors</li><li>Use liquid soap only</li><li>Hang dry only</li><li>Do not iron</li><li>Do not dry clean</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "article_GEqM4U",
+        "article_iVGyA9",
+        "article_6bQi8y",
+        "article_GtpfhX"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pants-x-edition-best-for.jpg",
+            "title": "BEST PANTS FOR:",
+            "desc": "<ul><li>weightlifting</li><li>powerlifting</li><li>bodybuilding sessions</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 2,
+        "link_style": "hollow"
+      }
+    },
+    "9222cec0-f847-4989-9afd-055ed05dd976": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pants-x-edition-features.jpg",
+            "title": "",
+            "desc": "<ul><li>Designed and developed by O. Torokhtiy</li><li>Optimized for weightlifters – The unique cut highlights the key body features of weightlifters. If you know, you know.</li><li>Premium European fabric – Developed for maximum durability and resistance to barbell friction.</li><li>Enhanced waistband support – Reinforced elastic for a secure fit during lifts.</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "section_image_with_text_HrNnFJ": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_ihRKyw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pants-x-edition-a-content.jpg",
+            "title": "",
+            "desc": "<p>In 2025, we celebrate 10 years since our first weightlifting seminar and the launch of the first-ever Warm Body Cold Mind T-shirt and lifting straps.</p><p>That’s why our compression pants featuring the STICKMAN design are named \"X-Edition\" – a tribute to the stickmen I originally drew in 2015 for our first-ever T-shirt.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_ihRKyw"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "section_custom_qcmbYA": {
+      "type": "section-custom",
+      "blocks": {
+        "text_YrYCki": {
+          "type": "text",
+          "settings": {
+            "title": "THE RIGHT SIZE SELECTION",
+            "text": "",
+            "link_title": "",
+            "link": "",
+            "align": "center",
+            "width": "1/2"
+          }
+        }
+      },
+      "block_order": [
+        "text_YrYCki"
+      ],
+      "custom_css": [
+        "img {max-width: 600px;}",
+        ".home-custom__img--cover {background-image: none !important;}"
+      ],
+      "settings": {
+        "section-bottom-margin": true
+      }
+    },
+    "section_image_with_text_fCDXF3": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_gQbtbe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Shorts-Sizes-new.jpg",
+            "title": "",
+            "desc": "",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_gQbtbe"
+      ],
+      "custom_css": [
+        ".o-layout {justify-content: center;}",
+        ".o-layout .o-layout__item:last-of-type {display: none;}"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "2/3",
+        "block_align": "left",
+        "vertical_align": "top",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
+      "type": "section-faq",
+      "blocks": {
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0": {
+          "type": "category",
+          "settings": {
+            "title": "FAQs"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1": {
+          "type": "article",
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>✔ Orders are processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via DHL Standard in 3-5 business days.</p><p>✔ Shipping costs and taxes can be viewed at checkout.</p>"
+          }
+        },
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
+          "type": "article",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>✔ You have the option to return the item within 14 days after receiving it.</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn.</p><p>✔ To initiate a return, send a request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ For more information about our return or exchange policy, <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-0",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-1",
+        "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2"
+      ],
+      "custom_css": [
+        "{background-color: #eeeeee;}"
+      ],
+      "settings": {
+        "enable_sidebar": false,
+        "cta_link_title": "Contact us",
+        "cta_link": "",
+        "cta_style": "link"
+      }
+    },
+    "169047038881f6c5ad": {
+      "type": "apps",
+      "blocks": {
+        "e356709e-30b0-4584-a768-d48e4a306dbb": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "e356709e-30b0-4584-a768-d48e4a306dbb"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "wide",
+        "related_mobile_layout": "carousel",
+        "related_grid_num": 4,
+        "grid_mobile": "2",
+        "related_grid_row": 1
+      }
+    }
+  },
+  "order": [
+    "17006690294fb39c04",
+    "main",
+    "product_accordion_yxLDxL",
+    "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
+    "9222cec0-f847-4989-9afd-055ed05dd976",
+    "section_image_with_text_HrNnFJ",
+    "section_custom_qcmbYA",
+    "section_image_with_text_fCDXF3",
+    "2d5bd59f-a78a-4717-af1f-2177417b93ca",
+    "169047038881f6c5ad",
+    "product-recommendations"
+  ]
+}
