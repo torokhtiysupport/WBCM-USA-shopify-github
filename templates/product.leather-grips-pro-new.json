@@ -86,10 +86,6 @@
             "border": true
           }
         },
-        "image_swatches_agmxat": {
-          "type": "image_swatches",
-          "settings": {}
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -144,7 +140,6 @@
         "76f4a560-5d7a-4576-b3cb-80e42400f246",
         "price",
         "db48bf56-e904-4604-9f21-89d04e9bf249",
-        "image_swatches_agmxat",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
