@@ -1,27 +1,27 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1700669249193b19df": {
       "type": "apps",
       "blocks": {
         "ed84f04a-372a-4d26-b646-676038a1a2a7": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -59,9 +59,8 @@
           }
         },
         "9ccc968f-b49e-44b5-9415-0599527f423e": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -89,20 +88,9 @@
             "popup_content": ""
           }
         },
-        "image_swatches_XqFLYA": {
-          "type": "image_swatches",
-          "settings": {
-          }
-        },
-        "size_swatches_6CewDe": {
-          "type": "size_swatches",
-          "settings": {
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -120,8 +108,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -130,8 +117,6 @@
         "price",
         "db48bf56-e904-4604-9f21-89d04e9bf249",
         "variant_picker",
-        "image_swatches_XqFLYA",
-        "size_swatches_6CewDe",
         "quantity_selector",
         "buy_buttons",
         "db48bf56-e904-4604-9f21-89d04e9bf241",
@@ -156,28 +141,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Size:<\/strong> 50 ml, 250 ml;<\/li><li><strong>Made of:<\/strong> ‎Magnesium Carbonate;<\/li><li>Handy travel bottle;<\/li><li>High-quality liquid formulation<br\/>up to 45 uses (50 ml), up to 225 uses (250 ml);<\/li><li>Fast-drying formula<\/li><\/ul>"
+            "text": "<ul><li><strong>Size:</strong> 50 ml, 250 ml;</li><li><strong>Made of:</strong> ‎Magnesium Carbonate;</li><li>Handy travel bottle;</li><li>High-quality liquid formulation<br/>up to 45 uses (50 ml), up to 225 uses (250 ml);</li><li>Fast-drying formula</li></ul>"
           }
         },
         "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>WBCM liquid hand chalk is perfect for weightlifting, powerlifting, bodybuilding, rock climbing, gymnastics, and other sports involving hand grip. <\/p>"
+            "text": "<p>WBCM liquid hand chalk is perfect for weightlifting, powerlifting, bodybuilding, rock climbing, gymnastics, and other sports involving hand grip. </p>"
           }
         },
         "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-3": {
           "type": "article",
           "settings": {
             "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "template--20972192137526__ec7f054f-d1ad-4160-af0b-3b04ed339fb3-article-4": {
           "type": "article",
           "settings": {
             "title": "How To Use",
-            "text": "<p>You need just one pea-sized amount to coat your hands and it dries quickly. Dispense a small amount onto your palm, briskly rub your hands together, and let it dry for a few seconds.<\/p>"
+            "text": "<p>You need just one pea-sized amount to coat your hands and it dries quickly. Dispense a small amount onto your palm, briskly rub your hands together, and let it dry for a few seconds.</p>"
           }
         }
       },
@@ -200,7 +185,7 @@
         "template--17877436039432__4bafeb67-f7b1-4586-ab2a-a95bbb3df588-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/44c7b19d-ff35-459e-9a19-3f3b1e1a95c7.jpg",
+            "image": "shopify://shop_images/44c7b19d-ff35-459e-9a19-3f3b1e1a95c7.jpg",
             "link": ""
           }
         }
@@ -224,7 +209,7 @@
         "edd8b517-13e3-4e6f-812e-294807b703dc": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9226.jpg",
+            "image": "shopify://shop_images/IMG_9226.jpg",
             "link": ""
           }
         }
@@ -248,7 +233,7 @@
         "ba581946-260d-4f35-b697-ff5f044098ef": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9227.jpg",
+            "image": "shopify://shop_images/IMG_9227.jpg",
             "link": ""
           }
         }
@@ -272,7 +257,7 @@
         "template--17877436039432__e2fcdea9-abe5-4351-8f5b-76d72cb5e421-video-1": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=lh0rwSrh9bk",
+            "video_url": "https://www.youtube.com/watch?v=lh0rwSrh9bk",
             "video_title": ""
           }
         }
@@ -294,7 +279,7 @@
         "55faa441-79b6-4140-9d3c-d6cd038b0a92": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9228.jpg",
+            "image": "shopify://shop_images/IMG_9228.jpg",
             "link": ""
           }
         }
@@ -318,7 +303,7 @@
         "a3ba1197-76b6-420f-a43d-aefb8abc1bf0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9229.jpg",
+            "image": "shopify://shop_images/IMG_9229.jpg",
             "link": ""
           }
         }
@@ -349,14 +334,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -379,9 +364,8 @@
       "type": "apps",
       "blocks": {
         "c5ab8e9f-65f9-4694-ab79-7594422ecb6c": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
