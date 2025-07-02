@@ -78,10 +78,6 @@
             "border": true
           }
         },
-        "image_swatches_cf44zB": {
-          "type": "image_swatches",
-          "settings": {}
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -120,7 +116,6 @@
         "judge_me_reviews_preview_badge_7f9GfW",
         "price",
         "db48bf56-e904-4604-9f21-89d04e9bf249",
-        "image_swatches_cf44zB",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
