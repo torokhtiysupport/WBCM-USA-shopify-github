@@ -253,7 +253,7 @@
         "template--18064480993544__28855942-3267-47a6-ab4e-f1ea83c06142-1689689207acf7aed9-0": {
           "type": "video",
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=oHUpMVQbDis&feature=youtu.be",
+            "video_url": "https://www.youtube.com/watch?v=DJ0Txn6g3YU",
             "video_title": ""
           }
         }
@@ -261,7 +261,6 @@
       "block_order": [
         "template--18064480993544__28855942-3267-47a6-ab4e-f1ea83c06142-1689689207acf7aed9-0"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "desc": "",
