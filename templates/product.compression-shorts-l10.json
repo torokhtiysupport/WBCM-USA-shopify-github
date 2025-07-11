@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "68bb6900-0755-4395-86b5-9a43a15aba1c": {
-          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -197,7 +197,7 @@
         "article_6bQi8y": {
           "type": "article",
           "settings": {
-            "title": "Warranty",
+            "title": "Return Policy",
             "text": "<p>You can return or exchange the item within 14 days of receiving it, as long as it's unwashed, unworn, and has all the barcodes intact. If you're not happy with the product, you can return it within 14 days of receipt, or exchange it for another item.</p>"
           }
         },
