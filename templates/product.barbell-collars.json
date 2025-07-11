@@ -1,27 +1,27 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1700668731f2e939dc": {
       "type": "apps",
       "blocks": {
         "9c14a0e4-dccc-4f56-971b-eb04ee3ae9fb": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -59,9 +59,8 @@
           }
         },
         "f7fce164-7cc0-4d79-8d0c-65f4cf079356": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -91,8 +90,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -110,8 +108,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "c5c79762-70af-4d16-801f-50b992b3d036": {
           "type": "complementary-products",
@@ -159,28 +156,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Material:<\/strong> High-Strength Nylon<\/li><li><strong>Closure:<\/strong> Quick-Lock Mechanism<\/li><li><strong>Fit:<\/strong> 2in Olympic Sleeves<\/li><li><strong>Weight:<\/strong> 0.75 pounds<\/li><li>Sold in pairs<\/li><\/ul>"
+            "text": "<ul><li><strong>Material:</strong> High-Strength Nylon</li><li><strong>Closure:</strong> Quick-Lock Mechanism</li><li><strong>Fit:</strong> 2in Olympic Sleeves</li><li><strong>Weight:</strong> 0.75 pounds</li><li>Sold in pairs</li></ul>"
           }
         },
         "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>The collars fit perfectly functional fitness workouts, Olympic weightlifting, powerlifting, strength, and cross-training, performing deadlifts and bench presses, as well as other training sessions involving dropping the bars from an elevated position.<\/p>"
+            "text": "<p>The collars fit perfectly functional fitness workouts, Olympic weightlifting, powerlifting, strength, and cross-training, performing deadlifts and bench presses, as well as other training sessions involving dropping the bars from an elevated position.</p>"
           }
         },
         "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-3": {
           "type": "article",
           "settings": {
-            "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "title": "Return Policy",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-4": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Use a stiff bristle brush to remove dirt, chalk, and other debris. Make sure it's stiff enough to scrub away dirt without damaging a collar. Use a clean wet cloth to remove the dirt. You can also use a mild detergent to wipe possible oils or chalk.<\/p>"
+            "text": "<p>Use a stiff bristle brush to remove dirt, chalk, and other debris. Make sure it's stiff enough to scrub away dirt without damaging a collar. Use a clean wet cloth to remove the dirt. You can also use a mild detergent to wipe possible oils or chalk.</p>"
           }
         }
       },
@@ -203,9 +200,9 @@
         "template--17392842080520__e9885e38-c835-44d0-bebe-56faee5bd677-16887259068edd12c0-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Collars_Pro_All_Colors.jpg",
+            "image": "shopify://shop_images/Collars_Pro_All_Colors.jpg",
             "title": "",
-            "desc": "<h4><strong>MULTIPLE COLOR<br\/>VARIATIONS<\/strong><\/h4>",
+            "desc": "<h4><strong>MULTIPLE COLOR<br/>VARIATIONS</strong></h4>",
             "horizontal_align": "center",
             "link_title": "",
             "link": "",
@@ -224,7 +221,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "3\/4",
+        "block_layout": "3/4",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -237,9 +234,9 @@
         "template--17392842080520__0619843f-642c-4cc7-94bd-339433ff5a34-16887259068edd12c0-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo-2_eb905445-dc73-4ee5-b18b-064b8c67cdb1.png",
+            "image": "shopify://shop_images/photo-2_eb905445-dc73-4ee5-b18b-064b8c67cdb1.png",
             "title": "",
-            "desc": "<p>• FITS ALL 2\" OLYMPIC STANDARD BARBELLS<br\/><\/p><p>• PROVIDES SECURE QUICK RELEASE MECHANISM<br\/><\/p><p>• UPGRADED SOLID SYSTEM PREVENT RATTLING OF WEIGHT PLATES<br\/><\/p><p>• LIGHTWEIGHT <br\/><\/p><p>• PREMIUM DURABLE & LONG<br\/>LASTING SCRATCH-RESISTANT MATERIALS<\/p>",
+            "desc": "<p>• FITS ALL 2\" OLYMPIC STANDARD BARBELLS<br/></p><p>• PROVIDES SECURE QUICK RELEASE MECHANISM<br/></p><p>• UPGRADED SOLID SYSTEM PREVENT RATTLING OF WEIGHT PLATES<br/></p><p>• LIGHTWEIGHT <br/></p><p>• PREMIUM DURABLE & LONG<br/>LASTING SCRATCH-RESISTANT MATERIALS</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -258,7 +255,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "1:1",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 2,
@@ -271,7 +268,7 @@
         "5aa083d4-e6e2-4ddb-adaa-eb66a648b843": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bammer-3-1464px_x_600px.jpg",
+            "image": "shopify://shop_images/bammer-3-1464px_x_600px.jpg",
             "link": ""
           }
         }
@@ -295,9 +292,9 @@
         "a797e410-cbfb-4716-a036-f97439def2d4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_ca602d1e-37b6-4aae-a22c-39f0264e8a50.png",
+            "image": "shopify://shop_images/photo_ca602d1e-37b6-4aae-a22c-39f0264e8a50.png",
             "title": "BEST FOR:",
-            "desc": "<p>• OLYMPIC WEIGHTLIFTING<br\/>• POWERLIFTING<br\/>• DEADLIFTING<br\/>• CROSS TRAINING<br\/>• STRENGTH TRAINING<br\/>• BENCH PRESS<\/p>",
+            "desc": "<p>• OLYMPIC WEIGHTLIFTING<br/>• POWERLIFTING<br/>• DEADLIFTING<br/>• CROSS TRAINING<br/>• STRENGTH TRAINING<br/>• BENCH PRESS</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -316,7 +313,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "1:1",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 2,
@@ -329,7 +326,7 @@
         "template--17392842080520__2ff90489-b036-46c5-975a-657f9f1b9671-1675173359122e886e-0": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/youtu.be\/dNKd3--_hkQ",
+            "video_url": "https://youtu.be/dNKd3--_hkQ",
             "video_title": ""
           }
         }
@@ -351,10 +348,10 @@
         "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_3_1.png",
+            "image": "shopify://shop_images/2_3_1.png",
             "title": "STEP 1",
             "sub_title": "",
-            "desc": "<p>Place Collar on the Barbell<br\/><\/p>",
+            "desc": "<p>Place Collar on the Barbell<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -362,10 +359,10 @@
         "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_3_7bf29828-0844-4972-9a53-d9642c282386.png",
+            "image": "shopify://shop_images/2_3_7bf29828-0844-4972-9a53-d9642c282386.png",
             "title": "STEP 2",
             "sub_title": "",
-            "desc": "<p>Press Down on the Latch to Secure the Collar<br\/><\/p>",
+            "desc": "<p>Press Down on the Latch to Secure the Collar<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -373,10 +370,10 @@
         "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_3_a124df56-8786-46be-bac6-51608371d3dd.png",
+            "image": "shopify://shop_images/3_3_a124df56-8786-46be-bac6-51608371d3dd.png",
             "title": "STEP 3",
             "sub_title": "",
-            "desc": "<p>Complete & Ready to Use<br\/><\/p>",
+            "desc": "<p>Complete & Ready to Use<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -425,14 +422,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17392842080520__1b407558-9d7a-4834-b4c0-8fae2c7ae071-16751749273290e37b-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -455,9 +452,8 @@
       "type": "apps",
       "blocks": {
         "50d43415-0d3a-415e-9d11-a6dbca7bd1ce": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
