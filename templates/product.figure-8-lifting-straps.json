@@ -1,27 +1,27 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "17006690294fb39c04": {
       "type": "apps",
       "blocks": {
         "68bb6900-0755-4395-86b5-9a43a15aba1c": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs-by-bogdan\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
-            "home_link": "\/",
+            "home_link": "/",
             "menu": "main-menu",
             "separator": "›",
             "custom_class": "",
             "bb_show_hide": true,
-            "unclickable": false,
+            "hide_product": false,
             "bb_show_more": true,
             "enable_custom_feature": true,
             "bb_custom_inheritance": true,
@@ -67,9 +67,8 @@
           }
         },
         "76f4a560-5d7a-4576-b3cb-80e42400f246": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -99,8 +98,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -125,8 +123,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "b835d638-ffe8-44d8-b82f-c3a5ab26c1eb": {
           "type": "image",
@@ -170,28 +167,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Size:<\/strong> S, M, L (7\"-9\")<\/li><li><strong>Material:<\/strong> 95% cotton and 5% elastane<\/li><li><strong>Color:<\/strong> black, white, pink, yellow, checkerboard, camo<\/li><\/ul>"
+            "text": "<ul><li><strong>Size:</strong> S, M, L (7\"-9\")</li><li><strong>Material:</strong> 95% cotton and 5% elastane</li><li><strong>Color:</strong> black, white, pink, yellow, checkerboard, camo</li></ul>"
           }
         },
         "article_hxmiPe": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>WBCM Figure 8 Lifting Straps are designed for weightlifting, powerlifting, bodybuilding, and functional fitness.<\/p>"
+            "text": "<p>WBCM Figure 8 Lifting Straps are designed for weightlifting, powerlifting, bodybuilding, and functional fitness.</p>"
           }
         },
         "article_4pkt96": {
           "type": "article",
           "settings": {
-            "title": "Warranty",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. In case you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.<\/p>"
+            "title": "Return Policy",
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. In case you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "article_iUPC7i": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Hand wash the straps with warm water and a mild detergent and hang them to dry or put them on a towel to absorb the water. Do not machine wash or dry, as you can damage the material.<\/p>"
+            "text": "<p>Hand wash the straps with warm water and a mild detergent and hang them to dry or put them on a towel to absorb the water. Do not machine wash or dry, as you can damage the material.</p>"
           }
         }
       },
@@ -214,9 +211,9 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo-lock.png",
+            "image": "shopify://shop_images/photo-lock.png",
             "title": "HEAVY DUTY",
-            "desc": "<p>Our wrist straps are reinforced with extra stitching for superior strength and safety during heavy deadlifts, shrugs, rows, pull-ups or farmer's walks.<\/p>",
+            "desc": "<p>Our wrist straps are reinforced with extra stitching for superior strength and safety during heavy deadlifts, shrugs, rows, pull-ups or farmer's walks.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -235,7 +232,7 @@
         "block_spacing": 2,
         "section-bottom-margin": true,
         "image_ratio": "1:1",
-        "block_layout": "2\/3",
+        "block_layout": "2/3",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 2,
@@ -248,7 +245,7 @@
         "template--17877542043912__3d13f6f8-1da6-434e-b931-c7cd6227574e-1688733442073661d6-0": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=E8bM3rGq_aQ&t=1s",
+            "video_url": "https://www.youtube.com/watch?v=E8bM3rGq_aQ&t=1s",
             "video_title": ""
           }
         }
@@ -271,9 +268,9 @@
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4-new.png",
+            "image": "shopify://shop_images/4-new.png",
             "title": "TWO MATERIAL OPTIONS",
-            "desc": "<p>To best satisfy your preferences, we offer two types of heavy-duty figure 8 straps: cotton straps and elastane straps with thick neoprene cushion around the wrist. Whatever you choose, you will receive the highest quality product.<\/p>",
+            "desc": "<p>To best satisfy your preferences, we offer two types of heavy-duty figure 8 straps: cotton straps and elastane straps with thick neoprene cushion around the wrist. Whatever you choose, you will receive the highest quality product.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -286,9 +283,9 @@
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3-new.png",
+            "image": "shopify://shop_images/3-new.png",
             "title": "3 SIZES",
-            "desc": "<p>We have made our figure 8 weightlifting straps in three sizes (S\/M\/L), so that everyone can find the perfect fit for themselves.<\/p>",
+            "desc": "<p>We have made our figure 8 weightlifting straps in three sizes (S/M/L), so that everyone can find the perfect fit for themselves.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -308,7 +305,7 @@
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "natural",
-        "block_layout": "1\/2",
+        "block_layout": "1/2",
         "block_align": "left",
         "vertical_align": "middle",
         "heading_size": 3,
@@ -322,10 +319,10 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_f7b3b73a-5777-4a37-950c-bfcce38ae8c4.png",
+            "image": "shopify://shop_images/4_f7b3b73a-5777-4a37-950c-bfcce38ae8c4.png",
             "title": "Step 1:",
             "sub_title": "",
-            "desc": "<p>TWO MATERIAL OPTIONS - To best satisfy your preferences, we manufactured two types of heavy duty straps: cotton straps and elastane straps with thick neoprene cushion around the wrist . Whatever you choose, you will receive the highest quality stuff.<\/p>",
+            "desc": "<p>TWO MATERIAL OPTIONS - To best satisfy your preferences, we manufactured two types of heavy duty straps: cotton straps and elastane straps with thick neoprene cushion around the wrist . Whatever you choose, you will receive the highest quality stuff.</p>",
             "link_title": "",
             "link": ""
           }
@@ -334,10 +331,10 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/4-2.png",
+            "image": "shopify://shop_images/4-2.png",
             "title": "Step 2:",
             "sub_title": "",
-            "desc": "<p>3 SIZES - We have made our Figure 8 Lifting Straps in three sizes (S\/M\/L) so that everyone can find the perfect fit for themselves.<br\/><\/p>",
+            "desc": "<p>3 SIZES - We have made our Figure 8 Lifting Straps in three sizes (S/M/L) so that everyone can find the perfect fit for themselves.<br/></p>",
             "link_title": "",
             "link": ""
           }
@@ -345,10 +342,10 @@
         "template--17877542043912__f47e7c52-8d76-4826-80a7-073e15a0842e-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_d7132e1a-9f58-451f-b199-80d4d1776fa7.png",
+            "image": "shopify://shop_images/2_d7132e1a-9f58-451f-b199-80d4d1776fa7.png",
             "title": "Step 1:",
             "sub_title": "",
-            "desc": "<p>Thread one hand through one loop of the lifting strap.<\/p>",
+            "desc": "<p>Thread one hand through one loop of the lifting strap.</p>",
             "link_title": "",
             "link": ""
           }
@@ -356,10 +353,10 @@
         "e5411bbb-14f8-4f86-8156-1b0525ebbbf2": {
           "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2-copy-0.png",
+            "image": "shopify://shop_images/2-copy-0.png",
             "title": "Step 2:",
             "sub_title": "",
-            "desc": "<p>Bring the strap under the bar, lifting the opposite loop up, and insert your other hand through it. Adjust the position for tightness and grip the bar securely.<\/p>",
+            "desc": "<p>Bring the strap under the bar, lifting the opposite loop up, and insert your other hand through it. Adjust the position for tightness and grip the bar securely.</p>",
             "link_title": "",
             "link": ""
           }
@@ -409,14 +406,14 @@
           "type": "article",
           "settings": {
             "title": "Shipping",
-            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).<\/p><p>✔ Delivered via USPS\/UPS Standard in 3-5 business days.<\/p><p>✔ View shipping costs & taxes at checkout.<\/p>"
+            "text": "<p>✔ Orders processed within 48 hours on business days (Mon-Fri).</p><p>✔ Delivered via USPS/UPS Standard in 3-5 business days.</p><p>✔ View shipping costs & taxes at checkout.</p>"
           }
         },
         "template--17346847047944__2d5bd59f-a78a-4717-af1f-2177417b93ca-1674837758c3ce571e-2": {
           "type": "article",
           "settings": {
             "title": "Returns",
-            "text": "<p>✔ Option to return the item within 14 days after receiving it<\/p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn<\/p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com<\/a><\/p><p>✔ More info about return or exchange policy <a href=\"\/pages\/privacy-policy\" title=\"PRIVACY POLICY\">click here<\/a>.<\/p>"
+            "text": "<p>✔ Option to return the item within 14 days after receiving it</p><p>✔ Items must be in \"as-new\" condition, unwashed & unworn</p><p>✔ Send a return request to <a href=\"mailto:www@warmbody-coldmind.com\" title=\"www@warmbody-coldmind.com\">www@warmbody-coldmind.com</a></p><p>✔ More info about return or exchange policy <a href=\"/pages/privacy-policy\" title=\"PRIVACY POLICY\">click here</a>.</p>"
           }
         }
       },
@@ -439,9 +436,8 @@
       "type": "apps",
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
