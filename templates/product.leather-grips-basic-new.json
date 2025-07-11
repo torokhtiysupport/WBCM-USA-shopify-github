@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "55993838-e581-40b7-a01c-95360ae890bd": {
-          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -180,7 +180,7 @@
         "template--21720484217142__1ca21b7a-3edc-43c3-9a02-7acd105f3d6f-article-3": {
           "type": "article",
           "settings": {
-            "title": "Warranty",
+            "title": "Return Policy",
             "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
