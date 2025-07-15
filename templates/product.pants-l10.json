@@ -141,7 +141,7 @@
             "align": "left",
             "popup_heading": "none",
             "popup_content": "",
-            "image": "shopify://shop_images/Shorts-Sizes-new.jpg",
+            "image": "shopify://shop_images/Sizes-Pants.png",
             "text": "",
             "icon": "icon-clothes-design-tape-measure",
             "icon_size": 1,
@@ -359,7 +359,7 @@
         "image_gQbtbe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Shorts-Sizes-new.jpg",
+            "image": "shopify://shop_images/Sizes-Pants.png",
             "title": "",
             "desc": "",
             "horizontal_align": "left",
