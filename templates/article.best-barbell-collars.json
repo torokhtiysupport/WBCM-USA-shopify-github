@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "86c9c15f-872a-48bd-ae2e-92824e88a96c": {
-          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/article-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs/blocks/article-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -102,8 +102,8 @@
             "product_rating_10": "",
             "total_rating": "5",
             "first_button_text": "CHECK PRICE ON WBCM",
-            "second_button_text": "",
-            "second_button_url": "",
+            "second_button_text": "CHECK PRICE ON TIKTOK",
+            "second_button_url": "https://bit.ly/4kO2HkN",
             "product_text_content_1": "<p>These are clamp collars, which means they have a swift release mechanism that holds the weights safely in place and allows you to have an uninterrupted and focused workout. We paid specific attention to the materials, so they’re crafted from high-strength nylon with stainless steel pins and rubber pads, which makes them not only durable but also resistant to scratches.</p><p>They can withstand frequent, intense workouts without the bright color showing any signs of wear. Besides, speaking of color, there’s 11 to choose from. Our collars fit all 2’’ Olympic standard barbells and can be used for Olympic weightlifting, powerlifting, deadlifting, cross-training, strength training, or bench press workouts. You need stability and safety for optimal performance, and our collars deliver on both.</p>",
             "product_review_image": "shopify://shop_images/training-best-barbell-collars-wbcm-insta-1024x1024.jpg",
             "half_width_review_image": true,
