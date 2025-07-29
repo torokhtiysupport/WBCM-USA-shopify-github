@@ -156,14 +156,14 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Material:</strong> High-Strength Nylon</li><li><strong>Closure:</strong> Quick-Lock Mechanism</li><li><strong>Fit:</strong> 2in Olympic Sleeves</li><li><strong>Weight:</strong> 0.75 pounds</li><li>Sold in pairs</li></ul>"
+            "text": "<ul><li><strong>Rope Length</strong> - 110” / 279 cm</li><li><strong>Handle Length</strong> - 5,1” / 23 cm</li><li><strong>Weight</strong> - 0,22 lb / 100 grams</li><li><strong>Material</strong> - steel cor with PVC coating</li><li><strong>Bearing</strong> - 360°</li><li><strong>Colors:</strong> pink, silver, black, blue</li></ul>"
           }
         },
         "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>The collars fit perfectly functional fitness workouts, Olympic weightlifting, powerlifting, strength, and cross-training, performing deadlifts and bench presses, as well as other training sessions involving dropping the bars from an elevated position.</p>"
+            "text": "<p>This jump rope is a perfect addition to any training routine, ideal for cross-training, cardio workouts, boxing, and general fitness. Use it for warm-ups, conditioning, agility drills, and endurance training to boost performance and coordination.</p>"
           }
         },
         "template--20972191514934__1d4bcfae-23a5-4caf-a18e-2ebe103b6e28-article-3": {
@@ -177,7 +177,7 @@
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Use a stiff bristle brush to remove dirt, chalk, and other debris. Make sure it's stiff enough to scrub away dirt without damaging a collar. Use a clean wet cloth to remove the dirt. You can also use a mild detergent to wipe possible oils or chalk.</p>"
+            "text": "<p>After training, simply wipe the handles and cable with a dry or slightly damp cloth to remove sweat and dust.</p><p>Avoid using the rope on rough or abrasive surfaces like concrete to prevent damage to the cable.</p><p>Store the jump rope in a cool, dry place, loosely coiled to prevent kinks or damage to the steel core.</p><p>Do not leave it under direct sunlight or in extreme heat, as this may affect the durability of the PVC coating and the handles.</p>"
           }
         }
       },
@@ -194,107 +194,15 @@
         "cta_style": "link"
       }
     },
-    "e9885e38-c835-44d0-bebe-56faee5bd677": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--17392842080520__e9885e38-c835-44d0-bebe-56faee5bd677-16887259068edd12c0-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Collars_Pro_All_Colors.jpg",
-            "title": "",
-            "desc": "<h4><strong>MULTIPLE COLOR<br/>VARIATIONS</strong></h4>",
-            "horizontal_align": "center",
-            "link_title": "",
-            "link": "",
-            "bg_color_block": "rgba(0,0,0,0)",
-            "bg_color_content": "#ffffff",
-            "color_text": "#212121",
-            "text_heading_color": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17392842080520__e9885e38-c835-44d0-bebe-56faee5bd677-16887259068edd12c0-0"
-      ],
-      "settings": {
-        "container": "large",
-        "block_spacing": 2,
-        "section-bottom-margin": false,
-        "image_ratio": "natural",
-        "block_layout": "3/4",
-        "block_align": "left",
-        "vertical_align": "middle",
-        "heading_size": 3,
-        "link_style": "hollow"
-      }
-    },
-    "0619843f-642c-4cc7-94bd-339433ff5a34": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--17392842080520__0619843f-642c-4cc7-94bd-339433ff5a34-16887259068edd12c0-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/photo-2_eb905445-dc73-4ee5-b18b-064b8c67cdb1.png",
-            "title": "",
-            "desc": "<p>• FITS ALL 2\" OLYMPIC STANDARD BARBELLS<br/></p><p>• PROVIDES SECURE QUICK RELEASE MECHANISM<br/></p><p>• UPGRADED SOLID SYSTEM PREVENT RATTLING OF WEIGHT PLATES<br/></p><p>• LIGHTWEIGHT <br/></p><p>• PREMIUM DURABLE & LONG<br/>LASTING SCRATCH-RESISTANT MATERIALS</p>",
-            "horizontal_align": "left",
-            "link_title": "",
-            "link": "",
-            "bg_color_block": "rgba(0,0,0,0)",
-            "bg_color_content": "#ffffff",
-            "color_text": "#212121",
-            "text_heading_color": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17392842080520__0619843f-642c-4cc7-94bd-339433ff5a34-16887259068edd12c0-0"
-      ],
-      "settings": {
-        "container": "large",
-        "block_spacing": 2,
-        "section-bottom-margin": false,
-        "image_ratio": "1:1",
-        "block_layout": "1/2",
-        "block_align": "right",
-        "vertical_align": "middle",
-        "heading_size": 2,
-        "link_style": "body"
-      }
-    },
-    "6765ee33-3126-4a99-ad5c-fd8d35172648": {
-      "type": "section-image-slideshow",
-      "blocks": {
-        "5aa083d4-e6e2-4ddb-adaa-eb66a648b843": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/bammer-3-1464px_x_600px.jpg",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "5aa083d4-e6e2-4ddb-adaa-eb66a648b843"
-      ],
-      "settings": {
-        "autoplay": true,
-        "autoplay_speed": 8,
-        "nav_style": "bars",
-        "slideshow_width": "contained",
-        "overlay_color": "#000000",
-        "overlay_strength": 0,
-        "section-bottom-margin": false
-      }
-    },
     "7098746f-02e0-4400-82ca-bef8bd1524b9": {
       "type": "section-image-with-text",
       "blocks": {
         "a797e410-cbfb-4716-a036-f97439def2d4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/photo_ca602d1e-37b6-4aae-a22c-39f0264e8a50.png",
-            "title": "BEST FOR:",
-            "desc": "<p>• OLYMPIC WEIGHTLIFTING<br/>• POWERLIFTING<br/>• DEADLIFTING<br/>• CROSS TRAINING<br/>• STRENGTH TRAINING<br/>• BENCH PRESS</p>",
+            "image": "shopify://shop_images/Jump-Rope-Suits-for.jpg",
+            "title": "SUITS FOR:",
+            "desc": "<ul><li>Cross-training</li><li>Boxing</li><li>Functional fitness</li><li>General workouts</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -320,6 +228,40 @@
         "link_style": "body"
       }
     },
+    "section_image_with_text_F7MwJ8": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_pgjhnx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Jump-Rope-Summary.jpg",
+            "title": "",
+            "desc": "<p><strong>Tangle-Free Experience</strong></p><p>High-quality ball-bearing system ensures smooth, fast, and tangle-free rotations.</p><p><strong>Adjustable Length</strong></p><p>9.8ft (~3m) cable, easily adjustable to fit all sizes. Ideal for Cross Training, boxing, cardio, etc.</p><p><strong>Lightweight & Durable</strong></p><p>Made from strong cable and lightweight materials that withstand intense training.</p><p><strong>Portable & Convenient</strong></p><p>Compact and easy to carry, perfect for workouts at the gym, outdoors, or while traveling.</p><p><strong>Great for All Skill Levels</strong></p><p>Suitable for beginners, fitness enthusiasts, and professional athletes.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_pgjhnx"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "1:1",
+        "block_layout": "1/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 2,
+        "link_style": "body"
+      }
+    },
     "2ff90489-b036-46c5-975a-657f9f1b9671": {
       "type": "section-video",
       "blocks": {
@@ -334,6 +276,7 @@
       "block_order": [
         "template--17392842080520__2ff90489-b036-46c5-975a-657f9f1b9671-1675173359122e886e-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "desc": "",
@@ -479,10 +422,8 @@
     "1700668731f2e939dc",
     "main",
     "1d4bcfae-23a5-4caf-a18e-2ebe103b6e28",
-    "e9885e38-c835-44d0-bebe-56faee5bd677",
-    "0619843f-642c-4cc7-94bd-339433ff5a34",
-    "6765ee33-3126-4a99-ad5c-fd8d35172648",
     "7098746f-02e0-4400-82ca-bef8bd1524b9",
+    "section_image_with_text_F7MwJ8",
     "2ff90489-b036-46c5-975a-657f9f1b9671",
     "47413272-dd0d-48b9-bb27-bb476648907e",
     "1b407558-9d7a-4834-b4c0-8fae2c7ae071",
