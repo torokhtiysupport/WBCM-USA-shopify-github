@@ -262,6 +262,44 @@
         "link_style": "body"
       }
     },
+    "section_image_with_text_ARCfLT": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_KaqiE3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Jump-Rope-Sizes.jpg",
+            "title": "",
+            "desc": "",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "image_KaqiE3"
+      ],
+      "custom_css": [
+        ".o-layout {justify-content: center;}",
+        ".o-layout .o-layout__item:last-of-type {display: none;}"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "2/3",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 2,
+        "link_style": "body"
+      }
+    },
     "2ff90489-b036-46c5-975a-657f9f1b9671": {
       "type": "section-video",
       "blocks": {
@@ -291,10 +329,10 @@
         "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-0": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/2_3_1.png",
+            "image": "shopify://shop_images/Jump-Rope-Step-1.jpg",
             "title": "STEP 1",
             "sub_title": "",
-            "desc": "<p>Place Collar on the Barbell<br/></p>",
+            "desc": "<p>Adjust the length</p>",
             "link_title": "",
             "link": ""
           }
@@ -302,10 +340,10 @@
         "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-1": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/2_3_7bf29828-0844-4972-9a53-d9642c282386.png",
+            "image": "shopify://shop_images/Jump-Rope-Step-2.jpg",
             "title": "STEP 2",
             "sub_title": "",
-            "desc": "<p>Press Down on the Latch to Secure the Collar<br/></p>",
+            "desc": "<p>Take off the screws</p>",
             "link_title": "",
             "link": ""
           }
@@ -313,10 +351,21 @@
         "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-2": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/3_3_a124df56-8786-46be-bac6-51608371d3dd.png",
+            "image": "shopify://shop_images/Jump-Rope-Step-3.jpg",
             "title": "STEP 3",
             "sub_title": "",
-            "desc": "<p>Complete & Ready to Use<br/></p>",
+            "desc": "<p>Cut extra cables</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_rBVrDH": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/Jump-Rope-Step-4.jpg",
+            "title": "STEP 4",
+            "sub_title": "",
+            "desc": "<p>Tighten the screws and put on end cups</p>",
             "link_title": "",
             "link": ""
           }
@@ -325,16 +374,17 @@
       "block_order": [
         "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-0",
         "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-1",
-        "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-2"
+        "template--17392842080520__47413272-dd0d-48b9-bb27-bb476648907e-16887257524b3aa6cc-2",
+        "text_rBVrDH"
       ],
       "settings": {
-        "title": "HOW TO USE:",
+        "title": "HOW TO INSTALL & ADJUST JUMP ROPE:",
         "container": "large",
         "link_title": "Learn more",
         "link": "",
         "divider": false,
         "section-bottom-margin": false,
-        "grid": 3,
+        "grid": 4,
         "spacing": 3,
         "alignment": "center",
         "link_style": "hollow",
@@ -424,6 +474,7 @@
     "1d4bcfae-23a5-4caf-a18e-2ebe103b6e28",
     "7098746f-02e0-4400-82ca-bef8bd1524b9",
     "section_image_with_text_F7MwJ8",
+    "section_image_with_text_ARCfLT",
     "2ff90489-b036-46c5-975a-657f9f1b9671",
     "47413272-dd0d-48b9-bb27-bb476648907e",
     "1b407558-9d7a-4834-b4c0-8fae2c7ae071",
