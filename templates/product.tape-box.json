@@ -236,7 +236,7 @@
         "template--17775597322504__e65ea801-a136-48f0-9c87-5ca23b3dcb4c-168899706167833dbd-0": {
           "type": "video",
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=k24SkZj_778",
+            "video_url": "https://youtu.be/7_jF0wbuUao",
             "video_title": ""
           }
         }
@@ -244,9 +244,8 @@
       "block_order": [
         "template--17775597322504__e65ea801-a136-48f0-9c87-5ca23b3dcb4c-168899706167833dbd-0"
       ],
-      "disabled": true,
       "settings": {
-        "title": "",
+        "title": "Instruction",
         "desc": "",
         "link_title": "More videos",
         "link": "",
@@ -433,7 +432,10 @@
       "blocks": {
         "82b79fe6-2453-4c4c-adef-1890707a7646": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
         }
       },
       "block_order": [
