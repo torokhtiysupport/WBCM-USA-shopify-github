@@ -21,22 +21,6 @@
     "section-slideshow": {
       "type": "section-slideshow",
       "blocks": {
-        "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/UA-Independence-Day-Banner-Desktop.png",
-            "image_mobile": "shopify://shop_images/UA-Independence-Day-Banner-Mob.png",
-            "alignment": "bottom-center",
-            "title": "",
-            "text": "",
-            "link_style": "c-btn c-btn--primary",
-            "link_title": "",
-            "link": "",
-            "link_style_2": "c-btn c-btn--primary",
-            "link_title_2": "READ MORE",
-            "link_2": "shopify://collections/sale"
-          }
-        },
         "image_LCGw4X": {
           "type": "image",
           "settings": {
@@ -116,15 +100,31 @@
             "link_title_2": "Shop now",
             "link_2": "https://warmbody-coldmind.com/#shopify-section-template--20972191187254__1ad5b4fe-ad71-4a5b-817c-7f8fb161026f"
           }
+        },
+        "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/help-ukraine-banner-desktop.png",
+            "image_mobile": "shopify://shop_images/help-ukraine-banner-mob.png",
+            "alignment": "bottom-center",
+            "title": "",
+            "text": "",
+            "link_style": "c-btn c-btn--primary",
+            "link_title": "",
+            "link": "",
+            "link_style_2": "c-btn c-btn--primary",
+            "link_title_2": "READ MORE",
+            "link_2": "https://blog.warmbody-coldmind.com/news/help-ukraine/"
+          }
         }
       },
       "block_order": [
-        "e5c5a46b-3efb-442f-9539-5ea086b271d7",
         "image_LCGw4X",
         "section-slideshow-1",
         "9bf15e77-545b-4d61-8855-5dfad503a3f3",
         "dfb679ab-d00c-4fbc-af39-386f412074d1",
-        "section-slideshow-0"
+        "section-slideshow-0",
+        "e5c5a46b-3efb-442f-9539-5ea086b271d7"
       ],
       "custom_css": [
         "a.c-btn--hollow {background-color: #fff; color: #000; box-shadow: none;}",
