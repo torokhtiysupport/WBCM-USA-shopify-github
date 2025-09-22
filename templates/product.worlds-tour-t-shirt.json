@@ -166,9 +166,9 @@
         "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/oversized-t-shirt-for-men-a-content.jpg",
+            "image": "shopify://shop_images/mens-worlds-tour-oversize-t-shirt-main-cover.jpg",
             "title": "",
-            "desc": "<ul><li><strong>Athletic design with attitude</strong> – Inspired by weightlifting culture.</li><li><strong>Premium heavyweight cotton</strong> – Retains warmth while staying soft and durable.</li><li><strong>Oversized fit</strong> – Maximum comfort and freedom of movement.</li><li><strong>Versatile for training or casual wear</strong> – Whether in the gym or on the streets.</li></ul>",
+            "desc": "<ul><li><strong>Athletic design with attitude</strong> – Inspired by weightlifting culture.</li><li><strong>Premium 100% cotton </strong>– Retains warmth while staying soft and durable.</li><li><strong>Oversized fit</strong> – Maximum comfort and freedom of movement.</li><li><strong>Versatile for training or casual wear</strong> – Whether in the gym or on the streets.</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -202,7 +202,7 @@
           "settings": {
             "image": "shopify://shop_images/MENS-STRONG-OVERSIZE-T-SHIRT-SIZEGUIDE.jpg",
             "title": "Product Information:",
-            "desc": "<ul><li>100% Certified Organic Cotton</li><li>PCTA Approved Vagan</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
+            "desc": "<ul><li>100% Premium Cotton</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -272,7 +272,10 @@
       "blocks": {
         "0d186a7d-03b8-45f1-8bb8-0daa802a0750": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
         }
       },
       "block_order": [
