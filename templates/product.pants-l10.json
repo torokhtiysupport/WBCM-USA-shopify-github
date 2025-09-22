@@ -228,7 +228,7 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pants-x-edition-best-for.jpg",
+            "image": "shopify://shop_images/pants-w1-a-1.jpg",
             "title": "BEST PANTS FOR:",
             "desc": "<ul><li>weightlifting</li><li>powerlifting</li><li>bodybuilding sessions</li></ul>",
             "horizontal_align": "left",
@@ -244,7 +244,6 @@
       "block_order": [
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1"
       ],
-      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -263,7 +262,7 @@
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pants-x-edition-features.jpg",
+            "image": "shopify://shop_images/pants-w1-a-2.jpg",
             "title": "",
             "desc": "<ul><li><strong>Minimalist design</strong> – No distractions, just performance.</li><li><strong>Battle-tested fabric</strong> – Resistant to wear and tear.</li><li><strong>Reinforced waistband</strong> – Secure fit for maximum comfort.</li><li><strong>Optimized for training</strong> – Move freely, lift confidently.</li></ul>",
             "horizontal_align": "left",
@@ -279,7 +278,6 @@
       "block_order": [
         "template--21030396330294__9222cec0-f847-4989-9afd-055ed05dd976-image-1"
       ],
-      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -298,9 +296,9 @@
         "image_ihRKyw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pants-x-edition-a-content.jpg",
+            "image": "shopify://shop_images/pants-w1-a-3.jpg",
             "title": "",
-            "desc": "<p>Designed for athletes who demand focus and function. The L10 Training Pants combine a minimalist aesthetic with maximum durability. Made from proven, high-performance fabric, these shorts are built to endure the toughest training sessions.</p>",
+            "desc": "<p>Designed for athletes who demand focus and function. The W1 Training Pants combine a minimalist aesthetic with maximum durability. Made from proven, high-performance fabric, these shorts are built to endure the toughest training sessions.</p>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -314,7 +312,6 @@
       "block_order": [
         "image_ihRKyw"
       ],
-      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -435,7 +432,10 @@
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
         }
       },
       "block_order": [
