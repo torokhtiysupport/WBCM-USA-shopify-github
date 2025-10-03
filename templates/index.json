@@ -24,8 +24,8 @@
         "e5c5a46b-3efb-442f-9539-5ea086b271d7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BUY-2-GET-1-Banner-WBCM.jpg",
-            "image_mobile": "shopify://shop_images/BUY-2-GET-1-Banner-WBCM-mob.jpg",
+            "image": "shopify://shop_images/BUY-2-GET-1-Banner-desktop.jpg",
+            "image_mobile": "shopify://shop_images/BUY-2-GET-1-Banner-mobile.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
