@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "68bb6900-0755-4395-86b5-9a43a15aba1c": {
-          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -174,7 +174,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<p><strong>Sizing (size by weight class)</strong>:</p><ul><li><strong>S</strong>: 62-72kg / 136-159 lbs</li><li><strong>M</strong>: 73-84kg / 161-185 lbs</li><li><strong>L</strong>: 85-98kg / 187-216 lbs</li><li><strong>XL</strong>: 99-110kg / 218-242 lbs</li><li><strong>XXL</strong>: 111-125kg / 245-275 lbs</li></ul><p>If you don't know how to choose a size, read our tips <a href=\"https://blog.warmbody-coldmind.com/guides/compression-clothing/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/compression-clothing/\">here</a>.</p><p><strong>Color palette</strong>: black with blue/yellow print on the sides<br/><br/></p>"
+            "text": "<p><strong>Sizing (size by weight class)</strong>:</p><ul><li><strong>S</strong>: 62-72kg / 136-159 lbs</li><li><strong>M</strong>: 73-84kg / 161-185 lbs</li><li><strong>L</strong>: 85-98kg / 187-216 lbs</li><li><strong>XL</strong>: 99-110kg / 218-242 lbs</li><li><strong>XXL</strong>: 111-125kg / 245-275 lbs</li></ul><p>If you don't know how to choose a size, read our tips <a href=\"https://blog.warmbody-coldmind.com/guides/compression-clothing/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/compression-clothing/\">here</a>.</p>"
           }
         },
         "article_iVGyA9": {
