@@ -9740,3 +9740,7 @@ section.description .container--tiny {
   width: fit-content;
   margin: 0 auto;
 }
+
+.wholesale-email {
+  text-decoration: underline;
+}
