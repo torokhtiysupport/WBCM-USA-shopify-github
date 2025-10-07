@@ -237,6 +237,19 @@
                                                             <input type="hidden" id="quantity-{{ section.id }}-{{ variant.id }}" data-qty="{{ variant.inventory_quantity }}" disabled>
                                                         {% endfor %}
 
+                                                        {% if product.handle == 'weightlifting-thumb-tape'
+                                                            or product.handle == 'liquid-chalk-250ml-white'
+                                                            or product.handle == 'liquid-chalk'
+                                                            or product.handle == 'block-chalk'
+                                                            or product.handle == 'barbell-collars-clamps'
+                                                            or product.handle == 'elastic-velcro-wrist-wraps' and product.selected_or_first_available_variant.id == 39918822916248 %}
+                                                            
+                                                            <p>
+                                                                Wholesale available — email us at <a href="mailto:sales@warmbody-coldmind.com">sales@warmbody-coldmind.com</a> to get started
+                                                            </p>
+
+                                                        {% endif %}
+
                                                         <div class="
                                                                 product-form__add
                                                                 js-product-buttons
