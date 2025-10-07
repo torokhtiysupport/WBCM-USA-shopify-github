@@ -231,17 +231,45 @@
 
                                             {%- when 'buy_buttons' -%}
                                                 {%- assign buy_buttons_present = true -%}
+                                                {% assign show_paragraph = false %}
                                                 {% if product.handle == 'weightlifting-thumb-tape'
-                                                    or product.handle == 'liquid-chalk-250ml-white'
-                                                    or product.handle == 'liquid-chalk'
-                                                    or product.handle == 'block-chalk'
-                                                    or product.handle == 'barbell-collars-clamps'
-                                                    or product.handle == 'elastic-velcro-wrist-wraps' and product.selected_or_first_available_variant.id == 39918822916248 %}
-                                                    
-                                                    <p>
-                                                        Wholesale available — email us at <a class="wholesale-email" href="mailto:sales@warmbody-coldmind.com">sales@warmbody-coldmind.com</a> to get started
-                                                    </p>
+                                                or product.handle == 'liquid-chalk-250ml-white'
+                                                or product.handle == 'liquid-chalk'
+                                                or product.handle == 'block-chalk'
+                                                or product.handle == 'barbell-collars-clamps'
+                                                or product.handle == 'elastic-velcro-wrist-wraps' and product.selected_or_first_available_variant.id == 39918822916248 %}
+                                                {% assign show_paragraph = true %}
                                                 {% endif %}
+
+                                                <p class="custom-info" {% unless show_paragraph %}style="display:none"{% endunless %}>
+                                                Wholesale available — email us at 
+                                                <a class="wholesale-email" href="mailto:sales@warmbody-coldmind.com">sales@warmbody-coldmind.com</a> 
+                                                to get started
+                                                </p>
+
+                                                <script>
+                                                    document.addEventListener('DOMContentLoaded', () => {
+                                                    const handle = '{{ product.handle }}';
+                                                    const p = document.querySelector('.custom-info');
+
+                                                    const variantForm = document.querySelector('form[action^="/cart/add"]');
+                                                    if (!variantForm || !p) return;
+
+                                                    variantForm.addEventListener('change', () => {
+                                                        const variantId = document.querySelector('[name="id"]')?.value;
+
+                                                        const shouldShow =
+                                                        handle === 'weightlifting-thumb-tape' ||
+                                                        handle === 'liquid-chalk-250ml-white' ||
+                                                        handle === 'liquid-chalk' ||
+                                                        handle === 'block-chalk' ||
+                                                        handle === 'barbell-collars-clamps' ||
+                                                        (handle === 'elastic-velcro-wrist-wraps' && variantId === '39918822916248');
+
+                                                        p.style.display = shouldShow ? 'block' : 'none';
+                                                    });
+                                                    });
+                                                </script>
                                                 <div class="product-single__box__block product-single__box__block--{{ block.type }}" {{ block.shopify_attributes }}>
                                                     {% form 'product', product, class: "product-form product-form--single js-product-form", id: form_id %}
 
