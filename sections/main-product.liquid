@@ -233,8 +233,8 @@
                                                 {%- assign buy_buttons_present = true -%}
                                                 {% assign show_paragraph = false %}
                                                 {% if product.handle == 'weightlifting-thumb-tape'
-                                                or product.handle == 'liquid-chalk-250ml-white'
-                                                or product.handle == 'liquid-chalk'
+                                                or product.handle == 'liquid-chalk' and product.selected_or_first_available_variant.id == 47907943448886
+                                                or product.handle == 'liquid-chalk' and product.selected_or_first_available_variant.id == 52350180393270
                                                 or product.handle == 'block-chalk'
                                                 or product.handle == '2-inch-olympic-barbell-collars'
                                                 or product.handle == 'elastic-velcro-wrist-wraps' and product.selected_or_first_available_variant.id == 39918822916248 %}
