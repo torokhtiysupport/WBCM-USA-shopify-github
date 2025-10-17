@@ -141,14 +141,14 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Length: 20,7 ft (6,3 meters)</li><li>Width: 1,5’’ (3,8 cm)</li><li>Material: cotton</li></ul>"
+            "text": "<ul><li>Width: 2” (5 cm)</li><li>Length: 16,4 ft (5 meters)</li><li>Material: 95% cotton and 5% spandex</li><li>Latex Free</li><li>Waterproof</li></ul>"
           }
         },
         "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>The WBCM weightlifting tape is a perfect fit for Olympic weightlifting, powerlifting, functional fitness, gymnastics, and other strength-oriented workouts.</p>"
+            "text": "<p>The kinesiology tape is suitable for weightlifting, functional fitness, running, CrossFit, gymnastics, and other high-intensity or endurance activities. It provides targeted support for muscles and joints, making it ideal for training, competition, and recovery.</p>"
           }
         },
         "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-3": {
@@ -162,7 +162,7 @@
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>Remove finger tape when it shows signs of wear and tear that can influence its effectiveness. It's not designed to be washed, so it should be replaced after each use.<br/>Carefully peel off the thumb tape, starting from the top and moving downward, to avoid pulling on the skin. You can use coconut oil to rub into the tape to soften the adhesive, making it slide off.</p>"
+            "text": "<p>Remove the kinesiology tape once it shows signs of wear, loss of adhesion, or reduced support. It is not designed to be washed or reused, so replace it after each use. To remove, gently peel the tape from one end and roll it back slowly to avoid skin irritation. Applying a small amount of oil (such as coconut or baby oil) can help soften the adhesive, making removal smoother and more comfortable.</p>"
           }
         }
       },
@@ -433,7 +433,12 @@
       "blocks": {
         "82b79fe6-2453-4c4c-adef-1890707a7646": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget",
+            "max_width": 1200
+          }
         }
       },
       "block_order": [
