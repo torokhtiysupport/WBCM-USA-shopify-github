@@ -127,7 +127,7 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "1 + 1 = 3",
+          "message_text": "TAKE 3, PAY FOR 2",
           "message_link": "shopify://collections/accessories",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff"
