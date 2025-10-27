@@ -130,7 +130,11 @@
           "message_text": "🎃 HALLOWEEN SALE",
           "message_link": "shopify://collections/accessories",
           "message_color_bg": "#212121",
-          "message_color_text": "#ffffff"
+          "message_color_text": "#ffffff",
+          "enable_timer": true,
+          "timer_days": 7,
+          "timer_hours": 15,
+          "timer_minutes": 14
         }
       },
       "header": {
