@@ -76,6 +76,9 @@
 .home-carousel-wrapper--loading--full-screen::before {
     padding-bottom: 100vh;
 }
+.home-carousel-wrapper--loading--custom::before {
+    padding-bottom: 33.33%;
+}
 .home-carousel--loading {
     position: absolute;
     left: 0;
@@ -91,6 +94,9 @@
     }
     .home-carousel-wrapper--loading--large::before {
         padding-bottom: 140%;
+    }
+    .home-carousel-wrapper--loading--custom::before {
+        padding-bottom: 100vh;
     }
 }
 {% if request.design_mode %}
@@ -339,6 +345,10 @@
                 {
                     "label": "Full screen",
                     "value": "full-screen"
+                },
+                {
+                    "label": "Custom",
+                    "value": "custom"
                 }
             ]
         },
