@@ -87,7 +87,7 @@
         "autoplay": true,
         "autoplay_speed": 10,
         "nav_style": "bars",
-        "slideshow_height": "full-screen",
+        "slideshow_height": "custom",
         "slideshow_width": "full",
         "text_color": "#ffffff",
         "text_heading_color": false,
