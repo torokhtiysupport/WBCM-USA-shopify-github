@@ -453,7 +453,6 @@
  * css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
  */
 html {
-  scroll-behavior: smooth;
   box-sizing: border-box; }
 
 *, *:before, *:after {
@@ -3878,8 +3877,11 @@ body:not(.header-stuck) [data-transparent-header=true].header:not(:hover) .heade
   padding-bottom: 62.5%; }
 
 .js-section__home-slider:first-child .home-carousel__item-wrapper--full-screen {
-  height: calc(var(--window-height) - var(--announcement-height) - var(--header-section-height));
+  height: var(--window-height);
   min-height: 400px; }
+
+.home-carousel__item-wrapper--custom:before {
+  padding-bottom: 33.33%; }
 
 .home-carousel-wrapper--full .home-carousel__item-wrapper--full-screen {
   height: var(--window-height); }
@@ -3887,14 +3889,20 @@ body:not(.header-stuck) [data-transparent-header=true].header:not(:hover) .heade
 .home-carousel-wrapper--contained {
   overflow: hidden; }
 
-.home-carousel-wrapper--contained .home-carousel__item-wrapper--full-screen {
+.home-carousel-wrapper--contained .home-carousel__item-wrapper--full-screen, .home-carousel-wrapper--contained .home-carousel__item-wrapper--custom {
   height: calc(var(--window-height) - 60px); }
   @media screen and (max-width: 980px) {
-    .home-carousel-wrapper--contained .home-carousel__item-wrapper--full-screen {
+    .home-carousel-wrapper--contained .home-carousel__item-wrapper--full-screen, .home-carousel-wrapper--contained .home-carousel__item-wrapper--custom {
       height: calc(var(--window-height) - 36px); } }
   @media screen and (max-width: 767px) {
-    .home-carousel-wrapper--contained .home-carousel__item-wrapper--full-screen {
-      height: var(--window-height); } }
+    .home-carousel-wrapper--contained .home-carousel__item-wrapper--full-screen, .home-carousel-wrapper--contained .home-carousel__item-wrapper--custom {
+      height: var(--window-height); }
+    .js-section__home-slider:first-child .home-carousel__item-wrapper--custom {
+      height: var(--window-height);
+      min-height: 400px; }
+    .home-carousel-wrapper--full .home-carousel__item-wrapper--custom {
+      height: var(--window-height); }
+    }
 
 .home-carousel__item--top {
   -webkit-box-align: start;
