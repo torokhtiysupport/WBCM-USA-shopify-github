@@ -132,9 +132,9 @@
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff",
           "enable_timer": true,
-          "timer_days": 7,
-          "timer_hours": 15,
-          "timer_minutes": 14
+          "timer_days": 0,
+          "timer_hours": 18,
+          "timer_minutes": 5
         }
       },
       "header": {
