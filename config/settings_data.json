@@ -131,7 +131,7 @@
           "message_link": "shopify://collections/accessories",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff",
-          "enable_timer": true,
+          "enable_timer": false,
           "timer_days": 0,
           "timer_hours": 18,
           "timer_minutes": 5
