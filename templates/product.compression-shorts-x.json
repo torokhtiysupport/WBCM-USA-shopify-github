@@ -184,14 +184,14 @@
           "type": "article",
           "settings": {
             "title": "Specifications",
-            "text": "<ul><li><strong>Sizing:</strong> M-XXL</li><li><strong>Material:</strong> Battle-tested fabric</li><li><strong>Color:</strong> Black</li><li><strong>Closure Type:</strong> Pull-On</li></ul>"
+            "text": "<ul><li><strong>Sizing:</strong> S-XXL</li><li><strong>Material:</strong> Premium European fabric</li><li><strong>Color:</strong> Black</li><li><strong>Closure Type:</strong> Pull-On</li></ul>"
           }
         },
         "article_iVGyA9": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>Whether you're lifting, sprinting, or tackling any challenge — L10 Training Shorts keep you ready for the task.</p>"
+            "text": "<p>Built for lifters who demand both performance and durability.</p>"
           }
         },
         "article_6bQi8y": {
@@ -439,7 +439,12 @@
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
