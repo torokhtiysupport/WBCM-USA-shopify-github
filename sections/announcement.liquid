@@ -47,73 +47,43 @@
 
 {% if section.settings.enable_timer %}
 <script>
-(function() {
-  const timerId = "announcement-timer-{{ section.id }}";
-  const el = document.getElementById(timerId);
-  if (!el) return;
+  (function() {
+    const timerId = "announcement-timer-{{ section.id }}";
+    const el = document.getElementById(timerId);
+    if (!el) return;
 
-  const storageKey = "announcement_timer_data_{{ section.id }}";
+    const endDateStr = "{{ section.settings.end_datetime }}";
 
-  const config = {
-    days: {{ section.settings.timer_days | default: 0 }},
-    hours: {{ section.settings.timer_hours | default: 0 }},
-    minutes: {{ section.settings.timer_minutes | default: 0 }},
-  };
+    const endDate = new Date(endDateStr.replace(/-/g, "/"));
 
-  const configHash = JSON.stringify(config);
-
-  let savedData = localStorage.getItem(storageKey);
-  let endDate;
-
-  if (savedData) {
-    try {
-      savedData = JSON.parse(savedData);
-    } catch (e) {
-      savedData = null;
-    }
-  }
-
-  if (!savedData || savedData.configHash !== configHash) {
-    const newEndDate = new Date();
-    newEndDate.setDate(newEndDate.getDate() + config.days);
-    newEndDate.setHours(newEndDate.getHours() + config.hours);
-    newEndDate.setMinutes(newEndDate.getMinutes() + config.minutes);
-    newEndDate.setSeconds(0);
-
-    endDate = newEndDate.getTime();
-
-    localStorage.setItem(storageKey, JSON.stringify({
-      configHash: configHash,
-      endDate: endDate
-    }));
-  } else {
-    endDate = savedData.endDate;
-  }
-
-  function updateTimer() {
-    const now = new Date().getTime();
-    const distance = endDate - now;
-
-    if (distance <= 0) {
-      el.style.display = "none";
-      clearInterval(timerInterval);
+    if (isNaN(endDate.getTime())) {
+      el.innerHTML = "Invalid end date";
       return;
     }
 
-    const d = Math.floor(distance / (1000 * 60 * 60 * 24));
-    const h = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const m = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    const s = Math.floor((distance % (1000 * 60)) / 1000);
+    function updateTimer() {
+      const now = new Date().getTime();
+      const distance = endDate.getTime() - now;
 
-    el.innerHTML = `Ends in: ${d}d ${h}h ${m}m ${s}s`;
-  }
+      if (distance <= 0) {
+        el.style.display = "none";
+        clearInterval(timerInterval);
+        return;
+      }
 
-  updateTimer();
-  const timerInterval = setInterval(updateTimer, 1000);
-})();
-</script>
+      const d = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const h = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const m = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const s = Math.floor((distance % (1000 * 60)) / 1000);
+
+      el.innerHTML = `Ends in: ${d}d ${h}h ${m}m ${s}s`;
+    }
+
+    updateTimer();
+    const timerInterval = setInterval(updateTimer, 1000);
+  })();
+  </script>
 {% endif %}
-
 
 {% schema %}
 {
@@ -162,22 +132,11 @@
       "default": false
     },
     {
-      "type": "number",
-      "id": "timer_days",
-      "label": "Days until promotion ends",
-      "default": 9,
-    },
-    {
-      "type": "number",
-      "id": "timer_hours",
-      "label": "Hours",
-      "default": 0
-    },
-    {
-      "type": "number",
-      "id": "timer_minutes",
-      "label": "Minutes",
-      "default": 0
+      "type": "text",
+      "id": "end_datetime",
+      "label": "End date and time (YYYY-MM-DD HH:MM:SS)",
+      "default": "2025-12-31 23:59:59",
+      "info": "Example: 2025-12-31 23:59:59"
     }
   ]
 }
