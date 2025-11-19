@@ -125,10 +125,10 @@
           "p {font-weight: bold;}"
         ],
         "settings": {
-          "message_show": false,
+          "message_show": true,
           "home_page_only": false,
-          "message_text": "TAKE 3 - PAY FOR 2",
-          "message_link": "shopify://collections/accessories",
+          "message_text": "Black Friday SALE up to 50%",
+          "message_link": "shopify://collections/sale",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff",
           "enable_timer": false,
