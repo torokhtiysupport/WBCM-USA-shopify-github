@@ -127,12 +127,12 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "GET 1 roll of TAPE FREE!",
+          "message_text": "Black Friday SALE up to 50%",
           "message_link": "shopify://collections/sale",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff",
           "enable_timer": true,
-          "end_datetime": "2025-11-27 23:59:59"
+          "end_datetime": "2025-11-28 23:59:59"
         }
       },
       "header": {
