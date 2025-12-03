@@ -202,7 +202,7 @@
           "settings": {
             "image": "shopify://shop_images/oversized-t-shirt-strong-women.jpg",
             "title": "Product Information:",
-            "desc": "<ul><li>100% Certified Organic Cotton</li><li>PCTA Approved Vagan</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
+            "desc": "<ul><li>100% Certified Organic Cotton</li><li>PCTA Approved Vegan</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -272,7 +272,12 @@
       "blocks": {
         "0d186a7d-03b8-45f1-8bb8-0daa802a0750": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
