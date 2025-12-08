@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "55993838-e581-40b7-a01c-95360ae890bd": {
-          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -297,6 +297,29 @@
         "section-bottom-margin": false
       }
     },
+    "section_video_Dfy9qX": {
+      "type": "section-video",
+      "blocks": {
+        "video_hzUqWW": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=tdEHby_DDDE",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_hzUqWW"
+      ],
+      "name": "Video",
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
     "f47e7c52-8d76-4826-80a7-073e15a0842e": {
       "type": "section-multi-column-images",
       "blocks": {
@@ -439,7 +462,12 @@
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
@@ -468,6 +496,7 @@
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "a735ea2d-2943-4430-99e1-06e648e32a7c",
     "3104ee5b-069c-44dc-b190-202760d4da06",
+    "section_video_Dfy9qX",
     "f47e7c52-8d76-4826-80a7-073e15a0842e",
     "be21ee4a-febf-48ce-a6fb-1ae6d8b13a7f",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
