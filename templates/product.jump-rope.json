@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "9c14a0e4-dccc-4f56-971b-eb04ee3ae9fb": {
-          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -200,7 +200,7 @@
         "a797e410-cbfb-4716-a036-f97439def2d4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Jump-Rope-Suits-for.jpg",
+            "image": "shopify://shop_images/Adjustable-Lightweight-Jump-Rope-A-content-1.jpg",
             "title": "SUITS FOR:",
             "desc": "<ul><li>Cross-training</li><li>Boxing</li><li>Functional fitness</li><li>General workouts</li></ul>",
             "horizontal_align": "left",
@@ -234,7 +234,7 @@
         "image_pgjhnx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Jump-Rope-Summary_ad28ceb5-afac-429d-93d5-94dcbb78b932.jpg",
+            "image": "shopify://shop_images/Adjustable-Lightweight-Jump-Rope-A-content-2.jpg",
             "title": "",
             "desc": "<p><strong>Tangle-Free Experience</strong></p><p>High-quality ball-bearing system ensures smooth, fast, and tangle-free rotations.</p><p><strong>Adjustable Length</strong></p><p>9.8ft (~3m) cable, easily adjustable to fit all sizes. Ideal for Cross Training, boxing, cardio, etc.</p><p><strong>Lightweight & Durable</strong></p><p>Made from strong cable and lightweight materials that withstand intense training.</p><p><strong>Portable & Convenient</strong></p><p>Compact and easy to carry, perfect for workouts at the gym, outdoors, or while traveling.</p><p><strong>Great for All Skill Levels</strong></p><p>Suitable for beginners, fitness enthusiasts, and professional athletes.</p>",
             "horizontal_align": "left",
@@ -268,7 +268,7 @@
         "image_KaqiE3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Jump-Rope-Sizes_6e4e5cea-742f-4c43-93df-0136dabcfb18.jpg",
+            "image": "shopify://shop_images/Adjustable-Lightweight-Jump-Rope-A-content-3.jpg",
             "title": "",
             "desc": "",
             "horizontal_align": "left",
@@ -446,7 +446,12 @@
       "blocks": {
         "50d43415-0d3a-415e-9d11-a6dbca7bd1ce": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
