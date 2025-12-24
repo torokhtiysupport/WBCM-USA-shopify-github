@@ -133,7 +133,7 @@
             "align": "left",
             "popup_heading": "label",
             "popup_content": "",
-            "image": "shopify://shop_images/WEIGHTLIFTINGCOMPRESSIONSINGLETS-4SizeChart.jpg",
+            "image": "shopify://shop_images/WOMENS-WEIGHTLIFTING-COMPRESSION-SINGLET-S-4-SIZE-CHART.jpg",
             "text": "",
             "icon": "icon-clothes-design-tape-measure",
             "icon_size": 1,
@@ -174,7 +174,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<p><strong>Sizing (size by weight class)</strong>:</p><ul><li><strong>XS</strong>: 50-62kg</li><li><strong>S</strong>: 63-73kg</li><li><strong>M</strong>: 74-84kg</li><li><strong>L</strong>: 85-96kg</li><li><strong>XL</strong>: 97-108kg</li><li><strong>XXL</strong>: 109-121kg</li><li><strong>3XL</strong>: 122-135kg</li><li><strong>4XL</strong>: 136-150kg</li></ul><p>If you don't know how to choose a size, read our tips <a href=\"https://blog.warmbody-coldmind.com/guides/compression-clothing/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/guides/compression-clothing/\">here</a>.</p>"
+            "text": "<p><strong>Sizing:</strong> XS-XXL<br/><strong>Material:</strong> Supplex Sport<br/><strong>Color:</strong> Black<br/><strong>Closure Type:</strong> Zip on the back</p>"
           }
         },
         "article_iVGyA9": {
@@ -353,7 +353,7 @@
         "image_gQbtbe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WEIGHTLIFTINGCOMPRESSIONSINGLETS-4SizeChart.jpg",
+            "image": "shopify://shop_images/WOMENS-WEIGHTLIFTING-COMPRESSION-SINGLET-S-4-SIZE-CHART.jpg",
             "title": "",
             "desc": "",
             "horizontal_align": "left",
