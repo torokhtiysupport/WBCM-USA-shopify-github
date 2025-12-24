@@ -166,7 +166,7 @@
         "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/worlds-tour-oversize-t-shirt.jpg",
+            "image": "shopify://shop_images/Oversize-Unisex-Cotton-black-T-Shirt-Lift-Off-front-view-A-content.jpg",
             "title": "",
             "desc": "<ul><li><strong>Athletic design with attitude</strong> – Inspired by weightlifting culture.</li><li><strong>Premium 100% cotton </strong>– Retains warmth while staying soft and durable.</li><li><strong>Oversized fit</strong> – Maximum comfort and freedom of movement.</li><li><strong>Versatile for training or casual wear</strong> – Whether in the gym or on the streets.</li></ul>",
             "horizontal_align": "left",
@@ -274,7 +274,9 @@
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "review_data": "sample_data",
-            "max_width": 1200
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
           }
         }
       },
