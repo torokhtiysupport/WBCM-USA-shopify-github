@@ -127,11 +127,11 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "Christmas SALE up to 50% 🎄",
-          "message_link": "shopify://collections/sale",
+          "message_text": "BUY 2 - GET 1 FREE",
+          "message_link": "shopify://collections/accessories",
           "message_color_bg": "#212121",
           "message_color_text": "#ffffff",
-          "enable_timer": true,
+          "enable_timer": false,
           "end_datetime": "2026-01-02 23:59:59"
         }
       },
