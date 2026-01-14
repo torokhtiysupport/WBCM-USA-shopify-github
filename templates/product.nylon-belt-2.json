@@ -141,14 +141,14 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Sizing:<br/>S</strong> - 62 - 71 cm/ 24,41”- 27,95”<br/><strong>M</strong> - 72 - 81 cm/ 28,35” - 31,89”  <br/><strong>L</strong> - 82 - 91 cm/ 32,28” - 35,83”<br/><strong>XL</strong> - 92 - 101 cm/ 36,22” - 39,76”<br/><strong>XXL</strong> - 102 - 111 cm/ 40,16” - 43,7”<br/><strong>Note:</strong> If you don't know how to choose a size, read our tips <a href=\"https://blog.warmbody-coldmind.com/size-guides/lifting-belt-size-chart/\" target=\"_blank\" title=\"https://blog.warmbody-coldmind.com/size-guides/lifting-belt-size-chart/\">here</a>.</li><li><strong>Material:</strong> Premium nylon with a high-quality metal clasp</li></ul>"
+            "text": "<p><strong>Sizing:</strong></p><ul><li><strong>XS</strong> - 67 - 75 cm/ 26,5\" - 29,5\"</li><li><strong>S</strong> - 73 - 81 cm/ 28,5”- 32”</li><li><strong>M</strong> - 81 - 91 cm/ 32” - 36”</li><li><strong>L</strong> - 91 - 102 cm/ 36” - 40”</li><li><strong>XL</strong> - 102 - 112 cm/ 40” - 44”</li><li><strong>XXL</strong> - 112 - 125 cm/ 44” - 49”</li></ul><p><strong>Note:</strong> If you don't know how to choose a size, read our tips <a href=\"https://cdn.shopify.com/s/files/1/0061/2142/2937/files/nylon-belt-2-gallery-9.jpg?v=1767039451\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0061/2142/2937/files/nylon-belt-2-gallery-9.jpg?v=1767039451\">here</a>.</p><p><strong>Material:</strong> Premium nylon with a high-quality metal clasp.</p>"
           }
         },
         "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>The belt is suitable for weightlifting, powerlifting, bodybuilding, cross-training, and other strength-related sports. Also, it's suitable for WOD exercises, dip squats, heavy power exercises, and general fitness.</p>"
+            "text": "<p>7mm Nylon Belt PRO is a real Leather Bet killer which can be equally used for all weightlifting exercises without loosing your back support. 5mm Nylon Belt should be mainly used for functional fitness and can be comfortably on you during the whole training session.</p>"
           }
         },
         "template--20972192203062__51a86ac9-d721-48d9-9da9-d69acf140136-article-3": {
@@ -185,6 +185,45 @@
         "template--18065832640776__385a335e-b6df-4fc4-a557-1e66c9db995a-16897796097658d468-0": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/nylon-belt-2-gallery-8.jpg",
+            "title": "",
+            "desc": "",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18065832640776__385a335e-b6df-4fc4-a557-1e66c9db995a-16897796097658d468-0"
+      ],
+      "custom_css": [
+        ".o-layout {justify-content: center;}",
+        ".o-layout .o-layout__item:last-of-type {display: none;}",
+        ".image-with-text__media-img {-webkit-animation: none !important; animation: none !important;}"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": false,
+        "image_ratio": "natural",
+        "block_layout": "2/3",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
+    "section_image_with_text_aKFnfk": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_hB8PDq": {
+          "type": "image",
+          "settings": {
             "image": "shopify://shop_images/photo-4.png",
             "title": "",
             "desc": "<p><strong>QUALITY SELF-LOCKING SYSTEM:</strong></p><p>Our nylon weight belt features a top-of-the-line self-locking system that ensures a secure fit and maximum support for all your lifts.</p><p><strong>LIGHTWEIGHT & BREATHABLE:</strong></p><p>Experience maximum comfort and security with our lightweight and breathable quick-locking belt, even during the toughest workouts.</p><p><strong>DURABLE:</strong></p><p>Built to withstand the most intense workouts, allowing you to focus solely on pushing your limits.</p><p><strong>DESIGNED BY A CHAMPION:</strong></p><p>This quick-locking nylon belt is crafted by Oleksiy TOROKHTIY, a winner of the World and European Weightlifting Championships, catered to both men and women who are passionate about lifting.</p>",
@@ -199,8 +238,9 @@
         }
       },
       "block_order": [
-        "template--18065832640776__385a335e-b6df-4fc4-a557-1e66c9db995a-16897796097658d468-0"
+        "image_hB8PDq"
       ],
+      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -255,6 +295,7 @@
         "template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-2",
         "template--18065832640776__adc77034-1924-463a-89b8-f0bbbb85a6dc-text-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Details",
         "container": "large",
@@ -294,6 +335,7 @@
       "block_order": [
         "template--18065832640776__7faa200f-72b5-4fc4-9226-c406fac67896-168977956440e2e457-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "desc": "",
@@ -340,6 +382,7 @@
         "7154509e-7b3b-4916-b304-76253d354dad",
         "f98b44c3-aa32-4e6b-abc2-70b276fc400e"
       ],
+      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -366,6 +409,7 @@
       "block_order": [
         "template--18065832640776__e8c19ee4-aafe-42ce-a89b-d47772a7fd74-image-1"
       ],
+      "disabled": true,
       "settings": {
         "autoplay": true,
         "autoplay_speed": 8,
@@ -420,7 +464,12 @@
       "blocks": {
         "40570156-6217-4c1a-a077-8edbc7b49133": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
@@ -447,6 +496,7 @@
     "main",
     "51a86ac9-d721-48d9-9da9-d69acf140136",
     "385a335e-b6df-4fc4-a557-1e66c9db995a",
+    "section_image_with_text_aKFnfk",
     "adc77034-1924-463a-89b8-f0bbbb85a6dc",
     "7faa200f-72b5-4fc4-9226-c406fac67896",
     "3e0ffde5-3f43-45a1-9535-cd79f7ea9e34",
