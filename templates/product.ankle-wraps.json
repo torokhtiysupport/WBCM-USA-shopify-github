@@ -141,28 +141,28 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li><strong>Length</strong> - 30\" (76,2 cm)</li><li><strong>Width</strong> - 3\" (7,62 cm)</li><li><strong>Material:</strong> 100% cotton (canvas webbing with reinforced stitching)</li></ul>"
+            "text": "<p><strong>Material:</strong> Neoprene, Cotton</p><p>Breathable mesh lining</p><p><strong>Height:</strong> 10cm (3,94\")</p><p><strong>Thickness:</strong> 5mm (0,2\")</p><p>5mm (0,2\") D-ring</p><p>Adjusted velcro and safe stitching</p>"
           }
         },
         "template--20972192399670__f7aa6753-c495-43bb-908e-f58d7d3830cc-article-2": {
           "type": "article",
           "settings": {
             "title": "Intended Use",
-            "text": "<p>Perfect for various fitness activities, i.e., Olympic weightlifting, powerlifting, bodybuilding, strongman training, functional fitness, dumbbell and kettlebell workouts.</p>"
+            "text": "<p>WBCM Ankle Straps are designed for cable machines and resistance training to target glutes, legs, and hips during strength and functional workouts.</p>"
           }
         },
         "template--20972192399670__f7aa6753-c495-43bb-908e-f58d7d3830cc-article-3": {
           "type": "article",
           "settings": {
             "title": "Return Policy",
-            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact. If you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
+            "text": "<p>We offer the return option for the item within 14 days after receiving it. Items must be unwashed and unworn with all barcodes intact.</p><p>In case you're not fully satisfied with the product, you can return it within 14 days of receipt. The same is for exchanging the items.</p>"
           }
         },
         "template--20972192399670__f7aa6753-c495-43bb-908e-f58d7d3830cc-article-4": {
           "type": "article",
           "settings": {
             "title": "Care",
-            "text": "<p>We recommend hand washing the wrist wraps with warm water and a mild detergent, then allow the wraps to air dry. Do not use the washing machine as it can damage the fabric of the wrist wrap and its closure system.</p>"
+            "text": "<p>Not recommended for machine washing, tumble drying, or bleaching. Hand wash it in cold water using a mild soap or cleaner, or wipe it with a wet tissue. Allow to air dry naturally in a well-ventilated area away from heat sources and sunlight. Always allow the straps to air dry completely before the next use.</p>"
           }
         }
       },
@@ -201,6 +201,7 @@
       "block_order": [
         "template--18064480993544__339ec281-35af-41ad-90db-e33c4cbf0115-1689689156f98b561c-0"
       ],
+      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -235,6 +236,7 @@
       "block_order": [
         "5dbcd340-893a-4f70-9f56-a018428de5d6"
       ],
+      "disabled": true,
       "settings": {
         "container": "large",
         "block_spacing": 2,
@@ -261,6 +263,7 @@
       "block_order": [
         "template--18064480993544__28855942-3267-47a6-ab4e-f1ea83c06142-1689689207acf7aed9-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "desc": "",
@@ -323,6 +326,7 @@
         "template--18064480993544__b8acffdb-f15c-406f-8861-b9cfc149a025-1689682505b6c43fb3-2",
         "33927b25-1472-46d8-a01d-48f31acf34c5"
       ],
+      "disabled": true,
       "settings": {
         "title": "HOW TO USE cloth wrist wraps:",
         "container": "large",
@@ -390,6 +394,7 @@
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-1",
         "template--18064480993544__d2106b87-8601-4602-93dc-683b218b6682-1689682505b6c43fb3-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "container": "large",
@@ -459,7 +464,12 @@
       "blocks": {
         "6df4564a-2588-453a-8234-3ecd5de22174": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
