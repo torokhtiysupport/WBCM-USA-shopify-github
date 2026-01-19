@@ -230,28 +230,6 @@
         "link_style": "hollow"
       }
     },
-    "e65ea801-a136-48f0-9c87-5ca23b3dcb4c": {
-      "type": "section-video",
-      "blocks": {
-        "template--17775597322504__e65ea801-a136-48f0-9c87-5ca23b3dcb4c-168899706167833dbd-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://youtu.be/7_jF0wbuUao",
-            "video_title": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17775597322504__e65ea801-a136-48f0-9c87-5ca23b3dcb4c-168899706167833dbd-0"
-      ],
-      "settings": {
-        "title": "Instruction",
-        "desc": "",
-        "link_title": "More videos",
-        "link": "",
-        "overlay_strength": 50
-      }
-    },
     "42f88667-a0c3-4042-96ca-5304ce4d9e0e": {
       "type": "section-multi-column-images",
       "blocks": {
@@ -464,7 +442,6 @@
     "main",
     "e9bbc801-9c26-4b47-933b-13ba7df1cf79",
     "3e499de0-72f4-43fc-a17f-bab246eab652",
-    "e65ea801-a136-48f0-9c87-5ca23b3dcb4c",
     "42f88667-a0c3-4042-96ca-5304ce4d9e0e",
     "eec5d8cd-5402-4236-ab9c-650e091330dd",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
