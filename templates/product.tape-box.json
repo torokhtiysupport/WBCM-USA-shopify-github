@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "29239879-d7e5-4319-991e-6f594840584f": {
-          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -141,7 +141,7 @@
           "type": "article",
           "settings": {
             "title": "Specs",
-            "text": "<ul><li>Length: 20,7 ft (6,3 meters)</li><li>Width: 1,5’’ (3,8 cm)</li><li>Material: cotton</li></ul>"
+            "text": "<ul><li><strong>Length:</strong> 20,7 ft (6,3 meters)</li><li><strong>Width:</strong> 1,5’’ (3,8 cm)</li><li><strong>Material:</strong> cotton</li></ul>"
           }
         },
         "template--20972192334134__e9bbc801-9c26-4b47-933b-13ba7df1cf79-article-2": {
@@ -434,7 +434,9 @@
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "review_data": "sample_data",
-            "max_width": 1200
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
           }
         }
       },
