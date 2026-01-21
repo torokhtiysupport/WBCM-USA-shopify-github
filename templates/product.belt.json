@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "42221e8d-866a-46c1-bb01-f7e390b37c62": {
-          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -376,7 +376,7 @@
         "template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bammer-4-1464px_x_600px.png",
+            "image": "shopify://shop_images/leather-belt-size-chart.jpg",
             "link": ""
           }
         }
@@ -441,7 +441,12 @@
       "blocks": {
         "88702fc5-4422-4d49-80d5-ca72a2d7847d": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
