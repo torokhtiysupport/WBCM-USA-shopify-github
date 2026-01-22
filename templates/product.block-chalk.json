@@ -13,7 +13,7 @@
       "type": "apps",
       "blocks": {
         "217744af-fcb3-4c60-9294-0926a6f2e2a4": {
-          "type": "shopify://apps/schema-breadcrumbs/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
+          "type": "shopify://apps/schema-breadcrumbs-by-bogdan/blocks/product-block/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
           "settings": {
             "home": "Home",
             "home_link": "/",
@@ -336,7 +336,7 @@
         "link_title": "Learn more",
         "link": "",
         "divider": false,
-        "section-bottom-margin": true,
+        "section-bottom-margin": false,
         "grid": 3,
         "spacing": 3,
         "alignment": "center",
@@ -353,6 +353,29 @@
         "text_heading_color": false,
         "grid_mobile": "1",
         "mobile_layout": "carousel"
+      }
+    },
+    "section_video_BtnjFb": {
+      "type": "section-video",
+      "blocks": {
+        "video_YxDwkw": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://youtu.be/EjTxxEZPM6k",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_YxDwkw"
+      ],
+      "name": "Video",
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "",
+        "link": "",
+        "overlay_strength": 50
       }
     },
     "2d5bd59f-a78a-4717-af1f-2177417b93ca": {
@@ -399,7 +422,12 @@
       "blocks": {
         "e356709e-30b0-4584-a768-d48e4a306dbb": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
@@ -429,6 +457,7 @@
     "d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd",
     "3d13f6f8-1da6-434e-b931-c7cd6227574e",
     "f47e7c52-8d76-4826-80a7-073e15a0842e",
+    "section_video_BtnjFb",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "169047038881f6c5ad",
     "product-recommendations"
