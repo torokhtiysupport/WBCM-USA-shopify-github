@@ -179,6 +179,72 @@
         "cta_style": "link"
       }
     },
+    "3e0ffde5-3f43-45a1-9535-cd79f7ea9e34": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "7154509e-7b3b-4916-b304-76253d354dad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nylon-belt-2-a-content.jpg",
+            "title": "",
+            "desc": "<p><strong>2 THICKNESS OPTIONS:</strong></p><p>Available in 7 mm and 5 mm versions to match different training needs, from everyday workouts to heavier lifting sessions.</p><p><strong>SECURE FIT:</strong></p><p>Improved Velcro stitching with higher-quality and enhanced buckle fixation keep the belt locked in place, even during intense lifts.</p><p><strong>REFINED FIT AND SIZING:</strong></p><p>The updated size chart corrects all previous model issues, delivering a more accurate, comfortable fit across all sizes.</p><p><strong>SIGNATURE WBCM DESIGN:</strong></p><p>Finished with the branded stickman print, combining a clean, modern look with unmistakable WBCM identity.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "f98b44c3-aa32-4e6b-abc2-70b276fc400e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nylon-belt-2-a-content-2.jpg",
+            "title": "",
+            "desc": "<p><strong>5MM NYLON BELT:</strong></p><p>Designed for functional fitness and high-intensity training, this version offers flexible support you can comfortably wear throughout the entire workout, from warm-up to conditioning.</p><p><strong>7MM PRO NYLON BELT:</strong></p><p>Built for serious lifting, the PRO version delivers rigid, powerful support for heavy squats, pulls, and Olympic lifts, earning its reputation as a true “leather belt killer” without sacrificing convenience.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "image_QUjazD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/nylon-belt-2-a-content-3.jpg",
+            "title": "",
+            "desc": "<p>With an extended size range from XS to 2XL, the nylon belt is designed to fit virtually every athlete with precision and comfort. This wide selection makes it easy to find the perfect fit and enjoy consistent support at any body type or training level.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        }
+      },
+      "block_order": [
+        "7154509e-7b3b-4916-b304-76253d354dad",
+        "f98b44c3-aa32-4e6b-abc2-70b276fc400e",
+        "image_QUjazD"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 2,
+        "section-bottom-margin": true,
+        "image_ratio": "natural",
+        "block_layout": "1/2",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow"
+      }
+    },
     "385a335e-b6df-4fc4-a557-1e66c9db995a": {
       "type": "section-image-with-text",
       "blocks": {
@@ -344,57 +410,6 @@
         "overlay_strength": 50
       }
     },
-    "3e0ffde5-3f43-45a1-9535-cd79f7ea9e34": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "7154509e-7b3b-4916-b304-76253d354dad": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/photo-2_d6be923e-c5a9-43c1-a04a-25f3ed8a41c1.png",
-            "title": "",
-            "desc": "<p><strong>At WBCM we design high-quality lifting belts that are used by hundreds of professionals in:</strong></p><p>- WEIGHTLIFTING<br/>- POWERLIFTING<br/>- BODYBUILDING<br/>- CROSS TRAINING<br/>Also, our nylon lifting belts perfectly suit WOD exercises, dip squats, heavy power exercises, and general fitness.</p>",
-            "horizontal_align": "left",
-            "link_title": "",
-            "link": "",
-            "bg_color_block": "rgba(0,0,0,0)",
-            "bg_color_content": "#ffffff",
-            "color_text": "#212121",
-            "text_heading_color": false
-          }
-        },
-        "f98b44c3-aa32-4e6b-abc2-70b276fc400e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/photo-3.png",
-            "title": "",
-            "desc": "<p>Our nylon 4-inch lifting belt is perfectly suited for a wide range of exercises, including WOD exercises, squats, heavy power exercises, and general fitness routines. No matter your preferred workout, the WBCM Nylon Weightlifting Belt will be your trusted companion.</p>",
-            "horizontal_align": "left",
-            "link_title": "",
-            "link": "",
-            "bg_color_block": "rgba(0,0,0,0)",
-            "bg_color_content": "#ffffff",
-            "color_text": "#212121",
-            "text_heading_color": false
-          }
-        }
-      },
-      "block_order": [
-        "7154509e-7b3b-4916-b304-76253d354dad",
-        "f98b44c3-aa32-4e6b-abc2-70b276fc400e"
-      ],
-      "disabled": true,
-      "settings": {
-        "container": "large",
-        "block_spacing": 2,
-        "section-bottom-margin": true,
-        "image_ratio": "natural",
-        "block_layout": "1/2",
-        "block_align": "left",
-        "vertical_align": "middle",
-        "heading_size": 3,
-        "link_style": "hollow"
-      }
-    },
     "e8c19ee4-aafe-42ce-a89b-d47772a7fd74": {
       "type": "section-image-slideshow",
       "blocks": {
@@ -495,11 +510,11 @@
     "170066938005b133ef",
     "main",
     "51a86ac9-d721-48d9-9da9-d69acf140136",
+    "3e0ffde5-3f43-45a1-9535-cd79f7ea9e34",
     "385a335e-b6df-4fc4-a557-1e66c9db995a",
     "section_image_with_text_aKFnfk",
     "adc77034-1924-463a-89b8-f0bbbb85a6dc",
     "7faa200f-72b5-4fc4-9226-c406fac67896",
-    "3e0ffde5-3f43-45a1-9535-cd79f7ea9e34",
     "e8c19ee4-aafe-42ce-a89b-d47772a7fd74",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "16897793391d441ce2",
