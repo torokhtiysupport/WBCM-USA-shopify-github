@@ -179,6 +179,29 @@
         "cta_style": "link"
       }
     },
+    "section_video_QaNeFn": {
+      "type": "section-video",
+      "blocks": {
+        "video_emQYgp": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://youtu.be/PL4CljNGEUY",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_emQYgp"
+      ],
+      "name": "Video",
+      "settings": {
+        "title": "",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 50
+      }
+    },
     "3e499de0-72f4-43fc-a17f-bab246eab652": {
       "type": "section-image-with-text",
       "blocks": {
@@ -441,6 +464,7 @@
     "1700669643c4bd16fe",
     "main",
     "e9bbc801-9c26-4b47-933b-13ba7df1cf79",
+    "section_video_QaNeFn",
     "3e499de0-72f4-43fc-a17f-bab246eab652",
     "42f88667-a0c3-4042-96ca-5304ce4d9e0e",
     "eec5d8cd-5402-4236-ab9c-650e091330dd",
