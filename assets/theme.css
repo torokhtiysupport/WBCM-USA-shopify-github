@@ -9762,8 +9762,8 @@ section.description .container--tiny {
 .ambasador-tiers {
   align-items: flex-start;
 }
-.ambasador-tiers .multi-column__item:first-of-type ul li:nth-child(n + 6),
-.ambasador-tiers .multi-column__item:first-of-type ul li:nth-child(n + 6) a, .ambasador-tiers > div:nth-of-type(2) ul li:nth-child(n + 13),
+.ambasador-tiers .multi-column__item:first-of-type ul li:nth-child(n + 5),
+.ambasador-tiers .multi-column__item:first-of-type ul li:nth-child(n + 5) a, .ambasador-tiers > div:nth-of-type(2) ul li:nth-child(n + 13),
 .ambasador-tiers > div:nth-of-type(2) ul li:nth-child(n + 13) a {
   color: #c4c4c4;
 }
@@ -9771,7 +9771,7 @@ section.description .container--tiny {
   position: relative;
   padding-left: 24px;
 }
-.ambasador-tiers .multi-column__item:first-of-type ul li:nth-child(-n + 5)::before, .ambasador-tiers > div:nth-of-type(2) ul li:nth-child(-n + 12)::before, .ambasador-tiers > div:nth-of-type(3) ul li::before {
+.ambasador-tiers .multi-column__item:first-of-type ul li:nth-child(-n + 4)::before, .ambasador-tiers > div:nth-of-type(2) ul li:nth-child(-n + 12)::before, .ambasador-tiers > div:nth-of-type(3) ul li::before {
   content: "";
   position: absolute;
   left: 0;
@@ -9780,7 +9780,7 @@ section.description .container--tiny {
   height: 14px;
   background: url("https://cdn.shopify.com/s/files/1/0061/2142/2937/files/icon-checked.png?v=1770115796") center/contain no-repeat;
 }
-.ambasador-tiers .multi-column__item:first-of-type ul li:nth-child(n + 6)::before, .ambasador-tiers > div:nth-of-type(2) ul li:nth-child(n + 13)::before {
+.ambasador-tiers .multi-column__item:first-of-type ul li:nth-child(n + 5)::before, .ambasador-tiers > div:nth-of-type(2) ul li:nth-child(n + 13)::before {
   content: "";
   position: absolute;
   left: 0;
