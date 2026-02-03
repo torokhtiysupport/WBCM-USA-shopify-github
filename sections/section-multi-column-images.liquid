@@ -103,7 +103,7 @@
                         }
                     </style>
 
-                    <div class="grid-layout grid-layout--{{ section.settings.grid }} grid-layout--mob-{{ section.settings.grid_mobile }} grid-layout--align-center grid-spacing--{{ spacing_px }}">
+                    <div class="grid-layout {% if section.settings.custom_class %}{{ section.settings.custom_class }}{% endif %} grid-layout--{{ section.settings.grid }} grid-layout--mob-{{ section.settings.grid_mobile }} grid-layout--align-center grid-spacing--{{ spacing_px }}">
 
                         {% for block in section.blocks %}
 
@@ -225,6 +225,11 @@
             "id": "title",
             "label": "Heading",
             "default": "Multicolumn with images"
+        },
+        {
+            "type": "text",
+            "id": "custom_class",
+            "label": "Custom class",
         },
         {
             "type": "select",
