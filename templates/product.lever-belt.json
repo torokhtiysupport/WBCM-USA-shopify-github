@@ -384,7 +384,7 @@
         "template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bammer-4-1464px_x_600px.png",
+            "image": "shopify://shop_images/Lever_Belt_Size_Chart.jpg",
             "link": ""
           }
         }
@@ -392,9 +392,8 @@
       "block_order": [
         "template--17877575270664__6600bffc-d9d5-47d6-8a66-a98b240b5557-1688997134042401de-0"
       ],
-      "disabled": true,
       "custom_css": [
-        ".container {max-width: 1400px;}"
+        ".container {max-width: 1000px;}"
       ],
       "settings": {
         "autoplay": false,
