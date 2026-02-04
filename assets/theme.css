@@ -9790,3 +9790,13 @@ section.description .container--tiny {
   background: url("https://cdn.shopify.com/s/files/1/0061/2142/2937/files/icon-delete.png?v=1770115861") center/contain no-repeat;
   filter: invert(78%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(92%) contrast(90%);
 }
+
+.ambasador-tiers .multi-column__text {
+  margin: 0 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .ambasador-tiers .multi-column__text {
+    margin: 0 10px;
+  }
+}
