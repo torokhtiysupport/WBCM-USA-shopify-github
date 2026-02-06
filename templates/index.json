@@ -24,8 +24,8 @@
         "image_e6e8mf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BUY-2-GET-1-Banner-collection.jpg",
-            "image_mobile": "shopify://shop_images/BUY-2-GET-1-Banner-mobile.jpg",
+            "image": "shopify://shop_images/St._Valentines_Sale_2000_x_610.jpg",
+            "image_mobile": "shopify://shop_images/St._Valentines_Sale_Mob.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
@@ -491,6 +491,7 @@
       ],
       "settings": {
         "title": "BLOG",
+        "custom_class": "",
         "container": "large",
         "link_title": "View all",
         "link": "https://blog.warmbody-coldmind.com/",
