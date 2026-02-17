@@ -221,6 +221,7 @@
       "block_order": [
         "template--17877542043912__86592148-55c3-4390-bbdd-857621e04955-image-1"
       ],
+      "disabled": true,
       "settings": {
         "autoplay": true,
         "autoplay_speed": 8,
@@ -237,6 +238,36 @@
         "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Block_chalk_Gallery_5.jpg",
+            "title": "BEST gym chalk blocks FOR:",
+            "desc": "<ul><li><strong>Built by a Champion</strong> – Developed by world-class athlete Oleksiy Torokhtiy for athletes who refuse average.</li><li><strong>Unbreakable Grip Power</strong> – Crush PRs without worrying about slip. Maximum friction. Maximum control.</li><li><strong>Kills Sweat Instantly</strong> – Dry hands. Locked grip. Total confidence under the bar.</li><li><strong>Pure Magnesium Carbonate</strong> – No fillers. No compromises. Just performance.</li><li><strong>Dominate Any Discipline</strong> – Weightlifting, powerlifting, functional training, gymnastics, and more.</li></ul>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "image_zkL9Fy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Block_chalk_Gallery_4.jpg",
+            "title": "How to Use Block Chalk?",
+            "desc": "<ol><li><strong>Break or rub the block</strong> in your hands to create a light layer of chalk.</li><li><strong>Spread evenly</strong> across palms and fingers, focusing on high-contact areas.</li><li><strong>Remove excess dust</strong> by lightly clapping hands.</li><li><strong>Reapply as needed</strong> to maintain a dry, secure grip during training.</li></ol>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false
+          }
+        },
+        "image_JEwzzL": {
+          "type": "image",
+          "settings": {
             "image": "shopify://shop_images/photos.png",
             "title": "BEST gym chalk blocks FOR:",
             "desc": "<ul><li>WEIGHTLIFTING</li><li>POWERLIFTING</li><li>KETTLEBELL</li><li>BODYBUILDING</li><li>DUMBBELL</li><li>FUNCTIONAL TRAINING</li><li>BOULDERING</li><li>GYMNASTICS</li></ul>",
@@ -251,14 +282,16 @@
         }
       },
       "block_order": [
-        "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1"
+        "template--17877542043912__d2d4f5b9-644a-4fe1-b9c4-4fe2459463bd-16887259068edd12c0-1",
+        "image_zkL9Fy",
+        "image_JEwzzL"
       ],
       "settings": {
         "container": "large",
         "block_spacing": 2,
         "section-bottom-margin": false,
         "image_ratio": "1:1",
-        "block_layout": "2/3",
+        "block_layout": "1/2",
         "block_align": "right",
         "vertical_align": "middle",
         "heading_size": 2,
@@ -332,6 +365,7 @@
       ],
       "settings": {
         "title": "Magnesium carbonate chalk block Advantages",
+        "custom_class": "",
         "container": "large",
         "link_title": "Learn more",
         "link": "",
