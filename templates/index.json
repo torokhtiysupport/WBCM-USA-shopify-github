@@ -21,11 +21,11 @@
     "section-slideshow": {
       "type": "section-slideshow",
       "blocks": {
-        "image_e6e8mf": {
+        "image_dQUQwB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/St._Valentines_Sale_2000_x_610.jpg",
-            "image_mobile": "shopify://shop_images/St._Valentines_Sale_Mob.jpg",
+            "image": "shopify://shop_images/Women_s_day_banner_desktop.jpg",
+            "image_mobile": "shopify://shop_images/Women_s_day_banner_mob.jpg",
             "alignment": "bottom-center",
             "title": "",
             "text": "",
@@ -37,7 +37,7 @@
             "link_2": "shopify://collections/accessories"
           }
         },
-        "image_dQUQwB": {
+        "image_7CPUWz": {
           "type": "image",
           "disabled": true,
           "settings": {
@@ -88,8 +88,8 @@
         }
       },
       "block_order": [
-        "image_e6e8mf",
         "image_dQUQwB",
+        "image_7CPUWz",
         "9bf15e77-545b-4d61-8855-5dfad503a3f3",
         "section-slideshow-0"
       ],
