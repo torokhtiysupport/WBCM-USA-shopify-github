@@ -118,7 +118,7 @@
             "align": "left",
             "popup_heading": "label",
             "popup_content": "",
-            "image": "shopify://shop_images/MENS-STRONG-OVERSIZE-T-SHIRT-SIZEGUIDE.jpg",
+            "image": "shopify://shop_images/oversized-t-shirt-strong-women_1.jpg",
             "text": "",
             "icon": "icon-clothes-design-tape-measure",
             "icon_size": 1,
@@ -160,47 +160,13 @@
         "section-bottom-margin": false
       }
     },
-    "83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Oversize-Unisex-Cotton-black-T-Shirt-Lift-Off-front-view-A-content.jpg",
-            "title": "",
-            "desc": "<ul><li><strong>Athletic design with attitude</strong> – Inspired by weightlifting culture.</li><li><strong>Premium 100% cotton </strong>– Retains warmth while staying soft and durable.</li><li><strong>Oversized fit</strong> – Maximum comfort and freedom of movement.</li><li><strong>Versatile for training or casual wear</strong> – Whether in the gym or on the streets.</li></ul>",
-            "horizontal_align": "left",
-            "link_title": "",
-            "link": "",
-            "bg_color_block": "rgba(0,0,0,0)",
-            "bg_color_content": "#ffffff",
-            "color_text": "#212121",
-            "text_heading_color": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0"
-      ],
-      "settings": {
-        "container": "large",
-        "block_spacing": 2,
-        "section-bottom-margin": false,
-        "image_ratio": "natural",
-        "block_layout": "1/2",
-        "block_align": "right",
-        "vertical_align": "middle",
-        "heading_size": 3,
-        "link_style": "hollow"
-      }
-    },
     "section_image_with_text_D9adVM": {
       "type": "section-image-with-text",
       "blocks": {
         "image_4hHjCK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/MENS-STRONG-OVERSIZE-T-SHIRT-SIZEGUIDE.jpg",
+            "image": "shopify://shop_images/oversized-t-shirt-strong-women_1.jpg",
             "title": "Product Information:",
             "desc": "<ul><li>100% Premium Cotton</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
@@ -303,7 +269,6 @@
     "170066927677089239",
     "main",
     "203d1340-3a17-4e4f-bb2a-d09fc99c356b",
-    "83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6",
     "section_image_with_text_D9adVM",
     "2d5bd59f-a78a-4717-af1f-2177417b93ca",
     "1690977685ca3c1a41",
