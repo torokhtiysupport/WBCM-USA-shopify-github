@@ -166,9 +166,9 @@
         "template--18060617351432__83f5df5f-68c3-4b48-b6c0-8a1cd71d34d6-1689337163d69eea8b-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/t-shirt-strong-triblend-a-content.jpg",
+            "image": "shopify://shop_images/Mens-Soft-Stretch-Cotton-T-Shirt-Main-Photo-Warm-Body-Cold-Mind.png",
             "title": "",
-            "desc": "<ul><li>Perfect for your everyday training</li><li>Light and breathable material</li><li>Great for hot weather and intense training sessions</li><li>Modern design to drive more attention to your great form</li></ul>",
+            "desc": "<ul><li>Perfect for your everyday training</li><li>Premium underwear-level comfort</li><li>Gently contours the body</li><li>Lightweight, breathable, and elastic</li><li>Not rough cotton, but a soft stretch material</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -202,7 +202,7 @@
           "settings": {
             "image": "shopify://shop_images/t-shirt-strong-triblend-sizes.jpg",
             "title": "Product Information:",
-            "desc": "<ul><li>Polyester - 50%</li><li>Cotton - 25%</li><li>Rayon - 25%</li><li>Do not bleach or tumble dry</li><li>Wash inside out with similar colors</li><li>Made in Ukraine</li></ul>",
+            "desc": "<ul><li>Cotton - 95%</li><li>Elastane - 5%</li><li>Soft and silky to the touch</li><li>Stretch cotton knit fabric</li><li>Wash inside out with similar colors</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
@@ -217,7 +217,7 @@
         "image_XDYrmC"
       ],
       "custom_css": [
-        ".image-with-text__media-img {animation: none!important; -webkit-animation: none!important;}"
+        ".image-with-text__media-img {animation: none !important; -webkit-animation: none !important;}"
       ],
       "settings": {
         "container": "large",
@@ -275,7 +275,12 @@
       "blocks": {
         "0d186a7d-03b8-45f1-8bb8-0daa802a0750": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
