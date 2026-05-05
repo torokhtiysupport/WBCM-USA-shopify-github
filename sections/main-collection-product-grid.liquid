@@ -261,7 +261,14 @@
 
                                                                     <details-content class="collection-sidebar__filter__accordion">
                                                                         <ul class="collection-sidebar__items o-list-bare">
-                                                                            {%- for filter_value in filter.values -%}
+                                                                            {%- assign hidden_filter_tags = 'rocket-hide' | split: ',' -%}
+                                                                                {%- for filter_value in filter.values -%}
+                                                                                {%- assign filter_value_label = filter_value.label | strip | downcase -%}
+
+                                                                                {%- if hidden_filter_tags contains filter_value_label -%}
+                                                                                    {%- continue -%}
+                                                                                {%- endif -%}
+
                                                                                 <li class="collection-sidebar__item{% if filter_value.count == 0 and filter_value.active == false %} collection-sidebar__item--disabled{% endif %}">
 
                                                                                     {%- liquid
