@@ -1,1 +1,92 @@
-{"sections":{"main":{"type":"main-list-collections","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "blocks": {
+        "collection_e3Eh3D": {
+          "type": "collection",
+          "settings": {
+            "collection": "wrist-wraps"
+          }
+        },
+        "collection_h8Jt3n": {
+          "type": "collection",
+          "settings": {
+            "collection": "barbell-collars-clamps"
+          }
+        },
+        "collection_mGCpc8": {
+          "type": "collection",
+          "settings": {
+            "collection": "lifting-grips"
+          }
+        },
+        "collection_i9Cr8E": {
+          "type": "collection",
+          "settings": {
+            "collection": "knee-sleeves"
+          }
+        },
+        "collection_mAptLG": {
+          "type": "collection",
+          "settings": {
+            "collection": "lifting-straps"
+          }
+        },
+        "collection_qFhMjx": {
+          "type": "collection",
+          "settings": {
+            "collection": "weightlifting-singlets"
+          }
+        },
+        "collection_hVbUiw": {
+          "type": "collection",
+          "settings": {
+            "collection": "lifting-belts"
+          }
+        },
+        "collection_jkN43C": {
+          "type": "collection",
+          "settings": {
+            "collection": "gym-chalk"
+          }
+        },
+        "collection_CRw3DB": {
+          "type": "collection",
+          "settings": {
+            "collection": "weightlifting-socks"
+          }
+        }
+      },
+      "block_order": [
+        "collection_e3Eh3D",
+        "collection_h8Jt3n",
+        "collection_mGCpc8",
+        "collection_i9Cr8E",
+        "collection_mAptLG",
+        "collection_qFhMjx",
+        "collection_hVbUiw",
+        "collection_jkN43C",
+        "collection_CRw3DB"
+      ],
+      "settings": {
+        "display_type": "selected",
+        "sort": "alphabetical",
+        "grid": 2,
+        "overlay_strength": 30
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
