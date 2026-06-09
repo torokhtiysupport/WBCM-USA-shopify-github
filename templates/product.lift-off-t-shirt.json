@@ -202,7 +202,7 @@
           "settings": {
             "image": "shopify://shop_images/MENS-STRONG-OVERSIZE-T-SHIRT-SIZEGUIDE.jpg",
             "title": "Product Information:",
-            "desc": "<ul><li>100% Premium Cotton</li><li>Wash inside out with similar colors</li><li>Do not beach or tumble dry</li><li>Made in Ukraine</li></ul>",
+            "desc": "<ul><li>100% Premium Cotton</li><li>Wash inside out with similar colors</li><li>Do not bleach or tumble dry</li><li>Made in Ukraine</li></ul>",
             "horizontal_align": "left",
             "link_title": "",
             "link": "",
