@@ -127,9 +127,9 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "BUY 2 = GET 1 FREE",
+          "message_text": "AMAZON PRIME DAY SALE",
           "message_link": "shopify://collections/accessories",
-          "message_color_bg": "#FFE500",
+          "message_color_bg": "#ffe500",
           "message_color_text": "#000000",
           "enable_timer": false,
           "end_datetime": "2026-01-02 23:59:59"
